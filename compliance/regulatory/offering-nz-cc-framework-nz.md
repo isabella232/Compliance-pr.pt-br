@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d573e78ddf0f6f4b9845635a37f8dc8f82350066
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: db1168d494fd5a8d0a31176ccccdff72dd096f1d
+ms.sourcegitcommit: c697549cdc5785e163bd6147cf0d95ba61b078fe
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505789"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528887"
 ---
 # <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>Considerações de segurança e privacidade da computação em nuvem governamental Nova Zelândia
 
@@ -66,7 +66,6 @@ Se sua agência for necessária para realizar a certificação e a capacitação
 - [Requisitos governamentais de NZ para a computação em nuvem](https://aka.ms/NZ-Cloud-Requirements)
 - [Computação em nuvem: considerações sobre segurança e privacidade de informações (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
 - [Termos de Serviços Online da Microsoft](https://aka.ms/Online-Services-Terms)
-- [Office 365: arquitetura de referência e integração do SEEMail](https://download.microsoft.com/download/8/5/9/859CDCEE-D293-47D8-9B6A-670B108B48E1/Microsoft_Office_365_white_paper_EN_US.pdf) (diretrizes adicionais do NZ da Microsoft sobre a adoção do serviço de nuvem)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Respostas da Microsoft para ' Cloud Computing IPSC '
