@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0e04239b8dcbe50d054ec02f2164a301c775aaac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4766d0152e2ee5b372157dd56f28690161f04045
+ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506109"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49559847"
 ---
 # <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>O Health Insurance Portability and Accountability (HIPAA) & funciona
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>Visão geral da HIPAA e do Decreto de alta tecnologia
 
-O Health Insurance Portability and Accountability Act (HIPAA) é uma legislação de assistência médica que estabelece requisitos para o uso, divulgação e proteção de informações de integridade identificáveis individualmente. Aplica-se a entidades cobertas — escritórios, hospitais, seguradoras de saúde e outras empresas de assistência médica, com acesso a informações de saúde protegidas dos pacientes (PHI), bem como a parceiros comerciais, como serviço de nuvem e provedores de ti, que processam PHI em nome deles. (A maioria das entidades abordadas não executam funções como declarações ou processamento de dados por conta própria; elas dependem do Business Associates para fazer isso.)
+O Health Insurance Portability and Accountability Act (HIPAA) é uma legislação de assistência médica que estabelece requisitos para o uso, divulgação e proteção de informações de integridade identificáveis individualmente. Aplica-se a entidades cobertas, escritórios, hospitais, seguradoras de saúde e outras empresas de assistência médica, com acesso a informações de saúde protegidas dos pacientes (PHI), bem como a parceiros comerciais, como serviço de nuvem e provedores de ti, que processam PHI em nome deles. (A maioria das entidades abordadas não executam funções como declarações ou processamento de dados por conta própria; elas dependem do Business Associates para fazer isso.)
 
 A legislação regula o uso e a disseminação de PHI em quatro áreas gerais:
 
@@ -45,7 +45,7 @@ A regra de notificação de brechas de alta segurança, que requer um aviso para
 
 ## <a name="microsoft-and-hipaa-and-the-hitech-act"></a>A Microsoft e a HIPAA e a lei de alta tecnologia
 
-As leis da HIPAA exigem que as entidades abordadas e seus parceiros comerciais, nesse caso, a Microsoft quando ele fornece serviços, incluindo serviços de nuvem, para entidades cobertas — entram em contratos para garantir que essas empresas Associates protegerão adequadamente o PHI. Esses contratos, ou BAAs, esclarecem e limitam como a associação de negócios pode lidar com o PHI e definir a adesão de cada parte às disposições de segurança e privacidade definidas na HIPAA e no ato de alta tecnologia. Depois que um acordo estiver em vigor, os clientes da Microsoft, entidades cobertas, poderão usar seus serviços para processar e armazenar PHI.
+As leis da HIPAA exigem que as entidades cobertas e seus parceiros comerciais, nesse caso, a Microsoft quando ele fornece serviços, incluindo serviços de nuvem, para entidades cobertas, entram em contratos para garantir que essas empresas de negócios protejam adequadamente o PHI. Esses contratos, ou BAAs, esclarecem e limitam como a associação de negócios pode lidar com o PHI e definir a adesão de cada parte às disposições de segurança e privacidade definidas na HIPAA e no ato de alta tecnologia. Quando um acordo está em vigor, os clientes da Microsoft (entidades cobertas) podem usar seus serviços para processar e armazenar PHI.
 
 No momento, não há certificação oficial para conformidade com HIPAA ou de alta tecnologia. No entanto, esses serviços da Microsoft cobertos pelo acordo têm auditorias realizadas por auditores independentes incapacitados para a certificação Microsoft ISO/IEC 27001.
 
@@ -53,12 +53,13 @@ Os serviços de nuvem corporativa da Microsoft também são cobertos por avalia�
 
 Para saber como a nuvem da Microsoft ajuda os clientes a oferecer suporte à HIPAA e aos requisitos de alta tecnologia, visite as [histórias de clientes da Microsoft](https://customers.microsoft.com).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
 
 - [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
 - Segurança no aplicativo na nuvem da Microsoft
-- [Nuvem da Microsoft para Serviços de Saúde](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- [Microsoft Cloud para assistência médica](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Serviço Microsoft Healthcare bot
+- Área de Trabalho Gerenciada da Microsoft
 - Microsoft Stream
 - Serviços Profissionais da Microsoft: Premier e no Local para Azure, Dynamics 365, Intune e para clientes de médias empresas e corporativos do Microsoft 365 para empresas.
 - [Dynamics 365 e Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -71,9 +72,7 @@ Para saber como a nuvem da Microsoft ajuda os clientes a oferecer suporte à HIP
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Acelere a implantação das soluções HIPAA/HITRUST no Azure
 
-Comece a aproveitar as vantagens dos benefícios da nuvem para as soluções de dados de integridade com o esquema de conformidade e segurança do Azure, os dados de saúde da HIPAA/HITRUST e o AI. Este Blueprint fornece ferramentas e orientações para começar a criar soluções do HIPAA/HITRUST hoje.
-
-[Começar a usar o plano gráfico da HIPAA/HITRUST do Azure](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+Comece a aproveitar as vantagens da nuvem para soluções de dados de integridade com o [esquema de conformidade e segurança do Azure: dados de saúde do HIPAA/HITRUST e ai](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2). Este Blueprint fornece ferramentas e orientações para começar a criar soluções do HIPAA/HITRUST hoje.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -95,7 +94,7 @@ A Microsoft não pode modificar o acordo HIPAA, pois os serviços da Microsoft s
 
 **Como posso obter cópias dos relatórios do auditor?**
 
-O [Portal de Confiança do Serviço](https://www.microsoft.com/trustcenter/STP/default.aspx) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados dos serviços de nuvem da Microsoft com seus próprios requisitos legais e normativos.
+O [Portal de Confiança de Serviços](https://www.microsoft.com/trustcenter/STP/default.aspx) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados dos serviços de nuvem da Microsoft com seus próprios requisitos legais e normativos.
 
 **Como posso saber mais sobre como obedecer à HIPAA e ao ato de alta tecnologia?**
 
@@ -107,13 +106,13 @@ Para ajudar os clientes nessa tarefa, a Microsoft publicou estes guias:
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso do [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e tomar medidas para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para a construção de uma avaliação desse regulamento. Encontre o modelo na página de **modelos de avaliação** no Gerenciador de Conformidade. Aprenda a criar avaliações no [Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
 - [Regra HIPAA Omnibus](https://aka.ms/HIPAA-omnibus) (as regulamentações finais – modificando regras do HIPAA)
-- [Estrutura de Conformidade do Hub de Controles Comuns da Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Termos de Serviços Online da Microsoft](https://aka.ms/Online-Services-Terms)
+- [Estrutura de Conformidade do Microsoft Common Controls Hub](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Termos do Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Noções básicas sobre a conformidade HIPAA com o Azure](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0)(19 de maio de 2016)
 - [Exemplo de Blueprint do HITRUST do Azure HIPAA](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/)
