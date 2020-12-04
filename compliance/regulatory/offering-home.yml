@@ -3,7 +3,7 @@ title: Ofertas de conformidade da Microsoft
 summary: Saiba como os produtos e serviços da Microsoft ajudam sua organização a atender aos padrões de conformidade normativa.
 brand: m365
 metadata:
-  title: Ofertas de conformidade para o Microsoft 365, Azure Cloud Services e outros serviços da Microsoft.
+  title: Ofertas de conformidade para o Microsoft 365, o Azure e outros serviços da Microsoft.
   description: Saiba como os produtos e serviços da Microsoft ajudam sua organização a atender aos padrões de conformidade normativa.
   services: service
   ms.service: O365-seccomp
@@ -16,14 +16,14 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 95c5b020d516d5fc7ccce6978c6f4cf0ad590b5f
-  ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
+  ms.openlocfilehash: 46592794abb76821595c95cea2d66cd529d727c5
+  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 12/01/2020
-  ms.locfileid: "49527118"
+  ms.lasthandoff: 12/03/2020
+  ms.locfileid: "49568647"
 conceptualContent:
-  title: Ofertas de conformidade para o Microsoft 365, serviços de nuvem do Azure e outros serviços da Microsoft
+  title: Ofertas de conformidade para o Microsoft 365, Azure e outros serviços da Microsoft
   summary: A Microsoft fornece ofertas de conformidade para ajudar sua organização a cumprir os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
   items:
   - title: Global
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (China)
 additionalContent:
   sections:
-  - title: Ofertas de conformidade especificamente para os serviços de nuvem do Azure
-    summary: Ofertas de conformidade especificamente para os serviços de nuvem do Azure para ajudar sua organização a cumprir os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
+  - title: Ofertas de conformidade especificamente para o Azure
+    summary: Ofertas de conformidade especificamente para o Azure para ajudar sua organização a cumprir os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
     items:
     - title: Global
       links:
