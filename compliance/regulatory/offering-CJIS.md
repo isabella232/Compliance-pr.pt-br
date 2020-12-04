@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 46de9832d4ba155e0e500462b7c82fad16a3bda2
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 05458ef4c0ef85a00939f53698639ef1be9174ff
+ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505981"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49568657"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Política de segurança de serviços de informações de justiça criminal (CJIS)
 
@@ -31,7 +31,7 @@ A divisão do CJIS (serviços de informação de Justiça) do Departamento Feder
 
 A política de segurança do CJIS integra as diretivas presidencial e FBI, as leis federais e as decisões da Diretoria de consultoria da comunidade de Justiça criminais, juntamente com a orientação do Instituto Nacional de normas e tecnologia (NIST). A política é atualizada periodicamente para refletir os requisitos de segurança em evolução.
 
-A política de segurança do CJIS define 13 áreas que os prestadores de serviço, como provedores de serviços de nuvem, devem ser avaliados para determinar se o uso dos serviços de nuvem pode ser consistente com os requisitos do CJIS. Essas áreas correspondem estritamente ao NIST 800-53, que também é a base para o programa de gerenciamento de riscos e autorização federal ([FedRAMP (Office 365)](offering-FedRAMP.md)), um programa em que a Microsoft foi certificado para suas ofertas de nuvem governamental.
+A política de segurança do CJIS define 13 áreas que os prestadores de serviço, como provedores de serviços de nuvem, devem ser avaliados para determinar se o uso dos serviços de nuvem pode ser consistente com os requisitos do CJIS. Essas áreas correspondem estritamente ao NIST 800-53, que também é a base para o [programa de gerenciamento de riscos e autorização (FedRAMP)](offering-FedRAMP.md), um programa em que a Microsoft foi certificado para suas ofertas de nuvem governamental.
 
 Além disso, todos os contratadores privados que processam o CJI devem assinar o adendo de segurança do CJIS, um contrato uniforme aprovado pelo advogado geral dos EUA, que ajuda a garantir a segurança e a confidencialidade do CJI exigidos pela política de segurança. Ela também compromete o empreiteiro a manter um programa de segurança consistente com leis, regulamentos e padrões federais e estaduais e limita o uso de CJI para os fins para os quais uma agência governamental a forneceu.
 
@@ -47,9 +47,9 @@ Saiba como acelerar sua política de segurança do CJIS com o plano de conformid
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
-- [Governo do Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365 governo dos EUA](https://aka.ms/d365-compliance-list)
-- [Office 365 governo dos EUA](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- [Governo do Azure](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)
+- [Dynamics 365 governo dos EUA](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
+- [Office 365 governo dos EUA](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
 - Serviço em nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
@@ -82,13 +82,13 @@ A Microsoft assina um contrato de informação com um CSA (CJIS Systems Agency) 
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso do [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e tomar medidas para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para a construção de uma avaliação desse regulamento. Encontre o modelo na página de **modelos de avaliação** no Gerenciador de Conformidade. Aprenda a criar avaliações no [Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
 - [Serviços de informações de justiça criminal](https://aka.ms/cjis)
 - [Política de segurança do CJIS](https://aka.ms/cjis-security-policy)
 - [Diretrizes de implementação do CJIS para o governo do Azure](https://aka.ms/cjisimplementationguidelines)
-- [Estrutura de Conformidade do Hub de Controles Comuns da Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Estrutura de Conformidade do Microsoft Common Controls Hub](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
