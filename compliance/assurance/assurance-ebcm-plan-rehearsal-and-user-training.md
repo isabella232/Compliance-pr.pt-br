@@ -1,13 +1,12 @@
 ---
 title: Teste do plano de gerenciamento de continuidade de negócios empresariais e treinamento de usuário
 description: compreender as vantagens da prática e treinamento regular do seu plano de continuidade de negócios.
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d981655420390209e4977e05ed25b516a34855d9
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7eb4be06eef8ded455f906b7b9757365bfe03010
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505747"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574812"
 ---
 # <a name="train-for-business-continuity-in-your-organization"></a>Treinar a continuidade de negócios em sua organização
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f1eba5677869e337764b4b0864fac27222d4d77
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b2b7374eff6bcce8f0c36f6bc40709123041a2a7
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506144"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574873"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Consultor programa de segurança de informações governamentais da Austrália (IRAP)
 
@@ -68,6 +68,7 @@ A avaliação do IRAP dos serviços da Microsoft ajuda a garantir que os cliente
 ## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
 - [Azure e Dynamics](https://aka.ms/AzureCompliance)
+- Área de Trabalho Gerenciada da Microsoft
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
@@ -90,7 +91,7 @@ Comece com o [que é IRAP?](https://www.cyber.gov.au/irap/what-irap) e siga-o co
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso do [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e tomar medidas para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para a construção de uma avaliação desse regulamento. Encontre o modelo na página de **modelos de avaliação** no Gerenciador de Conformidade. Aprenda a criar avaliações no [Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

@@ -1,13 +1,12 @@
 ---
 title: Resiliência de serviço interna no Microsoft 365
 description: Descrição da resiliência de serviço do Microsoft 365
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 3ef398ef41516d6598bdec9b6e537b37577ef864
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: ee9c7d898af13b9a1db95913a98be09eea8cd27f
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505665"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574753"
 ---
 # <a name="built-in-service-resiliency-in-microsoft-365"></a>Resiliência de serviço interna no Microsoft 365
 
@@ -36,17 +35,17 @@ Para minimizar o tempo de inatividade, seja planejado ou inesperado, os serviço
 
 ## <a name="activeactive-design"></a>Design ativo/ativo
 
-No Microsoft 365, nos empenhamos para que todos os serviços sejam arquitetados e operados em um design ativo/ativo, o que aumenta a resiliência. Ou seja, sempre há várias instâncias de um serviço em execução que podem responder às solicitações do usuário e que estão hospedadas em datacenters geograficamente dispersos. Todo o tráfego de usuário é fornecido pelo serviço de Porta Frontal da Microsoft e é roteado automaticamente para a instância com localização ideal para o serviço e para se desviar de qualquer falha de serviço a fim de evitar ou reduzir o impacto em nossos clientes.
+No Microsoft 365, estamos direcionando até que todos os serviços sejam arquitetados e operados em um design ativo/ativo que aumenta a resiliência. Ou seja, sempre há várias instâncias de um serviço em execução que podem responder às solicitações do usuário e que estão hospedadas em datacenters geograficamente dispersos. Todo o tráfego de usuário é fornecido pelo serviço de Porta Frontal da Microsoft e é roteado automaticamente para a instância com localização ideal para o serviço e para se desviar de qualquer falha de serviço a fim de evitar ou reduzir o impacto em nossos clientes.
 
 ## <a name="reduce-incident-scope"></a>Redução do escopo do incidente
 
 O escopo de um incidente de serviço é medido de acordo com a gravidade, duração e número de clientes afetados. Gostaríamos de limitar o escopo de todos os incidentes ao:
 
 - ter várias instâncias de cada serviço particionadas umas das outras
-- implantar atualizações de forma controlada e graduada usando anéis de validação, para que seja possível detectar e atenuar todos os problemas que possam surgir com a atualização logo no início do processo de implantação. Isso permite a regressão da atualização, se necessário e ocorre primeiro em um grupo pequeno dentro da Microsoft (anel interno) antes de ser implantado em grupos maiores, como odos os 140 mil funcionários da Microsoft (anel 2), depois nos anéis pioneiros (anel 3) e por fim para todos os clientes de forma global (anel 4).
-- gerando melhorias no monitoramento por meio da automação. O Microsoft 365 é muito grande e o tempo de atividade de destino do SLA é alto. No início de um incidente de serviço, se houvesse a necessidade de intervenção humana na detecção e resposta, não conseguiríamos responder de forma rápida o suficiente para atender aos SLAs. A automação é a chave para a detecção e resposta rápidas e eficazes de incidentes de serviço. Quanto mais cedo soubermos de algo, mais rápido poderemos corrigir o problema.
+- implantar atualizações de forma controlada e graduada usando anéis de validação, para que seja possível detectar e atenuar todos os problemas que possam surgir com a atualização logo no início do processo de implantação. Isso permite a regressão da atualização, se necessário, e primeiro ocorre em um pequeno grupo dentro da Microsoft (anel interno) antes de ser implantado para grupos maiores, como todos os 140.000 funcionários da Microsoft (anel 2), e, em seguida, para os toques pioneiros (Ring 3) e, por fim, para todos os clientes globalmente (Ring 4).
+- gerando melhorias no monitoramento por meio da automação. O Microsoft 365 é um serviço de grande porte, e o tempo de atividade de destino do SLA é alto. No início de um incidente de serviço, se houvesse a necessidade de intervenção humana na detecção e resposta, não conseguiríamos responder de forma rápida o suficiente para atender aos SLAs. A automação é a chave para a detecção e resposta rápidas e eficazes de incidentes de serviço. Quanto mais cedo soubermos de algo, mais rápido poderemos corrigir o problema.
 
-Juntamente com os recursos ativos/ativos integrados na arquitetura de serviço do Microsoft 365, esses esforços atenuam a gravidade, a duração e o número de clientes afetados durante um incidente de serviço.  
+Juntamente com os recursos ativos/ativos incorporados à arquitetura de serviços do Microsoft 365, esses esforços reduzem a gravidade, a duração e o número de clientes afetados durante um incidente de serviço.  
 
 ## <a name="fault-isolation"></a>Isolamento de falhas
 
