@@ -16,12 +16,12 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: c2b86ee57029c300a6179861b9aace64e3cf491f
-  ms.sourcegitcommit: ebf63302d9ffa6a93255c88f660ef27b0bc696d6
+  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
+  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 12/05/2020
-  ms.locfileid: "49581166"
+  ms.lasthandoff: 12/08/2020
+  ms.locfileid: "49588695"
 conceptualContent:
   title: Ofertas de conformidade para o Microsoft 365, Azure e outros serviços da Microsoft
   summary: A Microsoft fornece ofertas de conformidade para ajudar sua organização a cumprir os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
@@ -37,11 +37,14 @@ conceptualContent:
     - url: offering-ISO-22301.md
       itemType: reference
       text: ISO 22301
+    - url: offering-ISO-27001.md
+      itemType: reference
+      text: ISO 27001
+  - title: Global
+    links:
     - url: offering-ISO-27017.md
       itemType: reference
       text: ISO 27017
-  - title: Global
-    links:
     - url: offering-ISO-27018.md
       itemType: reference
       text: ISO 27018
