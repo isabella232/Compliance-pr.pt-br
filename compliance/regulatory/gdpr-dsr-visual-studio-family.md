@@ -6,7 +6,6 @@ localization_priority: Priority
 audience: itpro
 ms.prod: visual-studio-family
 ms.topic: article
-ms.date: 05/24/2018
 author: robmazz
 f1.keywords:
 - NOCSH
@@ -20,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: c47f26487605628f8dc96f1fca204eedae595d04
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 1b5df025c8c55790181e1f737388b1c15f475d72
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506018"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574783"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de Titulares de Dados da Família do Visual Studio para o GDPR e CCPA
 
