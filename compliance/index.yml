@@ -15,18 +15,18 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: 12de0e81e8a9d1ee908207dc4e3d2dc50a797f7e
-  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
+  ms.openlocfilehash: b2ef6d975ee41def8b410a47afe824851c151e14
+  ms.sourcegitcommit: 1e6157933cd9aea32c36e0c796ee55a861da16c8
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 12/03/2020
-  ms.locfileid: "49568637"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "49612807"
 highlightedContent:
   items:
   - title: Tarefas rápidas de introdução ao Centro de conformidade do Microsoft 365.
     itemType: get-started
     url: https://docs.microsoft.com/microsoft-365/compliance/compliance-quick-tasks
-  - title: Implantar a proteção de informações para os normas de privacidade de dados
+  - title: Implantar a proteção de informações para os regulamentos de privacidade de dados
     itemType: get-started
     url: https://docs.microsoft.com/microsoft-365/solutions/information-protection-deploy
   - title: Saiba mais sobre responsabilidade compartilhada na nuvem
@@ -202,7 +202,7 @@ additionalContent:
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-manager
     - title: Gerenciar riscos internos
       summary: Minimize riscos internos, detectando, investigando e agindo em atividades mal-intencionadas e inadvertidas em sua organização.
-      url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management
+      url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-solution-overview
     - title: Gerenciar a proteção de informações
       summary: Use a proteção de informações da Microsoft (MIP) para ajudá-lo a descobrir, classificar e proteger informações confidenciais onde elas residem ou viajam.
       url: https://docs.microsoft.com/microsoft-365/compliance/protect-information
@@ -212,6 +212,6 @@ additionalContent:
     - title: Gerenciar a Descoberta Eletrônica
       summary: Use a descoberta eletrônica para identificar e analisar o conteúdo como prova nos casos jurídicos.
       url: https://docs.microsoft.com/microsoft-365/compliance/ediscovery
-    - title: Implantar a proteção de informações para os normas de privacidade de dados
+    - title: Implantar a proteção de informações para os regulamentos de privacidade de dados
       summary: Identificar, localizar, proteger, controlar e responder a incidentes de privacidade de dados para dados pessoais armazenados nos serviços do Microsoft 365 que estão sujeitos às regulamentações de privacidade de dados.
       url: https://docs.microsoft.com/microsoft-365/solutions/information-protection-deploy
