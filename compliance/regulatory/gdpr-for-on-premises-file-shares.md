@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
-ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
+ms.openlocfilehash: b750fcc6bceec12a13b909e65dc6283b8938c6da
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49620756"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669722"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>RGPD para compartilhamentos de arquivos no Windows Server local
 
@@ -56,6 +56,6 @@ A abordagem recomendada para compartilhamentos de arquivos inclui estas etapas:
 
     -   Para localizar dados pessoais para solicitações de titulares de dados, use o verificador da Proteção de Informações do Azure. Você também pode configurar a pesquisa do SharePoint Server para rastrear compartilhamentos de arquivos.
 
-Para mais informações sobre o uso do verificador de Proteção de Informações do Azure para encontrar e rotular dados pessoais, consulte [Implantar a AIP de Verificação](<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
+Para mais informações sobre o uso do verificador de Proteção de Informações do Azure para encontrar e rotular dados pessoais, confira [Implantar a AIP de Verificação](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner).
 
 Confira informações sobre como configurar o verificador para utilizar condições e os tipos de informações confidenciais para prevenção contra perda de dados (DLP) do Office 365 em [Como configurar as condições de classificação automática e recomendada para a Proteção de Informações do Azure](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification). Observe que os novos tipos de informações confidenciais do Office 365 não estarão disponíveis imediatamente para uso com o verificador e que tipos de informações confidenciais personalizadas não podem ser usadas com o verificador.
