@@ -19,14 +19,19 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 801bac11d7f9ee377aaa4082bdab8dde533ce177
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f2e55701f5825a5edb42e69d23f0ce7553f7ba17
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505677"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669732"
 ---
 # <a name="exchange-online-data-resiliency-in-microsoft-365"></a>Resiliência de dados do Exchange Online no Microsoft 365
+
+> [!IMPORTANT]
+>  Como continuamos a investir em diferentes maneiras de preservar o conteúdo da caixa de correio, anunciamos a aposentadoria de In-Place bloqueios no centro de administração do Exchange (Eat) no Exchange Online. A partir de 1º de julho de 2020, você não poderá criar novas isenções de In-Place. Mas você ainda poderá gerenciar In-Place isenções no Eat ou usando o cmdlet **Set-MailboxSearch** no PowerShell do Exchange Online. No entanto, a partir de 1º de outubro de 2020, você não conseguirá gerenciar bloqueios de In-Place. Você só poderá removê-los no Eat ou usando o cmdlet **Remove-MailboxSearch** . O uso de In-Place isenções no Exchange Server e em implantações híbridas do Exchange ainda terão suporte. Para obter mais informações sobre a aposentadoria de In-Place suspensões no Exchange Online, consulte [aposentadoria of Legacy eDiscovery Tools](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement).
+
+Um In-Place retém o conteúdo de caixa de correio, incluindo itens excluídos e versões originais de itens modificados. Todos os itens da caixa de correio são retornados em uma pesquisa de [Descoberta eletrônica In-loco](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery). Quando você coloca um In-Place suspender a caixa de correio de um usuário, o conteúdo da caixa de correio de arquivo morto correspondente (se estiver habilitado) também é colocado em espera e retornado em uma pesquisa de descoberta eletrônica.
 
 Há dois tipos de danos que podem afetar um banco de dados do Exchange: corrupção física, que normalmente é causado por problemas de hardware (em particular, hardware de armazenamento) e danos lógicos, que ocorre devido a outros fatores. Geralmente, há dois tipos de corrupção lógica que podem ocorrer em um banco de dados do Exchange:
 

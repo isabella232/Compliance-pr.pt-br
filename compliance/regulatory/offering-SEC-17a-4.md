@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7f91fc3fdc60cf12680e48c924223d8b5213af60
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 8f47359d23aa9399f36053e1ea6b1df91e181d59
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506081"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669762"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Valores de Securities e Exchange Commission (seg) 17a-4 (f) Estados Unidos
 
@@ -44,7 +44,7 @@ Para avaliar o Azure e o Office 365 conformidade com a norma SEC 17a-4 (f), a Mi
 - **Azure**: [avaliação de conformidade da SEC 17a-4 (f): armazenamento do Microsoft Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports), Cohasset validado que o [armazenamento de blob imutável do Azure](https://docs.microsoft.com/azure/storage/blobs/storage-blob-immutable-storage) com a opção de bloqueio de política, quando usado para manter BLOBs baseados em tempo em um formato não apagável e não-regravável (Worm), atende aos requisitos de armazenamento imutáveis da regra SEC. Cada blob (registro) é protegido contra modificação, substituição ou exclusão até que o período de retenção necessário tenha expirado e todas as isenções legais associadas tenham sido liberadas. Fornecedores de software e parceiros com cargas de trabalho confidenciais agora podem confiar no armazenamento de BLOBs imutáveis do Azure como uma solução de nuvem do Onestop para retenção de registros e armazenamento imutável. As instituições financeiras agora podem criar seus próprios aplicativos aproveitando esses recursos, enquanto permanecem em conformidade.
 - **Microsoft 365**: para requisitos da [SEC 17a-4 (f)](https://docs.microsoft.com/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) , Cohasset validado que a Microsoft 365 inclui recursos de arquivamento que permitem aos clientes regulamentados, incluindo os revendedores, armazenar dados de uma maneira que os ajuda a cumprir com os requisitos da SEC para retenção de registros. Os recursos de retenção no Microsoft 365 ajudam a preservar uma ampla variedade de dados, incluindo emails, caixa postal, documentos compartilhados, mensagens instantâneas e dados de terceiros. Em particular, o arquivamento no Microsoft 365 permite que os clientes definam políticas globais ou granulares de retenção de mensagens para armazenar dados por um período definido e além de um formato não-regravável e não apagável.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
@@ -57,7 +57,7 @@ Para avaliar o Azure e o Office 365 conformidade com a norma SEC 17a-4 (f), a Mi
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & a regra 17
 
-[Avaliação de conformidade da SEC 17a-4 (f): centro de conformidade & segurança da Microsoft com o Exchange Online](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+[Avaliação de conformidade da SEC 17a-4 (f): centro de conformidade do & de segurança da Microsoft com o SharePoint, OneDrive, Teams, Exchange e Skype for Business](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
 ## <a name="how-to-implement"></a>Como implementar
 
@@ -75,7 +75,7 @@ Visões gerais, tutoriais e outros recursos de uso para criar soluções do Azur
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso do [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e tomar medidas para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para a construção de uma avaliação desse regulamento. Encontre o modelo na página de **modelos de avaliação** no Gerenciador de Conformidade. Aprenda a criar avaliações no [Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

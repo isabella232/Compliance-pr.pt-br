@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 17c43992f813ba8f0b5b3e9400fadb29eb4174d5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fe7572c8b9f5d8d73d09e57c873a092a97c3226c
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505699"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669752"
 ---
 # <a name="united-kingdom-financial-conduct-authority-fca"></a>Autoridade de condução financeira do Reino Unido (FCA)
 
@@ -45,7 +45,7 @@ Saiba como o Azure está permitindo a conformidade do FCA em bancos do Reino Uni
 
 [Baixar a abordagem da Microsoft para a guia de nuvem finalizada do FCA](https://go.microsoft.com/fwlink/p/?linkid=2101561)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
@@ -54,8 +54,6 @@ Saiba como o Azure está permitindo a conformidade do FCA em bancos do Reino Uni
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Posso usar as respostas da Microsoft para esta estrutura no processo de conformidade da minha organização?**
-
-Sim. No entanto, embora as respostas da Microsoft para esta estrutura sejam confirmadas por terceiros, os clientes são responsáveis por validar a conformidade das soluções implementadas no Azure ou no Power BI.
 
 Sim. No entanto, embora as respostas da Microsoft para esta estrutura sejam confirmadas por terceiros, os clientes são responsáveis por validar a conformidade das soluções implementadas no Azure ou no Power BI.
 
