@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 071bbbb24110b9d74aa75580d9a23628041455a6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
+ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505790"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49712079"
 ---
 # <a name="nist-sp-800-171"></a>SP DO NIST 800-171
 
@@ -44,9 +44,10 @@ Os requisitos do NIST SP 800-171 são um subconjunto do NIST SP 800-53, o padrã
 
 Qualquer entidade que processa ou armazena CUI do governo dos EUA — instituições de pesquisa, empresas de consultoria, prestadores de serviços de produção devem estar em conformidade com os requisitos estritos do NIST SP 800-171. Este atestado significa que os serviços de nuvem em escopo da Microsoft podem acomodar clientes que procuram implantar cargas de trabalho da CUI com a garantia de que a Microsoft está em conformidade total. Por exemplo, todos os prestadores de serviço do DoD que processam, armazenam ou transmitem "informações sobre defesa abordadas" usando os serviços de nuvem da Microsoft em seus sistemas de informações atendem às cláusulas do departamento de defesa dos EUA que exigem conformidade com os requisitos de segurança do NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
 
 - [Governo do Azure](https://aka.ms/AzureCompliance)
+- [Azure comercial](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
 - [Dynamics 365 governo dos EUA](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365 U.S. Community Cloud (GCC), Office 365 GCC High e DoD](https://aka.ms/o365-compliance-framework)
@@ -67,7 +68,7 @@ Sim. Os clientes da Microsoft podem usar os controles auditados descritos nos re
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso do [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e tomar medidas para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para a construção de uma avaliação desse regulamento. Encontre o modelo na página de **modelos de avaliação** no Gerenciador de Conformidade. Aprenda a criar avaliações no [Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
