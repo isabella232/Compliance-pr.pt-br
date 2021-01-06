@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 33ce1796ffa8fbf2e77dee49f682fb68c90b8111
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3bd95648e9ae36f5ccaab25bd504524e7d1e4afa
+ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506129"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49757816"
 ---
 # <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>Autorização do departamento de defesa dos EUA (DoD) provisionar no impacto dos níveis 2, 4 e 5
 
@@ -59,7 +59,7 @@ Com base em autorizações do FedRAMP, o suporte ao serviço de nuvem do DISA re
 
 O nível 2 de impacto cobre informações não controladas, dados que são autorizados para lançamento público. Ele também aborda outras informações não classificadas que, embora não sejam consideradas ' missão crítica ', ainda exigem um nível mínimo de controle de acesso. Essa autorização permite que os clientes do governo norte-americano da empresa implantem informações não confidenciais e aplicativos básicos de defesa e sites em serviços de nuvem da Microsoft em escopo.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
 
 ### <a name="covered-services-for-dod-impact-level-5"></a>Serviços cobertos para o nível de impacto de DoD 5
 
@@ -69,6 +69,7 @@ O nível 2 de impacto cobre informações não controladas, dados que são autor
 ### <a name="covered-services-for-dod-impact-level-4"></a>Serviços cobertos para o nível 4 de impacto do DoD
 
 - [Governo do Azure](https://aka.ms/AzureCompliance)
+- [Dynamics 365 governo dos EUA](https://aka.ms/d365-compliance-list)
 - [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ### <a name="covered-services-for-dod-impact-level-2"></a>Serviços cobertos para o nível 2 de impacto do DoD
@@ -106,6 +107,6 @@ Além disso, as ofertas da Microsoft fora do limite certificado por FedRAMP que 
 - [Suporte ao serviço de nuvem do DISA](https://storefront.disa.mil/kinetic/disa/service-catalog#/forms/cloud-service-support)
 - [Proteção de informações não classificadas controladas em sistemas de informações não federais e organizações](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)
 - [Estrutura NIST cybersecurity](https://www.nist.gov/cyberframework)
-- [Estrutura de Conformidade do Hub de Controles Comuns da Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Estrutura de Conformidade do Microsoft Common Controls Hub](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
