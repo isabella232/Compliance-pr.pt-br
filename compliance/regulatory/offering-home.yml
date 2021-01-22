@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Ofertas de conformidade da Microsoft
-summary: Saiba como os produtos e serviços da Microsoft ajudam sua organização a atender aos padrões de conformidade normativa.
+summary: Saiba como os produtos e serviços da Microsoft ajudam sua organização a atender aos padrões de conformidade regulamentar.
 brand: m365
 metadata:
-  title: Ofertas de conformidade para o Microsoft 365, o Azure e outros serviços da Microsoft.
-  description: Saiba como os produtos e serviços da Microsoft ajudam sua organização a atender aos padrões de conformidade normativa.
+  title: Ofertas de conformidade para o Microsoft 365, Ozure e outros serviços Microsoft.
+  description: Saiba como os produtos e serviços da Microsoft ajudam sua organização a atender aos padrões de conformidade regulamentar.
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
-  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
+  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
+  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "49588695"
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "49924844"
 conceptualContent:
-  title: Ofertas de conformidade para o Microsoft 365, Azure e outros serviços da Microsoft
-  summary: A Microsoft fornece ofertas de conformidade para ajudar sua organização a cumprir os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
+  title: Ofertas de conformidade para o Microsoft 365, Ozure e outros serviços Microsoft
+  summary: A Microsoft fornece ofertas de conformidade para ajudar sua organização a atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
   items:
   - title: Global
     links:
@@ -64,13 +64,13 @@ conceptualContent:
       text: DFARS
     - url: offering-dod-disa-l2-l4-l5.md
       itemType: reference
-      text: DISA (L2) de DoD, L4, L5
+      text: DoD DISA L2, L4, L5
     - url: offering-doe-10-cfr-part-810.md
       itemType: reference
       text: DoE 10 CFR Parte 810
     - url: offering-ear.md
       itemType: reference
-      text: EAR (exportação dos EUA-ADM. Reg.)
+      text: EAR (Adm de exportação dos EUA. Reg.)
     - url: offering-fedramp.md
       itemType: reference
       text: FedRAMP
@@ -110,7 +110,7 @@ conceptualContent:
       text: AMF e ACPR (França)
     - url: offering-cftc-1-31-us.md
       itemType: reference
-      text: CFTC 1,31 (EUA)
+      text: CFTC 1.31 (EUA)
     - url: offering-eba-eu.md
       itemType: reference
       text: EBA (UE)
@@ -150,7 +150,7 @@ conceptualContent:
       text: HDS (França)
     - url: offering-hipaa-hitech.md
       itemType: reference
-      text: HIPAA/ALTA TECNOLOGIA
+      text: HIPAA / HITECH
     - url: offering-hitrust.md
       itemType: reference
       text: HITRUST
@@ -194,12 +194,12 @@ conceptualContent:
     - url: offering-ccpa.md
       itemType: reference
       text: CCPA (EUA-Califórnia)
-    - url: offering-ccsl-irap-australia.md
+    - url: offering-irap-australia.md
       itemType: reference
-      text: IRAP/CCSL (Austrália)
+      text: IRAP (Austrália)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
-      text: Marca de CS ouro (Japão)
+      text: CS Mark Gold (Japão)
     - url: https://www.trustcenter.cn/compliance/default.html#DJCP
       itemType: reference
       text: DJCP (China)
@@ -216,7 +216,7 @@ conceptualContent:
       text: Cláusulas do Modelo da UE
     - url: offering-eu-us-privacy-shield.md
       itemType: reference
-      text: União Européia-US Privacy Shield
+      text: Escudo de Privacidade UE-EUA
     - url: https://www.trustcenter.cn/compliance/default.html#GB18030
       itemType: reference
       text: GB 18030 (China)
@@ -261,7 +261,7 @@ conceptualContent:
 additionalContent:
   sections:
   - title: Ofertas de conformidade especificamente para o Azure
-    summary: Ofertas de conformidade especificamente para o Azure para ajudar sua organização a cumprir os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
+    summary: Ofertas de conformidade especificamente para o Azure ajudar sua organização a cumprir requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
     items:
     - title: Global
       links:
@@ -297,7 +297,7 @@ additionalContent:
         url: offering-nerc-cip.md
       - text: PCI DSS
         url: offering-pci-dss.md
-      - text: Normas da SEC SCI
+      - text: NORMAS DA SEC SCI
         url: offering-sec-reg-sci.md
       - text: Avaliações Compartilhadas
         url: offering-shared-assessments.md
