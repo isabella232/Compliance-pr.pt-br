@@ -1,6 +1,6 @@
 ---
-title: Conselho Federal de análise de instituições financeiras (FFIEC)
-description: A Microsoft ajuda os clientes de serviços financeiros a cumprir os requisitos de auditoria do FFIEC (Conselho de análise de instituições financeiras federais).
+title: Conselho Federal de Exame de Instituições Financeiras (FFIEC)
+description: A Microsoft ajuda os clientes de serviços financeiros a atender aos requisitos de auditoria do Conselho Federal de Exame de Instituições Financeiras (FFIEC).
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,35 +16,30 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 536377c718b2957e71efc268885d248addd69bed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2425d81ae5f539e1942203abc3afcd58319fb1dd
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506123"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49936936"
 ---
-# <a name="federal-financial-institutions-examination-council-ffiec"></a>Conselho Federal de análise de instituições financeiras (FFIEC)
+# <a name="federal-financial-institutions-examination-council-ffiec"></a>Conselho Federal de Exame de Instituições Financeiras (FFIEC)
 
 ## <a name="ffiec-overview"></a>Visão geral do FFIEC
 
-O FFIEC (Conselho Fiscal Federal de análise de instituições financeiras) é um corpo de interagênciar formal composto por cinco reguladores de bancos responsáveis pelos exames governamentais do governo norte-americano de instituições financeiras nos Estados Unidos. O Office do FFIEC Examiner Education publica os manuais de análise de ti destinados a exames de campo das agências de membros da FFIEC.
+O Conselho Federal de Exame de Instituições Financeiras (FFIEC) é uma entidade formal de interageção que compreende cinco reguladores bancários responsáveis pelos exames do governo federal dos EUA de instituições financeiras nos Estados Unidos. O Office FFIEC Education education publica os handbooks de exame de IT destinados a campos de agências de membros FFIEC.
 
-O [manual de análise de ti de auditoria do FFIEC](https://ithandbook.ffiec.gov/it-booklets/audit.aspx) contém orientações para que esses examinadores avaliem a qualidade e a eficácia dos programas de auditoria de ti das instituições financeiras e do tsps. Especificamente, ele inclui menção dos relatórios de atestado de SOC 1, SOC 2 e SOC 3 do American Institute of Certified publicity (AICPA) como exemplos de relatórios de auditoria independentes. No entanto, o FFIEC recomenda que as instituições financeiras não dependam apenas das informações contidas nesses relatórios, mas também usem procedimentos de verificação e monitoramento discutidos em detalhes no [FFIEC de terceirização de ti de análise manual de ti](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx).
+O Manual de Exame de IT de Auditoria [FFIEC](https://ithandbook.ffiec.gov/it-booklets/audit.aspx) contém orientações para esses participantes avaliarem a qualidade e a eficácia dos programas de auditoria de IT de instituições financeiras e TSPs. Especificamente, ele inclui os relatórios de atestado SOC 1, SOC 2 e SOC 3 do American Institute of Certified Public Accountants (AICPA) como exemplos de relatórios de auditoria independentes. No entanto, o FFIEC recomenda que as instituições financeiras não confiem apenas nas informações contidas nesses relatórios, mas também usem procedimentos de verificação e monitoramento discutidos em detalhes no manual exame de IT dos Serviços de Tecnologia de Terceirização [FFIEC.](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
 
 ## <a name="microsoft-and-ffiec"></a>Microsoft e FFIEC
 
-O Microsoft Azure, o Microsoft Power BI e o Microsoft Office 365 são criados para atender aos requisitos estritos de fornecimento de serviços de nuvem para instituições de serviços financeiros. Como parte do nosso suporte, oferecemos orientação para ajudá-lo a cumprir os requisitos de auditoria da FFIEC para a tecnologia de informações e a capacidade de usar os atestado do Microsoft Azure SOC ao obter as obrigações de conformidade do FFIEC.
+O Microsoft Azure, o Microsoft Power BI e o Microsoft Office 365 foram feitos para atender aos requisitos rigorosos do Fornecimento de serviços de nuvem para instituições de serviços financeiros. Como parte de nosso suporte, oferecemos orientações para ajudá-lo a cumprir os requisitos de auditoria FFIEC para tecnologia da informação e a capacidade de usar atestados soC do Azure ao seguir suas obrigações de conformidade FFIEC.
 
-Acelere sua implantação de serviços financeiros: [Baixe o plano de segurança e conformidade do Microsoft Azure esquema de serviços financeiros do FFIEC](https://servicetrust.officeppe.com/ViewPage/FFIECBlueprint)
+Para ajudar os clientes da instituição financeira a atender aos requisitos de conformidade do FFIEC com o Azure, a Microsoft desenvolveu o Blueprint de Segurança e Conformidade do Azure para cargas de trabalho de serviços regulamentados [FFIEC.](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint) Ele oferece orientações sobre o uso de serviços de nuvem do Azure e considerações para a conformidade do cliente com os requisitos FFIEC e diretrizes de avaliação de risco.
 
-Para ajudar os clientes da instituição financeira a atender aos requisitos de conformidade do FFIEC com o Azure, a Microsoft desenvolveu o:
+Para ajudá-lo a cumprir os requisitos FFIEC, os serviços de nuvem da Microsoft fornecem relatórios de atestado [SOC](offering-SOC.md) produzidos por uma empresa CPA independente. Por exemplo, o atestado SOC 1 Type 2 é baseado no padrão AICPA SSAE 18 (consulte AT-C Section 105) que substituiu o SAS 70 e é apropriado para relatórios sobre determinados controles para relatórios financeiros. Os relatórios do SOC incluem a opinião do auditor sobre a eficácia dos controles da Microsoft ao atingir os objetivos de controle relacionados durante o período de monitoramento especificado. As instituições financeiras podem usar essa auditoria formal ao buscar obrigações de conformidade específicas do FFIEC para ativos implantados no Azure, Power BI e Office 365.
 
-- [Ferramenta de diagnóstico de segurança na nuvem * *](https://aka.ms/FFIEC-CSDT) para ajudá-lo a conduzir uma avaliação de risco dos serviços do Azure com mais eficiência. A ferramenta (uma planilha do Excel) apresenta 19 domínios de segurança de informações (como segurança de rede e de sistema e gerenciamento de informações e riscos) que acompanham os requisitos de regulamentações de serviços financeiros e outros padrões relevantes, bem como os manuais de análise de ti do FFIEC. A ferramenta explica como o Azure atende a cada requisito aplicável aos provedores de serviços de tecnologia (TSPs).
-- [Plano gráfico de segurança e conformidade do Microsoft Azure para os cargas de trabalho de serviços regulamentados](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint), um complemento à ferramenta de diagnóstico. Ele oferece orientação sobre o uso dos serviços de nuvem do Azure e considerações para conformidade do cliente com os requisitos da FFIEC e diretrizes de avaliação de risco.
-
-Para ajudá-lo a atender aos requisitos do FFIEC, os serviços de nuvem da Microsoft fornecem [relatórios de atestado de SOC](offering-SOC.md) produzidos por uma firma CPA independente. Por exemplo, o atestamento do tipo 2 do SOC 1 é baseado no AICPA SSAE 18 Standard (consulte AT-C seção 105) que substituiu a SAS 70 e é apropriado para relatar certos controles para relatórios financeiros. Os relatórios do SOC incluem a opinião do auditor sobre a eficácia dos controles da Microsoft em atingir os objetivos de controle relacionados durante o período de monitoramento especificado. As instituições financeiras podem usar essa auditoria formal ao obter obrigações de conformidade específicas de FFIEC para ativos implantados no Azure, no Power BI e no Office 365.
-
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
@@ -53,26 +48,25 @@ Para ajudá-lo a atender aos requisitos do FFIEC, os serviços de nuvem da Micro
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-Relatórios de atestado do Microsoft Azure e Office 365 SOC.
+Relatórios de atestado de SOC do Azure e do Office 365.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
-**Posso usar a conformidade da Microsoft com os padrões do SOC para atender às obrigações de conformidade do FFIEC sobre minha instituição?**
+**Posso usar a conformidade da Microsoft com os padrões SOC para atender às obrigações de conformidade FFIEC para minha instituição?**
 
-Para ajudá-lo a atender a essas obrigações, a Microsoft fornece as especificações sobre nossa conformidade com os padrões do SOC, conforme descrito acima. No entanto, em última análise, você pode determinar se nossos serviços estão em conformidade com as leis e regulamentos específicos aplicáveis à sua instituição. O FFIEC também aconselha que os ' usuários de relatórios de auditoria ou revisões não devem depender exclusivamente das informações contidas no relatório para verificar o ambiente de controle interno do TSP. Eles devem usar procedimentos adicionais de verificação e monitoramento, conforme discutido mais completamente no [livreto tecnologia de terceirização](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) do manual de exames de ti da FFIEC.
+Para ajudá-lo a cumprir essas obrigações, a Microsoft fornece informações específicas sobre nossa conformidade com os padrões SOC conforme descrito acima. No entanto, em última análise, você decide se nossos serviços estão em conformidade com as leis e regulamentos específicos aplicáveis à sua instituição. O FFIEC também aconselha que "os usuários de relatórios ou revisões de auditoria não devem depender exclusivamente das informações contidas no relatório para verificar o ambiente de controle interno do TSP. Eles devem usar outros procedimentos de verificação e [](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) monitoramento, conforme discutido com mais detalhes no Manual de Tecnologia de Terceirização do Manual de Exame de IT FFIEC.'
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso do [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e tomar medidas para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para a construção de uma avaliação desse regulamento. Encontre o modelo na página de **modelos de avaliação** no Gerenciador de Conformidade. Aprenda a criar avaliações no [Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
-- [Conselho Federal de análise de instituições financeiras (FFIEC)](https://www.ffiec.gov/)
-- [Mapa de conformidade da computação em nuvem e dos princípios normativos nos EUA](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- [Manual de análise de ti da FFIEC Audit](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
-- [Análise de ti de serviços de tecnologia de terceirização da FFIEC](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
-- [Ferramenta de Avaliação de Risco na Nuvem de Serviços Financeiros do Azure](https://aka.ms/FFIEC-CSDT)
-- [Esquema de serviços financeiros do FFIEC de conformidade e segurança do Azure](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)
+- [Conselho Federal de Exame de Instituições Financeiras (FFIEC)](https://www.ffiec.gov/)
+- [Mapa de conformidade de computação em nuvem e princípios regulatórios nos EUA](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Manual de exame de IT de auditoria FFIEC](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
+- [Manual exame de IT de serviços de tecnologia de terceirização FFIEC](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
+- [Blueprint de Serviços Financeiros FFIEC de Segurança e Conformidade do Azure](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)
 
 ## <a name="other-microsoft-resources-for-financial-services"></a>Outros recursos da Microsoft para serviços financeiros
 

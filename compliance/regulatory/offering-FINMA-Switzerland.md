@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 054d6a9f86e1d696472ee2091bc5b98c4312f5b5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3dfd4993428de2884c1d7ea4d149da28f833508d
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505697"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49936942"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Autoridade Supervisora do Mercado Financeiro (FINMA) da Suíça
 
@@ -35,7 +35,7 @@ A FINMA publicou a [Circular 2018/3 Terceirização - bancos e seguradores](http
 
 Para ajudar a orientar instituições financeiras na Suíça, considerando a terceirização de funções de negócios para a nuvem, a Microsoft publicou [Uma lista de verificação de conformidade para instituições financeiras na Suíça](https://aka.ms/FinServ-Guide-Switzerland). Ao revisar e concluir a lista de verificação, as organizações financeiras podem adotar os serviços de nuvem do Microsoft Business com a confiança de que estão cumprindo os requisitos regulatórios aplicáveis.
 
-Quando as instituições financeiras da Suíça terceirizam atividades de negócios, elas devem atender aos requisitos da Autoridade Supervisora do Mercado Financeiro da Suíça (FINMA) e estar ciente dos requisitos e diretrizes adicionais que incluem as Leis Bancárias da Suíça, a Regulamentação Bancária da Suíça e a ´Lei de Supervisão de Seguro da Suíça.
+Quando as instituições financeiras da Suíça terceirizam atividades de negócios, elas devem atender aos requisitos da Autoridade Supervisora do Mercado Financeiro da Suíça (FINMA) e estar ciente de outros requisitos e diretrizes que incluem as Leis Bancárias da Suíça, a Regulamentação Bancária da Suíça e a ´Lei de Supervisão de Seguro da Suíça.
 
 A lista de verificação da Microsoft ajuda as instituições financeiras da Suíça a realizar avaliações de auditoria detalhadas dos serviços de nuvem de negócios da Microsoft e inclui:
 
@@ -69,5 +69,4 @@ Sim. Na parte 2 da lista de verificação de conformidade, mapeamos estes termos
 - [Programa de Conformidade para Serviços Financeiros da Microsoft](https://aka.ms/FSCP-Print)
 - [ serviços corporativos de nuvem e serviços financeiros da Microsoft ](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [conformidade dos serviços financeiros no Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Ferramenta de Avaliação de Risco na Nuvem de Serviços Financeiros do Azure](https://aka.ms/FFIEC-CSDT)
-- [Conformidade no Centro de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
