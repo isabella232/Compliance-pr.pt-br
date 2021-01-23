@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8b6b9a44137f024b9d4af35b62458d3e90e6db4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505708"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937026"
 ---
 # <a name="european-banking-authority-eba"></a>Autoridade Bancária Europeia (EBA)
 
 ## <a name="about-the-eba"></a>Sobre a EBA
 
-O [European Banking Authority](https://eba.europa.eu/) (EBA) é “uma autoridade independente que trabalha para garantir uma regulação e supervisão prudente, eficaz e consistente em todo o setor bancário da UE ". Em dezembro de 2017, o EBA emitiu seu [Relatório Final: de Recomendações sobre a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362), que descreveu uma abordagem abrangente para a terceirização de computação em nuvem por instituições financeiras na UE. As recomendações esclarecem quando a terceirização da nuvem é permitida, aplicam uma abordagem baseada em princípios em relação à medição de riscos de uma perspectiva neutra em termos de tecnologia e buscam uma maior harmonização dentro da Europa e além.
+O [European Banking Authority](https://eba.europa.eu/) (EBA) é 'uma autoridade independente que trabalha para garantir uma regulação e supervisão prudente, eficaz e consistente em todo o setor bancário da UE'. Em dezembro de 2017, o EBA emitiu seu [Relatório Final: de Recomendações sobre a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362), que descreveu uma abordagem abrangente para a terceirização de computação em nuvem por instituições financeiras na UE. As recomendações esclarecem quando a terceirização da nuvem é permitida, aplicam uma abordagem baseada em princípios em relação à medição de riscos de uma perspectiva neutra em termos de tecnologia e buscam uma maior harmonização dentro da Europa e além.
 
 As recomendações da EBA entraram em vigor em julho de 2018, e desenvolvem e esclarecem as diretrizes gerais de terceirização publicadas em 2006 pelo Comitê de Supervisores de Bancos Europeus. Na verdade, a emissão dessas recomendações surge após um período de consulta durante o qual a Microsoft forneceu comentários substanciais. Muitas das recomendações finais consideram os comentários fornecidos pela Microsoft para o EBA.
 
@@ -55,7 +55,7 @@ Para instituições financeiras na UE, a Microsoft também publicou o [Guia de C
 
 - [Resposta às diretrizes da EBA ](https://aka.ms/FinServ-Guide-EuBankAuth): As diretrizes da Microsoft ajudam instituições financeiras na UE seguindo as recomendações da EBA para adoção da nuvem.
 - [Casos de uso financeiro](https://docs.microsoft.com/azure/industry/financial/): Visões gerais de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros.
-- [Programa de Conformidade Financeira](https://aka.ms/FSCP-Print): Instituições financeiras podem obter ajuda para avaliar os riscos de usar os serviços de nuvem da Microsoft.
+- [Programa de Conformidade Financeira](https://aka.ms/FSCP-Print): Instituições financeiras podem obter ajuda com a avaliação dos riscos ao usar os serviços de nuvem da Microsoft.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -66,9 +66,9 @@ A publicação da Microsoft, [Guia de Conformidade e Avaliação de risco e para
 ## <a name="resources"></a>Recursos
 
 - [Portal de Confiança do Serviço da Microsoft](https://aka.ms/STP)
+- [Lista de verificação do Microsoft Cloud para instituições financeiras na Europa](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IPF3)
 - [Programa de Conformidade para Serviços Financeiros da Microsoft](https://aka.ms/FSCP-Print)
 - [ serviços corporativos de nuvem e serviços financeiros da Microsoft ](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [conformidade dos serviços financeiros no Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Ferramenta de Avaliação de Risco na Nuvem de Serviços Financeiros do Azure](https://aka.ms/FFIEC-CSDT)
 - [Blog dos Serviços Financeiros da Microsoft](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
