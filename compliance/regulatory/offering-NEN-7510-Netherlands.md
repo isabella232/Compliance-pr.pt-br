@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 68d9a7a3906ae848dacc515a00464f15ca9d09fb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3688ffe46405e6c8eea8f6896a94d8470151bb4d
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506084"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012967"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -31,7 +31,7 @@ As organizações dos Países Baixos que processam informações de saúde de pa
 
 ## <a name="microsoft-and-nen-75102011"></a>Microsoft e NEN 7510:2011
 
-A Microsoft analisou nossas declarações de certificação e garantia atuais e criou um [relatório sobre a cobertura do NEN 7510](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=3285c45c-921c-49ad-b881-be43e0b70490&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides) (disponível na Service Trust Platform) que mapeia essas certificações e declarações de garantia em relação aos controles do NEN 7510 pelos quais a Microsoft é responsável enquanto provedor de serviços de nuvem. Este documento pode ajudar os clientes a determinar quais outros controles devem ser implementados para garantir que o uso dos serviços de nuvem da Microsoft para armazenamento ou processamento de informações de saúde do paciente esteja em conformidade com o NEN 7510.
+A Microsoft analisou nossas declarações de certificação e garantia atuais e criou um [relatório sobre a cobertura do NEN 7510](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=3285c45c-921c-49ad-b881-be43e0b70490&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides) (disponível na Service Trust Platform) que mapeia essas certificações e declarações de garantia em relação aos controles do NEN 7510 pelos quais a Microsoft é responsável enquanto provedor de serviços de nuvem. Este documento pode ajudar os clientes a determinar quais outros controles eles devem implementar para garantir que o uso dos serviços em nuvem da Microsoft para o armazenamento ou processamento de informações de saúde do paciente esteja em conformidade com a NEN 7510.
 
 Saiba como acelerar sua implantação do NEN 7510 com nossos Blueprints de Conformidade e Segurança do Azure: [Baixe o Microsoft Cloud: Guia do usuário da cobertura do padrão NEN7510-2011 do Azure e do Office 365](https://aka.ms/Azure-NEN7510-2011)
 
@@ -49,15 +49,15 @@ Saiba como acelerar sua implantação do NEN 7510 com nossos Blueprints de Confo
 
 **Um cliente que usa os serviços em nuvem da Microsoft está em conformidade com o NEN 7510?**
 
-A demonstração da conformidade com o NEN é uma responsabilidade da organização de saúde (o "cliente"). Ao usar um provedor de serviços de nuvem, os clientes geralmente exigem garantias do provedor e acrescentam sua própria tecnologia (adicional) e decisões, escolhas e processos organizacionais. Esse esforço resulta em uma avaliação geral do cliente quanto à sua conformidade com o NEN 7510, que pode ser submetida para revisão ou certificação a um auditor externo. O relatório de cobertura do NEN 7510 fornece informações sobre quais controles do NEN 7510 são cobertos pelos serviços em nuvem da Microsoft, mas, como tal, não abrange a conformidade de ponta a ponta.
+A demonstração da conformidade com o NEN é uma responsabilidade da organização de saúde (o "cliente"). Ao usar um fornecedor de serviços em nuvem, os clientes normalmente exigem garantias do fornecedor e adicionam sua própria (outra) tecnologia e decisões organizacionais, escolhas e processos. Esse esforço resulta em uma avaliação geral do cliente quanto à sua conformidade com o NEN 7510, que pode ser submetida para revisão ou certificação a um auditor externo. O relatório de cobertura do NEN 7510 fornece informações sobre quais controles do NEN 7510 são cobertos pelos serviços em nuvem da Microsoft, mas, como tal, não abrange a conformidade de ponta a ponta.
 
 **A Microsoft está em conformidade com o NEN 7510?**
 
-A responsabilidade pela conformidade com o NEN 7510 aplica-se a organizações de assistência médica holandesas. Ela exige que a organização implemente um sistema de gerenciamento de segurança das informações e trate do risco com medidas técnicas e organizacionais apropriadas. Para a Microsoft, no papel de provedor de serviços de nuvem, a conformidade com o NEN 7510 não é o objetivo nem é tecnicamente viável. Quando um cliente implementa ou utiliza os serviços em nuvem da Microsoft, esses serviços podem estar no escopo de uma avaliação do NEN 7510. No entanto, a organização deve acrescentar seus próprios controles, escolhas e processos (adicionais) que fazem parte da avaliação geral do NEN 7510. O objetivo do relatório é demonstrar que uma entidade de assistência médica pode adotar os serviços em nuvem da Microsoft em conformidade com o NEN 7510.
+A responsabilidade pela conformidade com o NEN 7510 aplica-se a organizações de assistência médica holandesas. Ela exige que a organização implemente um sistema de gerenciamento de segurança das informações e trate do risco com medidas técnicas e organizacionais apropriadas. Para a Microsoft, no papel de provedor de serviços de nuvem, a conformidade com o NEN 7510 não é o objetivo nem é tecnicamente viável. Quando um cliente implementa ou utiliza os serviços em nuvem da Microsoft, esses serviços podem estar no escopo de uma avaliação do NEN 7510. No entanto, a organização deve adicionar seus próprios (outros) controles, escolhas e processos que fazem parte da avaliação geral da NEN 7510. O objetivo do relatório é demonstrar que uma entidade de assistência médica pode adotar os serviços em nuvem da Microsoft em conformidade com o NEN 7510.
 
 **O relatório não mostra uma cobertura total. A conformidade com o NEN 7510 não é viável?**
 
-Os serviços em nuvem da Microsoft oferecem muitos controles que ajudam as organizações de assistência médica holandesas em suas necessidades de conformidade com o NEN 7510. No entanto, uma organização precisa complementar essas garantias do provedor com suas próprias opções de implementação, controles adicionais de tecnologia e processos administrativos. O relatório já mostra mais de 94% de cobertura direta da lista completa de controles aplicáveis. Para os demais controles, a Microsoft fornece orientações no relatório sobre como a conformidade com esses controles pode ser demonstrada.
+Os serviços em nuvem da Microsoft oferecem muitos controles que ajudam as organizações de assistência médica holandesas em suas necessidades de conformidade com o NEN 7510. No entanto, uma organização precisa complementar essas garantias do fornecedor com suas próprias opções de implementação, outros controles de tecnologia e processos administrativos. O relatório já mostra mais de 94% de cobertura direta da lista completa de controles aplicáveis. Para os demais controles, a Microsoft fornece orientações no relatório sobre como a conformidade com esses controles pode ser demonstrada.
 
 > [!NOTE]
 > A implementação da lista completa de controles não é o objetivo principal do NEN 7510 (embora a grande cobertura do Microsoft Online Services ajude). O NEN 7510 exige a implementação de um sistema de segurança das informações baseado em risco que possa ser usado por uma organização para determinar quais controles se aplicam a ela.

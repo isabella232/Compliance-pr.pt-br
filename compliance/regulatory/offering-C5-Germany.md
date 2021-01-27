@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5d73dfe71ea0872e02e516e0c952d017ded22150
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 172b031f4193a24a36126d3aabfadb02f3f20247
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505802"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012997"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>Catálogo de Controles de Conformidade de Computação em Nuvem (C5)
 
@@ -31,7 +31,7 @@ Em 2016, o Serviço Federal Alemão para a Segurança da Informação (Bundesamt
 
 O objetivo do catálogo de requisitos do C5 é fornecer uma estrutura de segurança consistente para a certificação de provedores de serviços de nuvem e garantir aos clientes que seus dados serão gerenciados com segurança.
 
-O C5 se baseia nas normas de segurança de TI reconhecidas internacionalmente como ISO/IEC 27001:2013, o Cloud Security Alliance Cloud Controls Matrix 3.0.1 e os Catálogos IT-Grundschutz do BSI. O catálogo consiste em 114 requisitos em 17 domínios — por exemplo, a organização de segurança da informação e segurança física — com requisitos básicos de segurança para todos os provedores de serviços de nuvem e requisitos adicionais para o processamento de dados altamente confidenciais e situações que exigem alta disponibilidade.
+O C5 se baseia nas normas de segurança de TI reconhecidas internacionalmente como ISO/IEC 27001:2013, o Cloud Security Alliance Cloud Controls Matrix 3.0.1 e os Catálogos IT-Grundschutz do BSI. O catálogo consiste em 114 requisitos em 17 domínios, por exemplo, a organização de segurança da informação e segurança física, com requisitos de segurança básicos para todos os provedores de serviços em nuvem e outros requisitos para processamento de dados altamente confidenciais e situações que exigem alta disponibilidade.
 
 O BSI também enfatiza a transparência. Como parte de uma auditoria, o provedor de nuvem deve incluir uma descrição detalhada do sistema e divulgar parâmetros ambientais como local de processamento de dados e jurisdição, provisão de serviços e outras certificações emitidas para os serviços de nuvem, além de informações sobre as obrigações de divulgação do provedor de nuvem para autoridades públicas. Isso ajuda os potenciais clientes de nuvem a decidir se os serviços de nuvem atendem aos requisitos essenciais, como conformidade com requisitos legais, proteção de dados, políticas da empresa ou capacidade de lidar com as ameaças de espionagem industrial.
 

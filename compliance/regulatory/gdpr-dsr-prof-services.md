@@ -17,20 +17,20 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 7be8b0dce164dc14ff70ca3bc91b805e84eb0363
-ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
+ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49669742"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012976"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de titulares dos dados ao suporte e aos Serviços profissionais da Microsoft sobre o RGPD e CCPA
 
 ## <a name="introduction-to-microsoft-professional-services"></a>Introdução aos serviços profissionais da Microsoft
 
-OS Serviços Profissionais incluem um grupo diversificado de arquitetos técnicos, engenheiros, consultores e profissionais de suporte dedicados a cumprir a missão da Microsoft de capacitar os clientes a fazer mais e obter mais. Nossa equipe de Serviços Profissionais inclui mais de 21.000 consultores, consultores digitais, suporte principal, engenheiros e profissionais de vendas que trabalham em 191 países, oferecendo suporte a 46 idiomas diferentes, gerenciando vários milhões de compromissos por mês e envolvendo-se em interações com clientes e parceiros por meio de instalações, telefone, web, comunidade e ferramentas automatizadas. A organização traz ampla experiência em todo o portfólio da Microsoft, aproveitando uma ampla rede de parceiros, comunidades técnicas, ferramentas, diagnósticos e canais que nos conectam com nossos clientes empresariais.
+Os Serviços Profissionais da Microsoft inclui um grupo diversificado de arquitetos técnicos, engenheiros, consultores e profissionais de suporte dedicados a cumprir a missão da Microsoft de permitir que os clientes façam mais e conquistem mais. Nossa equipe de serviços profissionais inclui mais de 21.000 consultores, assessores digitais, suporte de primeira linha, engenheiros e profissionais de vendas trabalhando em 191 países, oferecendo suporte a 46 idiomas diferentes, gerenciando vários milhões de compromissos por mês e participando de interações com clientes e parceiros por meio de instalações, telefone, web, comunidade e ferramentas automatizadas. A organização traz ampla experiência em todo o portfólio da Microsoft, usando uma extensa rede de parceiros, comunidades técnicas, ferramentas, diagnósticos e canais que nos conectam com nossos clientes empresariais.
 
-Para saber mais sobre os Serviços Profissionais da Microsoft, acesse a [webpage de Documentação de Segurança dos Serviços Profissionais da Microsoft](https://www.microsoft.com/pt-BR/professionalservices/overview). Os Serviços profissionais da Microsoft levam a sério as suas obrigações no Regulamento Geral sobre a Proteção de Dados (RGPD). As informações neste documento foram projetadas para responder a perguntas de clientes sobre como as ofertas de suporte e consultoria responderão e auxiliarão clientes a responder a obrigações da Solicitação de Entidades de Dados (DSR) no RGPD.
+Para saber mais sobre os Serviços Profissionais da Microsoft, acesse a [webpage de Documentação de Segurança dos Serviços Profissionais da Microsoft](https://www.microsoft.com/professionalservices/overview). Os Serviços profissionais da Microsoft levam a sério as suas obrigações no Regulamento Geral sobre a Proteção de Dados (RGPD). As informações neste documento foram projetadas para responder a perguntas de clientes sobre como as ofertas de suporte e consultoria responderão e auxiliarão clientes a responder a obrigações da Solicitação de Entidades de Dados (DSR) no RGPD.
 
 ### <a name="introduction-to-dsrs"></a>Introdução às DSRs 
 
@@ -96,25 +96,25 @@ Para garantir a continuidade de negócios do cliente, a Microsoft também não p
 
 Os clientes podem optar por fazer alterações em seus dados coletados durante as interações com os Serviços Profissionais pelo suporte normal ou por canais de consultoria, separado dessa DSR. Por exemplo, a Microsoft pode ajudá-lo a eliminar interações com o suporte, mediante solicitação (consulte na seção *Guia de DSR sobre os dados fornecidos pelo cliente*).
 
-***Exemplo apenas para fins ilustrativos** _
+*Exemplo apenas para fins ilustrativos*
 
 João é Gerente de Projetos de um cliente empresarial do O365, com um contrato aberto de consultoria e dois contratos fechados. Agora, João está saindo da empresa e deseja que seus dados sejam excluídos. João contata o Centro de Respostas de Privacidade, que o identifica como o Gerente de Projeto. John é informado de que seu nome não pode ser excluído dos trabalhos anteriores (fechados) ou de quaisquer dados dentro dos trabalhos abertos. No entanto, o Centro de Respostas de Privacidade substituirá João como o contato no contrato aberto atual se ele identificar um contato substituto. João avisa à Microsoft que Jane será seu contato substituto, e a Microsoft faz a mudança em todos os sistemas.
 
 ## <a name="dsr-for-an-end-user-engaging-microsoft"></a>DSR para um usuário final de envolvimento da Microsoft
 
-_Como a Microsoft responde às solicitações dos funcionários do cliente ou de outros titulares dos dados para exercer os direitos deles.*
+*Como a Microsoft responde às solicitações dos funcionários do cliente ou de outros titulares dos dados para exercer os direitos deles.*
 
 Se os funcionários do cliente ou outros titulares dos dados entrarem em contato com a Microsoft para fazerem solicitações sobre seus dados coletados pela Microsoft na qualidade de processador de dados, o titular dos dados será informado de que precisará contatar o cliente da Microsoft, como o controlador de dados, para exercer esses direitos. Isso é tudo o que a Microsoft fará.
 
 Se o titular dos dados também tiver contatado a Microsoft para exercer seus direitos sobre os dados que a Microsoft coletou em situações em que ela é a controladora de dados (por exemplo, suporte ao consumidor, contato do cliente comercial), a Microsoft responderá separadamente à solicitação de exercício de direito do titular dos dados do indivíduo relativa àqueles dados pessoais.
 
-***Exemplo apenas para fins ilustrativos** _
+*Exemplo apenas para fins ilustrativos*
 
 Jane é uma funcionária de um cliente corporativo, a Contoso, que forneceu a ela uma conta do Dynamics 365. Ela entra em contato com a Microsoft para excluir todos os dados e é encaminhada ao Privacy Response Center. Jane preenche o formulário de solicitação. O Privacy Response Center a identifica como um usuário final da empresa e permite que ela saiba que precisa solicitar a exclusão de seus dados corporativos à Contoso. Eles também a identificam como um usuário do Microsoft X-Box e excluem seus dados de sua conta de consumidor da Microsoft.
 
 ## <a name="dsr-for-customer-provided-data-commercial-support"></a>DSR para dados fornecidos pelo cliente: suporte comercial
 
-_Como obter assistência da Microsoft quando um cliente recebe uma solicitação de seus funcionários ou de outras entidades de dados pedindo o exercício de direitos, e esses dados pessoais do titular dos dados tenham sido coletados pelo Suporte da Microsoft durante a interação com o suporte.*
+*Como obter assistência da Microsoft quando um cliente recebe uma solicitação de seus funcionários ou de outras entidades de dados pedindo o exercício de direitos, e esses dados pessoais do titular dos dados tenham sido coletados pelo Suporte da Microsoft durante a interação com o suporte.*
 
 Quando um cliente se envolve com o Suporte da Microsoft, a Microsoft coleta Dados de Suporte do cliente para resolver quaisquer problemas que requeiram uma interação do suporte. Esses Dados de Suporte incluem a interação da Microsoft com o cliente (por exemplo, bate-papo, telefone, e-mail, envio pela web) e quaisquer arquivos de conteúdo que o cliente envie à Microsoft ou que a Microsoft tenha extraído, com permissão do cliente, do ambiente de TI do cliente ou locação de serviços online para resolver o problema de suporte. No caso do suporte Premier, isso também incluirá todos os dados que coletarmos de você para evitar problemas futuros de maneira proativa. No entanto, isso exclui outras informações do relacionamento comercial da Microsoft com o cliente (por exemplo, registros de cobrança).
 
@@ -130,11 +130,11 @@ Quando a Microsoft auxilia um cliente com a solução de uma DSR, isso é uma fu
 
 Ao descobrir os dados relevantes e obter assistência da Microsoft, um cliente tem várias opções de como abordar a DSR:
 
-*Opção A: DSR de Cliente de Suporte em Toda a Microsoft*. Aplique a DSR a todos os dados de suporte do cliente no ambiente de Suporte da Microsoft. Para fazer isso, um cliente só precisa pedir para a Microsoft aplicar a DSR a todos os Dados de Suporte coletados.
+*Opção A: DSR do cliente de suporte cruzado da Microsoft*. Aplique o DSR a todos os dados de suporte do cliente em todo o ambiente de Suporte da Microsoft. Para fazer isso, o cliente pode simplesmente pedir à Microsoft que aplique o DSR a todos os Dados de Suporte coletados.
 
 *Opção B — Interações Específicas do Cliente.* Use sistemas online para revisar tíquetes e, em seguida, identifique interações específicas que contenham os dados pessoais relevantes e relate-as à Microsoft. A Microsoft tentará fornecer assistência para realizar uma pesquisa se o cliente não puder pesquisar em interações (tíquetes).
 
-***Assim que os contratos forem identificados, solicite a aplicação da DSR a uma parte específica do registro ou a tudo relacionado a essa interação na Microsoft.** _
+*Assim que os contratos forem identificados, solicite a aplicação da DSR a uma parte específica do registro ou a tudo relacionado a essa interação na Microsoft.*
 
 Para identificar interações específicas, os clientes precisam pesquisar as suas interações. Para os clientes Premier, o Gerente de Serviço de Contrato Premier (CSM) de um cliente tem a visibilidade de todas as Solicitações de Suporte (SRs) criadas sob essa Agenda do Contrato. Para os clientes não Premier, estão disponíveis portais de interação com o suporte equivalentes, como por meio das áreas de suporte dos Serviços Online.
 
@@ -175,13 +175,13 @@ Conforme um cliente investiga ou se prepara para excluir dados pessoais em respo
 
 Todos os dados da Microsoft têm uma política de retenção e exclusão aplicada a eles, que variam de acordo com o risco e outros fatores.
 
-Os clientes que solicitarem a exclusão dos dados pessoais de um titular de dados universalmente nos sistemas de Suporte podem fazê-lo por meio do seu TAM ou preenchendo uma Solicitação de Suporte (SR) no Hub de Serviços ou sistema equivalente. Você _deve * indicar que esta é uma solicitação para ajudar com um DSR no GDPR.
+Os clientes que solicitarem a exclusão dos dados pessoais de um titular de dados universalmente nos sistemas de Suporte podem fazê-lo por meio do seu TAM ou preenchendo uma Solicitação de Suporte (SR) no Hub de Serviços ou sistema equivalente. Você *deve* indicar que esta é uma solicitação para ajudar com um DSR no GDPR.
 
-*Opção A—DSR de cliente de suporte em toda a Microsoft*. Para uma DSR de sistema cruzado, o cliente deve fornecer os dados pessoais que a Microsoft precisa para identificar os dados necessários (por exemplo, endereço de email, número de telefone). A Microsoft não irá correlacionar ou pesquisar registros e só pesquisará diretamente nos identificadores fornecidos pelo cliente. Quando dados forem encontrados, a Microsoft excluirá todas as interações e todos os dados associados.
+*Opção A: DSR do cliente de suporte cruzado da Microsoft*. Para uma DSR de sistema cruzado, o cliente deve fornecer os dados pessoais que a Microsoft precisa para identificar os dados necessários (por exemplo, endereço de email, número de telefone). A Microsoft não irá correlacionar ou pesquisar registros e só pesquisará diretamente nos identificadores fornecidos pelo cliente. Quando dados forem encontrados, a Microsoft excluirá todas as interações e todos os dados associados.
 
 > Observação Importante: isso pode resultar na perda de registros históricos importantes para a organização do cliente.
 
-*Opção B — Interações Específicas do Cliente*. Para compromissos específicos que o cliente identificou e deseja excluir, não exclua tíquetes do Hub de Serviços. Isso resultará em dados pessoais remanescentes em logs e sistemas downstream que podem não ser excluídos dentro do período de tempo necessário. Em vez disso, identifique o tíquete ou os dados pessoais dentro do tíquete que deve ser excluído e entre em contato com o Suporte da Microsoft para ajudá-lo a excluir esses dados.
+*Opção B: Envolvimentos específicos do cliente*. Para compromissos específicos que o cliente identificou e deseja excluir, não exclua tíquetes do Hub de Serviços. Isso resultará em dados pessoais remanescentes em logs e sistemas downstream que podem não ser excluídos dentro do período de tempo necessário. Em vez disso, identifique o tíquete ou os dados pessoais dentro do tíquete que deve ser excluído e entre em contato com o Suporte da Microsoft para ajudá-lo a excluir esses dados.
 
 ### <a name="microsoft-support-data-transfer-and-management-tool-dtm-instructions"></a>Instruções sobre a ferramenta de Gerenciamento e Transferência de Dados do Suporte da Microsoft (DTM)
 
@@ -198,7 +198,7 @@ O "direito de portabilidade de dados" permite que um titular dos dados solicite 
 
 Observação: Os dados exportados podem não incluir a propriedade intelectual da Microsoft ou quaisquer dados que possam comprometer a segurança ou a estabilidade do serviço.
 
-***Exemplo apenas para fins ilustrativos** _
+*Exemplo apenas para fins ilustrativos*
 
 Davi é um CSM Premier para um cliente empresarial, a Contoso, que usa o Office 365 para os e-mails dos funcionários e o Azure para hospedar um banco de dados SQL da Contoso. A Contoso tem vários tíquetes abertos e fechados. Recentemente, o Suporte da Microsoft, com permissão da Contoso, moveu uma cópia do banco de dados SQL para a DTM para fins de suporte e solução de problemas.
 
@@ -214,7 +214,7 @@ O Suporte da Microsoft executa todas essas exclusões e, com base na solicitaç�
 
 ## <a name="dsr-guide-for-customer-provided-data-in-consulting-services-including-migration-services"></a>O Guia DSR para dados fornecidos pelo cliente em serviços de consultoria incluem os Serviços de migração
 
-_Como obter assistência da Microsoft quando um cliente recebe uma solicitação de seus funcionários ou de outros titulares dos dados, pedindo o exercício de direitos, e os dados pessoais do titular dos dados foram coletados pela Microsoft durante a interação com a consultoria.*
+*Como obter assistência da Microsoft quando um cliente recebe uma solicitação de seus funcionários ou de outros titulares dos dados, pedindo o exercício de direitos, e os dados pessoais do titular dos dados foram coletados pela Microsoft durante a interação com a consultoria.*
 
 ## <a name="microsoft-consulting-services"></a>Serviços de consultoria da Microsoft
 
@@ -234,7 +234,7 @@ Para os serviços de migração do FastTrack, a Microsoft é a processadora de d
   
 Se você precisar processar qualquer acesso ou retificar ou exportar solicitações de DSR enquanto os dados de um usuário estiverem sendo processados por meio de sistemas de migração FastTrack, será de responsabilidade do cliente cumprir tais DSRs por meio de seus sistemas de origem existentes nos quais os dados do usuário são armazenados. Depois que a migração do usuário for concluída e os dados tiverem sido migrados para o serviço de nuvem da Microsoft, a orientação fornecida pela Microsoft sobre como os clientes podem usar produtos, serviços e ferramentas administrativas da Microsoft para localizar e tomar ações em dados pessoais para responder à solicitação de assunto será então aplicada. Para visualizar essa orientação, confira [Solicitações de Entidades de Dados para o RGPD](https://docs.microsoft.com/microsoft-365/compliance/gdpr-data-subject-requests). 
 
-Se precisar excluir a conta de um usuário em resposta a uma solicitação de DSR de exclusão enquanto sua organização estiver envolvida em um projeto de migração em andamento do FastTrack, você deverá estar ciente de que os sistemas de migração podem reter uma cópia dos dados de migração do usuário por um período de tempo após a conclusão da migração do usuário, e a exclusão da conta de usuário não excluirá automaticamente os dados de migração desse usuário armazenados nos sistemas de migração do FastTrack. Se você deseja que a equipe do Microsoft FastTrack exclua os dados de migração do usuário, [envie uma solicitação](https://go.microsoft.com/fwlink/?linkid=874544). No curso normal dos negócios, o Microsoft FastTrack excluirá todas as cópias de dados assim que a migração da organização for concluída.
+Se você precisar excluir uma conta de usuário em réplica a uma solicitação de exclusão de DSR enquanto sua organização está envolvida em um projeto de migração FastTrack em andamento, você deve estar ciente de que os sistemas de migração podem reter uma cópia dos dados de migração de usuário por um período de tempo após a conclusão de a migração do usuário e a exclusão da conta do usuário não excluirão automaticamente esses dados de migração do usuário armazenados nos sistemas de migração FastTrack. Se desejar que a equipe do Microsoft FastTrack exclua os dados de migração do usuário, você pode [enviar uma solicitação](https://go.microsoft.com/fwlink/?linkid=874544). No curso normal dos negócios, o Microsoft FastTrack excluirá todas as cópias de dados assim que a migração da sua organização for concluída.
 
 ## <a name="other-consulting-services"></a>Outros serviços de consultoria
 

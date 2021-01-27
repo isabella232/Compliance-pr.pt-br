@@ -17,12 +17,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: f41583c07ec5a8d1c711444b43daf0fd8de754ea
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 127528f40f5939b8fe0a5585cee7a212d35af82e
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505878"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012927"
 ---
 # <a name="microsofts-data-protection-officer"></a>Diretor de proteção dos dados da Microsoft
 
@@ -34,11 +34,11 @@ A função DPO exige que os candidatos bem-sucedidos tenham pelo menos sete anos
 
 ## <a name="nature-of-the-role"></a>Natureza da função
 
-O DPO está envolvido, adequadamente e em tempo hábil, em todos os principais problemas relacionados à proteção de dados pessoais. Isso é possível, em parte, pela função do DPO de revisão e orientação em todas as DPIAs (Avaliações de Impacto na Proteção dos Dados) geradas pela Microsoft. Como o programa DPIA foi criado para capturar todo processamento de dados pessoais da Microsoft, o DPO terá visibilidade entre empresas e a oportunidade de informar e orientar a Microsoft de suas obrigações, de acordo com o RGPD com relação ao processamento de dados pessoais da Microsoft. Esse mesmo mecanismo também permite que o DPO monitore a conformidade da Microsoft com leis de proteção de dados aplicáveis, incluindo o RGPD, bem como as políticas internas e controles da Microsoft. 
+O DPO está envolvido, de forma adequada e atempada, em todas as questões essenciais relacionadas com a proteção de dados pessoais. Essa ação é efetuada, em parte, pela função do DPO em revisar e aconselhar sobre todas as avaliações de impacto de proteção de dados (DPIAs) geradas pela Microsoft. Como o programa DPIA é projetado para capturar todo o processamento de dados pessoais na Microsoft, o DPO terá visibilidade entre as empresas e a oportunidade de informar e aconselhar a Microsoft sobre suas obrigações de acordo com o GDPR em relação ao processamento de dados pessoais da Microsoft. Esse mesmo mecanismo também permite que o DPO monitore a conformidade da Microsoft com os regulamentos de proteção de dados aplicáveis, incluindo o GDPR e as políticas e controles internos da Microsoft. 
 
 ## <a name="position-of-the-data-protection-officer"></a>Posição do diretor de proteção dos dados
 
-O DPO da União Europeia reporta diretamente ao Diretor de Privacidade da Microsoft, um executivo sênior da divisão de Questões Jurídicas e Corporativas da Microsoft. A função de DPO tem autonomia para realizar as funções de maneira independente e imparcial. Por meio da organização do diretor de privacidade, o DPO tem acesso aos recursos de treinamento e de resposta do cliente conforme o necessário, a fim de executar as funções de DPO. O DPO fica restrito à confidencialidade de suas tarefas por meio de um contrato de não divulgação.  
+O DPO da União Europeia se reporta diretamente ao Diretor de Privacidade da Microsoft, um executivo sênior da divisão de Assuntos Corporativos e Jurídicos da Microsoft. O papel do DPO tem autonomia para desempenhar as funções de maneira independente e imparcial. Por meio da organização do Diretor de Privacidade, o DPO tem acesso aos recursos de treinamento e resposta do cliente conforme necessário para executar as funções do DPO. O DPO está sujeito à confidencialidade em relação às suas tarefas, usando um acordo de não divulgação.  
 
 ## <a name="contact"></a>Contato
 
