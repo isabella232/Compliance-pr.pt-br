@@ -76,6 +76,16 @@
   items:
     - name: Visão geral do gerenciamento de incidentes
       href: assurance-incident-management.md
+    - name: Gerenciamento de incidentes do Centro de segurança do Microsoft 365
+      href: assurance-security-incident-management.md
+    - name: Preparação para gerenciamento de incidentes de segurança
+      href: assurance-sim-preparation.md
+    - name: 'Contenção, erradicação e recuperação de gerenciamento de incidentes de segurança'
+      href: assurance-sim-containment-eradication-recovery.md
+    - name: Detecção e análise de gerenciamento de incidentes de segurança
+      href: assurance-sim-detection-analysis.md
+    - name: Atividade pós-incidente de gerenciamento de incidente de segurança
+      href: assurance-sim-post-incident-activity.md
 - name: Segurança de rede
   items:
     - name: Visão geral de segurança de rede
