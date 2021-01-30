@@ -80,10 +80,10 @@
       href: assurance-security-incident-management.md
     - name: Preparação para gerenciamento de incidentes de segurança
       href: assurance-sim-preparation.md
-    - name: 'Contenção, erradicação e recuperação de gerenciamento de incidentes de segurança'
-      href: assurance-sim-containment-eradication-recovery.md
     - name: Detecção e análise de gerenciamento de incidentes de segurança
       href: assurance-sim-detection-analysis.md
+    - name: 'Contenção, erradicação e recuperação de gerenciamento de incidentes de segurança'
+      href: assurance-sim-containment-eradication-recovery.md
     - name: Atividade pós-incidente de gerenciamento de incidente de segurança
       href: assurance-sim-post-incident-activity.md
 - name: Segurança de rede
@@ -132,6 +132,8 @@
       href: assurance-monitoring-and-self-healing.md
     - name: Resiliência de dados do Exchange Online
       href: assurance-exchange-data-resiliency.md
+    - name: Resiliência de dados do SharePoint e OneDrive
+      href: assurance-sharepoint-onedrive-data-resiliency.md
     - name: Gerenciamento de continuidade de negócios empresariais (EBCM) com serviços de nuvem
       href: assurance-understanding-ebcm-with-cloud-services.md
     - name: Responsabilidades de clientes e parceiros de nuvem EBCM
