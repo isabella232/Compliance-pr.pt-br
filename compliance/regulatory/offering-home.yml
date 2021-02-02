@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
-  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
+  ms.openlocfilehash: e3604114977188d8c74bd3c8a3d283e8e98aaf11
+  ms.sourcegitcommit: 81522892bcb66641eddb8cfa85c1160c689e2599
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 01/22/2021
-  ms.locfileid: "49924844"
+  ms.lasthandoff: 02/01/2021
+  ms.locfileid: "50068633"
 conceptualContent:
-  title: Ofertas de conformidade para o Microsoft 365, Ozure e outros serviços Microsoft
-  summary: A Microsoft fornece ofertas de conformidade para ajudar sua organização a atender aos requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.
+  title: Ofertas de conformidade da Microsoft
+  summary: Informações do Microsoft 365, Azure, Dynamics 365, Power Platform e outros serviços para ajudar com regulamentos nacionais, regionais e específicos do setor para coleta e uso de dados.
   items:
   - title: Global
     links:
@@ -110,7 +110,7 @@ conceptualContent:
       text: AMF e ACPR (França)
     - url: offering-cftc-1-31-us.md
       itemType: reference
-      text: CFTC 1.31 (EUA)
+      text: CFTC 1,31 (EUA)
     - url: offering-eba-eu.md
       itemType: reference
       text: EBA (UE)
