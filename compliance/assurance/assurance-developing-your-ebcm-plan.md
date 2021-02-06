@@ -16,16 +16,16 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b43b3d272196007f4fa5015ade36055187a2db33
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 74bbca3ff8b179208288651e5a8b4f4a9eac09e8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574793"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120560"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Desenvolver seu plano de continuidade de negócios
 
-Este tópico fornece orientações sobre como desenvolver um plano de continuidade de negócios que leva em conta as dependências do 365 da Microsoft. Aqui estão os métodos de análise das suas funções de negócios e da identificação das que dependem dos serviços do Microsoft 365. Você executará essa análise com a previsão de que haverá falhas de serviço e que você precisa se preparar para essas possibilidades.
+Este tópico fornece orientações sobre como desenvolver um plano de continuidade de negócios que leva em conta as dependências do Microsoft 365. Aqui estão os métodos de análise das suas funções de negócios e da identificação das que dependem dos serviços do Microsoft 365. Você executará essa análise com a previsão de que haverá falhas de serviço e que você precisa se preparar para essas possibilidades.
 
 Em geral, o planejamento de continuidade de negócios envolve quatro aspectos, avaliação, planejamento, validação de capacidade e comunicação e coordenação.
 
@@ -50,7 +50,7 @@ Este é um documento de BIA para `name of the service, system, process, or funct
 |A tecnologia tem um SLA **interno** ou OLA?|`please explain in as much detail as possible`|
 |A tecnologia tem um SLA **externo** ou OLA?|`please explain in as much detail as possible`|
 |A tecnologia tem uma missão executiva conhecida para um SLA de processo específico? Se sim, explique em detalhes.|`details here`|
-|A perda ou o comprometimento dos dados associados a esse serviço dispara um evento principal? Se sim, explique em detalhes.|`details here`|
+|A perda ou o comprometimento dos dados associados a esse serviço disparará um evento importante? Se sim, explique em detalhes.|`details here`|
 |O serviço tem uma solução alternativa ou alternativa para algumas ou todas as suas funções e recursos importantes? Se sim, explique em detalhes.|`details here`|
 |O serviço processa, armazena ou transmite dados de clientes, como informações de identificação pessoal (PII)? Se sim, explique em detalhes.|`details here`|
 |Status de BIA|`develop your own status classification, here are some examples: planned, started, in-progress, complete, on-hold, expired`|
@@ -64,7 +64,7 @@ Este é um documento de BIA para `name of the service, system, process, or funct
 
 Em seguida, examine os processos de negócios para ver a existência de relações de dependência em cascata. Com base no resultado, você prioriza e direciona as estratégias de resiliência e os procedimentos operacionais padrão que oferecem suporte a suas estratégias.
 
-Você pode usar [o mapa de serviços da Microsoft](https://docs.microsoft.com/azure/azure-monitor/insights/service-map) para ajudá-lo com esse mapeamento. O mapa de serviços da Microsoft descobre automaticamente os componentes do aplicativo nos sistemas Windows e Linux e mapeia todas as dependências TCP, identifica as conexões e sistemas remotos de terceiros dos quais o aplicativo depende. Além disso, ele mapeia as dependências em áreas da rede que são tradicionalmente escuras, como o Active Directory.
+Você pode usar [o mapa de serviços da Microsoft](/azure/azure-monitor/insights/service-map) para ajudá-lo com esse mapeamento. O mapa de serviços da Microsoft descobre automaticamente os componentes do aplicativo nos sistemas Windows e Linux e mapeia todas as dependências TCP, identifica as conexões e sistemas remotos de terceiros dos quais o aplicativo depende. Além disso, ele mapeia as dependências em áreas da rede que são tradicionalmente escuras, como o Active Directory.
 
 Aqui está um exemplo de análise de dependência (DA) da qual você pode começar. Em sua análise de dependência (DA), você identificará e examinará as dependências do processo. Certifique-se de incluir pessoas, fornecedores, clientes, parcerias e instalações. Os dados dessa análise serão usados para identificar os intervalos entre os requisitos de recuperação de um processo e os recursos de recuperação de dependências de suporte.
 
@@ -88,18 +88,18 @@ Não se esqueça de que o treinamento regular dos funcionários sobre a resposta
 
 Durante um incidente de serviço, os canais de comunicação normais podem ser afetados ou prejudicados, para que você possa dispor alternativas para ajudar sua organização a permanecer conectada durante um incidente. É fundamental que os canais de comunicação sejam estabelecidos, verificados para segurança e conformidade e os usuários treinados para o uso antes de uma interrupção. Deixar de usar um estado conhecido para outro estado conhecido é muito preferido para os usuários que estão chegando com as soluções ad-hoc desconhecidas no meio de uma crise.
 
-Na Microsoft, cada equipe de serviço estabeleceu canais de comunicação alternativa internos para nos ajudar a coordenar quando nossos canais de comunicação normais não estão disponíveis. Eles incluem as soluções de telefonia de backup e de conferência de áudio, grupos do Yammer, grupos do Teams, painéis de integridade do serviço internos e software de gerenciamento de incidentes internos.
+Na Microsoft, cada equipe de serviços estabeleceu canais de comunicação alternativos internos para nos ajudar a coordenar quando nossos canais de comunicação normais não estão disponíveis. Eles incluem as soluções de telefonia de backup e de conferência de áudio, grupos do Yammer, grupos do Teams, painéis de integridade do serviço internos e software de gerenciamento de incidentes internos.
 
 Durante a análise de dependência de negócios e a análise de dependências, você mapeará os processos essenciais e as tecnologias ou serviços dos quais eles dependem. Preste atenção especial à comunicação durante essa fase de planejamento e das opções. Aqui estão alguns exemplos.
 
-- Se o email for o seu principal método para manter os usuários e os participantes informados e o seu serviço de email estiver prejudicado ou indisponível, você poderá usar outro serviço, como o Microsoft Teams, o Yammer ou outro serviço de terceiros, como um backup. A chave é estabelecê-las antecipadamente e treinar seus usuários para onde ir. Um thread Yammer não será útil se ninguém sabe que ele existe ou se ninguém tem um indicador.  
-- Se os processos de gerenciamento de incidentes internos dependem das comunicações de voz para coordenar suas respostas, estabeleça uma solução de telefonia alternativa para ser usada durante uma crise. Essa solução não precisa ter paridade total com seu serviço principal, mas deve fornecer o nível mínimo de colaboração para coordenar suas equipes de continuidade de negócios e gerenciamento de incidentes. Além disso, pedir aos usuários para publicar seus números de telefone celular na sua lista de endereços global pode fornecer uma camada adicional de comunicação de backup em casos extremos.
-- Talvez você queira criar um painel de integridade de serviço personalizado ou outro site, que pode fornecer atualizações de status durante um incidente. Os usuários de treinamento para informações antecipadamente ajudam a reduzir as chamadas desnecessárias para o suporte técnico e a incutir confiança na sua base de usuários que a situação está sendo tratada de forma rápida e eficiente. Use a API de comunicações de serviço do O365 para reunir essas informações no Microsoft 365 para um nível de visibilidade ainda maior.  
-- É fundamental que o local dos planos de continuidade de negócios e os procedimentos operacionais padrão sejam conhecidos. É recomendável manter cópias online e offline de documentação crítica, como o SharePoint Online ou o OneDrive for Business configurado para sincronização automática com dispositivos locais. Para centros de operações de serviço/rede e outras equipes similares que serão fundamentais para a recuperação, você também pode querer manter cópias difíceis disponíveis para serem usadas em caso de emergência.
+- Se o email for o seu principal método para manter os usuários e os participantes informados e o seu serviço de email estiver prejudicado ou indisponível, você poderá usar outro serviço, como o Microsoft Teams, o Yammer ou outro serviço de terceiros, como um backup. A chave é estabelecê-las antecipadamente e treinar seus usuários para onde ir. Um thread do Yammer não será útil se ninguém souber que ele existe ou se ninguém o tiver marcado.  
+- Se os processos de gerenciamento de incidentes internos dependem das comunicações de voz para coordenar suas respostas, estabeleça uma solução de telefonia alternativa para ser usada durante uma crise. Essa solução não precisa ter paridade total com seu serviço principal, mas deve fornecer o nível mínimo de colaboração para coordenar suas equipes de Continuidade de Negócios e Gerenciamento de Incidentes. Além disso, pedir aos usuários para publicar seus números de telefone celular na sua lista de endereços global pode fornecer uma camada adicional de comunicação de backup em casos extremos.
+- Talvez você queira criar um painel de integridade de serviço personalizado ou outro site, que pode fornecer atualizações de status durante um incidente. Os usuários de treinamento para informações antecipadamente ajudam a reduzir as chamadas desnecessárias para o suporte técnico e a incutir confiança na sua base de usuários que a situação está sendo tratada de forma rápida e eficiente. Use a API de Comunicações do Serviço do O365 para ligar essas informações ao Microsoft 365 para ter um nível de visibilidade ainda maior.  
+- É fundamental que o local dos planos de continuidade de negócios e os procedimentos operacionais padrão sejam conhecidos. É recomendável manter cópias online e offline de documentação crítica, como o SharePoint Online ou o OneDrive for Business configurado para sincronização automática com dispositivos locais. Para Centros de Operações de Rede/Serviço e outras equipes semelhantes que serão fundamentais para a recuperação, você também pode manter cópias impressas disponíveis para uso em caso de emergência.
 
 ## <a name="know-your-external-points-of-integration"></a>Conheça seus pontos externos de integração
 
-Independentemente do modelo de negócios, cada empresa tem pontos de integração com seus clientes, parceiros e fornecedores. A cadeia de fornecimento de valor empresarial é a integração com entidades externas. Melhorar a continuidade de negócios em caso de interrupção de serviço exige consideração – e proteção – de cada ponto de integração.  
+Independentemente do modelo de negócios, cada empresa tem pontos de integração com seus clientes, parceiros e fornecedores. A cadeia de fornecimento de valor empresarial é a integração com entidades externas. Melhorar a continuidade dos negócios em caso de interrupção do serviço requer consideração e proteção de cada ponto de integração.  
 À medida que você analisa sua cadeia de fornecedores, as comunicações externas devem ser consideradas da mesma forma que as comunicações internas são analisadas. Seus clientes contam com seus servidores Exchange Online como o único método de contatar você? Você estabeleceu e conscientizou seus fornecedores sobre métodos alternativos de comunicação, caso o tempo de atividade seja impactado? Veja um exemplo de tabela que sugere como organizar o pensamento.
 
 |nome da entidade externa|afetar o cenário do incidente|Os serviços do Microsoft 365 incluem|alternativas|
@@ -107,4 +107,4 @@ Independentemente do modelo de negócios, cada empresa tem pontos de integraçã
 |`vendor name`|fluxo de mensagens|O Exchange Online é o único meio de comunicação com a Contoso|configurar canais externos do Microsoft Teams ou software de colaboração de terceiros          |
 |`service supplier name`|chat|Microsoft Teams|mensagens instantâneas de terceiros|
 |`partner name`|Voz|Microsoft Teams|Dispositivos móveis ou PSTN público      |
-|`supplier name`|compartilhamento de arquivos|sites do SharePoint e OneDrive compartilhados externamente|compartilhamento de arquivos terceirizado         |
+|`supplier name`|compartilhamento de arquivos|sites do SharePoint e OneDrive compartilhados externamente|compartilhamento de arquivos de terceiros         |

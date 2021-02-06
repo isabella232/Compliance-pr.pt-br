@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937006"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120010"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Escritório do Superintendente de Instituições Financeiras (OSFI), Canadá
 
@@ -55,7 +55,7 @@ A lista de verificação da Microsoft ajuda as instituições financeiras do Can
 - [Lista de verificação de conformidade: Canadá](https://aka.ms/Azure-Canada-Compliance): As instituições financeiras podem obter ajuda na realização de avaliações de risco dos serviços corporativos de nuvem da Microsoft.
 - [Privacidade na nuvem da Microsoft](https://aka.ms/MCSPrivacy): obtenha detalhes sobre os princípios e normas de privacidade da Microsoft e sobre as leis de privacidade específicas do Canadá.
 - [Guia de Conformidade e Avaliação de Risco ](https://aka.ms/RiskGovernanceGuide): crie um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador.
-- [Casos de uso do setor financeiro para o Azure](https://docs.microsoft.com/azure/industry/financial/): visões gerais de casos de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros.
+- [Casos de uso do setor financeiro para o Azure](/azure/industry/financial/): visões gerais de casos de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -71,7 +71,7 @@ Sim, mas apenas se o acordo de terceirização envolve terceirização de ativid
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

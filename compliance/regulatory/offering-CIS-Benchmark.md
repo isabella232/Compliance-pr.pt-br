@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8bde27222806ea5909c67bac8556ff682453809b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506143"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121370"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Parâmetros da Center for Internet Security (CIS)
 
@@ -70,8 +70,8 @@ Obtenha a [lista completa de parâmetros da CIS](https://www.cisecurity.org/cis-
 ## <a name="how-to-implement"></a>Como implementar
 
 - [Parâmetro da CIS para o Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/cis-microsoft-azure-foundations-security-benchmark/CIS_Microsoft_Azure_Foundations_Benchmark_v1.0.0.pdf): obtenha orientações perspectivas para estabelecer uma configuração de linha de base segura para o Azure.  
-- [Mapa de segurança do Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap): minimize o potencial de uma violação de dados ou de comprometimento de conta seguindo este mapa.
-- [Linhas de base de segurança do Windows](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines): siga estas diretrizes para usar eficientemente as linhas de base de segurança na sua organização.
+- [Mapa de segurança do Microsoft 365](/microsoft-365/security/office-365-security/security-roadmap): minimize o potencial de uma violação de dados ou de comprometimento de conta seguindo este mapa.
+- [Linhas de base de segurança do Windows](/windows/security/threat-protection/windows-security-baselines): siga estas diretrizes para usar eficientemente as linhas de base de segurança na sua organização.
 - [Guia Complementar da Nuvem de Controles da CIS](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/): obtenha diretrizes para a aplicação de práticas recomendadas de segurança na Versão 7 dos Controles da CIS para ambientes na nuvem.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
@@ -90,11 +90,11 @@ A CIS observa que seus “Parâmetros são desenvolvidos através dos generosos 
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
 - [Práticas recomendadas da CIS para o uso do Microsoft 365 com segurança](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
-- [Configurações de política de segurança do Windows 10](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/security-policy-settings)
-- [Segurança empresarial do Windows 10](https://docs.microsoft.com/windows/security/index)
+- [Configurações de política de segurança do Windows 10](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
+- [Segurança empresarial do Windows 10](/windows/security/index)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

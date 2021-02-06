@@ -1,5 +1,5 @@
 ---
-title: Solicitações do Sujeito de Dados do Azure para o GDPR e o CCPA
+title: Solicitações de assunto de dados do Azure para o GDPR e o CCPA
 description: Saiba como usar produtos, serviços e ferramentas de administração da Microsoft para encontrar e tomar medidas em relação a dados pessoais para responder às DSRs.
 keywords: Microsoft 365, Microsoft 365 Education, documentação do Microsoft 365, RGPD, CCPA
 localization_priority: Priority
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: cc71af74f88592e13f5dacf78d92193cea8ea356
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505862"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121000"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados do Azure para o GDPR e o CCPA
 
@@ -159,7 +159,7 @@ Você pode corrigir, atualizar ou excluir informações de identificação sobre
 
     ![Selecione editar.](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
-#### <a name="service-specific-interfaces"></a>Interfaces Específicas de Serviços
+#### <a name="service-specific-interfaces"></a>Interfaces específicas de serviços
 
 A Microsoft oferece a capacidade de descobrir os dados dos clientes diretamente por APIs (interfaces de programação de aplicativos) preexistentes ou por IUs (interfaces de usuário) para serviços específicos. Os detalhes são descritos na documentação de referência dos respectivos serviços e descrevem as operações aplicáveis de CRUD (criar, ler, atualizar e excluir).
 
@@ -301,7 +301,7 @@ Veja a seguir o processo detalhado para exportar os dados de seu locatário.
 
 - **Usuário.** Digite o endereço de email do usuário do Azure Active Directory que solicitou a exportação.
 - **Assinatura.** Selecione a conta que você usa para relatar o uso de recursos e cobrar pelos serviços. Esse também é o local de sua conta de armazenamento do Azure.
-- **Conta de armazenamento.** Selecione a localização de seu Armazenamento do Azure (Blob). Para saber mais, confira o artigo [Introdução ao Armazenamento do Microsoft Azure — armazenamento de Blob](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage).
+- **Conta de armazenamento.** Selecione a localização de seu Armazenamento do Azure (Blob). Para saber mais, confira o artigo [Introdução ao Armazenamento do Microsoft Azure — armazenamento de Blob](/azure/storage/common/storage-introduction#blob-storage).
 - **Contêiner.** Crie um novo contêiner (ou selecione um existente) como o local de armazenamento para os dados de privacidade exportados do usuário.
 
 4. Selecione **Criar**.

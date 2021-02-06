@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 972cd483c4976e683e359c52a78067e3d3faeb3a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505772"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120080"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>O National Bank of Belgium (NBB) e a Financial Services and Markets Authority (FSMA)
 
@@ -31,7 +31,7 @@ Os principais reguladores dos serviços financeiros na Bélgica são o [National
 
 O NBB é responsável pela supervisão prudencial das instituições de crédito, seguradoras, corretoras e outras organizações financeiras. Como o banco central da Bélgica, o NBB é responsável pelas políticas monetárias belgas e contribui para a estabilidade do sistema financeiro do país. Junto ao NBB, a FSMA supervisiona os mercados financeiros e os provedores de serviços financeiros, inclusive instituições de investimentos e de pensão suplementar, da Bélgica. A função dela inclui a supervisão das informações financeiras disseminadas pelas empresas e dos produtos ofertados por elas para consumidores, bem como da conformidade das empresas com as regras de conduta comercial.
 
-O NBB e a FSMA atuam em conjunto com a European Banking Authority (EBA), "uma autoridade independente da UE que trabalha para garantir uma regulação e supervisão prudente, eficaz e consistente em todo o setor bancário da europeu". Para isso, a EBA definiu uma abordagem abrangente para a terceirização da computação em nuvem por instituições financeiras na UE, [Recomendações para a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
+O NBB e a FSMA atuam em conjunto com a European Banking Authority (EBA), "uma autoridade independente da UE que trabalha para garantir uma regulação e supervisão prudente, eficaz e consistente em todo o setor bancário da europeu". Para isso, a EBA definiu uma abordagem abrangente para a terceirização de computação em nuvem por instituições financeiras na UE, [Recomendações para a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
 
 As instituições financeiras na Bélgica devem estar cientes de vários requisitos ao migrar as funções da empresa para a nuvem, inclusive:
 
@@ -60,7 +60,7 @@ A lista de verificação da Microsoft ajuda as instituições financeiras da Bé
 
 - [Lista de verificação de conformidade: Bélgica](https://aka.ms/FinServ-Guide-Belgium): as instituições financeiras podem obter ajuda na realização de avaliações de risco dos serviços de nuvem da Microsoft.
 - [Guia de conformidade e avaliação de risco](https://aka.ms/RiskGovernanceGuide): cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador.
-- [Casos de uso financeiro](https://docs.microsoft.com/azure/industry/financial/): Visões gerais de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros.
+- [Casos de uso financeiro](/azure/industry/financial/): Visões gerais de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -74,7 +74,7 @@ Sim. Alguns pontos específicos devem ser incorporados pelas instituições nos 
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

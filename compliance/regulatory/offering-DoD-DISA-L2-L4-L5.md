@@ -1,6 +1,6 @@
 ---
-title: Autorização do departamento de defesa dos EUA (DoD)
-description: A Microsoft recebeu as autorizações provisionas do departamento de defesa (DoD) nos níveis de impacto 5, 4 e 2.
+title: Autorização provisória do Departamento de Defesa dos EUA (DoD)
+description: A Microsoft recebeu autorizações provisórias do Departamento de Defesa (DoD) nos Níveis de Impacto 5, 4 e 2.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,97 +16,97 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3bd95648e9ae36f5ccaab25bd504524e7d1e4afa
-ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
+ms.openlocfilehash: bd3434bc2cdb421ce7ab5b9d29e42e1c20aba577
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49757816"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121260"
 ---
-# <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>Autorização do departamento de defesa dos EUA (DoD) provisionar no impacto dos níveis 2, 4 e 5
+# <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>Autorização provisória do Departamento de Defesa dos EUA (DoD) nos níveis de impacto 2, 4 e 5
 
-## <a name="dod-and-disa-overview"></a>Visão geral de DoD e DISA
+## <a name="dod-and-disa-overview"></a>Visão geral do DoD e DISA
 
-A DISA (Agência de sistemas de informações de defesa) é uma agência de suporte de combate do departamento de defesa dos EUA (DoD). Ele fornece uma infraestrutura de informações corporativas, suporte a comunicações e um ambiente de nuvem corporativa seguro e resistente para o DoD, a casa branca e qualquer outra organização que reproduz uma função na defesa dos Estados Unidos.
+A Agência de Sistemas de Informações de Defesa (DISA) é uma agência de suporte a combater do Departamento de Defesa dos EUA (DoD). Ele fornece uma infraestrutura de informações corporativas, suporte a comunicações e um ambiente de nuvem empresarial seguro e resiliente para o DoD, a Casa Branca e qualquer outra organização que desempenha um papel na defesa dos Estados Unidos.
 
-Para implementar sua missão, o DISA desenvolveu o guia de requisitos de segurança da computação em nuvem DoD (SRG). O SRG define os requisitos de segurança de linha de base para provedores de serviços de nuvem (CSPs) que hospedam informações, sistemas e aplicativos do DoD, e para o uso de serviços em nuvem do DoD. Ele substitui o modelo de segurança de nuvem DoD e mapeia a estrutura de gerenciamento de riscos DoD e o NIST 800-37/53.
+Para implementar seu comando, a DISA desenvolveu o Guia de Requisitos de Segurança de Computação em Nuvem (SRG) do DoD. O SRG define os requisitos de segurança de linha de base para CSPs (provedores de serviços de nuvem) que hospedam informações, sistemas e aplicativos do DoD e para o uso do DoD de serviços de nuvem. Ele substitui o Modelo de Segurança na Nuvem do DoD e mapeia para a Estrutura de Gerenciamento de Risco do DoD e para o NIST 800-37/53.
 
-O suporte ao serviço de nuvem DoD define as políticas, os controles de segurança e outros requisitos no SRG, que ele publica e mantém. Ele orienta os departamentos e agências DoD no planejamento e autorização do uso de um provedor de serviços de nuvem. O suporte ao serviço de nuvem também avalia ofertas de CSP para conformidade com o SRG — um processo de autorização no qual os CSPs podem fornecer atestado de conformidade com os padrões DoD. Ele emite o PAs (autorizações provisórias) DoD quando apropriado, de modo que as organizações de suporte e agências DoD possam usar os serviços de nuvem sem precisar passar por um processo de aprovação completo por conta própria, economizando tempo e esforço.
+O Suporte do Serviço de Nuvem do DoD define as políticas, os controles de segurança e outros requisitos no SRG, que ele publica e mantém. Ele orienta as agências e departamentos do DoD no planejamento e autorização do uso de um provedor de serviços de nuvem. O Suporte ao Serviço na Nuvem também avalia as ofertas de CSP para conformidade com o SRG — um processo de autorização no qual os CSPs podem fornecer atestados de conformidade com os padrões do DoD. Ele emite PAs (Autorizações Provisórias do DoD) quando apropriado, para que as agências do DoD e as organizações de suporte possam usar serviços de nuvem sem precisar passar por um processo de aprovação completo por conta própria, economizando tempo e esforço.
 
-## <a name="microsoft-and-us-dod-provisional-authorization"></a>Autorização do Microsoft e US DoD provisórios
+## <a name="microsoft-and-us-dod-provisional-authorization"></a>Autorização provisória do DoD da Microsoft e dos EUA
 
-Os serviços de nuvem governamentais da Microsoft atendem aos requisitos exigentes do departamento de defesa dos EUA, desde os níveis de impacto de 2 a 5, permitindo que as agências de defesa dos EUA se beneficiem com a redução de custos e a segurança rigorosa da nuvem da Microsoft. Ao implantar serviços protegidos, incluindo o governo do Azure, o Office 365 U.S. governamentais e o Dynamics 365 governo, as agências de defesa podem usar uma ampla variedade de serviços compatíveis.
+Os serviços de nuvem governamentais da Microsoft atendem aos requisitos exigentes do Departamento de Defesa dos EUA, dos níveis de impacto de 2 a 5, permitindo que as agências de defesa dos EUA se beneficiem da economia de custos e da segurança rigorosa do Microsoft Cloud. Com a implantação de serviços protegidos, incluindo o Azure Government, o Office 365 U.S. Government e o Dynamics 365 Government, as agências de defesa podem usar uma ampla variedade de serviços compatíveis.
 
-- Saiba como acelerar o seu nível de implementação do [Disa do DoD](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)
+- Saiba como acelerar sua implantação do DoD DISA L2, L4 com nosso [Blueprint do Azure DoD](/azure/governance/blueprints/samples/dod-impact-level-4/)
 
-## <a name="dod-impact-level-5-provisional-authorization"></a>Autorização do nível 5 de impacto do DoD
+## <a name="dod-impact-level-5-provisional-authorization"></a>Autorização provisória de nível 5 de impacto do DoD
 
-O suporte ao serviço de nuvem do DISA recebeu um nível 5 PA de impacto do DoD para o governo do Microsoft Azure para o DoD. DISA também recebeu a defesa do governo dos EUA do Office 365 um nível 5 PA de impacto do DoD. O nível de impacto 5 cobre informações não classificadas (CUI) controladas por lei, outras regulamentações governamentais ou a agência que possui as informações e precisa de um nível mais alto de proteção do que o nível 4 fornece. Ele também abrange sistemas de segurança nacional não classificados.
+O Suporte ao Serviço de Nuvem da DISA concedeu um PA de Nível 5 de Impacto do DoD para o Microsoft Azure Government para DoD. A DISA também concedeu ao Office 365 U.S. Government Defense um PA de Nível 5 de Impacto do DoD. O Nível de Impacto 5 abrange as Informações Não Classificadas Controladas (CUI) consideradas por lei, outras regulamentações governamentais ou a agência que possui as informações e precisa de um nível mais alto de proteção do que o Nível 4 oferece. Ele também abrange sistemas de segurança nacional não classificados.
 
-## <a name="dod-impact-level-4-provisional-authorization"></a>Autorização provisionada do nível 4 de impacto DoD
+## <a name="dod-impact-level-4-provisional-authorization"></a>Autorização provisória do Nível de Impacto do DoD 4
 
-O suporte ao serviço de nuvem do DISA recebeu um nível 4 PA de impacto do DoD para o governo do Microsoft Azure. Isso se baseia em uma análise de suas autorizações do FedRAMP e controles de segurança adicionais exigidos pelo Cloud Computing SRG. (O FedRAMP é um programa de EUA que permite a computação em nuvem segura para o governo.)
+O Suporte ao Serviço de Nuvem da DISA concedeu um PA de Nível 4 de Impacto do DoD para o Governo do Microsoft Azure. Isso se baseou em uma revisão de suas autorizações fedRAMP e controles de segurança adicionais exigidos pelo SRG de Computação em Nuvem. (FedRAMP é um programa dos EUA que permite a computação em nuvem segura para o governo.)
 
-O nível de impacto 4 abrange informações não classificadas e controladas — dados que exigem proteção contra divulgação não autorizada em ordem executiva 13556 (novembro de 2010) e outros dados de missão crítica. Ele pode incluir dados designados como somente para uso oficial, imposição de leis confidenciais ou informações de segurança confidenciais. Essa autorização permite que os clientes governamentais dos EUA implantem esses tipos de dados altamente confidenciais nos serviços de nuvem do governo da Microsoft no escopo.
+O Nível de Impacto 4 abrange informações não classificadas controladas — dados que exigem proteção contra divulgação não autorizada sob a Ordem Executiva 13556 (novembro de 2010) e outros dados críticos da missão. Ele pode incluir dados designados como Somente Para Uso Oficial, Confidenciais de Aplicação da Lei ou Informações de Segurança Confidenciais. Essa autorização permite que os clientes do governo federal dos EUA implantem esses tipos de dados altamente confidenciais nos serviços de nuvem do governo da Microsoft no escopo.
 
-## <a name="covered-services-for-dod-impact-level-2-authorization"></a>Serviços cobertos para autorização de nível 2 de impacto do DoD
+## <a name="covered-services-for-dod-impact-level-2-authorization"></a>Serviços cobertos para autorização do Nível de Impacto do DoD 2
 
-Com base em autorizações do FedRAMP, o suporte ao serviço de nuvem do DISA recebeu o nível 2 PA de impacto do DoD para:
+Com base nas autorizações FedRAMP, o Suporte ao Serviço de Nuvem da DISA concedeu um PA de Nível de Impacto 2 do DoD para:
 
-- A infraestrutura do Azure e do Azure governamental como um serviço (IaaS) e a plataforma como um serviço (PaaS) receberam essa autorização com base na autoridade provisionada para operar (P-ATO) da placa de autorização conjunta do FedRAMP.
-- Dynamics 365 o software governo dos EUA como um serviço (SaaS) recebeu essa autorização com base na autoridade FedRAMP Authority para operar (ATO) do departamento de hospedagem e desenvolvimento urbano (HUD).
-- O Office 365 governo dos EUA recebeu essa autorização com base na agência FedRAMP ATO do departamento de saúde e dos serviços humanos (DHHS).
+- A Infraestrutura como Serviço (IaaS) e a Plataforma como Serviço (PaaS) do Azure e do Azure Governamental foram concedidas com base na Autoridade Provisória para Operar (P-ATO) do Conselho de Autorização Conjunto do FedRAMP.
+- O Dynamics 365 U.S. Government Software as a Service (SaaS) recebeu essa autorização com base na Autoridade FedRAMP para Operar (ATO) da Agência fedRAMP do Departamento de Desenvolvimento de Rua e Desenvolvimento (HUD).
+- O Office 365 U.S. Government recebeu essa autorização com base na ATO FedRAMP da Agência do Departamento de Saúde e Serviços Humanos (DHHS).
 
-O nível 2 de impacto cobre informações não controladas, dados que são autorizados para lançamento público. Ele também aborda outras informações não classificadas que, embora não sejam consideradas ' missão crítica ', ainda exigem um nível mínimo de controle de acesso. Essa autorização permite que os clientes do governo norte-americano da empresa implantem informações não confidenciais e aplicativos básicos de defesa e sites em serviços de nuvem da Microsoft em escopo.
+O Nível de Impacto 2 abrange informações não classificadas não controladas — dados autorizados para lançamento público. Ele também aborda outras informações não classificadas que, embora não consideradas "críticas de missão", ainda exigem um nível mínimo de controle de acesso. Essa autorização permite que os clientes do governo federal dos EUA implantem informações não confidenciais e aplicativos básicos de defesa e sites nos serviços de nuvem da Microsoft no escopo.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
 
-### <a name="covered-services-for-dod-impact-level-5"></a>Serviços cobertos para o nível de impacto de DoD 5
+### <a name="covered-services-for-dod-impact-level-5"></a>Serviços cobertos para o Nível de Impacto do DoD 5
 
-- [Governo do Azure para DoD](https://aka.ms/AzureCompliance)
+- [Azure Government para DoD](https://aka.ms/AzureCompliance)
 - [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
-### <a name="covered-services-for-dod-impact-level-4"></a>Serviços cobertos para o nível 4 de impacto do DoD
+### <a name="covered-services-for-dod-impact-level-4"></a>Serviços cobertos para o Nível de Impacto do DoD 4
 
-- [Governo do Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365 governo dos EUA](https://aka.ms/d365-compliance-list)
+- [Azure Government](https://aka.ms/AzureCompliance)
+- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
-### <a name="covered-services-for-dod-impact-level-2"></a>Serviços cobertos para o nível 2 de impacto do DoD
+### <a name="covered-services-for-dod-impact-level-2"></a>Serviços cobertos para o Nível de Impacto do DoD 2
 
 - [Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365 governo dos EUA](https://aka.ms/d365-compliance-list)
-- [Office 365 governo dos EUA](https://aka.ms/o365-compliance-framework)
+- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
+- [Office 365 U.S. Government](https://aka.ms/o365-compliance-framework)
 - Serviço em nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-Uma vez que um DoD PA, os serviços do Microsoft Cloud são monitorados e avaliados anualmente: [Microsoft FedRAMP Authorizations](https://marketplace.fedramp.gov/#/products?sort=productName&productNameSearch=microsoft)
+Uma vez concedido um Pa do DoD, os serviços de nuvem da Microsoft são monitorados e avaliados anualmente: [autorizações do Microsoft FedRAMP](https://marketplace.fedramp.gov/#/products?sort=productName&productNameSearch=microsoft)
 
-## <a name="fast-track-your-deployment-of-dod-solutions-on-azure"></a>Rastreie rapidamente sua implantação de soluções DoD no Azure
+## <a name="fast-track-your-deployment-of-dod-solutions-on-azure"></a>Acompanhar rapidamente sua implantação de soluções DoD no Azure
 
-Comece a aproveitar as vantagens dos benefícios da nuvem no governo com o departamento de defesa de segurança e conformidade do Azure. Este Blueprint fornece ferramentas e orientações para começar a criar soluções compatíveis com o DoD hoje. [Comece a usar o Azure DOD Blueprint](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/).
+Comece a aproveitar os benefícios da nuvem no governo com o Blueprint do Departamento de Segurança e Conformidade do Azure. Este blueprint fornece ferramentas e diretrizes para você começar a criar soluções compatíveis com DoD hoje mesmo. [Comece a usar o Blueprint do Azure DoD.](/azure/governance/blueprints/samples/dod-impact-level-4/)
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Posso usar a conformidade da Microsoft no processo de certificação de minha organização?**
 
-Sim. Todas as agências DoD podem contar com as certificações dos serviços de nuvem da Microsoft como base para qualquer programa ou iniciativa que exija uma autorização de DoD. (Isso também se aplica a outras organizações que dão suporte ao DoD e exigem serviços em nuvem.) No entanto, você precisa obter suas próprias autorizações para componentes fora desses serviços.
+Sim. Todas as agências do DoD podem contar com as certificações dos serviços de nuvem da Microsoft como base para qualquer programa ou iniciativa que exija uma autorização do DoD. (Isso também se aplica a outras organizações que suportam o DoD e exigem serviços de nuvem.) No entanto, você precisa obter suas próprias autorizações para componentes fora desses serviços.
 
-**A certificação DoD da Microsoft atende aos requisitos do NIST 800 – 171?**
+**A certificação DoD da Microsoft está de acordo com os requisitos NIST 800–171?**
 
-Em outubro de 2016, o departamento de defesa (DoD) promulgated uma regra final implementando as cláusulas de defesa do governo federal de aquisição (DFARS) que se aplicam a todos os contratadores do DoD que processam, armazenam ou transmitem ' informações de defesa abordadas ' por meio de seus sistemas de informação. A regra diz que esses sistemas devem atender aos requisitos de segurança definidos no NIST SP 800 – 171, [protegendo informações não classificadas e comprovadas em sistemas e organizações de informações não federais](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf), ou uma medida de segurança "alternativa, mas igualmente efetiva", aprovada pelo responsável pela DOD. E onde um empreiteiro do DoD usa um provedor de serviço de nuvem externo para processar, armazenar ou transmitir informações de defesa abordadas, esse provedor deve atender aos requisitos de segurança equivalentes à linha de base moderada do FedRAMP.
+Em outubro de 2016, o Departamento de Defesa (DoD) implementou uma regra final implementando cláusulas DFARS (Federal Acquisition Regulation Supplement) de Defesa que se aplicam a todos os prestadores de serviços do DoD que processam, armazenam ou transmitem "informações de defesa cobertas" por meio de seus sistemas de informações. A regra afirma que esses sistemas devem atender aos requisitos de segurança estabelecidos [](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)no NIST SP 800–171, protegendo informações não classificadas controladas em sistemas de informações e organizações não pessoais, ou uma "medida de segurança alternativa, mas igualmente eficaz", que é aprovada pelo contratador do DoD. E quando um prestador de serviços do DoD usa um provedor de serviços de nuvem externo para processar, armazenar ou transmitir informações de defesa cobertas, esse provedor deve atender aos requisitos de segurança equivalentes à linha de base moderada do FedRAMP.
 
-Os seguintes serviços do Microsoft Cloud receberam uma autorização moderada do FedRAMP: Azure, Azure governamentais, Dynamics 365 U.S. governamentais, Office 365 MT, Office 365 U.S. governamentais e Office 365 u.s. Defense governamentais.
+Os seguintes serviços de nuvem da Microsoft receberam uma autorização moderada do FedRAMP: Azure, Azure Government, Dynamics 365 U.S. Government, Office 365 MT, Office 365 U.S. Government e Office 365 U.S. Government Defense.
 
-Além disso, as ofertas da Microsoft fora do limite certificado por FedRAMP que podem ser usadas por prestadores de serviços do DoD para processar, armazenar ou transmitir as informações de defesa cobertas estão passando por uma análise para atender a um prazo de conformidade de 31 de dezembro de 2017. A Microsoft está trabalhando para documentar como esses serviços internos e voltados para o cliente estão em conformidade com o NIST SP 800 – 171 ou um equivalente aceitável de segurança, para atender às cláusulas relevantes DFARS.
+Além disso, as ofertas da Microsoft fora do limite certificado pelo FedRAMP que podem ser usadas por prestadores de serviços do DoD para processar, armazenar ou transmitir "informações de defesa cobertas" estão passando por uma revisão para atender a um prazo de conformidade de 31 de dezembro de 2017. A Microsoft está trabalhando para documentar como esses serviços internos e voltados para o cliente estão em conformidade com o NIST SP 800–171 ou um equivalente de segurança aceitável, para atender às cláusulas relevantes da DFARS.
 
 ## <a name="resources"></a>Recursos
 
-- [Guia de requisitos de segurança de computação em nuvem DoD (SRG) e outros documentos](https://public.cyber.mil/dccs/dccs-documents/)
-- [Suporte ao serviço de nuvem do DISA](https://storefront.disa.mil/kinetic/disa/service-catalog#/forms/cloud-service-support)
-- [Proteção de informações não classificadas controladas em sistemas de informações não federais e organizações](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)
-- [Estrutura NIST cybersecurity](https://www.nist.gov/cyberframework)
-- [Estrutura de Conformidade do Microsoft Common Controls Hub](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Guia de requisitos de segurança de computação em nuvem do DoD (SRG) e outros documentos](https://public.cyber.mil/dccs/dccs-documents/)
+- [Suporte ao Serviço de Nuvem da DISA](https://storefront.disa.mil/kinetic/disa/service-catalog#/forms/cloud-service-support)
+- [Protegendo informações controladas não classificadas em sistemas de informações não internos e organizações](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)
+- [Estrutura de segurança cibernética do NIST](https://www.nist.gov/cyberframework)
+- [Estrutura de Conformidade do Hub de Controles Comuns da Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

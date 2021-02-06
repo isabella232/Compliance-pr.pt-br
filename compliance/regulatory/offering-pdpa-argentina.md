@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c14d32a172dc5d6ea934abb20c7df956d43d3bb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506058"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119910"
 ---
 # <a name="personal-data-protection-act-pdpa-argentina"></a>Lei de Proteção de Dados Pessoais (PDPA) da Argentina
 
@@ -41,7 +41,7 @@ As medidas de segurança técnica e organizacional implementadas nos serviços d
 
 O contrato de transferência de dados da Microsoft é um aditamento (Aditamento ID M314) aos termos de processamento de dados em nossos Termos do Online Services. Ele adiciona compromissos importantes, incluindo que a Microsoft notificará o cliente sobre qualquer solicitação juridicamente vinculativa de divulgação de dados pessoais; enviará suas instalações de processamento de dados para auditoria a pedido do cliente, seja pelo cliente ou por um terceiro independente; e solicitará consentimento prévio por escrito para o uso de subcontratados.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
 - [Azure e Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
@@ -50,7 +50,7 @@ O contrato de transferência de dados da Microsoft é um aditamento (Aditamento 
 ## <a name="how-to-implement"></a>Como implementar
 
 - [Privacidade nos Serviços de Nuvem da Microsoft](https://www.microsoft.com/download/details.aspx?id=55710): obtenha detalhes sobre os princípios e normas de privacidade da Microsoft e sobre as leis de privacidade específicas da Argentina.  
-- [Proteção de dados do Azure](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data): o Azure fornece aos clientes uma forte segurança de dados, por padrão e como opções de cliente.
+- [Proteção de dados do Azure](/azure/security/azure-protection-of-customer-data): o Azure fornece aos clientes uma forte segurança de dados, por padrão e como opções de cliente.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -60,7 +60,7 @@ No final de 2018, a Argentina ainda não havia aplicado os regulamentos relacion
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

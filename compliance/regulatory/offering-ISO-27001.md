@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
-ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
+ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49759686"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120220"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Padrões de gerenciamento de segurança de informações ISO/IEC 27001:2013
 
@@ -111,7 +111,7 @@ A conformidade com esses padrões, confirmada por um auditor credenciado, demons
 
 **Onde posso obter relatórios de auditoria da ISO/IEC 27001 e declarações de escopo dos serviços da Microsoft?**
 
-O [Portal de Confiança do Serviço](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios para que assim seus auditores possam comparar os resultados dos serviços de nuvem da Microsoft com seus requisitos legais e regulatórios.
+O [Portal de Confiança do Serviço](/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios para que assim seus auditores possam comparar os resultados dos serviços de nuvem da Microsoft com seus requisitos legais e regulatórios.
 
 **A Microsoft realiza testes anuais de falhas de infraestrutura?**
 
@@ -130,7 +130,7 @@ Sim. Se a sua empresa exige a certificação ISO/IEC 27001 para implementações
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade tem uma avaliação prévia para essa regulamentação para clientes do Enterprise E5. Encontre o modelo para criar a avaliação na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade tem uma avaliação prévia para essa regulamentação para clientes do Enterprise E5. Encontre o modelo para criar a avaliação na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Gerenciador de Conformidade](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

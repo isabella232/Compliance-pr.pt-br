@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d6b0a96cfa82f9e0d841703d2124c0e9dda7fe1f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505858"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120930"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de Entidades de Dados para o RGPD e CCPA
 
@@ -86,9 +86,9 @@ A primeira etapa para responder a um DSR é encontrar os dados pessoais que são
 
 Depois de encontrar os dados, você pode executar uma ação específica que atenda à solicitação feita pelo titular dos dados. Para obter detalhes, confira os seguintes recursos:
 
-- [Conjunto de dados](https://docs.microsoft.com/intune/privacy-data-collect)
-- [Armazenamento e processamento de dados](https://docs.microsoft.com/intune/privacy-data-store-process)
-- [Exibir dados pessoais](https://docs.microsoft.com/intune/privacy-data-view-correct#view-personal-data)
+- [Conjunto de dados](/intune/privacy-data-collect)
+- [Armazenamento e processamento de dados](/intune/privacy-data-store-process)
+- [Exibir dados pessoais](/intune/privacy-data-view-correct#view-personal-data)
 
 ### <a name="step-2-access"></a>Etapa 2: Acesso
 
@@ -114,15 +114,15 @@ Como processador de dados, a Microsoft não oferece a capacidade de corrigir log
 
 ### <a name="step-4-restrict"></a>Etapa 4: Restrição
 
-Os entidades de dados podem solicitar que você restrinja o processamento de seus dados pessoais. Fornecemos tanto o portal do Azure como interfaces de programação de aplicativos (APIs) ou interfaces de usuário (UIs) pré-existentes. Essas experiências fornecem ao administrador de locatário do cliente corporativo a capacidade de gerenciar essas DSRs por meio de uma combinação de exportação e exclusão de dados. Para obter detalhes, consulte [Processando dados pessoais](https://docs.microsoft.com/intune/privacy-data-store-process#processing-personal-data).
+Os entidades de dados podem solicitar que você restrinja o processamento de seus dados pessoais. Fornecemos tanto o portal do Azure como interfaces de programação de aplicativos (APIs) ou interfaces de usuário (UIs) pré-existentes. Essas experiências fornecem ao administrador de locatário do cliente corporativo a capacidade de gerenciar essas DSRs por meio de uma combinação de exportação e exclusão de dados. Para obter detalhes, consulte [Processando dados pessoais](/intune/privacy-data-store-process#processing-personal-data).
 
 ### <a name="step-5-delete"></a>Etapa 5: Exclusão
 
-O "direito de apagar" pela remoção de dados pessoais dos Dados do cliente de uma organização é uma proteção essencial no GDPR. A remoção de dados pessoais inclui a remoção de todos os dados pessoais e logs gerados pelo sistema, exceto as informações do log de auditoria. Para mais detalhes, consulte [Excluir dados pessoais do usuário final](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
+O "direito de apagar" pela remoção de dados pessoais dos Dados do cliente de uma organização é uma proteção essencial no GDPR. A remoção de dados pessoais inclui a remoção de todos os dados pessoais e logs gerados pelo sistema, exceto as informações do log de auditoria. Para mais detalhes, consulte [Excluir dados pessoais do usuário final](/intune/privacy-data-audit-export-delete#delete-end-user-personal-data).
 
 ## <a name="part-2-system-generated-logs"></a>Parte 2: Logs gerados pelo sistema
 
-Os logs de auditoria dão aos administradores de locatário um registro de atividades que geram uma alteração no Microsoft Intune. Os Logs de Auditoria disponíveis para várias atividades de gerenciamento e normalmente criam, atualizam (editam), excluem e atribuem ações. Também é possível revisar tarefas remotas que geram eventos de auditoria. Esses logs de auditoria podem conter dados pessoais de usuários cujos dispositivos estão registrados no Intune. Os administradores não podem excluir os logs de auditoria. Para saber mais, confira [Auditoria de dados pessoais](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#audit-personal-data).
+Os logs de auditoria dão aos administradores de locatário um registro de atividades que geram uma alteração no Microsoft Intune. Os Logs de Auditoria disponíveis para várias atividades de gerenciamento e normalmente criam, atualizam (editam), excluem e atribuem ações. Também é possível revisar tarefas remotas que geram eventos de auditoria. Esses logs de auditoria podem conter dados pessoais de usuários cujos dispositivos estão registrados no Intune. Os administradores não podem excluir os logs de auditoria. Para saber mais, confira [Auditoria de dados pessoais](/intune/privacy-data-audit-export-delete#audit-personal-data).
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>Notificar problemas de exportação ou exclusão
 

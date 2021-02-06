@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd4082f2e38ee2c6a2f432ff5bef289ebe0fc69a
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+ms.openlocfilehash: c8d1247f915ee1c0c7714c0a5ef99553116cafd1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787510"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120260"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Publicação 1075 do Serviço de Receita Interna dos EUA
 
-## <a name="us-internal-revenue-service-publication-1075-overview"></a>Visão geral da Publicação 1075 da Receita Interna dos EUA
+## <a name="us-internal-revenue-service-publication-1075-overview"></a>Visão geral da Publicação 1075 do Serviço de Receita Interna dos EUA
 
-A Publicação 1075 da Receita Federal dos EUA (IRS 1075) fornece orientações para agências do governo dos EUA e seus agentes que acessam informações fiscais federais (FTI) para garantir que usem políticas, práticas e controles para proteger sua confidencialidade. A IrS 1075 visa minimizar o risco de perda, violação ou uso indevido de FTI mantido por agências governamentais externas. Por exemplo, um Departamento de Receita do estado que processa a FTI em retornos fiscais para seus residentes, ou agências de serviços de saúde que acessam a FTI, deve ter programas para proteger essas informações.  
+A Publicação 1075 da Receita Federal dos EUA (IRS 1075) fornece orientações para agências do governo dos EUA e seus agentes que acessam informações fiscais federais (FTI) para garantir que usem políticas, práticas e controles para proteger sua confidencialidade. A IRS 1075 tem como objetivo minimizar o risco de perda, violação ou uso indevido de FTI mantida por agências governamentais externas. Por exemplo, um Departamento de Receita do estado que processa a FTI em retornos fiscais para seus residentes, ou agências de serviços de saúde que acessam a FTI, deve ter programas para proteger essas informações.  
   
-Para proteger a FTI, a IRS 1075 estabelece controles de segurança e privacidade para serviços de aplicativo, plataforma e datacenter. Por exemplo, ele prioriza a segurança das atividades de datacenter, como a manipulação adequada da FTI, e a supervisão dos prestadores de dados para limitar a entrada. Para garantir que as agências governamentais que recebem a FTI apliquem esses controles, a Receita Federal dos EUA estabeleceu o Programa de Garantias, que inclui avaliações periódicas dessas agências e de seus prestadores de serviços.
+Para proteger a FTI, a IRS 1075 estabelece controles de segurança e privacidade para serviços de aplicativo, plataforma e datacenter. Por exemplo, ele prioriza a segurança das atividades de datacenter, como a manipulação adequada da FTI, e a supervisão dos prestadores de serviços de datacenter para limitar a entrada. Para garantir que as agências governamentais que recebem a FTI apliquem esses controles, a Receita Federal dos EUA estabeleceu o Programa de Garantias, que inclui avaliações periódicas dessas agências e de seus prestadores de serviços.
 
 ## <a name="microsoft-and-us-internal-revenue-service-publication-1075"></a>Publicação 1075 do Serviço de Receita Interna da Microsoft e dos EUA
 
@@ -39,10 +39,10 @@ Esses serviços de nuvem da Microsoft para o governo fornecem uma plataforma na 
   
 Para ajudar as agências governamentais em seus esforços de conformidade, a Microsoft:
 
-- Oferece orientações detalhadas para ajudar as agências a entender suas responsabilidades e como vários controles da Receita Federal dos EUA são mapeados para recursos no Azure Government e no Office 365 U.S. Government. O Relatório de Segurança de Proteção da IrS 1075 (SSR) documenta completamente como os serviços Microsoft implementam os controles aplicáveis da Receita Federal dos EUA e se baseia nos pacotes FedRAMP do Azure Government e do Office 365 U.S. Government. Como o IRS 1075 e o FedRAMP são baseados em NIST 800-53, o limite de conformidade para IRS 1075 é o mesmo que a autorização fedRAMP.
+- Oferece orientações detalhadas para ajudar as agências a entender suas responsabilidades e como vários controles da Receita Federal dos EUA são mapeados para recursos no Azure Government e no Office 365 U.S. Government. O Relatório de Segurança de Proteção (SSR) da IRS 1075 documenta completamente como os serviços Microsoft implementam os controles aplicáveis da Receita Federal dos EUA e se baseia nos pacotes FedRAMP do Azure Government e do Office 365 U.S. Government. Como o IRS 1075 e o FedRAMP são baseados em NIST 800-53, o limite de conformidade para IRS 1075 é o mesmo que a autorização fedRAMP.
 - A Receita Federal dos EUA deve aprovar explicitamente a liberação de qualquer documento de Garantias da Receita Federal dos EUA, para que somente os clientes governamentais sob o NDA possam revisar a SSR.
 - Disponibiliza relatórios de auditoria e informações de monitoramento produzidos por avaliadores independentes para seus serviços de nuvem.
-- Fornece às Considerações de Conformidade do Governo da Receita Federal do Azure e às Considerações de Conformidade do Office 365 do Governo dos EUA, que explicam como uma agência pode usar os serviços do Microsoft Cloud for Government de maneira que seja em conformidade com a IRS 1075. Os clientes governamentais sob o NDA podem solicitar esses documentos.
+- Fornece à Receita Federal dos EUA considerações de conformidade do Governo do Azure e às Considerações de Conformidade do Office 365 do Governo dos EUA, que explicam como uma agência pode usar os serviços do Microsoft Cloud for Government de maneira que seja em conformidade com a IRS 1075. Os clientes governamentais sob NDA podem solicitar esses documentos.
 - Oferece aos clientes a oportunidade (às suas custas) de se comunicar com especialistas no assunto da Microsoft ou auditores externos, se necessário.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
@@ -60,7 +60,7 @@ As autorizações fedRAMP são concedidas em três níveis de impacto com base n
 A conformidade com os requisitos substantivos da IRS 1075 é coberta pela auditoria do FedRAMP todos os anos.
 
 - [Autorizações fedRAMP](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
-- [Relatório de segurança de proteção do Azure IRS 1075](https://aka.ms/AzureIRS1075SafeguardSecurityReport)
+- [Relatório de segurança de proteção da IrS 1075 do Azure](https://aka.ms/AzureIRS1075SafeguardSecurityReport)
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -80,7 +80,7 @@ Não. Os únicos ambientes onde a FTI pode ser armazenada e processada são o Az
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

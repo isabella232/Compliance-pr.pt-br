@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3bfbddcf9518e86c747315b4eac472ac42365ede
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506103"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120140"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>Padrões dos Sistemas de Gestão da Qualidade ISO 9001:2015
 
@@ -33,7 +33,7 @@ A ISO 9001:2015 é uma norma internacional que estabelece os critérios de um si
 
 Uma empresa de auditoria de terceiros independente realizou uma rigorosa análise do Microsoft Azure e de vários serviços on-line da Microsoft da adesão aos princípios de gerenciamento de qualidade estabelecidos pela ISO 9001:2015. A certificação de terceiros disponível fornece confirmação independente de que o Azure e os serviços on-line cobertos da Microsoft atendem aos requisitos ISO 9001:2015.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
 
 - [Azure, Azure Governamental e Azure Alemanha](https://aka.ms/AzureCompliance)
 - Segurança no aplicativo na nuvem da Microsoft
@@ -63,7 +63,7 @@ Esse padrão de prática fornece orientação e ferramentas para provedores de s
 
 **Onde posso obter relatórios de auditoria da ISO/IEC 9001:2015 e declarações de escopo dos serviços da Microsoft?**
 
-O [Portal de Confiança de Serviços](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode utilizar o portal para solicitar relatórios para que seus auditores possam comparar os resultados dos serviços em nuvem da Microsoft com suas solicitações legais e regulatórias. O [Relatório de Avaliação ISO 9001 do Microsoft Azure FY17](https://www.microsoft.com/?ref=aka) e o [Certificado ISO 9001 do Microsoft Azure FY 17](https://www.microsoft.com/?ref=aka) estão disponíveis.
+O [Portal de Confiança de Serviços](/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode utilizar o portal para solicitar relatórios para que seus auditores possam comparar os resultados dos serviços em nuvem da Microsoft com suas solicitações legais e regulatórias. O [Relatório de Avaliação ISO 9001 do Microsoft Azure FY17](https://www.microsoft.com/?ref=aka) e o [Certificado ISO 9001 do Microsoft Azure FY 17](https://www.microsoft.com/?ref=aka) estão disponíveis.
 
 **A Microsoft realiza testes anuais quanto a falhas de infraestrutura?**
 

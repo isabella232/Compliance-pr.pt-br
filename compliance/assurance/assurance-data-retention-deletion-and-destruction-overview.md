@@ -18,41 +18,41 @@ ms.collection:
 f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b7ddad5252278c730a73a861522e672c0c5a4717
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 025e2c422c05dbffdf5a510f93809beaed3fe09d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505682"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120650"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Retenção, exclusão e destruição de dados no Microsoft 365
 
-A Microsoft tem uma política padrão de manipulação de dados para o Microsoft 365 que especifica por quanto tempo os dados do cliente são mantidos após a exclusão. Em geral, há dois cenários nos quais os dados do cliente são excluídos:
+A Microsoft tem uma política Padrão de Manipulação de Dados para o Microsoft 365 que especifica por quanto tempo os dados do cliente são mantidos após a exclusão. Geralmente, há dois cenários em que os dados do cliente são excluídos:
 
-- **Exclusão ativa**: o locatário tem uma assinatura ativa e um usuário ou administrador exclui os dados ou os administradores excluem um usuário.
+- **Exclusão Ativa**: o locatário tem uma assinatura ativa e um usuário ou administrador exclui dados, ou os administradores excluem um usuário.
 - **Exclusão passiva**: a assinatura do locatário termina.
 
 ## <a name="data-retention"></a>Retenção de dados
 
 Para cada um desses cenários de exclusão, a tabela a seguir mostra o período máximo de retenção de dados, por categoria e classificação de dados:
 
-| Categoria de dados | Classificação de dados | Descrição | Exemplos | Período de retenção |
+| Categoria de Dados | Classificação de Dados | Descrição | Exemplos | Período de retenção |
 |-----------------|-----------------|-----------------|----------------------------------|-------------------------------|
-| Dados do cliente | Conteúdo do cliente| Conteúdo fornecido diretamente/criado por administradores e usuários <br><br> Inclui todos os textos, sons, vídeos, arquivos de imagem e software criados e armazenados nos data centers da Microsoft ao usar os serviços no Microsoft 365 | Exemplos de aplicativos do Microsoft 365 usados com mais frequência que permitem aos usuários criar dados incluem Word, Excel, PowerPoint, Outlook e OneNote <br><br> O conteúdo do cliente também inclui segredos de Propriedade do cliente/fornecidos (senhas, certificados, chaves de criptografia, chaves de armazenamento) | **Cenário de exclusão ativa:** no máximo 30 dias <br><br> **Cenário de exclusão passiva:** no máximo 180 dias |
-| Dados do cliente | Informações de identificação do usuário final (EUII) | Dados que identificam ou podem ser usados para identificar o usuário de um serviço Microsoft. EUII não contém conteúdo do cliente | Nome de usuário ou nome de exibição (domínio \ nome_de_usuário) <br><br> Nome principal do usuário (name@domain) <br><br>  Endereços IP específicos do usuário | **Cenário de exclusão ativa:** no máximo 180 dias (apenas uma ação de administrador de locatário) <br><br> **Cenário de exclusão passiva:** no máximo 180 dias |
-| Dados pessoais <br> (dados não incluídos nos dados do cliente) | Identificadores de pseudônimos do usuário final (EUPI) | Um identificador criado pela Microsoft ligado ao usuário de um serviço Microsoft. Quando combinado com outras informações, como uma tabela de mapeamento, EUPI identifica o usuário final <br><br> EUPI não contém informações carregadas ou criadas pelo cliente | GUIDs de usuário, PUIDs ou SIDs <br><br> IDs de sessão | **Cenário de exclusão ativa:** no máximo 30 dias <br><br> **Cenário de exclusão passiva:** no máximo 180 dias |
+| Dados do cliente | Conteúdo do cliente| Conteúdo fornecido/criado diretamente por administradores e usuários <br><br> Inclui todo o texto, som, vídeo, arquivos de imagem e software criados e armazenados em data centers da Microsoft ao usar os serviços no Microsoft 365 | Exemplos dos aplicativos do Microsoft 365 mais usados que permitem aos usuários a autoria de dados incluem Word, Excel, PowerPoint, Outlook e OneNote <br><br> O conteúdo do cliente também inclui segredos de propriedade do cliente/fornecidos (senhas, certificados, chaves de criptografia, chaves de armazenamento) | **Cenário de exclusão ativa:** no máximo 30 dias <br><br> **Cenário de exclusão passiva:** no máximo 180 dias |
+| Dados do cliente | EuII (Informações de Identificação do Usuário Final) | Dados que identificam ou podem ser usados para identificar o usuário de um serviço da Microsoft. EUII não contém conteúdo do cliente | Nome de usuário ou nome de exibição (DOMAIN\UserName) <br><br> Nome principal do usuário (name@domain) <br><br>  Endereços IP específicos do usuário | **Cenário de Exclusão Ativa:** no máximo 180 dias (somente uma ação de administrador de locatários) <br><br> **Cenário de exclusão passiva:** no máximo 180 dias |
+| Dados pessoais <br> (dados não incluídos nos Dados do Cliente) | Identificadores pseudônimos do usuário final (EUPI) | Um identificador criado pela Microsoft vinculado ao usuário de um serviço da Microsoft. Quando combinado com outras informações, como uma tabela de mapeamento, o EUPI identifica o usuário final <br><br> O EUPI não contém informações carregadas ou criadas pelo cliente | GUIDs, PUIDs ou SIDs do usuário <br><br> IDs de sessão | **Cenário de exclusão ativa:** no máximo 30 dias <br><br> **Cenário de exclusão passiva:** no máximo 180 dias |
 
-## <a name="subscription-retention"></a>Retenção de assinatura
+## <a name="subscription-retention"></a>Retenção de Assinatura
 
-No termo de uma assinatura ativa, um assinante pode acessar, extrair ou excluir dados do cliente armazenados no Microsoft 365. Se uma assinatura paga terminar ou for finalizada, a Microsoft manterá os dados do cliente armazenados no Microsoft 365 em uma conta de função limitada por 90 dias para habilitar o assinante a extrair os dados. Após o término do período de retenção de 90 dias, a Microsoft desabilita a conta e exclui os dados do cliente. Não mais de 180 dias após a expiração ou o encerramento de uma assinatura para a Microsoft 365, a Microsoft desabilita a conta e exclui todos os dados do cliente da conta. Quando o período de retenção máximo de qualquer dado tiver decorrido, os dados são renderizados de uma recuperação comercial.
+No termo de uma assinatura ativa, um assinante pode acessar, extrair ou excluir dados do cliente armazenados no Microsoft 365. Se uma assinatura paga terminar ou for encerrada, a Microsoft manterá os dados do cliente armazenados no Microsoft 365 em uma conta de função limitada por 90 dias para permitir que o assinante extraia os dados. Após o período de retenção de 90 dias, a Microsoft desabilita a conta e exclui os dados do cliente. No prazo de 180 dias após a expiração ou o término de uma assinatura do Microsoft 365, a Microsoft desabilita a conta e exclui todos os dados do cliente da conta. Depois que o período máximo de retenção de todos os dados tiver decorrido, os dados serão renderizados comercialmente irrecuperáveis.
 
-Para uma avaliação gratuita, sua conta é movida para um status de cortesia por 30 dias na maioria dos países e regiões. Durante esse período de cortesia, você pode comprar o Microsoft 365. Se você decidir não comprar o Microsoft 365, poderá cancelar sua avaliação ou deixar que o período de cortesia expire, e as informações e dados da sua conta serão excluídos.
+Para uma avaliação gratuita, sua conta passa para um status de carência por 30 dias na maioria dos países e regiões. Durante esse período de cortesia, você pode comprar o Microsoft 365. Se você decidir não comprar o Microsoft 365, poderá cancelar sua avaliação ou deixar que o período de cortesia expire, e as informações e dados da sua conta serão excluídos.
 
-## <a name="expedited-deletion"></a>Exclusão acelerada
+## <a name="expedited-deletion"></a>Exclusão Expedida
 
-Para qualquer assinatura, um assinante pode entrar em contato com o suporte da Microsoft e solicitar o provisionamento acelerado de assinatura. Nesse processo, todos os dados do usuário são excluídos três dias após o administrador inserir o código de bloqueio fornecido pela Microsoft. Isso inclui dados no SharePoint Online e no Exchange Online em retenção ou armazenados em caixas de correio inativas.
+Para qualquer assinatura, um assinante pode entrar em contato com o Suporte da Microsoft e solicitar o des provisionamento de assinatura expedido. Nesse processo, todos os dados do usuário são excluídos três dias após o administrador inserir o código de bloqueio fornecido pela Microsoft. Isso inclui dados no SharePoint Online e no Exchange Online em espera ou armazenados em caixas de correio inativas.
 
-Para obter mais informações sobre o provisionamento acelerado, confira [cancelar sua assinatura](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Para obter mais informações sobre o des provisionamento expedido, consulte [Cancelar sua assinatura.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
 ## <a name="related-links"></a>Links relacionados
 

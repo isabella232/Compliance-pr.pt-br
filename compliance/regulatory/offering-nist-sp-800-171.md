@@ -1,6 +1,6 @@
 ---
-title: SP DO NIST 800-171
-description: Os serviços do Microsoft Cloud estão em conformidade com as diretrizes do NIST SP 800-171 para proteger informações não classificadas (CUI) controladas em sistemas de informações não federais.
+title: NIST SP 800-171
+description: Os serviços de nuvem da Microsoft estão em conformidade com as diretrizes NIST SP 800-171 para proteger informações controladas não classificadas (CUI) em sistemas de informações não essenciais.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,66 +16,66 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
-ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
+ms.openlocfilehash: da5e2621969ff9cd4ce2778fa7f075522454aef7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49712079"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121110"
 ---
-# <a name="nist-sp-800-171"></a>SP DO NIST 800-171
+# <a name="nist-sp-800-171"></a>NIST SP 800-171
 
 ## <a name="about-nist-sp-800-171"></a>Sobre o NIST SP 800-171
 
-O Federal Institute of Standards and Technology (NIST) promove e mantém padrões e diretrizes de medição para ajudar a proteger as informações e os sistemas de informações de agências federais. Em resposta à ordem executiva 13556 em gerenciar informações não classificadas (CUI) controladas, ela publicou o [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-1/final), *protegendo as informações não classificadas não-federais em sistemas e organizações de informações não federais*. A CUI é definida como informação, digital e física, criada por um governo (ou uma entidade em seu nome) que, embora não classificada, ainda seja confidencial e exija proteção.
+O Instituto Nacional de Padrões e Tecnologia dos EUA (NIST) promove e mantém padrões de medição e diretrizes para ajudar a proteger os sistemas de informações e informações de agências federais. Em resposta à Ordem Executiva 13556 sobre o gerenciamento de informações controladas não classificadas (CUI), ela publicou o [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-1/final) *,* protegendo informações controladas não classificadas em sistemas de informações não internos e organizações. A CUI é definida como informações, digitais e físicas, criadas por um governo (ou uma entidade em seu nome) que, embora não seja classificada, ainda são confidenciais e exigem proteção.
 
-O NIST SP 800-171 foi originalmente publicado em junho de 2015 e foi atualizado várias vezes desde então, em resposta ao desenvolvimento de ciberataques. Ele fornece diretrizes sobre como a CUI deve ser acessada com segurança, transmitida e armazenada em sistemas de informações não federais e organizações; seus requisitos se enquadram em quatro categorias principais:
+O NIST SP 800-171 foi originalmente publicado em junho de 2015 e foi atualizado várias vezes desde então em resposta à evolução de ameaças cibernéticas. Ele fornece diretrizes sobre como as CUI devem ser acessadas, transmitidas e armazenadas com segurança em sistemas de informações e organizações não pessoais; seus requisitos se enquadram em quatro categorias principais:
 
 - Controles e processos para gerenciar e proteger
-- Monitoramento e gerenciamento de sistemas de ti
-- Práticas e procedimentos claros para usuários finais
-- Implementação de medidas de segurança tecnológicas e físicas
+- Monitoramento e gerenciamento de sistemas de IT
+- Limpar práticas e procedimentos para usuários finais
+- Implementação de medidas de segurança física e tecnológica
 
 ## <a name="microsoft-and-nist-sp-800-171"></a>Microsoft e NIST SP 800-171
 
-Organizações de avaliação de terceiros credenciadas, Kratos SecureInfo e Coalfire, parceria com a Microsoft para atestar que seus serviços de nuvem dentro do escopo atendem aos critérios no NIST SP 800-171, *protegendo informações não classificadas (CUI) controladas em sistemas de informações não federais e organizações*, quando processam a cui. A [implementação da Microsoft de requisitos do FedRAMP](offering-fedramp.md) ajuda a garantir que os serviços de nuvem dentro do escopo da Microsoft atendam ou excedam os requisitos do NIST SP 800-171 usando os sistemas e as práticas já existentes.
+Organizações de avaliação de terceiros credenciadas, Kratos Secureinfo e Coalfire, em parceria com a Microsoft para atestar que seus serviços de nuvem no escopo atendem aos critérios no NIST SP 800-171, protegendo informações controladas não classificadas *(CUI)* em organizações e sistemas de informações não internos ao processar CUI. A implementação da Microsoft dos requisitos do [FedRAMP](offering-fedramp.md) ajuda a garantir que os serviços de nuvem no escopo da Microsoft atendem ou excedem os requisitos do NIST SP 800-171 usando os sistemas e as práticas já em execução.
 
-Os requisitos do NIST SP 800-171 são um subconjunto do NIST SP 800-53, o padrão que o FedRAMP usa. O Apêndice D do NIST SP 800-171 fornece um mapeamento direto de seus requisitos de segurança da CUI para os controles de segurança relevantes no NIST SP 800-53, para os quais os serviços de nuvem dentro do escopo já foram avaliados e autorizados no programa FedRAMP.
+Os requisitos NIST SP 800-171 são um subconjunto do NIST SP 800-53, o padrão que o FedRAMP usa. O Apêndice D do NIST SP 800-171 fornece um mapeamento direto de seus requisitos de segurança de CUI para os controles de segurança relevantes no NIST SP 800-53, para os quais os serviços de nuvem no escopo já foram avaliados e autorizados no programa FedRAMP.
 
-Qualquer entidade que processa ou armazena CUI do governo dos EUA — instituições de pesquisa, empresas de consultoria, prestadores de serviços de produção devem estar em conformidade com os requisitos estritos do NIST SP 800-171. Este atestado significa que os serviços de nuvem em escopo da Microsoft podem acomodar clientes que procuram implantar cargas de trabalho da CUI com a garantia de que a Microsoft está em conformidade total. Por exemplo, todos os prestadores de serviço do DoD que processam, armazenam ou transmitem "informações sobre defesa abordadas" usando os serviços de nuvem da Microsoft em seus sistemas de informações atendem às cláusulas do departamento de defesa dos EUA que exigem conformidade com os requisitos de segurança do NIST SP 800-171.
+Qualquer entidade que processe ou armazene a CUI do governo dos EUA — instituições de pesquisa, empresas de consultoria, prestadores de serviços de fabricação, devem atender aos rigorosos requisitos do NIST SP 800-171. Esse atestado significa que os serviços de nuvem no escopo da Microsoft podem acomodar os clientes que procuram implantar cargas de trabalho de CUI com a garantia de que a Microsoft está em conformidade total. Por exemplo, todos os prestadores de serviços do DoD que processam, armazenam ou transmitem "informações de defesa cobertas" usando os serviços de nuvem da Microsoft no escopo em seus sistemas de informações atendem às cláusulas DFARS do Departamento de Defesa dos EUA que exigem conformidade com os requisitos de segurança do NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
 
-- [Governo do Azure](https://aka.ms/AzureCompliance)
-- [Azure comercial](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
-- [Dynamics 365 governo dos EUA](https://aka.ms/d365-compliance-list)
+- [Azure Government](https://aka.ms/AzureCompliance)
+- [Azure Comercial](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
+- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365 U.S. Community Cloud (GCC), Office 365 GCC High e DoD](https://aka.ms/o365-compliance-framework)
+- [Office 365 U.S. Government Community Cloud (GCC), Office 365 GCC High e DoD](https://aka.ms/o365-compliance-framework)
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-- [Atestado de conformidade do governo do Azure com o NIST SP 800-171](https://aka.ms/Azure-NIST-800-171)
+- [Atestado de conformidade do Azure Governamental com o NIST SP 800-171](https://aka.ms/Azure-NIST-800-171)
 
 ## <a name="how-to-implement"></a>Como implementar
 
-- [Exemplos do Azure Blueprint](https://docs.microsoft.com/azure/governance/blueprints/samples/): Obtenha suporte para implementar cargas de trabalho compatíveis com controles baseados em NIST.
+- [Exemplos de Blueprint do Azure:](/azure/governance/blueprints/samples/)obter suporte para implementar cargas de trabalho que estão em conformidade com controles baseados em NIST.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Posso usar a conformidade da Microsoft com o NIST SP 800-171 para minha organização?**
 
-Sim. Os clientes da Microsoft podem usar os controles auditados descritos nos relatórios de organizações de avaliação de terceiros independentes (3PAO) em padrões do FedRAMP como parte de suas próprias análises de risco do FedRAMP e do NIST e seus esforços de qualificação. Esses relatórios atestam a eficácia dos controles que a Microsoft implementou em seus serviços em nuvem no escopo. Os clientes são responsáveis por garantir que as cargas de trabalho da CUI estejam em conformidade com as diretrizes do NIST SP 800-171.
+Sim. Os clientes da Microsoft podem usar os controles auditados descritos nos relatórios de organizações independentes de avaliação de terceiros (3PAO) nos padrões FedRAMP como parte de seus próprios esforços de análise e qualificação de risco FedRAMP e NIST. Esses relatórios atestam a eficácia dos controles que a Microsoft implementou em seus serviços de nuvem no escopo. Os clientes são responsáveis por garantir que suas cargas de trabalho de CUI estão em conformidade com as diretrizes do NIST SP 800-171.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
-- [A certificação DoD da Microsoft atende aos requisitos do NIST 800-171](offering-DoD-DISA-L2-L4-L5.md)
-- [A conformidade do NIST 800-171 começa com a documentação do cybersecurity](https://www.nist800171.com/)
-- [Autorizações do FedRAMP de serviços em nuvem da Microsoft](https://marketplace.fedramp.gov/index.html?status=Compliant&sort=productName#/products)
-- [NIST 800-171 3,3 auditoria e responsabilidade com o Office 365 GCC High](https://info.summit7systems.com/blog/nist-3.3-audit-and-accountability-with-office-365)
-- [A estrutura do cybersecurity da Microsoft e do NIST](offering-nist-csf.md)
+- [A Certificação DoD da Microsoft atende aos requisitos NIST 800-171](offering-DoD-DISA-L2-L4-L5.md)
+- [A conformidade do NIST 800-171 começa com a documentação de segurança cibernética](https://www.nist800171.com/)
+- [Autorizações fedRAMP dos Serviços de Nuvem da Microsoft](https://marketplace.fedramp.gov/index.html?status=Compliant&sort=productName#/products)
+- [NIST 800-171 3.3 Audit and Accountability with Office 365 GCC High](https://info.summit7systems.com/blog/nist-3.3-audit-and-accountability-with-office-365)
+- [Microsoft e a Estrutura de Segurança Cibernética do NIST](offering-nist-csf.md)
 - [Nuvem Governamental da Microsoft](https://www.microsoft.com/enterprise/government)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -1,6 +1,6 @@
 ---
-title: Government-Cloud do Reino Unido (G-Cloud)
-description: O serviço comercial de coroa renovou a classificação dos serviços de nuvem da Microsoft para a nuvem do governo v. 6.
+title: United Kingdom Government-Cloud (G-Cloud)
+description: O Serviço Comercial da Microsoft renovou a classificação dos serviços de nuvem da Microsoft para o Government Cloud v.6.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,32 +16,32 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27d4fd3a274e272110bb502b30684b97cf592ef5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 1d769597d957896f699a6231891eea14bd77ca04
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505691"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120310"
 ---
-# <a name="united-kingdom-government-cloud-g-cloud"></a>Government-Cloud do Reino Unido (G-Cloud)
+# <a name="united-kingdom-government-cloud-g-cloud"></a>United Kingdom Government-Cloud (G-Cloud)
 
-## <a name="uk-g-cloud-overview"></a>Visão geral do Reino Unido G-Cloud
+## <a name="uk-g-cloud-overview"></a>Visão geral do Reino Unido do G-Cloud
 
-A nuvem governamental (G-Cloud) é uma iniciativa governamental do Reino Unido para facilitar a aquisição de serviços em nuvem por departamentos governamentais e promover a adoção de nuvem em todo o governo. O G-Cloud consiste em uma série de acordos de estrutura com fornecedores de serviços de nuvem (como a Microsoft) e uma lista de seus serviços em uma loja online, o mercado digital. Eles permitem que as organizações do setor público comparem e adquiram esses serviços sem ter que fazer seu próprio processo de revisão completa. A inclusão no mercado digital requer um autoatestado de conformidade, seguida de uma verificação realizada pela filial do serviço de digital (GDS) do governo, a seu critério.
+O Government Cloud (G-Cloud) é uma iniciativa governamental do Reino Unido para facilitar a compra de serviços de nuvem por departamentos governamentais e promover a adoção de computação em nuvem em todo o governo. O G-Cloud compreende uma série de acordos de estrutura com fornecedores de serviços de nuvem (como a Microsoft) e uma listagem de seus serviços em uma loja online, o Marketplace Digital. Eles permitem que as organizações do setor público comparem e adquirirem esses serviços sem precisar fazer seu próprio processo de revisão completa. A inclusão no Marketplace Digital exige um autoteste de conformidade, seguido por uma verificação realizada pela ramificação do Serviço Digital Governamental (GDS) a seu critério.
 
-O processo de compromisso G-Cloud foi simplificado no 2014 para reduzir o tempo e o custo para o governo do Reino Unido, e o esquema de classificação de segurança do governo foi simplificado de seis a três níveis: oficiais, secreto e o segredo principal. (Os níveis de certificação G-Cloud não são mais expressos como nível de impacto ou IL; A Microsoft antes ocupou uma capacitação de IL2 para Microsoft Azure, Microsoft Dynamics 365 e Microsoft Office 365.)
+O processo de compromisso do G-Cloud foi simplificado em 2014 para reduzir o tempo e o custo para o governo do Reino Unido, e o esquema de classificação de segurança do governo foi simplificado de seis a três níveis: OFICIAL, SECRETO e TOP SECRET. (Os níveis de certificação do G-Cloud não são mais expressos como um Nível de Impacto ou IL; A Microsoft anteriormente tinha uma credencial IL2 para o Microsoft Azure, o Microsoft Dynamics 365 e o Microsoft Office 365.)
 
-Em vez da avaliação central dos serviços de nuvem anteriormente fornecidos, o novo processo exige que os provedores de serviços de nuvem autocertificate e forneçam evidências de suporte dos 14 princípios de segurança na nuvem da G-Cloud. Isso não mudou a evidência que a Microsoft produz ou os padrões que a empresa adere.
+Em vez da avaliação central dos serviços de nuvem fornecidos anteriormente, o novo processo exige que os provedores de serviços de nuvem auto-certificam e fornecem evidências no suporte aos 14 Princípios de Segurança na Nuvem do G-Cloud. Isso não mudou as evidências que a Microsoft produz ou os padrões que a empresa segue.
 
-## <a name="microsoft-and-uk-g-cloud"></a>Microsoft e Reino Unido G-Cloud
+## <a name="microsoft-and-uk-g-cloud"></a>Microsoft e Uk G-Cloud
 
-Todos os anos, a Microsoft prepara a documentação e envia evidências para atestar que seus serviços de nuvem corporativos em escopo estejam em conformidade com os princípios, proporcionando aos clientes da nuvem em potencial uma visão geral de seu ambiente de risco. (Assim como a certificação de G-Cloud anterior, ela se baseia na certificação ISO 27001.) Uma credencial GDS, em seguida, realiza várias verificações aleatórias na instrução de declaração da Microsoft, amostras de evidência e faz uma determinação de conformidade.
+Todos os anos, a Microsoft prepara a documentação e envia evidências para atestar que seus serviços de nuvem empresarial no escopo estão em conformidade com os princípios, dando aos clientes em potencial do G-Cloud uma visão geral de seu ambiente de risco. (Assim como com a certificação anterior do G-Cloud, ela depende da certificação ISO 27001.) Um credenciador do GDS realiza várias verificações aleatórias na declaração de declaração da Microsoft, amostra as evidências e faz uma determinação da conformidade.
 
-O compromisso dos serviços da Microsoft para o mercado digital significa que agências e parceiros governamentais do Reino Unido podem usar os serviços no escopo para armazenar e processar dados governamentais oficiais do Reino Unido, a maioria dos dados do governo. Além disso, há agora mais de 450 parceiros da Microsoft incluídos na nuvem G que são revendedores dos serviços de nuvem da Microsoft. Eles podem declarar diretamente a conformidade de serviços no escopo com os 14 princípios em seus próprios aplicativos. Os clientes e parceiros, no entanto, precisarão alcançar sua própria conformidade para qualquer componente que não esteja incluído no atestado e determinação de conformidade para os serviços de nuvem da Microsoft.
+O compromisso dos serviços Microsoft com o Marketplace Digital significa que agências e parceiros do governo do Reino Unido podem usar serviços no escopo para armazenar e processar dados governamentais OFICIAIS do Reino Unido, a maioria dos dados governamentais. Além disso, agora há mais de 450 parceiros da Microsoft incluídos no G-Cloud que são revendedores de serviços em nuvem da Microsoft. Eles podem declarar diretamente a conformidade dos serviços no escopo com os 14 princípios em seus próprios aplicativos. Os clientes e parceiros, no entanto, precisarão atingir sua própria conformidade com todos os componentes que não estão incluídos no atestado e na determinação da conformidade dos serviços de nuvem da Microsoft.
 
- [14 controles de segurança na nuvem para a nuvem do Reino Unido usando o Microsoft Azure](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) fornece estratégias de cliente para mover seus serviços para o Azure e ajudar a atender às obrigações do Reino Unido obrigatórias pelo CESG/NSCS. O White paper fornece informações sobre como o Azure pode ser usado para ajudar a lidar com os 14 controles descritos nas entidades de segurança na nuvem e descreve como os clientes podem se movimentar mais rapidamente e obter mais, ao mesmo tempo, economizar dinheiro à medida que eles adotarem os serviços do Microsoft Azure.
+ [14 Controles](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) de Segurança na Nuvem para a nuvem do Reino Unido usando o Microsoft Azure fornece estratégias de clientes para mover seus serviços para o Azure e ajudar a cumprir suas obrigações do Reino Unido impostas pelo CESG/NSCS. O whitepaper fornece informações sobre como o Azure pode ser usado para ajudar a lidar com os 14 controles descritos nas entidades de segurança na nuvem e descreve como os clientes podem se mover mais rapidamente e obter mais, economizando dinheiro enquanto adotam serviços do Microsoft Azure.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Segurança no aplicativo na nuvem da Microsoft
@@ -49,69 +49,69 @@ O compromisso dos serviços da Microsoft para o mercado digital significa que ag
 - Intune
 - Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - Office 365: Exchange Online, SharePoint Online e Skype for Business Online
-- Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
+- Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou do Dynamics 365
 - Serviço em nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-Para confirmar que os serviços de nuvem da Microsoft mantêm sua conformidade com os contratos G-Cloud, o GDS credenciador pode revisar evidências a qualquer momento, a qualquer momento.
+Para confirmar que os serviços de nuvem da Microsoft mantêm a conformidade com os contratos do G-Cloud, o credenciador do GDS pode revisar as evidências a qualquer momento, a seu critério.
 
 ### <a name="azure"></a>Azure
 
-- [Ambiente de risco de nuvem do Azure UK G](https://go.microsoft.com/fwlink/?linkid=2099702)
-- [Risco residual de nuvem do Azure UK G](https://go.microsoft.com/fwlink/?linkid=2099497)
-- [Resumo de avaliação da nuvem do Intune G no Cloud Security](https://go.microsoft.com/fwlink/?linkid=2099703)
+- [Azure UK G-Cloud Risk Environment](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Risco residuográfico de nuvem do Azure UK G](https://go.microsoft.com/fwlink/?linkid=2099497)
+- [Resumo da Avaliação de Nuvem do Intune G Cloud Security do Intune](https://go.microsoft.com/fwlink/?linkid=2099703)
 
 ### <a name="dynamics-365"></a>Dynamics 365
 
-- [Ambiente de risco de nuvem do Dynamics 365 UK G](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Dynamics 365 UK G cloud Risk Environment](https://go.microsoft.com/fwlink/?linkid=2099702)
 
 ### <a name="intune"></a>Intune
 
-- [Ambiente de risco da nuvem do Intune G no Reino Unido](https://go.microsoft.com/fwlink/?linkid=2099702)
-- [Risco residual de nuvem do Intune G no Reino Unido](https://aka.ms/IntuneUKGCloudResidualRisk)
-- [Resumo de avaliação da segurança na nuvem do Azure UK G](https://aka.ms/IntuneUKGCloudSecurityAssessmentSummary)
+- [Ambiente de risco de nuvem G do Intune no Reino Unido](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Risco residuante de nuvem G do Intune no Reino Unido](https://aka.ms/IntuneUKGCloudResidualRisk)
+- [Resumo da Avaliação de Segurança na Nuvem do Azure G no Reino Unido](https://aka.ms/IntuneUKGCloudSecurityAssessmentSummary)
 
 ### <a name="office-365"></a>Office 365
 
-- [Ambiente de risco de nuvem do Office 365 UK G](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Office 365 UK G cloud Risk Environment](https://go.microsoft.com/fwlink/?linkid=2099702)
 
-## <a name="accelerate-your-deployment-of-uk-g-cloud-solutions-on-azure"></a>Acelere a implantação das soluções de nuvem G-Cloud no Azure
+## <a name="accelerate-your-deployment-of-uk-g-cloud-solutions-on-azure"></a>Acelere sua implantação de soluções de nuvem G no Reino Unido no Azure
 
-Mover seus serviços governamentais para a nuvem agora é mais fácil do que nunca usar o Blueprint de segurança e conformidade do Azure no Reino Unido. Este Blueprint fornece orientações e scripts automatizados que o ajudarão a desenvolver soluções compatíveis hoje.
+Mover seus serviços governamentais para a nuvem agora está mais fácil do que nunca usando o Blueprint de Segurança e Conformidade do Reino Unido do Azure. Este blueprint fornece orientações e scripts automatizados que o orientam a começar a criar soluções compatíveis hoje.
 
-[Começar a usar o plano gráfico de nuvem do Azure UK](https://aka.ms/ukofficialblueprint)
+[Comece a usar o Blueprint do Azure UK G-Cloud](https://aka.ms/ukofficialblueprint)
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
-**Quem está qualificado para usar o mercado digital?**
+**Quem está qualificado para usar o Marketplace Digital?**
 
-Todos os departamentos governamentais do Reino Unido, as administraçãos do devolved, as autoridades locais, os órgãos do setor público e de comprimento do braço estão qualificados para comprar serviços no Marketplace. Se você não tiver certeza de sua elegibilidade, consulte a [lista completa de organizações do setor público](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore).
+Todos os departamentos governamentais do Reino Unido, administraçãos evoluidas, autoridades locais, corpos mais amplos do setor público e corpos de tamanho de arm estão qualificados para comprar serviços no marketplace. Se você não tiver certeza de sua qualificação, consulte a lista completa de [organizações do setor público.](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)
 
-**O que é o corpo de comprimento do braço?**
+**O que é o corpo de um arm?**
 
-É uma organização ou agência financiada pelo governo do Reino Unido, mas age de forma independente.
+É uma organização ou agência que é fundoda pelo governo do Reino Unido, mas atua independentemente dela.
 
-**O que significam locais de datacenter locais para os clientes do Reino Unido e onde eles estão localizados?**
+**O que os locais de datacenter locais significam para clientes do Reino Unido e onde eles estão localizados?**
 
-A nuvem da Microsoft no Reino Unido fornece confiabilidade e desempenho combinados com a residência de dados no Reino Unido. Esse suporte fornece aos clientes serviços de nuvem confiáveis que os ajudam a atender aos requisitos de conformidade e política local. Além disso, a replicação de dados em vários datacenters no Reino Unido fornece aos clientes proteção de dados de redundância geográfica para continuidade de negócios, para cenários de nuvem pura e híbrida. Temos data centers em vários locais em todo o Reino Unido.
+O Microsoft Cloud no Reino Unido fornece confiabilidade e desempenho combinados com a residência de dados no Reino Unido. Esse suporte fornece aos clientes serviços de nuvem confiáveis que os ajudam a atender aos requisitos locais de conformidade e política. Além disso, a replicação de dados em vários datacenters no Reino Unido oferece aos clientes proteção de dados com redundância geográfica para continuidade de negócios, tanto para cenários puros de nuvem quanto híbridos. Temos datacenters em vários locais no Reino Unido.
 
-- Você pode ver as novas regiões do Azure, o Reino Unido e o ru do Reino Unido no [mapa global do Azure](https://azuredatacentermap.azurewebsites.net/).
-- Para o Office 365, os datacenters do Reino Unido compõem a nova região do Office 365 do Reino Unido. Você pode ver mais no [mapa global do Office 365](https://o365datacentermap.azurewebsites.net/).
+- Você pode ver as novas regiões do Azure, Oeste do Reino Unido e Sul do Reino Unido no mapa [global do Azure.](https://azuredatacentermap.azurewebsites.net/)
+- Para o Office 365, os datacenters do Reino Unido constituem coletivamente a nova região do Office 365 do Reino Unido. Você pode ver mais no mapa [global do Office 365.](https://o365datacentermap.azurewebsites.net/)
 
-**Onde estão localizados os outros datacenters da União Européia da Microsoft?**
+**Onde estão localizados os outros datacenters da Microsoft UE?**
 
-Além dos datacenters UK, os serviços de nuvem da Microsoft têm data centers em vários locais. Para obter a lista mais atualizada de todos os centros, visite nossa [página de local de dados](https://www.microsoft.com/TrustCenter/Privacy/where-your-data-is-located).
+Além dos datacenters no Reino Unido, os serviços de nuvem da Microsoft têm data centers em vários locais. Para a lista mais atualizada de todos os centros, visite nossa [página de localização de dados.](https://www.microsoft.com/TrustCenter/Privacy/where-your-data-is-located)
 
 **Como posso obter cópias dos relatórios do auditor?**
 
-O [Portal de Confiança do Serviço](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados da Microsoft com seus próprios requisitos legais e normativos.
+O [Portal de Confiança do Serviço](/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados da Microsoft com seus próprios requisitos legais e regulatórios.
 
 ## <a name="resources"></a>Recursos
 
-- [Controles de conformidade eficazes para lidar com os governos do Reino Unido, 14 princípios de segurança na nuvem usando o Microsoft Azure](https://aka.ms/complianceuk)
+- [Controles de conformidade eficazes para abordar os princípios comuns de segurança de nuvem do Reino Unido 14 usando o Microsoft Azure](https://aka.ms/complianceuk)
 - [Estratégia de nuvem governamental do Reino Unido](https://aka.ms/UK_govt_cloud_strategy)
-- [Princípios de segurança G-Cloud](https://aka.ms/UK-G-Cloud)
-- [Mercado digital](https://www.digitalmarketplace.service.gov.uk/)
+- [Princípios de segurança do G-Cloud](https://aka.ms/UK-G-Cloud)
+- [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

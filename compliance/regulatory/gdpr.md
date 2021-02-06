@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 2d4c319bd5c0d3d264ae67179dc4d55e0a0e4fe8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505987"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121430"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumo do Regulamento Geral sobre a Proteção de Dados
 
@@ -60,7 +60,7 @@ Conforme mencionado acima, o plano de ação recomendado para o RGPD e as Listas
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade tem uma avaliação prévia para essa regulamentação para clientes do Enterprise E5. Encontre o modelo para criar a avaliação na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade tem uma avaliação prévia para essa regulamentação para clientes do Enterprise E5. Encontre o modelo para criar a avaliação na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Gerenciador de Conformidade](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="data-subject-request-dsr"></a>Solicitação do Titular de Dados (DSR)
 
@@ -74,7 +74,7 @@ DSRs envolvem seis atividades: descoberta, acesso, retificação, restrição, e
 
 **Quais são suas fontes de dados?**
 
-A maioria dos dados de uma organização é gerada em [aplicativos do Office](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs), como o Excel e o Outlook. Você também pode encontrar dados relevantes para um DSR em [Informações](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365), gerados por produtos e serviços da Microsoft, e [logs gerados pelo sistema](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs).
+A maioria dos dados de uma organização é gerada em [aplicativos do Office](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs), como o Excel e o Outlook. Você também pode encontrar dados relevantes para um DSR em [Informações](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365), gerados por produtos e serviços da Microsoft, e [logs gerados pelo sistema](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs).
 
 **Quais tipos de dados precisam ser pesquisados?**
 
@@ -82,7 +82,7 @@ Dados pessoais podem ser encontrados em dados de clientes, informações geradas
 
 **Como os dados pessoais serão pesquisados?**
 
-Procurar dados pessoais pode variar em produtos e serviços da Microsoft. As ferramentas de pesquisa incluem [Pesquisa de Conteúdo](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) ou recurso [de pesquisa no aplicativo](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs). Os administradores podem acessar [logs gerados pelo sistema](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs) associados à atividade de um usuário.  
+Procurar dados pessoais pode variar em produtos e serviços da Microsoft. As ferramentas de pesquisa incluem [Pesquisa de Conteúdo](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs) ou recurso [de pesquisa no aplicativo](/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs). Os administradores podem acessar [logs gerados pelo sistema](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs) associados à atividade de um usuário.  
 
 **Em que formatos os dados pessoais devem estar disponíveis?**
 
@@ -109,13 +109,13 @@ Os serviços online oferecem uma série de recursos para permitir que você, com
 
 ## <a name="data-protection-impact-assessment"></a>Avaliações do Impacto sobre a Proteção dos Dados
 
-O RGPD exige que os controladores preparem uma [Avaliação de Impacto de Proteção de Dados](gdpr-data-protection-impact-assessments.md) (DPIA) para operações que "provavelmente resultariam em alto risco para os direitos e a liberdade de pessoas físicas". Não há nada inerente aos produtos e serviços da Microsoft que precisem da criação de um DPIA. Em vez disso, depende dos detalhes da sua configuração da Microsoft. Uma lista de detalhes que devem ser considerados no Office pode ser encontrada no [Conteúdo de DPIA](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)
+O RGPD exige que os controladores preparem uma [Avaliação de Impacto de Proteção de Dados](gdpr-data-protection-impact-assessments.md) (DPIA) para operações que "provavelmente resultariam em alto risco para os direitos e a liberdade de pessoas físicas". Não há nada inerente aos produtos e serviços da Microsoft que precisem da criação de um DPIA. Em vez disso, depende dos detalhes da sua configuração da Microsoft. Uma lista de detalhes que devem ser considerados no Office pode ser encontrada no [Conteúdo de DPIA](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)
 
 ### <a name="dpia-faqs"></a>Perguntas frequentes sobre DPIA
 
 **Quando executar um DPIA?**
 
-Os controladores devem executar um DPIA para lidar com os riscos para a segurança de dados pessoais ou como resultado de uma violação de dados. Os exemplos específicos de fatores de risco no Office são abordados em [Determinar se um DPIA é necessário](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed).  
+Os controladores devem executar um DPIA para lidar com os riscos para a segurança de dados pessoais ou como resultado de uma violação de dados. Os exemplos específicos de fatores de risco no Office são abordados em [Determinar se um DPIA é necessário](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed).  
 
 **O que é necessário para concluir um DPIA?**
 
@@ -183,7 +183,7 @@ A Microsoft tem políticas e procedimentos em vigor para notificá-lo imediatame
 
 ## <a name="accountability-readiness-checklists-for-the-gdpr"></a>Listas de Verificação de Preparação de Responsabilidade para o RGPD
 
-Essas [listas de verificação](gdpr-arc.md) fornecem uma forma conveniente de acessar as informações necessárias para dar suporte ao RGPD ao usar os produtos da Microsoft. Você pode gerenciar os itens nesta lista de verificação com a [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) fazendo referência à ID de controle e ao Título do Controle em Controles Gerenciados pelo Cliente no bloco do RGPD.
+Essas [listas de verificação](gdpr-arc.md) fornecem uma forma conveniente de acessar as informações necessárias para dar suporte ao RGPD ao usar os produtos da Microsoft. Você pode gerenciar os itens nesta lista de verificação com a [Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) fazendo referência à ID de controle e ao Título do Controle em Controles Gerenciados pelo Cliente no bloco do RGPD.
 
 ## <a name="gdpr-faqs"></a>Perguntas frequentes do RGPD
 

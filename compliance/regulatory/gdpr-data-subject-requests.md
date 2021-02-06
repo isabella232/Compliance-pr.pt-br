@@ -17,12 +17,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Aprenda a concluir o DSRs sob as Normas Gerais de Proteção de Dados (GPDR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA) usando produtos e serviços da Microsoft.
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: ce2be94fec6b2e48a9e7052a1b01302966eb42a3
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505877"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121030"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados e o RGPD e CCPA
 
@@ -68,7 +68,7 @@ Vários processos podem estar envolvidos na conclusão de um DSR, sujeito às re
 
 ### <a name="insights-generated-by-microsoft-products-or-services"></a>Ideias geradas por produtos ou serviços da Microsoft
 
-[As ideias](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) podem ser geradas por serviços (MyAnalytics, etc.) O Office 365 inclui serviços online que fornecem ideias para usuários e organizações que os utilizam. Os dados gerados por esses serviços podem produzir dados pessoais relevantes para um DSR. Siga o link na lista abaixo para obter detalhes sobre processos DSR específicos do serviço.  
+[As ideias](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365) podem ser geradas por serviços (MyAnalytics, etc.) O Office 365 inclui serviços online que fornecem ideias para usuários e organizações que os utilizam. Os dados gerados por esses serviços podem produzir dados pessoais relevantes para um DSR. Siga o link na lista abaixo para obter detalhes sobre processos DSR específicos do serviço.  
 
 ### <a name="dsrs-for-system-generated-logs"></a>DSRs para logs gerados pelo sistema
 
@@ -82,8 +82,8 @@ Os logs e os dados relacionados gerados pela Microsoft podem conter dados pessoa
 
 Excluir a conta de um usuário não removerá os logs gerados pelo sistema para o Yammer e o Kaizala. Para remover os dados desses aplicativos, confira um dos seguintes recursos:
 
-- [Gerenciar solicitações de entidades de dados do RGPD do Yammer Enterprise](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
-- [Exportar ou excluir dados organizacionais do usuário no Kaizala](https://docs.microsoft.com/office365/kaizala/export-or-delete-a-user-s-data)
+- [Gerenciar solicitações de entidades de dados do RGPD do Yammer Enterprise](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
+- [Exportar ou excluir dados organizacionais do usuário no Kaizala](/office365/kaizala/export-or-delete-a-user-s-data)
 
 ### <a name="national-clouds"></a>Nuvens nacionais
 

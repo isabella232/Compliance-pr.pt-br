@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 979acd563ca73ad16d4729bfe96aa86c316714c5
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 70cf9514306bc119c1f09a159222dbea6765e61f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574763"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120680"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Responsabilidades do parceiro de nuvem e do cliente sobre o gerenciamento da continuidade de negócios corporativos
 
@@ -45,8 +45,8 @@ A Microsoft mantém vários canais para comunicações de status de serviço que
 
 - Caso o Centro de administração ou o Painel de integridade do serviço no Centro de administração não estejam disponíveis, você pode monitorar o status do serviço usando nosso [site de backup](https://status.office365.com/).
 - Mantemos a conta [@MSFT365Status](https://twitter.com/msft365status?lang=en) no Twitter, pela qual responderemos aos relatórios de impacto e postaremos atualizações de eventos de impacto do SHD.
-- O aplicativo de Administração para administradores de locatários do Microsoft 365 permite que você se conecte com o status do serviço do Microsoft 365 da sua organização em qualquer lugar. Os administradores de locatários poderão visualizar nos seus dispositivos móveis as informações sobre a integridade do serviço e as atualizações de status de manutenção. Para saber mais, visite as [Perguntas frequentes do aplicativo de administração](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app).
-- A [API de Comunicações do Serviço do Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#office-365-service-communications-api) permite acessar as comunicações do serviço para que você possa monitorar o seu ambiente com mais facilidade. Você pode se conectar à API, receber dados de integridade de serviço em tempo real e publicar as informações em um painel interno para informar os incidentes aos usuários corporativos. Distribuir internamente as informações pode diminuir seu tráfego de assistência técnica durante uma falha.
+- O aplicativo de Administração para administradores de locatários do Microsoft 365 permite que você se conecte com o status do serviço do Microsoft 365 da sua organização em qualquer lugar. Os administradores de locatários poderão visualizar nos seus dispositivos móveis as informações sobre a integridade do serviço e as atualizações de status de manutenção. Para saber mais, visite as [Perguntas frequentes do aplicativo de administração](/office365/admin/admin-overview/admin-mobile-app).
+- A [API de Comunicações do Serviço do Microsoft 365](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#office-365-service-communications-api) permite acessar as comunicações do serviço para que você possa monitorar o seu ambiente com mais facilidade. Você pode se conectar à API, receber dados de integridade de serviço em tempo real e publicar as informações em um painel interno para informar os incidentes aos usuários corporativos. Distribuir internamente as informações pode diminuir seu tráfego de assistência técnica durante uma falha.
 - Para grandes incidentes, a Microsoft publica PIR (Revisões Pós-Incidente) no SHD do Centro de administração. As PIRs contêm informações importantes sobre o incidente para ajudá-lo a entender a natureza da falha. Normalmente ela inclui as seguintes seções:
     - impacto ao usuário
     - escopo de impacto
@@ -55,7 +55,7 @@ A Microsoft mantém vários canais para comunicações de status de serviço que
     - ações tomadas
     - próximas etapas
 - As comunicações auxiliares, como avisos de alterações futuras, novos recursos ou manutenções planejadas, ficam disponíveis no Centro de Mensagens do Microsoft 365.
-- Para obter mais informações, confira o [Guia de Continuidade e Integridade do Serviço](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity) para saber mais sobre os diferentes canais de comunicação e como monitorar a integridade do serviço.
+- Para obter mais informações, confira o [Guia de Continuidade e Integridade do Serviço](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity) para saber mais sobre os diferentes canais de comunicação e como monitorar a integridade do serviço.
 
 O fornecimento de acesso aos serviços online da Microsoft 365 é uma parceria entre a sua organização e a Microsoft. O gráfico a seguir resume o equilíbrio de responsabilidade da Microsoft e do cliente durante um incidente de serviço e durante as operações regulares.
 
@@ -72,13 +72,13 @@ Considere os eventos que causam impacto à sua força de trabalho, como um desas
 ### <a name="location"></a>Locais
 
 Muitas organizações exigem que os funcionários estejam em locais físicos ou de rede específicos para se conectarem aos sistemas corporativos e serviços de nuvem.  
-A Microsoft publica os [princípios de conectividade de rede](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-network-connectivity-principles) que orientam as empresas, com as práticas recomendadas para a configuração de conectividade de rede para os recursos de nuvem. Entre os exemplos de otimização estão a implementação das VPNs de túnel dividido para permitir conexões diretamente da rede de um usuário, em vez de um túnel VPN.  Embora esses princípios de conectividade sejam importantes para a manutenção de conexões de baixa latência, a resiliência de serviços exige métodos alternativos de se conectar a recursos corporativos para colaboração geral.
+A Microsoft publica os [princípios de conectividade de rede](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles) que orientam as empresas, com as práticas recomendadas para a configuração de conectividade de rede para os recursos de nuvem. Entre os exemplos de otimização estão a implementação das VPNs de túnel dividido para permitir conexões diretamente da rede de um usuário, em vez de um túnel VPN.  Embora esses princípios de conectividade sejam importantes para a manutenção de conexões de baixa latência, a resiliência de serviços exige métodos alternativos de se conectar a recursos corporativos para colaboração geral.
 
 ### <a name="systems"></a>Sistemas
 
 Muitas soluções de colaboração dependem de sistemas, como a WAN (rede de longa distância) da empresa. Como sua organização responderia, caso esses sistemas não estivessem disponíveis?
 Esse gráfico representa os problemas que podem afetar mais de uma área. A tabela a seguir fornece exemplos a considerar
 
-![Diagrama de Venn de sistemas](../media/venn-diagram.png)
+![Diagrama de venn de sistemas](../media/venn-diagram.png)
 
 Seus planos de continuidade devem considerar todas essas áreas. Por exemplo, se você quiser que os usuários estejam na rede corporativa e uma tempestade de neve ocorrer, como os usuários terão acesso aos principais recursos? Se a neve impedir o acesso ao escritório e houver a necessidade de que os engenheiros de serviço se conectem à rede corporativa, existe uma política que impõe que eles estejam em posse de seus laptops corporativos em suas residências?

@@ -1,6 +1,6 @@
 ---
-title: Cyber Essentials do Reino Unido PLUS
-description: O Cyber Essentials PLUS é um esquema definido pelo governo do Reino Unido para ajudar as organizações a proteger contra ameaças comuns à segurança da CyberSource.
+title: Cyber Essentials PLUS do Reino Unido
+description: O Cyber Essentials PLUS é um esquema definido pelo governo do Reino Unido para ajudar as organizações a se protegerem contra ameaças comuns à segurança cibernética.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,42 +16,42 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 30fa8eec5e496a8e94fcb0bf65c6679c6eb96300
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c3064fe2e88a3002ea6b2b17f15b8137840ec7f8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505711"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121700"
 ---
-# <a name="united-kingdom-cyber-essentials-plus"></a>Cyber Essentials do Reino Unido PLUS
+# <a name="united-kingdom-cyber-essentials-plus"></a>Cyber Essentials PLUS do Reino Unido
 
 ## <a name="uk-cyber-essentials-plus-overview"></a>Visão geral do UK Cyber Essentials PLUS
 
-O Cyber Essentials é um esquema de respaldo do governo do Reino Unido projetado para ajudar as organizações a avaliar e reduzir os riscos de ameaças comuns à segurança da Cyber para seus sistemas de ti. O esquema do Cyber Essentials é um padrão de segurança da CyberSource que identifica os controles de segurança de uma organização no local em seus sistemas de ti. O esquema do Cyber Essentials é um requisito para que todos os fornecedores do governo do Reino Unido tratem de qualquer dado pessoal. O selo do Cyber Essentials ajuda uma organização a demonstrar a capacidade de:
+O Cyber Essentials é um esquema respaldado pelo governo do Reino Unido, projetado para ajudar as organizações a avaliar e reduzir os riscos de ameaças comuns à segurança cibernética em seus sistemas de IT. O esquema Cyber Essentials é um padrão de segurança cibernética que identifica os controles de segurança que uma organização deve ter em seus sistemas de IT. O esquema cyber Essentials é um requisito para todos os fornecedores do governo do Reino Unido que lidam com dados pessoais. O selo do Cyber Essentials ajuda uma organização a demonstrar a capacidade de:
 
-- Identifique os possíveis riscos para ajudar as organizações a protegerem-se melhor contra ameaças comuns da Cyber.
-- Demonstrar que uma organização adotou os controles de segurança adequados para proteger os dados do cliente.
-- Tornar-se compatível com as expectativas governamentais do Reino Unido para obter os requisitos essenciais de segurança da
+- Identifique riscos potenciais para ajudar as organizações a se proteger melhor contra ameaças cibernéticas comuns.
+- Demonstre que uma organização adotou os controles de segurança adequados para proteger os dados do cliente.
+- Torne-se compatível com as expectativas do governo do Reino Unido para requisitos essenciais de segurança cibernética e qualificado para a oferta de contratos do governo do Reino Unido.
 
-O esquema do Cyber Essentials foi projetado para fornecedores governamentais do Reino Unido para identificar possíveis vulnerabilidades em seus sistemas de ti e software que podem explorar dados dos clientes. A metodologia definiu dois níveis diferentes de certificação:
+O esquema Cyber Essentials foi projetado para fornecedores do governo do Reino Unido identificar possíveis pontos fracos em seus sistemas de IT e software que podem explorar dados de clientes. A metodologia definiu dois níveis diferentes de certificação:
 
-- O Cyber Essentials é o primeiro nível e inclui uma autoavaliação para que as organizações verifiquem os controles de segurança de ti mais importantes de sua infraestrutura de ti. As respostas são revisadas independentemente por um corpo de certificação externa.
-- O Cyber Essentials PLUS oferece a mesma cobertura de controles que a Cyber Essentials e também inclui garantia adicional por meio da execução de testes de sistemas de controles implementados por meio de um corpo de certificação autorizado de terceiros.
+- O Cyber Essentials é o primeiro nível e inclui uma autoavaliação para que as organizações verifiquem os controles de segurança de TI mais importantes de sua infraestrutura de TI. As respostas são revisadas independentemente por um corpo de certificação externo.
+- O Cyber Essentials PLUS oferece a mesma cobertura de controles que o Cyber Essentials e também inclui garantia adicional por meio da realização de testes de sistemas de controles implementados por meio de um corpo de certificação de terceiros autorizado.
 
 ## <a name="microsoft-and-uk-cyber-essentials-plus"></a>Microsoft e UK Cyber Essentials PLUS
 
-O Microsoft Azure atingiu o Cyber Essentials, além do selo e atende aos requisitos descritos no [esquema do Cyber Essentials](https://go.microsoft.com/fwlink/p/?linkid=2099398). Os sistemas de produção do Azure são freqüentemente testados e auditados para fornecer evidências de um portfólio de conformidade líder mundial.
+O Microsoft Azure atingiu o selo cyber Essentials PLUS e atende aos requisitos descritos no [Esquema Cyber Essentials.](https://go.microsoft.com/fwlink/p/?linkid=2099398) Os sistemas de produção do Azure são frequentemente testados e auditados para fornecer evidências de um portfólio de conformidade líder mundial.
 
-A [certificação do Azure Cyber Essentials Plus](https://aka.ms/AzureCyberEPlusCert), que se aplica à operação global do Azure, está disponível para download.
+A [certificação do Azure Cyber Essentials PLUS,](https://aka.ms/AzureCyberEPlusCert)que se aplica à nossa operação global do Azure, está disponível para download.
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
 - [Relatório de conformidade do Azure Cyber Essentials PLUS](https://aka.ms/AzureCyberEPlusReport)
 - [Certificação do Azure Cyber Essentials PLUS](https://aka.ms/AzureCyberEPlusCert)
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O [Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso do [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e tomar medidas para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para a construção de uma avaliação desse regulamento. Encontre o modelo na página de **modelos de avaliação** no Gerenciador de Conformidade. Aprenda a criar avaliações no [Gerenciador de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments).
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 

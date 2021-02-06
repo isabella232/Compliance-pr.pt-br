@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b4a006fbbcd4a1af3a8ff118ea7cacaecb2ceadc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506086"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120070"
 ---
 # <a name="my-number-act-japan"></a>Lei My Number (Japão)
 
 ## <a name="about-the-my-number-act"></a>Sobre a Lei My Number
 
-O governo japonês promulgou a Lei My Number em ([Japonês](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/viewContents?lawId=425AC0000000027_20180627_430AC0000000066) e [Inglês](https://www.ppc.go.jp/files/pdf/en3.pdf)), que entrou em vigor em janeiro de 2016. Ele atribuiu um número exclusivo de 12 dígitos - chamado My Number, ou o Número de Imposto e Benefícios Sociais, ou Número Individual - a todos os residentes do Japão, seja japonês ou estrangeiro. Dar a cada pessoa um número para todos os fins (como o número de Previdência Social dos EUA) foi concebido para simplificar e tornar a tributação mais eficiente e implementar benefícios sociais, como pensão nacional, seguro saúde e desemprego.
+O governo Japonês Promulgou a Lei My Number [(em japonês](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/viewContents?lawId=425AC0000000027_20180627_430AC0000000066) e [Inglês](https://www.ppc.go.jp/files/pdf/en3.pdf)), que entrou em vigor em janeiro de 2016. Ele atribuiu um número exclusivo de 12 dígitos - chamado My Number, ou o Número de Imposto e Benefícios Sociais, ou Número Individual - a todos os residentes do Japão, seja japonês ou estrangeiro. Dar a cada pessoa um número para todos os fins (como o número de Previdência Social dos EUA) foi concebido para simplificar e tornar a tributação mais eficiente e implementar benefícios sociais, como pensão nacional, seguro saúde e desemprego.
 
 A Comissão de Proteção de Informações Pessoais (PPC), que atua como autoridade de proteção de dados centralizada, foi estabelecida pela Lei de Proteção de Informações Pessoais ([em japonês](https://www.ppc.go.jp/personal/preparation/) e [inglês](https://www.ppc.go.jp/en/legal/)). No papel do PPC de supervisionar e monitorar a conformidade com a Lei My Number, foram publicadas [Diretrizes sobre o My Number](https://www.ppc.go.jp/legal/policy/faq/) (japonês) para garantir que as organizações tratem e protejam corretamente os dados pessoais, inclusive os dados My Number, conforme as exigências da lei.
 
@@ -37,7 +37,7 @@ Para ajudar nossos clientes japoneses a proteger a privacidade dos dados pessoai
 
 O [Q\&A](https://www.ppc.go.jp/legal/policy/faq/) (japonês) publicado pela Comissão de Proteção de Informações Pessoais (PPC) estabelece diretrizes para o tratamento e a proteção adequados das informações pessoais. Fica estabelecido que terceiros não podem tratar dados pessoais caso esteja previsto no contrato que terceiros (a) não devam fazê-lo e (b) haja um sistema de controle de acesso específico. A Lei My Number especifica as obrigações durante a transferência de dados para terceiros, mas a seção [Q3-12](https://www.ppc.go.jp/legal/policy/faq/) (japonês) do PPC Q\&A explica que esses requisitos não se aplicam se o terceiro não "tratar" - ou seja, ter acesso permanente - aos dados pessoais.
 
-Os serviços de nuvem de negócios da Microsoft atendem a esses requisitos nos [Termos do Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31), que determinam que a propriedade e a responsabilidade dos dados de clientes que contêm dados do My Number pertencem aos clientes, não à Microsoft. O cliente, portanto, deve ter os controles adequados no local para proteger os dados My Number contidos nos dados dos clientes.
+Os serviços de nuvem de negócios do Microsoft Business atendem a esses requisitos nos [Termos do Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31), que determinam que a propriedade e a responsabilidade dos dados de clientes que contêm dados My Number pertencem aos clientes, não à Microsoft. O cliente, portanto, deve ter os controles adequados no local para proteger os dados My Number contidos nos dados dos clientes.
 
 Como a Microsoft não possui acesso permanente aos dados do Meu número armazenados nos seus serviços de nuvem, não é necessário ter um contrato de "terceirização" para o tratamento dos dados do Meu número. Se um cliente deseja que a Microsoft tenha acesso aos dados de clientes que contenham os dados My Number, deve fazer um contrato de terceirização adicional com a Microsoft para todos os casos antes de fazer tal solicitação.
 
@@ -60,11 +60,11 @@ Portanto, os serviços de nuvem de negócios da Microsoft atendem aos requisitos
 
 - [Privacidade no Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Como a Microsoft constrói uma forte proteção de privacidade no Office 365.
 
-- [Acesso de Administrador no Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-administrative-access-controls-overview): como a Microsoft gerencia o acesso administrativo aos dados do cliente.
+- [Acesso de Administrador no Office 365](/office365/SecurityCompliance/office-365-administrative-access-controls-overview): como a Microsoft gerencia o acesso administrativo aos dados do cliente.
 
-- [Auditorias & Relatórios no Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): Explore os recursos que os clientes podem usar para controlar atividades administrativas e de usuários no locatário.
+- [Auditorias & Relatórios no Office 365](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): Explore os recursos que os clientes podem usar para controlar atividades administrativas e de usuários no locatário.
 
-- [Retenção de Dados no Office 365](https://docs.microsoft.com/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): Entenda a política de tratamento de dados durante o período que os dados dos clientes ficam retidos após a exclusão.
+- [Retenção de Dados no Office 365](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): Entenda a política de tratamento de dados durante o período que os dados dos clientes ficam retidos após a exclusão.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f6c03f1c9cddbdf1cd62be075f471a3a52e19a19
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506032"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119880"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -54,7 +54,7 @@ Para adquirir o relatório de *Avaliação Abrangente do Microsoft Cloud*, entre
 ## <a name="how-to-implement"></a>Como implementar
 
 - [Guia de conformidade e avaliação de risco](https://aka.ms/RiskGovernanceGuide): cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador.
-- [Casos de uso financeiro](https://docs.microsoft.com/azure/industry/financial/): usa visões gerais, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros.
+- [Casos de uso financeiro](/azure/industry/financial/): usa visões gerais, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros.
 - [Regulamentação dos serviços financeiros dos EUA](https://aka.ms/FinServ-Guide-US): como os serviços online da Microsoft se alinham às principais expectativas normativas para instituições financeiras dos EUA.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes

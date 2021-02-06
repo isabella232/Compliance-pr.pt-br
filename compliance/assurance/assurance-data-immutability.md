@@ -1,6 +1,6 @@
 ---
-title: Imutabilidade dos dados no Microsoft 365
-description: Saiba como a Microsoft 365 preserva dados no formato detectável para lidar com conformidade normativa, requisitos de governança interna e riscos de litígio.
+title: Imutabilidade de dados no Microsoft 365
+description: Saiba como o Microsoft 365 preserva dados em formato para descobrir a conformidade regulamentar, os requisitos de governança interna e os riscos de litígio.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,47 +19,47 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: ab3fcff3d4ed3253914f5f0d0c649f7658c7c228
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: da465b850a9216dd64f8e4d9e6450c6a17f7b26d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505824"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120660"
 ---
-# <a name="data-immutability-in-microsoft-365"></a>Imutabilidade dos dados no Microsoft 365
+# <a name="data-immutability-in-microsoft-365"></a>Imutabilidade de dados no Microsoft 365
 
-Conformidade normativa, requisitos de governança interna ou riscos de litígio exigem que as organizações preservem email e dados associados em um formulário detectável. Todos os dados no sistema devem ser detectáveis e nenhum deles pode ser destruído ou alterado. O termo padrão do setor para isso é "imutabilidade".
+A conformidade regulamentar, os requisitos de governança interna ou os riscos de litígio exigem que as organizações preservem emails e dados associados em uma forma que pode ser descoberta. Todos os dados no sistema devem ser descobertos e nenhum deles pode ser destruído ou alterado. O termo padrão do setor para isso é "imutabilidade".
 
-Os métodos tradicionais de imutabilidade geralmente funcionam movendo mensagens de email para um local de armazenamento separado e somente leitura. Embora esses sistemas atendam à finalidade de preservar itens de caixa de correio para descoberta, eles geralmente afetam a experiência do usuário removendo itens preservados do fluxo de trabalho diário personalizado. Para profissionais de ti, esta abordagem de imutabilidade requer a implantação e a manutenção contínua de um servidor separado e uma infraestrutura de armazenamento. A descoberta é realizada com ferramentas externas ao sistema de email e inclui custos associados de implantação e manutenção.
+Métodos tradicionais de imutabilidade geralmente funcionava movendo mensagens de email para um local de armazenamento separado somente leitura. Embora esses sistemas servem para preservar itens de caixa de correio para descoberta, eles geralmente afetam a experiência do usuário removendo itens preservados do fluxo de trabalho diário personalizado. Para profissionais de TI, essa abordagem de imutabilidade requer a implantação e a manutenção contínua de uma infraestrutura separada de servidor e armazenamento. A descoberta é realizada com ferramentas externas ao sistema de email e inclui os custos associados de implantação e manutenção.
 
-Com os recursos de política de retenção e preservação in-loco do arquivamento no Microsoft 365 e seus serviços, você pode preservar e reter várias classes de dados de entrada, internos e de saída. Isso inclui:
+Por meio dos recursos de política de retenção e preservação no local de arquivamento no Microsoft 365 e em seus serviços, você pode preservar e reter muitas classes de dados de entrada, internos e de saída. Isso inclui:
 
 - Comunicações de email de entrada e saída
-- Manuais e registros contidos no formulário de email ou em documentos online compartilhados
+- Livros e registros contidos no formulário de email ou em documentos online compartilhados
 - Solicitações de reunião
-- Fax
+- Faxes
 - Mensagens instantâneas
 - Documentos compartilhados durante reuniões online
-- Caixa postal
+- Voicemails
 
-Além disso, a Microsoft desenvolveu recursos complementares para permitir o [arquivamento de dados](https://support.office.com/article/Archiving-third-party-data-in-Office-365-0ce338d5-3666-4a18-86ab-c6910ff408cc) de outras fontes por meio da integração com soluções de captura e gerenciamento de dados de terceiros. Após a importação dos dados de terceiros, é possível aplicar recursos de conformidade do Microsoft 365 aos dados, incluindo:
+Além disso, a Microsoft desenvolveu recursos [](https://support.office.com/article/Archiving-third-party-data-in-Office-365-0ce338d5-3666-4a18-86ab-c6910ff408cc) de complemento para permitir o arquivamento de dados de outras fontes por meio da integração com soluções de captura e gerenciamento de dados de terceiros. Depois que os dados de terceiros são importados, você pode aplicar recursos de conformidade do Microsoft 365 aos dados, incluindo:
 
-- [Retenção de litígio](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold)
-- [Descoberta eletrônica in-loco e retenção](https://docs.microsoft.com/microsoft-365/compliance/manage-legal-investigations)
-- [Pesquisa de Conformidade](https://docs.microsoft.com/microsoft-365/compliance/search-for-content)
-- [Arquivamento no Local](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-- [Auditoria de caixa de correio](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
-- [Políticas de retenção](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Retenção de litígio](/microsoft-365/compliance/create-a-litigation-hold)
+- [Descoberta e Espera In-loco](/microsoft-365/compliance/manage-legal-investigations)
+- [Pesquisa de Conformidade](/microsoft-365/compliance/search-for-content)
+- [Arquivamento no Local](/microsoft-365/compliance/enable-archive-mailboxes)
+- [Auditoria de caixa de correio](/microsoft-365/compliance/enable-mailbox-auditing)
+- [Políticas de retenção](/microsoft-365/compliance/retention-policies)
 
-Por exemplo, quando uma caixa de correio é colocada em retenção de litígio, os dados de terceiros são preservados. Você pode pesquisar dados de terceiros usando In-Place pesquisa de descoberta eletrônica ou de conformidade. Ou você pode aplicar políticas de arquivamento e retenção a dados de terceiros, da mesma forma que você pode para os dados da Microsoft. O arquivamento de dados de terceiros no Microsoft 365 ajuda sua organização a manter-se em conformidade com as políticas governamentais e regulamentares.
+Por exemplo, quando uma caixa de correio é colocada em Litígio, os dados de terceiros são preservados. Você pode pesquisar dados de terceiros usando a In-Place eDiscovery ou a Pesquisa de Conformidade. Ou você pode aplicar políticas de arquivamento e retenção a dados de terceiros, assim como faz para os dados da Microsoft. O arquivamento de dados de terceiros no Microsoft 365 ajuda sua organização a manter a conformidade com políticas governamentais e regulatórias.
 
-O arquivamento no Microsoft 365 fornece um armazenamento compatível com a regra de Securities-4 e a interrupções do Exchange (seg). A Microsoft 365 preserva arquivos permanentes de todos os dados coletados em um formato não-regravável e não apagável usando políticas de retenção e políticas de preservação in-loco, incluindo bloqueio de preservação.
+O arquivamento no Microsoft 365 fornece armazenamento compatível com a Regra 17a-4 da Sec (Comissão de Valores Mobiliários e Câmbio). O Microsoft 365 preserva arquivos permanentes de todos os dados coletados em um formato não reescrevível e não-reescrita usando políticas de retenção in-loco e políticas de preservação, incluindo o bloqueio de preservação.
 
 Especificamente:
 
-- Todos os registros armazenados usando as políticas de retenção mencionadas acima são mantidos em uma área de armazenamento dedicada fora do âmbito do usuário comum. Somente os usuários autorizados podem acessar e Pesquisar esses registros, mas não podem alterá-los ou apagá-los.
-- Os metadados de cada item incluem um carimbo de data/hora usado no cálculo da duração da retenção. Os carimbos de data/hora são aplicados quando um novo item é recebido ou criado e não pode ser modificado ou removido dos metadados.
-- O arquivamento no Microsoft 365 permite aos usuários combinar diferentes políticas de retenção e ações de bloqueio para criar políticas de retenção granulares. Essas políticas definem o tipo ou o local dos itens preservados e a duração da preservação.
-- O recurso de bloqueio de preservação permite que os usuários escolham se desejam tornar a política uma política restritiva. Uma política restritiva proíbe que qualquer pessoa tenha a capacidade de remover, desabilitar ou fazer qualquer alteração na política de retenção. Isso significa que, quando o bloqueio de preservação estiver habilitado, ele não poderá ser desabilitado, e nenhum mecanismo existirá sob o qual qualquer dado dos responsáveis existentes que foram coletados pelas políticas de retenção em vigor poderá ser substituído, modificado, apagado ou excluído durante o período de preservação. Além disso, o período de retenção definido pelo bloqueio de preservação não pode ser reduzido ou reduzido. No entanto, ele pode ser estendido, no caso de um requisito legal para continuar a retenção dos dados armazenados, conforme observado acima. O bloqueio de preservação garante que ninguém, nem mesmo administradores ou aqueles com certos controles de acesso, possam alterar as configurações ou substituir ou apagar os dados que foram armazenados, disponibilizar o arquivamento no Microsoft 365, com as orientações definidas na versão 2003 da regra 17a-4 do SEC.
+- Todos os registros armazenados usando as políticas de retenção mencionadas acima são mantidos em uma área de armazenamento dedicada fora da visualização do usuário comum. Somente usuários autorizados podem acessar e pesquisar esses registros, mas não podem alterá-los ou apagá-los.
+- Os metadados de cada item incluem um timestamp usado no cálculo da duração da retenção. Os timestamps são aplicados quando um novo item é recebido ou criado e não podem ser modificados ou removidos dos metadados.
+- O arquivamento no Microsoft 365 permite que os usuários combinem diferentes políticas de retenção e realizam ações para criar políticas de retenção granulares. Essas políticas definem o tipo ou local dos itens preservados e a duração da preservação.
+- O recurso Bloqueio de Preservação permite que os usuários escolham se a política será restritiva. Uma política restritiva proíbe que qualquer pessoa tenha a capacidade de remover, desabilitar ou fazer alterações na política de retenção. Isso significa que, depois que o Bloqueio de Preservação for habilitado, ele não poderá ser desabilitado, e nenhum mecanismo existirá sob o qual quaisquer dados de custodiantes existentes coletados pelas políticas de retenção in-loco possam ser substituídos, modificados, apagados ou excluídos durante o período de preservação. Além disso, o período de espera definido pelo Bloqueio de Preservação pode não ser reduzido ou diminuído. No entanto, ele pode ser alongado, no caso de um requisito legal para continuar a retenção dos dados armazenados, conforme mencionado acima. O Bloqueio de Preservação garante que ninguém, nem mesmo os administradores ou aqueles com determinado acesso de controle, possam alterar as configurações, substituir ou apagar dados armazenados, colocando o arquivamento no Microsoft 365 em linha com as diretrizes definidas na Versão 2003 da Regra 17a-4 da SEC.
 
-Para entender como a Microsoft 365 ajuda você a cumprir as obrigações normativas, especificamente em relação aos requisitos da regra 17a-4, consulte o [White Paper](https://www.microsoft.com/microsoft-365/blog/wp-content/uploads/2015/11/Microsoft-EOA-White-Paper.pdf) que abrange o arquivamento do Exchange Online, o SharePoint Online, o onedrive for Business e o Skype for Business. O White Paper também fornece uma análise detalhada dos recursos e funcionalidades de arquivamento da Microsoft 365 em relação a cada um dos requisitos na regra 17a-4 da SEC e demonstra aos clientes regulamentados como o arquivamento da Microsoft 365 pode permitir que eles atendam a esses requisitos.
+Para entender como o Microsoft 365 ajuda você a cumprir obrigações regulatórias, especificamente em relação aos requisitos da Regra 17a-4, confira o [whitepaper](https://www.microsoft.com/microsoft-365/blog/wp-content/uploads/2015/11/Microsoft-EOA-White-Paper.pdf) que aborda o Arquivamento do Exchange Online, o SharePoint Online, o OneDrive for Business e o Skype for Business. O whitepaper também fornece uma análise detalhada dos recursos e funcionalidades de arquivamento do Microsoft 365 em relação a cada um dos requisitos da regra 17a-4 da SEC e demonstra aos clientes regulamentados como o arquivamento do Microsoft 365 pode permitir que eles atenderem a esses requisitos.

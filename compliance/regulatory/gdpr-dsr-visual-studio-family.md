@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 1b5df025c8c55790181e1f737388b1c15f475d72
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 29d845c1b9e1c60169db56ba76d731892302bff0
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574783"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121920"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de Titulares de Dados da Família do Visual Studio para o GDPR e CCPA
 
@@ -40,7 +40,7 @@ Este guia explica como usar as ferramentas da Microsoft para exportar ou excluir
 
 ## <a name="additional-privacy-information"></a>Informações adicionais sobre privacidade
 
-Os Termos de Licença de Software da Microsoft que acompanha os produtos, a [Declaração de Privacidade da Microsoft](https://go.microsoft.com/fwlink/?LinkId=660726) e os [Compromissos de RGPD da Microsoft](https://docs.microsoft.com/legal/gdpr) descrevem nossas práticas de processamento de dados.
+Os Termos de Licença de Software da Microsoft que acompanha os produtos, a [Declaração de Privacidade da Microsoft](https://go.microsoft.com/fwlink/?LinkId=660726) e os [Compromissos de RGPD da Microsoft](/legal/gdpr) descrevem nossas práticas de processamento de dados.
 
 ## <a name="visual-studio-visual-studio-for-mac-and-visual-studio-code"></a>Visual Studio, Visual Studio para Mac e Visual Studio Code
 
@@ -62,7 +62,7 @@ Na condição de processadora de dados de acordo com o RGPD, a Microsoft coleta 
 "SearchTerm":null,"SearchResult":null}
 ```
 
-Para saber mais, confira [Logs gerados pelo sistema coletados pelo Visual Studio](https://docs.microsoft.com/visualstudio/ide/diagnostic-data-collection).
+Para saber mais, confira [Logs gerados pelo sistema coletados pelo Visual Studio](/visualstudio/ide/diagnostic-data-collection).
 
 Somente os dados pessoais que estão associados a identidades autenticadas podem ser oferecidos por um DSR. Portanto, por exemplo, como o Visual Studio Code não dá suporte à entrada, os logs gerados pelo sistema a partir dele não estão associados a uma identidade autenticada e não podem ser oferecidos. No entanto, algumas extensões da Microsoft para o Visual Studio Code podem fornecer dados autenticados e estes dados podem ser oferecidos por um DSR. Para saber mais, confira [RGPD e Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_gdpr-and-vs-code). Em geral, não armazenamos dados para o Visual Studio 2013 e versões anteriores; no entanto, determinadas extensões componentes podem fornecer dados associados a identidades autenticadas e podem ser oferecidos por um DSR conforme descrito abaixo.
 
@@ -74,8 +74,8 @@ O Visual Studio 2015 e posterior, o Visual Studio para Mac e o Visual Studio Cod
 
 Os usuários podem controlar as configurações de privacidade para esses produtos. Para saber mais, confira o seguinte
 
-- [Como gerenciar as configurações de privacidade no Visual Studio](https://docs.microsoft.com/visualstudio/ide/visual-studio-experience-improvement-program).
-- [Como gerenciar as configurações de privacidade no Visual Studio para Mac](https://docs.microsoft.com/visualstudio/mac/visual-studio-experience-improvement-program).
+- [Como gerenciar as configurações de privacidade no Visual Studio](/visualstudio/ide/visual-studio-experience-improvement-program).
+- [Como gerenciar as configurações de privacidade no Visual Studio para Mac](/visualstudio/mac/visual-studio-experience-improvement-program).
 - [Como desabilitar o relatório de telemetria no Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting).
 
 #### <a name="exporting-or-deleting-data"></a>Exportando ou excluindo dados
@@ -100,7 +100,7 @@ A Microsoft coleta dados para nos ajudar a reproduzir e solucionar problemas que
 
 - Suas informações de perfil da [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com);
 - Preferências e notificações;
-- Os anexos e os logs gerados pelo sistema que você forneceu ao [relatar um problema no Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) ou pela [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com);
+- Os anexos e os logs gerados pelo sistema que você forneceu ao [relatar um problema no Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) ou pela [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com);
 - Seus votos.
 
 Os comentários públicos incluem: problemas relatados, comentários e soluções.
@@ -124,7 +124,7 @@ Você pode exportar seus dados de comentários como parte da DSR. Criaremos um o
 
 - Suas informações de perfil da [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com);
 - Configurações de preferências e notificações;
-- Os anexos que você forneceu ao [relatar um problema no Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) ou pela [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com).
+- Os anexos que você forneceu ao [relatar um problema no Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) ou pela [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com).
 
 > [!NOTE]
 > Excluiremos do seu arquivo os seguintes comentários públicos que você forneceu: comentários, soluções, problemas relatados.
@@ -147,7 +147,7 @@ A exclusão removerá as seguintes informações sobre você da [Comunidade de D
 
 - Informações de perfil;
 - Configurações de preferências e notificações;
-- Os anexos que você forneceu ao [relatar um problema no Visual Studio](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) ou pela [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com).
+- Os anexos que você forneceu ao [relatar um problema no Visual Studio](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017) ou pela [Comunidade de Desenvolvedores](https://developercommunity.visualstudio.com).
 - Seus votos
 
 > [!NOTE]
@@ -199,7 +199,7 @@ Os Fóruns do Xamarin são hospedados por terceiros, Vanilla Forums. Para solici
 
 ## <a name="nuget"></a>NuGet
 
-Para saber mais sobre DSR para NuGet.org, confira [Solicitações de dados do usuário do NuGet](https://docs.microsoft.com/nuget/policies/data-requests).
+Para saber mais sobre DSR para NuGet.org, confira [Solicitações de dados do usuário do NuGet](/nuget/policies/data-requests).
 
 ## <a name="aspnet"></a>ASP.NET
 
@@ -217,7 +217,7 @@ Ocasionalmente, nós convidamos clientes para enviar comentários sobre esses pr
 
 ## <a name="learn-more"></a>Saiba mais
 
-- [Compromissos da Microsoft sobre o RGPD para com os clientes dos nossos produtos de software empresarial disponibilizados de maneira geral](https://docs.microsoft.com/legal/gdpr)
+- [Compromissos da Microsoft sobre o RGPD para com os clientes dos nossos produtos de software empresarial disponibilizados de maneira geral](/legal/gdpr)
 - [Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [Portal de Confiança do Serviço](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Painel de Privacidade da Microsoft](https://account.microsoft.com/privacy)

@@ -20,12 +20,12 @@ search.appverid:
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 246c39c3bfd8f59cd2dab9c3a1b942d36942370f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 92c98d710c34f1304ddc0a2e8acfe09c4570e97c
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505652"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121630"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>Descoberta de RGPD, proteção e relatórios no ambiente de desenvolvimento/teste
 
@@ -35,7 +35,7 @@ Este artigo descreve como configurar e demonstrar a descoberta, a proteção e o
 
 ## <a name="phase-1-create-and-configure-your-trial-microsoft-365-subscription"></a>Fase 1: Criar e configurar a sua assinatura de avaliação do Microsoft 365
 
-Primeiro, siga as etapas no artigo em [Fase 2 do ambiente de desenvolvimento/teste do Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription).
+Primeiro, siga as etapas no artigo em [Fase 2 do ambiente de desenvolvimento/teste do Microsoft 365](/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription).
 
 Em seguida, use estas etapas para configurar o gerente de Descoberta Eletrônica:
 
@@ -99,7 +99,7 @@ Nesta fase, você pode criar um tipo personalizado de informações confidenciai
 
 A Contoso sempre se refere aos clientes usando um CCN nas correspondências interna e externa, em documentos e outras formas. A Contoso precisa de um tipo de item confidencial personalizado para detectar o uso do CCN em conteúdo do Microsoft 365 e assim aplicar proteção no uso desse formulário de informações de identificação pessoal.
 
-1. Use as instruções de conexões com autenticação multifator (MFA) em [Conectar-se ao Centro de Conformidade e Segurança do PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell) e conecte-se ao Centro de Conformidade e Segurança com o UPN da sua conta de administrador global.
+1. Use as instruções de conexões com autenticação multifator (MFA) em [Conectar-se ao Centro de Conformidade e Segurança do PowerShell](/powershell/exchange/connect-to-scc-powershell) e conecte-se ao Centro de Conformidade e Segurança com o UPN da sua conta de administrador global.
 
 2. Execute os seguintes comandos do PowerShell.
 

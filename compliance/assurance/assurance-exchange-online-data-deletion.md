@@ -19,24 +19,24 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b86c855a113706731ac6037a2851ae0f1adaccb9
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: 527fb2d7ca1536c549990b0c7a4615e4fe3e8436
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012957"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120490"
 ---
 # <a name="exchange-online-data-deletion-in-microsoft-365"></a>Exclusão de dados do Exchange Online no Microsoft 365
 
 No Exchange Online, há dois tipos de exclusões: exclusões suaves e exclusões permanentes. Isso se aplica a caixas de correio e itens dentro de uma caixa de correio.
 
-## <a name="soft-deleted-and-hard-deleted-mailboxes"></a>Caixas de correio excluídas de forma fácil e permanente
+## <a name="soft-deleted-and-hard-deleted-mailboxes"></a>Caixas de correio excluídas por exclusão e exclusão permanente
 
 Uma caixa de correio de usuário excluída de forma suave é uma caixa de correio que foi excluída usando o centro de administração do Microsoft 365 ou o cmdlet do Remove-Mailbox e ainda está na lixeira do Azure Active Directory há menos de 30 dias. Uma caixa de correio pode ser excluída de forma suave de qualquer uma das seguintes maneiras:
 
 - A conta de usuário do Azure Active Directory associada à caixa de correio do usuário é excluída de forma temporário (o objeto de usuário está fora do escopo ou no contêiner da lixeira).
 - A conta de usuário do Azure Active Directory associada à caixa de correio do usuário foi excluída ilegível, mas a caixa de correio do Exchange Online está sob uma responsabilidade de litígio ou de Descoberta Eletrônico.
-- A conta de usuário do Azure Active Directory associada à caixa de correio do usuário foi limpa nos últimos 30 dias; que é o comprimento máximo de retenção que o Exchange Online manterá a caixa de correio em um estado de exclusão suave antes que ela seja permanentemente limpa e irrecuperável.
+- A conta de usuário do Azure Active Directory associada à caixa de correio do usuário foi limpa nos últimos 30 dias; que é o comprimento máximo de retenção que o Exchange Online manterá a caixa de correio em um estado de exclusão suave antes de ser permanentemente limpa e irrecuperável.
 
 Uma caixa de correio de usuário excluída de forma permanente é uma caixa de correio que foi excluída de uma das seguintes maneiras:
 
@@ -48,15 +48,15 @@ Os cenários de exclusão acima pressupom que a caixa de correio do usuário nã
 
 ## <a name="soft-deleted-and-hard-deleted-items"></a>Itens excluídos de forma suave e permanente
 
-Quando um usuário exclui um item de caixa de correio (como uma mensagem de email, um contato, um compromisso de calendário ou uma tarefa), o item é movido para a pasta Itens Recuperáveis e para uma subpasta chamada "Exclusões". Isso é conhecido como exclusão suave. O tempo de permanência dos itens excluídos na pasta Exclusões depende do período de retenção do item excluído que é definido para a caixa de correio. Uma caixa de correio do Exchange Online mantém os itens excluídos por 14 dias por padrão, mas os administradores do Exchange Online podem alterar essa configuração para aumentar o período para um máximo de 30 dias. (Para etapas detalhadas para aumentar o período de retenção de itens excluídos para uma caixa de correio do Exchange Online, confira Alterar por quanto tempo os itens excluídos permanentemente são mantidos para uma caixa de correio do [Exchange Online.)](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention) Os usuários podem recuperar ou limpar itens excluídos antes que o tempo de retenção de um item excluído expire. Para fazer isso, eles usam o recurso Recuperar Itens Excluídos no Microsoft Outlook ou no Outlook na Web.
+Quando um usuário exclui um item de caixa de correio (como uma mensagem de email, um contato, um compromisso de calendário ou uma tarefa), o item é movido para a pasta Itens Recuperáveis e para uma subpasta chamada "Exclusões". Isso é conhecido como exclusão suave. O tempo de permanência dos itens excluídos na pasta Exclusões depende do período de retenção do item excluído que é definido para a caixa de correio. Uma caixa de correio do Exchange Online mantém os itens excluídos por 14 dias por padrão, mas os administradores do Exchange Online podem alterar essa configuração para aumentar o período para um máximo de 30 dias. (Para etapas detalhadas para aumentar o período de retenção de itens excluídos para uma caixa de correio do Exchange Online, confira Alterar por quanto tempo os itens excluídos permanentemente são mantidos para uma caixa de correio do [Exchange Online.)](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention) Os usuários podem recuperar ou limpar itens excluídos antes que o tempo de retenção de um item excluído expire. Para fazer isso, eles usam o recurso Recuperar Itens Excluídos no Microsoft Outlook ou no Outlook na Web.
 
-Se um usuário limpa um item excluído usando o recurso Recuperar Itens Excluídos no Outlook ou no Outlook na Web, isso é conhecido como exclusão permanente. No Exchange Online, a recuperação de item único é habilitada [](https://docs.microsoft.com/Exchange/recipients/user-mailboxes/recover-deleted-messages) por padrão quando uma nova caixa de correio é criada, para que um administrador ainda possa recuperar itens excluídos de forma permanente antes que o período de retenção do item excluído expire. Além disso, se uma mensagem for alterada por um usuário ou por um processo, as cópias do item original também serão mantidas quando a recuperação de item único estiver habilitada.
+Se um usuário limpar um item excluído usando o recurso Recuperar Itens Excluídos no Outlook ou no Outlook na Web, isso será conhecido como exclusão permanente. No Exchange Online, a recuperação de item único é habilitada [](/Exchange/recipients/user-mailboxes/recover-deleted-messages) por padrão quando uma nova caixa de correio é criada, para que um administrador ainda possa recuperar itens excluídos de forma permanente antes que o período de retenção do item excluído expire. Além disso, se uma mensagem for alterada por um usuário ou por um processo, as cópias do item original também serão mantidas quando a recuperação de item único estiver habilitada.
 
 ## <a name="page-zeroing"></a>Zero de página
 
 *A zero* é um mecanismo de segurança que grava zeros ou um padrão binário sobre dados excluídos para que os dados excluídos seja mais difícil de recuperar. No Exchange Online, os bancos de dados de caixa de correio *usam* páginas como unidade de armazenamento e implementam um processo de substituição chamado *anulação de página.* A zeroação de página é habilitada por padrão e não pode ser desabilitada por clientes ou pela Microsoft. As operações de anulação de página são registradas nos arquivos de log de transações para que todas as cópias de um determinado banco de dados sejam anuladas por página de maneira semelhante. Anulando uma página em uma cópia de banco de dados ativa faz com que a página seja anulada em cópias passivas do banco de dados.
 
-A zeroação de página grava um padrão binário sobre registros excluídos de forma permanente. O padrão de zero página é específico para operações do Mecanismo de Armazenamento Extensível (ESE) (o nome do mecanismo de banco de dados interno usado pelos servidores no Exchange Online) e é diferente para operações em tempo de executar versus operações de manutenção de banco de dados em segundo plano. (A manutenção de banco de dados em segundo plano é um processo que verifica continuamente cada banco de dados. Sua função principal é a verificação de páginas de banco de dados, mas também lida com a limpeza do espaço e a reação de registros e páginas que não foram zeradas por causa de uma falha na Loja.)
+A zeroação de página grava um padrão binário sobre registros excluídos de forma permanente. O padrão de zero página é específico para operações do Mecanismo de Armazenamento Extensível (ESE) (o nome do mecanismo de banco de dados interno usado pelos servidores no Exchange Online) e é diferente para operações em tempo de executar versus operações de manutenção de banco de dados em segundo plano. (A manutenção de banco de dados em segundo plano é um processo que verifica continuamente cada banco de dados. Sua função principal é a verificação de páginas de banco de dados, mas também lida com a limpeza de espaço e a reação de registros e páginas que não foram zeradas por causa de uma falha na Loja.)
 
 A tabela a seguir lista os padrões de preenchimento que correspondem a operações em tempo de execução específicas.
 
@@ -75,7 +75,7 @@ A tabela a seguir lista os padrões de preenchimento que correspondem a operaç�
 | Liberação de espaço em página parcialmente utilizada       | Z            |
 | Liberação de espaço em página não utilizada               | U            |
 
-### <a name="page-zeroing-process"></a>Processo de reação de página
+### <a name="page-zeroing-process"></a>Processo de zero de página
 
 O processo de zero de página depende do cenário de exclusão. A tabela a seguir discute os cenários de exclusão de banco de dados, e quando as funções de anulação de página ocorrem.
 
@@ -87,9 +87,9 @@ O processo de zero de página depende do cenário de exclusão. A tabela a segui
 
 ### <a name="mailbox-data-types-without-page-zeroing"></a>Tipos de dados de caixa de correio sem a reação de página
 
-Os tipos de dados de caixa de correio a seguir não têm provisões para a zeroação de página:
+Os seguintes tipos de dados de caixa de correio não têm provisões para a zeroação de página:
 
-- Logs de transação de banco de dados de caixa de correio **-** Quando os logs de transações são excluídos como parte das operações normais, não há nenhum processo para zerar os blocos no sistema de arquivos que armazenou o(s) arquivo(s) de log excluído(s). É provável que o sistema de arquivos reutilize rapidamente esse espaço livre para logs recém-criados, mas não há garantia de que isso acontecerá.
+- Logs de transação de banco de dados de caixa de correio **-** Quando os logs de transações são excluídos como parte das operações normais, não há processo para zerar os blocos no sistema de arquivos que armazenou o(s) arquivo(s) de log excluído(s). É provável que o sistema de arquivos reutilize rapidamente esse espaço livre para logs recém-criados, mas não há garantia de que isso acontecerá.
 - **Arquivos de catálogo de índice de** conteúdo - O Exchange Online usa o Search Foundation (também conhecido como FAST) para a funcionalidade de indexação de pesquisa. O catálogo de índices de pesquisa é composto por várias dezenas de arquivos armazenados no mesmo volume do arquivo de banco de dados de caixa de correio. Quando um arquivo é excluído de forma irreversível do banco de dados de caixa de correio, o conteúdo associado no catálogo de pesquisa não é excluído imediatamente. A exclusão de conteúdo ocorre quando o Search Foundation faz uma sombra (ou mesclagem mestra) de muitos arquivos de catálogo pequenos em um único arquivo maior. Depois que a mesclagem mestre é concluída, os arquivos menores de catálogo são excluídos. Não há nenhum processo para zerar os blocos que armazenaram os arquivos de catálogo excluídos.
 
 ## <a name="continuous-replication"></a>Replicação contínua
