@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: be76b2cfc3408f50c239fb9c1fc140e36e7697f7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: ffe05b9857d7b04004838c17d19073eb208a99f5
+ms.sourcegitcommit: efe49fd31eb8166e3e72ad1cc65b332c6f3b1327
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120280"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50260363"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Estrutura de Segurança Comum (CSF) da HITRUST (Health Information Trust Alliance)
 
@@ -35,16 +35,17 @@ O CSF é dividido em 19 domínios diferentes, incluindo proteção de ponto de e
 
 Estrutura de Segurança Comum (CSF) da HITRUST (Health Information Trust Alliance)
 
-A HITRUST oferece três graus de garantia ou níveis de avaliação: autoavaliação, CSF validado e certificado pelo CSF. Cada nível se constrói com rigor crescente em relação ao que está abaixo dele. Uma organização com o mais alto nível, certificada por CSF, atende a todos os requisitos de certificação do CSF. O Microsoft Azure e o Office 365 são os primeiros serviços de nuvem em hiperescala a receber a certificação do CSF HITRUST. A Coalfire, uma empresa de avaliadores da HITRUST, realizou as avaliações com base em como o Azure e o Office 365 implementam requisitos de segurança, privacidade e regulamentação para proteger informações confidenciais. A Microsoft dá suporte ao Programa de Responsabilidade Compartilhada HITRUST.
+A HITRUST oferece três graus de garantia ou níveis de avaliação: autoavaliação, CSF validado e certificado pelo CSF. Cada nível se constrói com um rigor crescente em relação ao que está abaixo dele. Uma organização com o mais alto nível, certificada por CSF, atende a todos os requisitos de certificação do CSF. O Microsoft Azure e o Office 365 são os primeiros serviços de nuvem em hiperescala a receber a certificação do CSF HITRUST. A Coalfire, uma empresa de avaliadores da HITRUST, realizou as avaliações com base em como o Azure e o Office 365 implementam requisitos de segurança, privacidade e regulamentação para proteger informações confidenciais. A Microsoft dá suporte ao Programa de Responsabilidade Compartilhada HITRUST.
 
 Saiba como acelerar a implantação da HITRUST com nosso Blueprint de Segurança e Conformidade do Azure.
 
 [Baixe o blueprint v9.0d da Matriz de Responsabilidades do Cliente (CRM) da HITRUST do Microsoft Azure](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
 - [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
 - Intune
+- Área de Trabalho Gerenciada da Microsoft
 - [Office 365 e Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
@@ -68,7 +69,7 @@ Use o Office 365 para gerenciar informações de saúde de forma segura e compat
 
 ## <a name="collaborate-with-microsoft-in-the-hitrust-shared-responsibility-program"></a>Colaborar com a Microsoft no Programa de Responsabilidade Compartilhada HITRUST
 
-Acelere o alcance da conformidade HITRUST para sua solução hospedada no Microsoft Azure preenchendo previamente sua avaliação com controles de responsabilidade totalmente herdados ou compartilhados para o Azure na ferramenta HITRUST MyCSF e colaborando com a Microsoft na sua avaliação.
+Acelere o cumprimento da conformidade HITRUST para sua solução hospedada no Microsoft Azure preenchendo previamente sua avaliação com controles de responsabilidade totalmente herdados ou compartilhados para o Azure na ferramenta HITRUST MyCSF e colaborando com a Microsoft em sua avaliação.
 
 [Saiba mais](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 
@@ -103,9 +104,9 @@ Sim, você pode encontrar ações recomendadas do cliente na Pontuação de Conf
 
 **Como me envolver com a Microsoft?**
 
-Faça logon na ferramenta HITRUST MyCSF® e preencha previamente sua avaliação para sua solução hospedada no Microsoft Azure com controles de responsabilidade totalmente herdados ou compartilhados para o Azure. Um Administrador da HITRUST da Microsoft concluirá sua parte da avaliação usando sua conta na ferramenta ® MyCSF.
+Faça logon na ferramenta HITRUST MyCSF® e preencha previamente sua avaliação para sua solução hospedada no Microsoft Azure com controles de responsabilidade totalmente herdados ou compartilhados para o Azure. Um Administrador da HITRUST da Microsoft concluirá sua parte da avaliação usando sua conta na ® MyCSF.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
@@ -115,4 +116,4 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
 - [Compreendendo e aproveitando o CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [Saiba mais sobre o Programa de Responsabilidade Compartilhada HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2100268)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Centro de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
