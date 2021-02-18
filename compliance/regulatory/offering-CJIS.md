@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4de465bbb17f5609af376920052d6abd366e5429
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 0a8cc37a24d3a51d79fb1ac34c92d96fc7e76fdd
+ms.sourcegitcommit: 66a26facea6ec9a95e5e61f1b5b69402f03db481
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121720"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279838"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Política de Segurança dos Serviços de Informações criminal (CJIS)
 
@@ -37,15 +37,13 @@ Além disso, todos os prestadores de serviços privados que processam o CJI deve
 
 ## <a name="microsoft-and-cjis-security-policy"></a>Política de Segurança da Microsoft e do CJIS
 
-A Microsoft assina o Adendo de Segurança do CJIS nos estados com Contratos de Informações do CJIS. Eles dizem às autoridades de aplicação da lei de estado responsáveis pela conformidade com a Política de Segurança do CJIS como os controles de segurança na nuvem da Microsoft ajudam a proteger todo o ciclo de vida dos dados e garantir a triagem de plano de fundo apropriada da equipe operacional com acesso ao CJI. A Microsoft continua a trabalhar com governos estaduais para entrar em Acordos de Informações CJIS.
+A Microsoft assina o Adendo de Segurança do CJIS nos estados com Contratos de Informações do CJIS. Eles dizem às autoridades de aplicação da lei de estado responsáveis pela conformidade com a Política de Segurança do CJIS como os controles de segurança na nuvem da Microsoft ajudam a proteger todo o ciclo de vida dos dados e garantir a triagem de plano de fundo apropriada da equipe operacional com acesso ao CJI. A Microsoft continua a trabalhar com governos estaduais para entrar em Acordos de Informações do CJIS.
 
 A Microsoft avaliou as políticas e os procedimentos operacionais do Microsoft Azure Government, do Microsoft Office 365 U.S. Government e do Microsoft Dynamics 365 U.S. Government, e atestou sua capacidade nos contratos de serviços aplicáveis de atender aos requisitos de RADAR para o uso de serviços no escopo.
 
 Saiba mais sobre os benefícios da política de Segurança do CJIS no Microsoft Cloud: Leia como [o Genetec limpa investigações criminais](https://customers.microsoft.com/story/genetec)
 
-Saiba como acelerar a política de segurança do CJIS com nosso Blueprint de Segurança e Conformidade do Azure: Baixe as diretrizes de implementação [do CJIS](https://gallery.technet.microsoft.com/CJIS-Implementation-62af7c27) para os Serviços de Nuvem do Governo da Microsoft
-
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
 - [Azure Government](/azure/azure-government/documentation-government-welcome)
 - [Dynamics 365 U.S. Government](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
@@ -76,11 +74,11 @@ Entre em contato com seu representante de conta da Microsoft para obter informa�
 
 A Microsoft assina um Contrato de Informações com uma CSA (Agência de Sistemas CJIS) de estado; você pode solicitar uma cópia do CSA do seu estado. Além disso, a Microsoft fornece aos clientes informações detalhadas de segurança, privacidade e conformidade. Os clientes também podem revisar os relatórios de segurança e conformidade preparados por auditores independentes para que possam validar se a Microsoft implementou controles de segurança (como ISO 27001) apropriados ao escopo de auditoria relevante.
 
-**Por onde começo com o esforço de conformidade da minha agência?**
+**Por onde começar com o esforço de conformidade da minha agência?**
 
 [A Política de Segurança do CJIS](https://aka.ms/cjis-security-policy) abrange as precauções que sua agência deve tomar para proteger o CJI. Além disso, seu representante de conta da Microsoft pode colocá-lo em contato com aqueles que estão familiarizados com os requisitos de sua jurisdição
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
@@ -89,6 +87,6 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - [Serviços de Informações de Criminal Criminal](https://aka.ms/cjis)
 - [Política de Segurança do CJIS](https://aka.ms/cjis-security-policy)
 - [Diretrizes de implementação do CJIS para o Azure Government](https://aka.ms/cjisimplementationguidelines)
-- [Estrutura de Conformidade do Hub de Controles Comuns da Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
+- [Estrutura de Conformidade do Microsoft Common Controls Hub](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/?linkid=2087246)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Centro de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
