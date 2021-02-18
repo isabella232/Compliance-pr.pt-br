@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f6024f19c0557531d8d933bd1266f04219c2c2d9
+ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120220"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50290890"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Padrões de gerenciamento de segurança de informações ISO/IEC 27001:2013
 
@@ -49,7 +49,7 @@ Saiba mais sobre os benefícios da ISO/IEC 27001 no Microsoft Cloud: [Baixe a IS
 - Microsoft Graph
 - Bot do Microsoft Healthcare
 - Intune
-- Área de Trabalho Gerenciada da Microsoft
+- [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - Office 365 Alemanha
@@ -77,11 +77,11 @@ Ciclo de auditoria: os serviços de nuvem da Microsoft são auditados pelo menos
 
 ### <a name="azure-devops-services"></a>Azure DevOps Services
 
-- [Azure DevOps Services](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dVisual%2bStudio%2bOnline&licencenumber=IS%20619017)
+- [Azure DevOps Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 ### <a name="microsoft-professional-services"></a>Serviços Profissionais da Microsoft
 
-- [Serviços Profissionais da Microsoft](https://www.bsigroup.com/Our-services/Certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
+- [Serviços Profissionais da Microsoft](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
 
 ## <a name="assessments-and-reports"></a>Avaliações e relatórios
 
@@ -99,7 +99,7 @@ Ciclo de auditoria: os serviços de nuvem da Microsoft são auditados pelo menos
 
 ### <a name="azure-devops-services"></a>Azure DevOps Services
 
-- [Certificado ISO 27001 do Azure DevOps Services IS 619017](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dVisual%2bStudio%2bTeam%2bServices&licencenumber=IS%20619017)
+- [Certificado ISO 27001 do Azure DevOps Services IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
 
 [Ver relatórios de auditoria adicionais](https://aka.ms/auditreports)
 
@@ -118,7 +118,7 @@ O [Portal de Confiança do Serviço](/microsoft-365/compliance/get-started-with-
 Sim. O processo de certificação anual da ISO/IEC 27001 do grupo de Infraestrutura e Operações do Microsoft Cloud inclui uma auditoria de resiliência operacional. Para visualizar o certificado mais recente, clique no link abaixo.
 
 - Microsoft Azure: [certificado ISO/IEC 27001:2013 para Infraestrutura e Operações do Microsoft Cloud](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
-- Azure Alemanha
+- Microsoft Azure Alemanha: [certificado ISO/IEC 27001:2013 para Infraestrutura e Operações do Microsoft Cloud](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 
 **Por onde começo a iniciativa de conformidade em minha empresa para adotar a ISO/IEC 27001?**
 

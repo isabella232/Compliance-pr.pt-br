@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ddb9fd3af311c0c1fa66be1cbdd547e4d582d9b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9c808a80aa2d2ab358378cfb0e50ef28f023bbf7
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505712"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276179"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>Certificação STAR do Cloud Security Alliance (CSA)
 
@@ -48,7 +48,7 @@ Saiba como acelerar a implantação da Autoavaliação STAR do CSA com nosso Blu
 - Microsoft Graph
 - Bot do Microsoft Healthcare
 - Intune
-- Área de Trabalho Gerenciada da Microsoft
+- [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Proteção avançada contra ameaças do Microsoft Defender
 - Mapa do serviço do OMS
 - Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365

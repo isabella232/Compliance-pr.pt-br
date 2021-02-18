@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ece30846546e9857bfd0700b5555766a2da81fd2
-ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
+ms.openlocfilehash: 0d8c455842b07f3cbb41ee5979b1393a6c40dd3a
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49527789"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276079"
 ---
 # <a name="association-of-banks-in-singapore-abs-outsourced-service-providers-audit-report-ospar"></a>Relatório de Auditoria do Provedor de Serviços Terceirizados da Associação de Bancos de Cingapura (ABS) (OSPAR)
 
@@ -46,7 +46,7 @@ A obtenção deste atestado ABS OSPAR demonstra que o conjunto de controles de s
 - Intune
 - Microsoft Cloud App Security
 - Microsoft Graph
-- Área de Trabalho Gerenciada da Microsoft
+- [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Stream
 - Serviço de nuvem do PowerApps: como um serviço autônomo ou como incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - Power Automate: como um serviço autônomo ou incluído em um plano ou pacote com a marca Office 365 ou Dynamics 365

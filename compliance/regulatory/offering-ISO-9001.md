@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f0ad19fdeb794d281342367ad9313ac159b9acf0
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120140"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276029"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>Padrões dos Sistemas de Gestão da Qualidade ISO 9001:2015
 
@@ -33,7 +33,7 @@ A ISO 9001:2015 é uma norma internacional que estabelece os critérios de um si
 
 Uma empresa de auditoria de terceiros independente realizou uma rigorosa análise do Microsoft Azure e de vários serviços on-line da Microsoft da adesão aos princípios de gerenciamento de qualidade estabelecidos pela ISO 9001:2015. A certificação de terceiros disponível fornece confirmação independente de que o Azure e os serviços on-line cobertos da Microsoft atendem aos requisitos ISO 9001:2015.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
 
 - [Azure, Azure Governamental e Azure Alemanha](https://aka.ms/AzureCompliance)
 - Segurança no aplicativo na nuvem da Microsoft
@@ -42,7 +42,7 @@ Uma empresa de auditoria de terceiros independente realizou uma rigorosa anális
 - Intune
 - Proteção avançada contra ameaças do Microsoft Defender
 - Bot do Microsoft Healthcare
-- Área de trabalho gerenciada da Microsoft
+- [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365

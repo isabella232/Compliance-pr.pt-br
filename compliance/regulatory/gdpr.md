@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 16135ae18d0b0a2a91a61652fed3d1b34d5db124
+ms.sourcegitcommit: 38741d8dc272bc2199d9f27db0335973e6be9735
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121430"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50290921"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumo do Regulamento Geral sobre a Proteção de Dados
 
@@ -141,7 +141,6 @@ A Microsoft pratica princípios de privacidade estrutural e privacidade por padr
 
 Essas análises de privacidade tendem a ser granulares – um serviço específico pode receber dezenas ou centenas de análises. A Microsoft implementa essas análises de privacidade granulares em Avaliações do Impacto sobre a Proteção dos Dados (DPIAs) que abrangem os principais agrupamentos de processamento, que então são examinadas pelo Oficial de Proteção de Dados (DPO) da Microsoft EU. O DPO avalia os riscos relacionados ao processamento de dados para garantir que existam mitigações suficientes em vigor. Se o DPO detectar riscos não mitigados, as alterações repassadas ao grupo de engenharia. As DPIAs serão revisadas e atualizadas à medida que os riscos à proteção dos dados mudarem.
 
-
 A Microsoft, como processador, tem o dever de ajudar os controladores a assegurar a conformidade com os requisitos para DPIA estabelecidos no RGPD. Para dar suporte aos nossos clientes, as seções relevantes de DPIAs da Microsoft foram abstraídas e serão fornecidas por meio desta seção em atualizações futuras, com a intenção de permitir que os controladores que dependem de serviços Microsoft aproveitem os resumos para criar suas próprias DPIAs.
 
 ## <a name="breach-notification"></a>Notificação de falha
@@ -167,7 +166,7 @@ Se a violação de dados pessoais que possa resultar em alto risco aos direitos 
 
 Depois de tomarmos conhecimento de uma violação de dados pessoais, o RGPD exige que o notifiquemos sem atrasos indevidos. Nos casos em que a Microsoft é um processador, nossas obrigações refletem tanto os requisitos do RGPD quanto nossas cláusulas contratuais mundiais padrão. Consideramos que todas as violações de dados pessoais confirmadas estão dentro do escopo; não há risco de limites de danos. Notificaremos nossos clientes se a violação de dados tiver sido sofrida diretamente pela Microsoft ou por qualquer um de nossos subprocessadores. Temos processos para identificar e contatar rapidamente a equipe de incidentes de segurança que você identificou na sua organização. Além disso, todos os subprocessadores são contratualmente obrigados a relatar suas próprias violações à Microsoft e a fornecer garantias para esse efeito.
 
-**Como a MIcrosoft detectará uma violação de dados?**
+**Como a Microsoft detectará uma violação de dados?**
 
 Todos os nossos serviços e funcionários seguem os procedimentos internos de gerenciamento de incidentes, para garantir que tomemos as devidas precauções para evitar violações de dados antes de mais nada. No entanto, além disso, os serviços de nuvem corporativos da Microsoft possuem controles de segurança específicos em nossas plataformas para detectar violações de dados no raro evento de elas ocorrerem.
 
@@ -211,7 +210,7 @@ Os Termos de RGPD da Microsoft refletem os compromissos obrigatórios dos proces
 
 **Em que base a Microsoft facilita a transferência de dados pessoais fora da UE?**
 
-A Microsoft tem usado por extenso as Cláusulas Contratuais Padrão (também conhecidas como as Cláusulas Modelo) como base para a transferência de dados dos serviços online corporativos. As Cláusulas Contratuais Padrão são termos padrão fornecidos pela Comissão Europeia, que podem ser usados para transferir dados de fora da área europeia de maneira compatível. A Microsoft incorporou as Cláusulas Contratuais Padrão em todos os acordos de licenciamento por volume pelos [Termos de Serviços Online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). O Grupo de Trabalho do Artigo 29 concluiu que a implementação das Cláusulas Contratuais Padrão da Microsoft é compatível. E quando o Escudo de Privacidade UE-EUA ficou disponível, a Microsoft foi a primeira empresa a certificar. Confira a[Certificação de Escudo de Privacidade da Microsoft](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active)e leia os [Termos de Serviços Online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). O Escudo de Privacidade da UE ajuda os clientes que desejam transferir seus dados para os Estados Unidos, de uma maneira coerente com as obrigações de proteção de dados.
+A Microsoft tem usado por extenso as Cláusulas Contratuais Padrão (também conhecidas como as Cláusulas Modelo) como base para a transferência de dados dos serviços online corporativos. As Cláusulas Contratuais Padrão são termos padrão fornecidos pela Comissão Europeia, que podem ser usados para transferir dados de fora da área europeia de maneira compatível. A Microsoft incorporou as Cláusulas Contratuais Padrão em todos os acordos de licenciamento por volume pelos [Termos de Serviços Online](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46). Para os dados pessoais do Espaço Econômico Europeu, Suíça e Reino Unido, a Microsoft garantirá que as transferências de dados pessoais para um terceiro país ou organização internacional estejam sujeitas às salvaguardas apropriadas, conforme descrito no Artigo 46 do GDPR. Além dos compromissos da Microsoft sob as Cláusulas Contratuais Padrão para processadores e outros modelos de contratos, a Microsoft continua a cumprir os termos da [Estrutura da Defesa de Privacidade UE-EUA](https://www.privacyshield.gov/), mas não mais dependerá dela como base para a transferência de dados pessoais da UE/EEE para os Estados Unidos.
 
 **Quais são as outras ofertas de conformidade da Microsoft?**
 
@@ -270,9 +269,9 @@ Atender a conformidade com o RGPD custará tempo e dinheiro para a maioria das o
 
 O RGPD regula o conjunto, armazenamento, uso e compartilhamento de "dados pessoais". Os dados pessoais são definidos em linhas gerais no RGPD como todos os dados relacionados a uma pessoa física identificada ou identificável.
 
-Os dados pessoais podem incluir, mas não se limitam a identificadores online (por exemplo, endereços de IP), informações de funcionários, bancos de dados de vendas, dados de atendimento ao cliente, formulários de comentários do cliente, dados de localização, dados biométricos, imagens de CCTV, registros de esquemas de fidelidade, informações de saúde e financeiras e muito mais. Pode inclusive incluir informações que não parecem ser pessoais, como uma foto de um paisagem sem pessoas, onde essas informações são vinculadas por um número de conta ou código exclusivo a uma pessoa identificável. E mesmo dados pessoais que foram pseudonimizados podem ser dados pessoais se o pseudônimo puder ser vinculado a um indivíduo em particular. 
+Os dados pessoais podem incluir, mas não se limitam a identificadores online (por exemplo, endereços de IP), informações de funcionários, bancos de dados de vendas, dados de atendimento ao cliente, formulários de comentários do cliente, dados de localização, dados biométricos, imagens de CCTV, registros de esquemas de fidelidade, informações de saúde e financeiras e muito mais. Pode inclusive incluir informações que não parecem ser pessoais, como uma foto de um paisagem sem pessoas, onde essas informações são vinculadas por um número de conta ou código exclusivo a uma pessoa identificável. E mesmo dados pessoais que foram pseudonimizados podem ser dados pessoais se o pseudônimo puder ser vinculado a um indivíduo em particular.
 
-O processamento de determinadas categorias "especiais" de dados pessoais, como dados pessoais que revelem origem racial ou étnica de uma pessoa ou que fale sobre saúde ou orientação sexual, está sujeito a regras mais estritas do que o processamento de dados pessoais "simples". Essa avaliação de dados pessoais é muito específica, portanto, recomendamos envolver um especialista para avaliar as circunstâncias específicas.
+O processamento de determinadas categorias "especiais" de dados pessoais, como dados pessoais que revelem origem racial ou étnica de uma pessoa ou que fale sobre a saúde ou orientação sexual, está sujeito a regras mais estritas do que o processamento de dados pessoais "simples". Essa avaliação de dados pessoais é muito específica, portanto, recomendamos envolver um especialista para avaliar as circunstâncias específicas.
 
 **Minha organização só processa dados em nome de outras pessoas. Ainda é necessário obedecer à RGPD?**
 
@@ -326,6 +325,5 @@ Os produtos e serviços da Microsoft, como o Azure, o Dynamics 365, o Enterprise
 
 - [Atenda às suas necessidades em torno de GDPR com um dos nossos parceiros globais, oferecendo soluções baseadas na Microsoft](https://aka.ms/findgdprpartner)
 - [Saiba como a Microsoft gerencia seus dados, onde ele está localizado, quem pode acessá-los, os termos e muito mais.](https://www.microsoft.com/trust-center/privacy)
-- [Saiba como a Microsoft adere aos princípios da estrutura do Escudo de Segurança EU-U.S](https://blogs.microsoft.com/eupolicy/2016/07/11/eu-u-s-privacy-shield-progress-for-privacy-rights/)
 - [Como a Microsoft detecta e responde a uma violação de dados pessoais e notifica o usuário segundo o RGPD](https://www.microsoft.com/trust-center/privacy/gdpr-data-breach)
 - [Avaliar a preparação do RGPD hoje](https://discover.microsoft.com/gdpr-readiness-assessment/)

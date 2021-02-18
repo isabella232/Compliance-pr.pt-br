@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7c9a28ca0a89167a951eea1a47633c02bdb14faa
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 951b35d755091555450b7bcd4361d56c5159591e
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120130"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276089"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>Código de Conduta ISO/IEC 27018 para Proteção de Dados Pessoais na Nuvem
 
@@ -52,7 +52,7 @@ Seguindo os padrões da ISO/IEC 27001 e o código de prática incorporado na ISO
 - Microsoft Graph
 - Bot do Microsoft Healthcare
 - Intune
-- Área de Trabalho Gerenciada da Microsoft
+- [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (anteriormente Microsoft Flow): serviço em nuvem como serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
 - Office 365 Alemanha
