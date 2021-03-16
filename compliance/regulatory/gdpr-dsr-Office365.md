@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: fb982899fb5159abecc07b90700134b6247b6fee
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
+ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121940"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "50822514"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados do Office 365 para o GDPR e o CCPA
 
@@ -727,7 +727,7 @@ O Bookings reúne e armazena os seguintes tipos de dados:
 
 ##### <a name="export"></a>Exportar
 
-Para exportar dados correspondentes ao proprietário da empresa, aos funcionários e aos clientes, você pode usar o portal de privacidade do Centro de empresas. Veja [Exportar ou excluir dados de usuário usando o portal de privacidade do Centro de empresas](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Para exportar os dados correspondentes ao proprietário da empresa, à equipe e aos clientes, você pode usar o portal de privacidade do [Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Excluir
 
@@ -738,7 +738,7 @@ Você pode excluir os seguintes tipos de dados do Bookings em resposta a uma sol
 - **Eventos do Bookings:** você pode excluir eventos de reservas do calendário do Bookings, o que removerá as informações do cliente.
 - **Solicitações de reunião, confirmações/cancelamentos/atualizações por email e lembretes por email:** você pode excluí-los do calendário do Bookings, o que removerá as informações do cliente.
 
-Os administradores e os proprietários de empresas também podem excluir dados do cliente usando o portal de privacidade do Centro de Empresas. Veja [Exportar ou excluir dados de usuário usando o portal de privacidade do Centro de Empresas](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Para exportar os dados correspondentes ao proprietário da empresa, à equipe e aos clientes, você pode usar o portal de privacidade do [Business Center](https://businessaccount.microsoft.com/).
 
 Além disso, você pode excluir dados de funcionários e do proprietário da empresa e pode excluir a conta de usuário correspondente. Veja a seção[Excluir um usuário](#deleting-a-user).
 
@@ -760,7 +760,7 @@ O proprietário do Listings pode entrar no painel Listings para ver suas avalia�
 
 ##### <a name="export"></a>Exportar
 
-Para exportar dados do proprietário da empresa, de funcionários e de clientes, use o portal de privacidade do Centro de empresas. Ver [exportar ou excluir dados de usuário usando o portal de privacidade do Centro de Empresas](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Para exportar os dados correspondentes ao proprietário da empresa, à equipe e aos clientes, você pode usar o portal de privacidade do [Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Excluir
 
@@ -784,7 +784,7 @@ Um proprietário do Connections pode entrar no painel do Connections e ver as ca
 
 ##### <a name="export"></a>Exportar
 
-Para exportar dados do proprietário da empresa, de funcionários e de clientes, use o portal de privacidade do Centro de empresas. Ver [exportar ou excluir dados de usuário usando o portal de privacidade do Centro de Empresas](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
+Para exportar os dados correspondentes ao proprietário da empresa, à equipe e aos clientes, você pode usar o portal de privacidade do [Business Center](https://businessaccount.microsoft.com/).
 
 ##### <a name="delete"></a>Excluir
 
