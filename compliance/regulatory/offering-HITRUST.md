@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f2686156a1cc51aefd28865642f5bc637a463062
-ms.sourcegitcommit: 68d927bc03a6e03aecdeac25aba9ae0265d7baf4
+ms.openlocfilehash: b13af6be98f0a5c25e6a2c38e5f6dff9c923e665
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50715043"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002171"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
 
@@ -45,7 +45,7 @@ Saiba como acelerar sua implantação HITRUST com nosso Plano de Conformidade e 
 
 - [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
 - Intune
-- [Área de Trabalho Gerenciada da Microsoft](https://docs.microsoft.com/microsoft-365/managed-desktop/intro/compliance)
+- [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365 e Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
@@ -59,13 +59,13 @@ A certificação CSF HITRUST do Azure e do Office 365 é válida por dois anos.
 
 Comece a aproveitar os benefícios da nuvem para soluções de dados de saúde com o Azure Security and Compliance Blueprint — HIPAA/HITRUST Health Data and AI. Este modelo fornece ferramentas e orientações para começar a criar soluções HIPAA/HITRUST hoje.
 
-[Exemplo de modelo de modelo HITRUST 9.2 HIPAA HITRUST 9.2](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+[Exemplo de modelo de modelo HITRUST 9.2 HIPAA HITRUST 9.2](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
 
 ## <a name="accelerate-your-hipaahitrust-compliance-when-using-office-365"></a>Acelere a conformidade HIPAA/HITRUST ao usar o Office 365
 
 Use o Office 365 para gerenciar informações de saúde de forma segura e compatível com a Pontuação de Conformidade, o que permite que você execute avaliações de risco em relação a regulamentos de saúde, como HIPAA e estruturas de controle de segurança, como CSF NIST e NIST 800-53. Você pode seguir orientações passo a passo para saber como implementar e manter controles de proteção de dados que ajudam você a cumprir as obrigações de conformidade com a saúde.
 
-[Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+[Gerente de Conformidade Microsoft](/microsoft-365/compliance/compliance-manager)
 
 ## <a name="collaborate-with-microsoft-in-the-hitrust-shared-responsibility-program"></a>Colaborar com a Microsoft no Programa de Responsabilidade Compartilhada HITRUST
 
@@ -100,15 +100,15 @@ Quando você armazena seus dados em um SaaS como o Office 365, é uma responsabi
 
 **A Microsoft fornece orientações para minha organização implementar controles apropriados ao usar o Office 365?**
 
-Sim, você pode encontrar ações recomendadas do cliente em Pontuação de Conformidade, soluções de Nuvem entre Microsoft que ajudam sua organização a cumprir obrigações complexas de conformidade ao usar serviços de nuvem. Especificamente, para csf hitrust, recomendamos que você execute avaliações de risco usando as avaliações NIST 800-53 e NIST CSF na Pontuação de Conformidade. Nas avaliações, fornecemos orientações passo a passo e as soluções da Microsoft que você pode usar para implementar seus controles de proteção de dados. Você pode saber mais sobre a Pontuação de Conformidade no [Microsoft Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager).
+Sim, você pode encontrar ações recomendadas do cliente em Pontuação de Conformidade, soluções de Nuvem entre Microsoft que ajudam sua organização a cumprir obrigações complexas de conformidade ao usar serviços de nuvem. Especificamente, para csf hitrust, recomendamos que você execute avaliações de risco usando as avaliações NIST 800-53 e NIST CSF na Pontuação de Conformidade. Nas avaliações, fornecemos orientações passo a passo e as soluções da Microsoft que você pode usar para implementar seus controles de proteção de dados. Você pode saber mais sobre a Pontuação de Conformidade no [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager).
 
 **Como me engajar com a Microsoft?**
 
 Faça logon na ferramenta HITRUST MyCSF® e preencha previamente sua avaliação para sua solução hospedada no Microsoft Azure com controles de responsabilidade totalmente herdados ou compartilhados para o Azure. Um Administrador hitRUST da Microsoft concluirá sua parte da avaliação usando sua conta na ferramenta ® MyCSF.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
-O[Gerenciador de Conformidade da Microsoft](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como criar [e gerenciar avaliações no Gerenciador de Conformidade.](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)
+O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como criar [e gerenciar avaliações no Gerenciador de Conformidade.](/microsoft-365/compliance/compliance-manager-assessments)
 
 ## <a name="resources"></a>Recursos
 
