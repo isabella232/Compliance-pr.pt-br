@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f751777f527a13d4dc572ef58e82ffcbd6ce1b3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 420f95b0a7f7625ff10d76baf5f1c9d9efb69c6a
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121170"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002191"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>Intercâmbio de Avaliação de Segurança da Informação Confiável (TISAX) Alemanha
 
@@ -35,27 +35,18 @@ Para ajudar a simplificar as avaliações, a VDA criou um mecanismo comum de ava
 
 ## <a name="microsoft-and-tisax"></a>Microsoft e TISAX.
 
-As empresas automotivas europeias confiam na confiança para desenvolver, construir e operar carros novos. Elas usam o TISAX (Intercâmbio de Avaliação de Segurança da Informação Confiável) para fornecer uma avaliação de segurança das informações comuns para análises internas, avaliação de fornecedores e como mecanismo de troca de informações. Um auditor independente credenciado pela ENX, PwC, concluiu a avaliação TISAX dos datacenters e centros de operações da Microsoft em relação às especificações TISAX e aos requisitos de segurança de TI.
+As empresas automotivas europeias confiam na confiança para desenvolver, construir e operar carros novos. Elas usam o TISAX (Intercâmbio de Avaliação de Segurança da Informação Confiável) para fornecer uma avaliação de segurança das informações comuns para análises internas, avaliação de fornecedores e como mecanismo de troca de informações. Um auditor independente credenciado pela ENX concluiu a avaliação TISAX dos centros de dados e centros de operações da Microsoft em relação às especificações TISAX e aos requisitos de segurança de TI. Esses centros de dados certificados pela TISAX fornecem a infraestrutura física para os serviços online da Microsoft descritos no relatório de avaliação. Esses serviços incluem o Azure, o Dynamics 365 e o Microsoft 365.
 
 As empresas automotivas do mundo todo já podem avaliar a avaliação TISAX dos serviços em nuvem da Microsoft para criarem soluções em nuvem que integram uma forte segurança das informações e da proteção de dados. As empresas podem usar a avaliação TISAX dos serviços em nuvem da Microsoft para trocarem dados com segurança com fornecedores que utilizam estações de trabalho com base nos serviços em nuvem do Microsoft 365.
 
 A Microsoft forneceu uma autoavaliação dos seus serviços em nuvem, e o auditor realizou dois níveis de avaliação com base nisso. (O nível de avaliação determina a profundidade da avaliação e dos métodos que os auditores utilizam.)
 
-- Os datacenters da Microsoft no norte da Europa (região de Dublin, Irlanda) e na Europa Ocidental (região de Amsterdã, nos Países Baixos) foram avaliados no Nível 3 (AL3). A auditoria incluiu uma verificação completa dos processos de segurança, uma inspeção abrangente no local e entrevistas pessoais. É necessária uma avaliação AL3 dos dados com alta necessidade de proteção, como dados estritamente confidenciais ou secretos -, dados de testes de colisão e simulações de fluxo e sistemas de inteligência artificial.
+- Os centros de dados da Microsoft na Europa do Norte (região de Dublin, Irlanda), Europa Ocidental (região de Amsterdã, Holanda), Alemanha (Berlim, Frankfurt) e Coreia (Busan, Seoul) foram avaliados no Nível 3 (AL3). A auditoria incluiu uma verificação completa dos processos de segurança, uma inspeção abrangente no local e entrevistas pessoais. É necessária uma avaliação AL3 dos dados com alta necessidade de proteção, como dados estritamente confidenciais ou secretos, dados de testes de colisão e simulações de fluxo e sistemas de inteligência artificial.
 - Os datacenters globais selecionados da Microsoft foram avaliados no Nível 2 (AL2) com base em entrevistas remotas. É necessária uma avaliação do AL2 quanto a dados com alta necessidade de proteção, como dados classificados como confidenciais.
-
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
-
-A avaliação do TISAX se concentrou nos serviços da Microsoft:
-
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- Intune
-- [Microsoft Power BI, seja inscrito de forma autônoma ou incluído em um plano ou conjunto com a marca Office 365 ou Microsoft Dynamics 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-Os representantes do setor registrados na ENX podem encontrar detalhes sobre a avaliação TISAX dos serviços em nuvem da Microsoft no escopo no [portal da ENX](https://portal.enx.com/pt-BR/). Para pesquisar os resultados da avaliação da Microsoft, entre na sua conta TISAX existente e procure pela Microsoft. Como alternativa, você pode restringir sua pesquisa usando as informações abaixo:
+Representantes do setor registrados na ENX podem encontrar detalhes na avaliação de TISAX da Microsoft no[portal ENX](https://portal.enx.com/pt-BR/). Para pesquisar os resultados da avaliação da Microsoft, entre na sua conta TISAX existente e procure pela Microsoft. Como alternativa, você pode restringir sua pesquisa usando as informações abaixo:
 
 - ID do participante da Microsoft: PGKYK0
 - Microsoft Corp. ID do escopo de Nível 3 da Avaliação (AL) EU: SY869K
