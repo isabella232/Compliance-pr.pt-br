@@ -1,6 +1,6 @@
 ---
-title: Verificação em segundo plano do Microsoft Cloud
-description: Neste artigo, você pode encontrar uma visão geral das práticas de triagem de pessoal da Microsoft para o Microsoft 365.
+title: Verificação de antecedentes da nuvem da Microsoft
+description: Neste artigo, você pode encontrar uma visão geral das práticas de triagem de funcionários da Microsoft para o Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,29 +19,30 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d86fd7ca92113b538bef72213976b1a10eed85fa
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 2347d524bf1561b60eb40020636196332e2accd7
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505833"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497659"
 ---
-# <a name="microsoft-cloud-background-check"></a>Verificação em segundo plano do Microsoft Cloud
+# <a name="microsoft-cloud-background-check"></a>Verificação de antecedentes da nuvem da Microsoft
 
-Uma verificação em segundo plano do Microsoft Cloud é necessária para os candidatos contratados como funcionários que fornecem serviços relacionados à Microsoft 365 nos Estados Unidos. Os funcionários da Microsoft nos Estados Unidos com acesso aos dados do cliente devem seguir o processo de verificação em segundo plano do Microsoft Cloud exigido por todos os serviços do Microsoft 365. Fora dos Estados Unidos, o processo varia. Por exemplo, a nuvem da Microsoft para a Alemanha usa um modelo de aprovação de confiança de dados, projetado para garantir que a confiança de dados (uma empresa alemã), e não a Microsoft, esteja no controle de acesso aos dados dos clientes. A nuvem da Microsoft na Alemanha é entregue de datacenters na Alemanha, e os centros de operações (OC) que contêm a equipe técnica dos dados de confiança também estão na Alemanha. Ambas as facilidades de datacenter e OC são operadas, mantidas e controladas pelo confiável de dados.
+Uma Verificação de Plano de Fundo da Nuvem da Microsoft é necessária para candidatos contratados como funcionários que fornecem serviços relacionados ao Microsoft 365 nos Estados Unidos. Os funcionários da Microsoft nos Estados Unidos com acesso aos dados do cliente devem seguir o processo de Verificação de Plano de Fundo da Nuvem da Microsoft exigido por todos os serviços do Microsoft 365. Fora dos Estados Unidos, o processo varia. Por exemplo, o Microsoft Cloud para Alemanha usa um modelo de aprovação do Data Trustee, projetado para garantir que o Data Trustee (uma empresa alemã), e não a Microsoft, está no controle do acesso aos dados do cliente. O Microsoft Cloud na Alemanha é fornecido de datacenters na Alemanha, e os Centros de Operações (OC) que contêm a equipe técnica do Data Trustee também estão na Alemanha. Tanto o datacenter quanto as instalações OC são operados, mantidos e controlados pelo Data Trustee.
 
-Para a extensão permitida pela legislação local, as verificações a seguir são realizadas como parte da verificação em segundo plano do Microsoft Cloud.
+Na medida em que permitido pela lei local, as verificações a seguir são executadas como parte da Verificação de Plano de Fundo da Nuvem da Microsoft.
 
-- Estados Unidos: rastreamento de número de segurança social
-- O histórico criminal verifica até sete anos para o crimes e o contravenções offenses nos níveis de estado, região e local, e no nível federal, se adequado nos Estados Unidos. Uma verificação de histórico criminal internacional (dependente da legislação local) se aplica a áreas fora dos Estados Unidos.
-- Sanções globais e verificação de imposição, incluindo o Office da lista de controle de ativos estrangeiros (OFAC), lista do Bureau of Industry and Security (BIS) e a lista de controles de comércio de defesa (armas).
+- Estados Unidos: Rastreamento de Número de Previdência Social
+- O histórico criminal verifica até sete anos por crimes criminais e contravenções nos níveis de estado, município e local, e no nível federal, se apropriado nos Estados Unidos. Uma verificação de histórico criminal internacional (dependente da lei local) é aplicável para áreas fora dos Estados Unidos.
+- Verificação de sanções e imposições globais, incluindo a lista ofitório de controle de ativos externos (OFAC), lista do Bureau of Industry and Security (BIS) e verificações de lista de DDTC (Controles comerciais de defesa) do Office of Defense Trade Controls.
 
-Os resultados da verificação em segundo plano do Microsoft Cloud são armazenados em nosso banco de dados de funcionários e conectados a nossos sistemas de controle de acesso de datacenter. Se a verificação em segundo plano do Microsoft Cloud expirar e o funcionário não a renovar, o acesso aos serviços do Microsoft 365 será revogado e não estará mais disponível até que a verificação em segundo plano do Microsoft Cloud seja concluída. Quando o relacionamento de emprego com a Microsoft termina, todos os acessos de datacenters são imediatamente revogados.
+Os resultados da Verificação de Plano de Fundo da Nuvem da Microsoft são armazenados em nosso banco de dados de funcionários e conectados aos sistemas de controle de acesso ao datacenter. Se a Verificação de Plano de Fundo do Microsoft Cloud expirar e o funcionário não renová-la, o acesso aos serviços do Microsoft 365 será revogado e não estará mais disponível até que a Verificação de Plano de Fundo do Microsoft Cloud seja concluída. Quando a relação de trabalho com a Microsoft termina, todo o acesso ao datacenter é revogado imediatamente.
 
-A cidadania dos Estados Unidos é verificada para todos os funcionários com acesso físico ou lógico aos serviços do governo dos Estados Unidos da Microsoft 365. Para verificar a cidadania, funcionários e/ou novos candidatos de contratação são atendidos com um representante de cidadania americana que é treinado para analisar a documentação de verificação de cidadania dos EUA. Funcionários ou novos candidatos de admissão devem trazer a documentação necessária e assinar um formulário de atestado em uma reunião com o representante de cidadania para sua região. A reunião deve ser feita em pessoa. Depois que a pessoa atende ao representante de cidadania e forneceu a documentação e as assinaturas necessárias, o representante de cidadania encaminha uma cópia dos documentos às operações de equipe da Microsoft que enviam a cópia para manutenção de registros.
+A cidadania dos Estados Unidos é verificada para todos os funcionários com acesso físico ou lógico aos serviços do Microsoft 365 United States Government. Para verificar a cidadania, os funcionários e/ou novos candidatos contratados se reúnem com um Representante de Cidadania dos EUA que é treinado para revisar a documentação que verifica a cidadania dos EUA. Os funcionários ou novos candidatos contratados devem trazer a documentação necessária e assinar um formulário de atestado em uma reunião com o Representante de Cidadania para sua região. A reunião deve ser feita pessoalmente. Depois que o indivíduo se reuniu com o Representante de Cidadania e forneceu a documentação e as assinaturas necessárias, o Representante de Cidadania encaminha uma cópia dos documentos para o Microsoft Staffing Operations que envia a cópia para manter o registro.
 
-A equipe com acesso lógico à nuvem da Comunidade do governo dos EUA da Microsoft 365, ou o acesso lógico ou físico às ofertas do governo dos EUA do Azure, são necessários para cumprir os requisitos governamentais federais do CJIS ( [serviços de informações de Justiça criminais](https://www.fbi.gov/services/cjis) ) do FBI, incluindo a triagem de pessoal. A triagem de CJIS no suporte do serviço Microsoft 365 governo dos EUA inclui uma verificação de fundo criminal com base em impressão digital confederados pela Agência de sistema do CJIS, designada adjudicator em [Estados que foram registrados](https://blogs.office.com/2013/10/23/california-and-microsoft-sign-cjis-security-policy-agreement/) no programa de suporte do Microsoft Online Services CJIS.
+Os funcionários com acesso lógico à Nuvem da Comunidade Governamental dos EUA do Microsoft 365, ou acesso lógico ou físico às ofertas do governo dos EUA do Azure, são necessários para atender aos requisitos do governo federal dos Serviços de Informações de Justiça [Criminal](https://www.fbi.gov/services/cjis) (CJIS) do FBI, incluindo a triagem de funcionários. A triagem CJIS em suporte ao serviço do Microsoft 365 U.S. Government inclui uma verificação de antecedentes criminais baseada [](https://blogs.office.com/2013/10/23/california-and-microsoft-sign-cjis-security-policy-agreement/) em impressão digital adjudicada pela agência do sistema CJIS designada adjudicator em estados que se registraram no programa de suporte CJIS do Microsoft Online Services.
 
-## <a name="periodic-rescreening"></a>Reprojeção periódica
+## <a name="periodic-rescreening"></a>Rescreening periódico
 
-A Reprojeção periódica e/ou verificações adicionais em segundo plano podem ser necessárias para determinadas funções de gerenciamento, segurança ou outras, incluindo funcionários em funções que exigem acesso aos dados do cliente (consulte verificação em segundo plano da nuvem).
+Verificações periódicas e/ou adicionais em segundo plano podem ser necessárias para determinado gerenciamento, segurança ou outras funções, incluindo funcionários em funções que exigem acesso aos dados do cliente (Consulte Cloud Background Check).

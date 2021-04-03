@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 244ccb820f8d0715e7e063c1918747598f609efc
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 45cfa42a82e6fc4d7c1e9c26e59a23a944c4fd9c
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276069"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496639"
 ---
 # <a name="isoiec-27701-privacy-information-management-system-pims"></a>PIMS (Sistema de Gerenciamento de Informações de Privacidade) do ISO/IEC 27701
 
@@ -86,7 +86,7 @@ Independentemente do tamanho da sua organização e se for uma controladora ou p
 - Agentes virtuais do Power
 - Microsoft Stream
 - Especialistas em ameaças da Microsoft
-- Proteção avançada contra ameaças do Windows Defender
+- Microsoft Defender para Ponto de Extremidade
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 

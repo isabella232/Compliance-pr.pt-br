@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 953bf5587f621bb46c086ff8138b5519edd8d9fe
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276049"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497770"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>Gerenciamento de serviços de tecnologia da informação ISO/IEC 20000-1:2011
 
@@ -41,7 +41,7 @@ Uma empresa independente de auditoria terceirizada realizou um exame rigoroso do
 
 - [Azure, Azure Governamental e Azure Alemanha](https://aka.ms/AzureCompliance)
 - Segurança no aplicativo na nuvem da Microsoft
-- Proteção avançada contra ameaças do Microsoft Defender
+- Microsoft Defender para Ponto de Extremidade
 - Microsoft Graph
 - Bot do Microsoft Healthcare
 - Intune

@@ -16,12 +16,13 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 70cf9514306bc119c1f09a159222dbea6765e61f
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 74bdf63fcf704aa285a2803e5b7af7455a0291c6
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120680"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497649"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Responsabilidades do parceiro de nuvem e do cliente sobre o gerenciamento da continuidade de negócios corporativos
 
@@ -79,6 +80,6 @@ A Microsoft publica os [princípios de conectividade de rede](/microsoft-365/ent
 Muitas soluções de colaboração dependem de sistemas, como a WAN (rede de longa distância) da empresa. Como sua organização responderia, caso esses sistemas não estivessem disponíveis?
 Esse gráfico representa os problemas que podem afetar mais de uma área. A tabela a seguir fornece exemplos a considerar
 
-![Diagrama de venn de sistemas](../media/venn-diagram.png)
+![Diagrama venn de sistemas](../media/venn-diagram.png)
 
 Seus planos de continuidade devem considerar todas essas áreas. Por exemplo, se você quiser que os usuários estejam na rede corporativa e uma tempestade de neve ocorrer, como os usuários terão acesso aos principais recursos? Se a neve impedir o acesso ao escritório e houver a necessidade de que os engenheiros de serviço se conectem à rede corporativa, existe uma política que impõe que eles estejam em posse de seus laptops corporativos em suas residências?

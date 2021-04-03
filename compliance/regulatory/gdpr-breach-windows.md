@@ -17,12 +17,12 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: 220084ee9cd808d896a475a324c4bd55e58414e1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 41e903a478559d942de2202ab89e05c8c46a8460
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121060"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496338"
 ---
 # <a name="data-processor-service-for-windows-enterprise-breach-notification-under-the-gdpr"></a>Serviço de processamento de dados da notificação de violação do Windows Enterprise sob o GDPR
 
@@ -35,9 +35,9 @@ A segurança está incorporada no serviço de processador de dados da Microsoft 
 
 |**Stage**|**Descrição**|
 |:------- |:------------- |
-| ***1: Detectar*** | Primeira indício de um possível incidente. |
-| ***2: Avaliar*** | Um membro de plantão da equipe de resposta a incidentes avalia o impacto e a gravidade do evento. Com base em evidências, a avaliação pode ou não resultar num escalonamento à equipe de resposta de segurança. |
-| ***3: Diagnosticar*** | Os especialistas em resposta de segurança realizam a investigação técnica ou forense, identificam estratégias de contenção, mitigação e solução alternativa. Se a equipe de segurança achar que os dados do cliente podem ter sido expostos a um indivíduo criminoso ou não autorizado, a execução do processo de Notificação de Incidente do Cliente começa em paralelo. |
+| ***1: Detectar*** | Primeira indicação de um possível incidente. |
+| ***2: Avaliar*** | Um membro de plantão da equipe de resposta a incidentes avalia o impacto e a gravidade do evento. Com base em evidências, a avaliação pode ou não resultar num escalonamento para a equipe de resposta de segurança. |
+| ***3: Diagnosticar*** | Os especialistas em resposta de segurança realizam a investigação técnica ou forense, identificam estratégias de confinamento, de atenuação e de solução alternativa. Se a equipe de segurança achar que os dados do cliente podem ter sido expostos a um indivíduo criminoso ou não autorizado, a execução do processo de notificação de incidente do cliente começa em paralelo. |
 | ***4: Estabilizar e Recuperar*** | A equipe de resposta a incidentes cria um plano de recuperação para atenuar o problema. As etapas de contenção de crise, como colocar em quarentena os sistemas afetados, podem ocorrer imediatamente e em paralelo com o diagnóstico. As atenuações de longo prazo podem ser planejadas, e ocorrer após o risco imediato ter passado. |
 | ***5: Fechamento e Post-mortem*** | A equipe de resposta a incidentes cria um post-mortem que descreve os detalhes do incidente com a intenção de revisar políticas, procedimentos e processos para evitar a recorrência do evento. |
 
@@ -59,7 +59,7 @@ Os processos de detecção usados pelo serviço de processador de dados da Micro
 | ***Nenhum*** | Nenhuma informação foi removida, alterada, apagada ou de outra forma comprometida. |
 | ***Violação de privacidade*** | Dados pessoais confidenciais de contribuintes, funcionários, beneficiários, etc., foram acessados ou removidos. |
 | ***Violação proprietária*** | Informações proprietárias não-classificadas, tais como informações de infra-estrutura crítica protegida (PCII), foram acessadas ou removidas. |
-| ***Perda de integridade*** | As informações confidenciais ou proprietárias foram alteradas ou excluídas. |
+| ***Perda de integridade*** | Informações confidenciais ou proprietárias foram alteradas ou excluídas. |
 
 A equipe de Resposta de segurança trabalha com os Engenheiros de segurança e especialistas no assunto (SMEs) do serviço de processador de dados Windows do Microsoft Enterprise para classificar o evento com base em dados concretos das evidências. Um evento de segurança pode ser classificado como:
 

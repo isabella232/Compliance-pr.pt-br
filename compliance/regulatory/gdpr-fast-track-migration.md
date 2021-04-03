@@ -17,12 +17,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: b4c46e63ecbde1d160b0e0224a77ead751c37557
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+hideEdit: true
+ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506015"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496109"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Conjunto de ferramentas de migração FastTrack para envio de solicitação de exclusão
 
@@ -34,9 +35,9 @@ Se você for um cliente envolvido atualmente com migrações FastTrack, a exclus
 
 A Microsoft oferece suporte à versão inicial deste conjunto de ferramentas na plataforma do Windows e no console do PowerShell. Este conjunto de ferramentas oferece suporte às plataformas conhecidas a seguir:
 
-***Tabela 1 - Plataformas compatíveis com este conjunto de ferramentas** _
+***Tabela 1 - Plataformas compatíveis com este conjunto de ferramentas***
 
-_***
+****
 
 |Versão do Windows PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -60,9 +61,9 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Você receberá uma solicitação para confirmar essa ação, pois o administrador pode alterar o escopo de acordo com seu critério.
 
-**_Definir a Política de Execução_* _
+***Definir a política de execução***
 
-![Definir Alteração de Política de Execução no PowerShell](../media/powershell-set-execution-policy_image.png)
+![Definir alteração de política de execução no PowerShell](../media/powershell-set-execution-policy_image.png)
 
 Agora que o console está configurado para permitir o script, execute o próximo comando para instalar o módulo:
 
@@ -82,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 Após o logon bem-sucedido, as credenciais e a chave serão armazenadas para uso com os módulos do FastTrack durante o restante da sessão atual do PowerShell.
 
-Se você precisar se conectar a um ambiente de nuvem que não seja comercial, será necessário adicionar  _-Environment* ao comando de *Logon* com um dos seguintes ambientes válidos:
+Se você precisar se conectar a um ambiente de nuvem que não seja comercial, será necessário adicionar *-Environment* ao comando de *Logon* com um dos seguintes ambientes válidos:
 
 - AzureCloud
 - AzureChinaCloud

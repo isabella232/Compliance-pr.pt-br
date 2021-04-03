@@ -19,12 +19,13 @@ f1.keywords:
 ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: c3b443505c78832af47719e6840c8b7011f9dfe1
-ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
+hideEdit: true
+ms.openlocfilehash: fd23a1fdf949518ce3447d9db1bff7b6848d557c
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51002161"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497371"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Controles de tecnologia no Microsoft 365 
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f0ad19fdeb794d281342367ad9313ac159b9acf0
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276029"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497272"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>Padrões dos Sistemas de Gestão da Qualidade ISO 9001:2015
 
@@ -40,7 +40,7 @@ Uma empresa de auditoria de terceiros independente realizou uma rigorosa anális
 - Dynamics 365, Dynamics 365 Government e Dynamics 365 Germany
 - Microsoft Graph
 - Intune
-- Proteção avançada contra ameaças do Microsoft Defender
+- Microsoft Defender para Ponto de Extremidade
 - Bot do Microsoft Healthcare
 - [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
