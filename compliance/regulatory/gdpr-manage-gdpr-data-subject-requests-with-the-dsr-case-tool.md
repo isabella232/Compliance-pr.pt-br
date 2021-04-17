@@ -22,7 +22,7 @@ ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: f89faf915e31e375674020fda1fe56fe7cd78410
 ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/01/2021
 ms.locfileid: "51496057"
