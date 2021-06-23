@@ -1,6 +1,6 @@
 ---
-title: Police-Assured instalações seguras (PASF) Reino Unido
-description: Os serviços de nuvem do Microsoft Business Cloud dão suporte à imposição de leis do Reino Unido que exigem Police-Assured instalações seguras para processar e armazenar seus dados na nuvem.
+title: Police-Assured Instalações Seguras (PASF) Reino Unido
+description: Os serviços de nuvem de negócios da Microsoft suportam a aplicação da lei do Reino Unido que exigem Police-Assured instalações seguras para processar e armazenar seus dados na nuvem.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,28 +16,28 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1840178db7b15c1f3207c0c33fcaf12af6e8902f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d28d224b756f79f5129b042bbc8aa0c8a27f2e6a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505648"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088980"
 ---
-# <a name="police-assured-secure-facilities-pasf-united-kingdom"></a>Police-Assured instalações seguras (PASF) Reino Unido
+# <a name="police-assured-secure-facilities-pasf-united-kingdom"></a>Police-Assured Instalações Seguras (PASF) Reino Unido
 
-## <a name="about-pasf"></a>Sobre o PASF
+## <a name="about-pasf"></a>Sobre PASF
 
-A NPIRMT (equipe de gerenciamento de riscos das informações de vigilância nacional) do escritório doméstico do Reino Unido (o ministério responsável por segurança, Immigration e lei e ordem) é cobrada com a garantia de que o armazenamento e o acesso às informações de polícia atendam aos padrões. Por meio da [política de gerenciamento de risco das informações de vigilância nacional](http://library.college.police.uk/docs/APP-National-Policing-Information-Risk-Management-Policy.pdf), ele define os padrões e controles centrais para agências de imposição de leis no Reino Unido que estão avaliando o risco de mover sistemas de informações de polícia para a nuvem. A política requer que todos os serviços nacionais de polícia no Reino Unido, que armazenam e processem as informações de imposição de leis de legislação, estejam em vigor, consigam uma etapa adicional na avaliação de riscos: uma inspeção física do datacenter onde seus dados serão armazenados. A avaliação bem-sucedida de um datacenter determina que ele é PASF.
+A Equipe Nacional de Gerenciamento de Risco de Informações de Policiamento (NPIRMT) do Uk Home Office (o ministério responsável pela segurança, pela imigração e pela lei e pela ordem) é responsável por garantir que o armazenamento e o acesso às informações da polícia atendem aos seus padrões. Por meio da [Política Nacional](http://library.college.police.uk/docs/APP-National-Policing-Information-Risk-Management-Policy.pdf)de Gerenciamento de Risco de Informações de Policiamento , ela define os padrões centrais e controles para as agências de aplicação da lei em todo o Reino Unido que estão avaliando o risco de mover sistemas de informações da polícia para a nuvem. A política exige que todos os serviços de polícia nacional no Reino Unido que armazenam e processam de forma protetora marcadas ou outras informações confidenciais da aplicação da lei dê uma etapa extra em sua avaliação de risco: uma inspeção física do datacenter onde seus dados serão armazenados. A avaliação bem-sucedida de um datacenter determina que ele é PASF.
 
-Para ajudar os serviços locais de polícia com sua análise de auditoria detalhada, o NPIRMT realizou uma auditoria do PASF dos datacenters do Azure e determinou que eles estão em conformidade. Os serviços locais de polícia podem usar essa avaliação do NPIRMT para dar suporte à sua própria revisão. Usando as diretrizes de política do NPIRMT, o proprietário sênior do risco de informações para cada serviço de polícia é responsável por avaliar a adequação de um datacenter individual no contexto de seu aplicativo específico, que, em seguida, envia para o NPIRMT para aprovação.
+Para ajudar os serviços de polícia locais com a revisão de due-diligence, o NPIRMT realizou uma auditoria PASF dos datacenters do Azure e determinou que eles estão em conformidade. Os serviços de polícia locais podem usar essa avaliação do NPIRMT para dar suporte à própria revisão. Usando as diretrizes de política NPIRMT, o proprietário de risco de informações sênior para cada serviço de polícia é responsável por avaliar a adequação de um datacenter individual no contexto de seu aplicativo específico, que eles enviam ao NPIRMT para aprovação.
 
 ## <a name="microsoft-and-pasf"></a>Microsoft e PASF
 
-A equipe de gerenciamento de riscos das informações de vigilância nacional do Reino Unido (NPIRMT) concluiu uma avaliação de segurança abrangente da infraestrutura física dos datacenters do Microsoft Azure no Reino Unido e concluiu que estão em conformidade com os requisitos do NPIRMT sem nenhuma ação corretiva. Essa auditoria física bem-sucedida significa que o Microsoft Business Cloud Services pode agora suportar forças de polícia no Reino Unido, que exigem Police-Assured instalações seguras (PASF) para processar e armazenar seus dados na nuvem.
+A Equipe Nacional de Gerenciamento de Risco de Informações de Policiamento do Reino Unido (NPIRMT) concluiu uma avaliação abrangente de segurança da infraestrutura física de datacenters Microsoft Azure no Reino Unido e concluiu que eles estão em conformidade com os requisitos NPIRMT sem qualquer ação correção. Essa auditoria física bem-sucedida significa que os serviços de nuvem empresariais da Microsoft agora podem dar suporte a forças policiais em todo o Reino Unido que exigem Police-Assured instalações seguras (PASF) para processar e armazenar seus dados na nuvem.
 
-A Microsoft usa uma abordagem de defesa profunda e abrangente para segurança. Nossos data centers do Reino Unido (como todos os datacenters da Microsoft) são certificados para cumprir o [portfólio mais abrangente](https://azure.microsoft.com/overview/trusted-cloud/) de padrões reconhecidos internacionalmente de qualquer provedor de serviço de nuvem e atendem consistentemente a esses requisitos. Essa conformidade inclui a certificação para nossa implementação dos [padrões de gerenciamento de segurança de informações ISO/iec 27001](offering-iso-27001.md) e o [código de prática iso/IEC 27018 para a proteção de dados pessoais na nuvem](offering-iso-27018.md).
+A Microsoft tem uma abordagem abrangente de defesa holística para a segurança. Nossos datacenters do Reino Unido (como todos os [](https://azure.microsoft.com/overview/trusted-cloud/) datacenters da Microsoft) são certificados para atender ao portfólio mais abrangente de padrões reconhecidos internacionalmente de qualquer provedor de serviços de nuvem e atender consistentemente a esses requisitos. Essa conformidade inclui a certificação para nossa implementação dos Padrões de Gerenciamento de Segurança de Informações [ISO/IEC 27001](offering-iso-27001.md) e o Código de Prática [iso/IEC 27018](offering-iso-27018.md)para proteger dados pessoais na nuvem.
 
-Essas certificações são respaldadas pelas medidas tomadas para proteger a segurança física de nossos data centers. Adotamos uma abordagem em camadas que começa com o modo como projetamos, criamos e operamos os datacenters para controlar estritamente o acesso físico às áreas nas quais os dados do cliente estão armazenados. Os datacenters gerenciados pela Microsoft têm amplos níveis de proteção com a aprovação do Access necessária no perímetro do recurso, no perímetro da construção, dentro do edifício e no centro do datacenter. Essa estrutura reduz o risco de usuários não autorizados obterem acesso físico a recursos de dados e datacenters.
+Essas certificações são respaldadas pelas medidas tomadas para proteger a segurança física de nossos datacenters. Adotamos uma abordagem em camadas que começa com a forma como projetamos, construímos e operamos datacenters para controlar estritamente o acesso físico às áreas onde os dados do cliente são armazenados. Os datacenters gerenciados pela Microsoft têm amplos níveis de proteção com aprovação de acesso exigidos no perímetro da instalação, no perímetro do edifício, dentro do edifício e no piso do datacenter. Essa estrutura reduz o risco de usuários não autorizados obterem acesso físico a dados e recursos do datacenter.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
@@ -47,22 +47,22 @@ Essas certificações são respaldadas pelas medidas tomadas para proteger a seg
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-O NPIRMT audita um datacenter do Azure a cada ano, alternando anualmente os quatro data centers da Microsoft no Reino Unido. A avaliação do NPIRMT que os data centers da Microsoft são PASF estão disponíveis por meio do escritório doméstico para clientes de imposição de leis que estão conduzindo sua própria avaliação de risco do Azure e outros serviços de nuvem da Microsoft.
+O NPIRMT audita um datacenter do Azure por ano, passando anualmente pelos quatro datacenters da Microsoft no Reino Unido. A avaliação do NPIRMT de que os datacenters da Microsoft são PASF está disponível por meio do Home Office para clientes de aplicação da lei que estão realizando sua própria avaliação de risco do Azure e outros serviços de nuvem da Microsoft.
 
 ## <a name="how-to-implement"></a>Como implementar
 
-- [Blueprint oficial do Azure Reino Unido](https://servicetrust.microsoft.com/ViewPage/UKBlueprints): ajuda os clientes do Reino Unido a acelerar as implantações IaaS e PaaS de cargas de trabalho compatíveis no Azure.
+- [Modelo Oficial do Azure UK](/azure/governance/blueprints/samples/ukofficial-uknhs): ajuda os clientes do Reino Unido a acelerar implantações do IaaS e paaS de cargas de trabalho compatíveis no Azure.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
-**Os departamentos do Reino Unido podem usar a avaliação do PASF do Azure como parte de suas próprias avaliações de risco?**
+**Os departamentos de polícia no Reino Unido podem usar a avaliação do Azure PASF como parte de suas próprias avaliações de risco?**
 
-Sim. A imposição de leis pode usar a avaliação do NPIRMT do Azure para dar suporte à sua própria avaliação de risco local antes de mudar para a nuvem.
+Sim. A aplicação da lei pode usar a avaliação NPIRMT do Azure para dar suporte à sua própria avaliação de risco local antes de uma movimentação para a nuvem.
 
 ## <a name="resources"></a>Recursos
 
-- [Política de certificação de vigilância nacional](http://library.college.police.uk/docs/APP-National-Policing-Accreditation-Policy-2013.pdf)
-- [Recursos do Azure, local e segurança física](https://azure.microsoft.com/blog/azure-layered-approach-to-physical-security/)
-- [Padrões do ISM da Microsoft e ISO/IEC 27001:2013](offering-iso-27001.md)
+- [Política Nacional de Credenciamento de Policiamento](http://library.college.police.uk/docs/APP-National-Policing-Accreditation-Policy-2013.pdf)
+- [Instalações, instalações e segurança física do Azure](https://azure.microsoft.com/blog/azure-layered-approach-to-physical-security/)
+- [Padrões de ISM da Microsoft e ISO/IEC 27001:2013](offering-iso-27001.md)
 - [Termos de Serviços Online da Microsoft](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

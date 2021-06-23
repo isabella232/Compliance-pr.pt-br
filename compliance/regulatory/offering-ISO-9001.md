@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c0b7a9583b8b6d2420837156e836b75326870f1d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497272"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089685"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>Padrões dos Sistemas de Gestão da Qualidade ISO 9001:2015
 
@@ -59,7 +59,7 @@ Uma empresa de auditoria de terceiros independente realizou uma rigorosa anális
 
 A quem esse padrão se aplica?
 
-Esse padrão de prática fornece orientação e ferramentas para provedores de serviços em nuvem e clientes de serviço em nuvem para garantir que os produtos e serviços em nuvem cumpram de maneira consistente os requisitos dos clientes. Ele está estruturado em um formato semelhante ao da ISO/IEC 27001:2013.
+Esse padrão de prática fornece orientação e ferramentas para provedores de serviços em nuvem e clientes de serviço em nuvem para garantir que os produtos e serviços em nuvem cumpram os requisitos dos clientes de maneira consistente. Ele está estruturado em um formato semelhante ao da ISO/IEC 27001:2013.
 
 **Onde posso obter relatórios de auditoria da ISO/IEC 9001:2015 e declarações de escopo dos serviços da Microsoft?**
 
@@ -69,7 +69,7 @@ O [Portal de Confiança de Serviços](/microsoft-365/compliance/get-started-with
 
 Sim. A avaliação anual da ISO 9001:2015 inclui o datacenter da infraestrutura física subjacente. [Examine o certificado](https://www.microsoft.com/?ref=aka) para obter os detalhes da cobertura.
 
-**Onde posso visualizar as informações de conformidade da Microsoft da ISO 9001:2015?**
+**Onde posso visualizar as informações de conformidade da Microsoft para o ISO 9001:2015?**
 
 Você pode fazer o download do [certificado ISO 9001:2015](https://www.microsoft.com/?ref=aka) do Azure e serviços adicionais que estão no escopo desta avaliação.
 

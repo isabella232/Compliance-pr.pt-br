@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: b047b4ccf7fa9745a7237de79bbaa198e079865e
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496025"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089010"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>RGPD para Servidor do Office Web Apps e Servidor do Office Online
 
@@ -32,7 +32,7 @@ Todas as linhas de log contêm uma CorrelationID. Linhas de log relacionadas com
 
 ## <a name="gathering-logs"></a>Coletar logs
 
-Para reunir todos os logs associados com a UserID 1, por exemplo, a primeira etapa é reunir todas as sessões associadas à UserID 1 (ou seja, SessionID 1 e SessionID2). A próxima etapa será reunir todas as correlações associadas com a SessionID 1 (ou seja, CorrelationIDs 1, 2 e 3) e com a SessionID 2 (ou seja, CorrelationID 4). Por fim, reúna todos os logs associados a cada correlação na lista.
+Para reunir todos os logs associados ao UserID 1, por exemplo, a primeira etapa seria reunir todas as sessões associadas ao UserID 1 (ou seja, SessionID 1 e SessionID2). A próxima etapa seria reunir todas as correlações associadas com SessionID 1 (ou seja, CorrelationIDs 1, 2 e 3) e com SessionID 2 (ou seja, CorrelationID 4). Finalmente, reúna todos os logs associados a cada uma das correlações na lista.
 
 1. Iniciar o ULSViewer
 
@@ -72,7 +72,7 @@ Para reunir todos os logs associados com a UserID 1, por exemplo, a primeira eta
 
 ## <a name="types-of-data"></a>Tipos de dados
 
-Os logs do Office contêm diversos tipos de dados. A seguir são apresentados exemplos de dados que podem conter logs ULS:
+Os logs do Office contêm vários tipos diferentes de dados. A seguir estão exemplos dos dados que os registros ULS podem conter:
 
 - Códigos de erro para problemas encontrados durante o uso do produto
 
@@ -80,10 +80,10 @@ Os logs do Office contêm diversos tipos de dados. A seguir são apresentados ex
 
 - Dados de desempenho do aplicativo e/ou recursos específicos do aplicativo
 
-- Informações gerais de localização sobre onde está o computador do usuário (por exemplo, país/região, estado e cidade, derivadas do endereço IP), mas não uma geolocalização precisa.
+- Informações gerais de localização sobre a localização do computador do usuário (por exemplo, país/região, estado e cidade, derivadas do endereço IP), mas não a localização geográfica precisa.
 
-- Metadados básicos sobre o navegador, por exemplo, o nome e a versão do navegador e informações sobre o computador, como o tipo e a versão do sistema operacional
+- Metadados básicos sobre o navegador, por exemplo, nome e versão do navegador e o computador, por exemplo, tipo e versão do sistema operacional
 
-- Mensagens de erro do host do documento (por exemplo, OneDrive, SharePoint, Exchange)
+- Mensagens de erro do host do documento (por exemplo, Microsoft OneDrive, Microsoft Office SharePoint Online e Microsoft Exchange)
 
 - Informações sobre processos internos do aplicativo não relacionados a ações do usuário

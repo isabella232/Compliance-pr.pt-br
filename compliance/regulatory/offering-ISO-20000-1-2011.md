@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a04e5b7b0a292cfe419118085d387051e0c56e48
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 9995a237a82d41bfbb6740dbbe448f1ef3ae750a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497770"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088990"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>Gerenciamento de serviços de tecnologia da informação ISO/IEC 20000-1:2011
 
 ## <a name="isoiec-20000-12011-overview"></a>Visão geral da ISO/IEC 20000-1:2011
 
-A Organização Internacional de Padronização (ISO) é uma organização não governamental independente e a maior desenvolvedora mundial de normas internacionais voluntárias. A Comissão Eletrotécnica Internacional (IEC) é a organização líder mundial para a preparação e publicação de normas internacionais de tecnologias elétricas, eletrônicas e relacionadas.  
+A ISO (International Organization for Standardization) é uma organização não governamental independente e o maior desenvolvedor de padrões internacionais voluntários do mundo. A IEC (International Electrotechnical Commission) é a principal organização do mundo na preparação e publicação de padrões internacionais para tecnologias elétricas, eletrônicas e relacionadas.  
   
 Publicado pelo subcomitê conjunto ISO/IEC em 2005 e revisado em 2011, a ISO 20000-1:2011 é uma norma internacional para o estabelecimento, implementação, operação, monitoramento e revisão de um Sistema de Gerenciamento de Serviços de Tecnologia da Informação (SMS). É a única norma na família ISO 20000 que resulta em uma certificação formal. A norma se baseia nos requisitos para criar, fazer a transição, fornecer e melhorar serviços para atender aos requisitos de serviço acordados e fornecer valor aos clientes e provedores de serviços. A ISO 20000-1 auxilia as organizações a oferecerem garantias aos clientes de que seus requisitos de serviço serão cumpridos.
 
@@ -74,7 +74,7 @@ Sim. A avaliação anual da ISO 20000-1:2011 inclui o datacenter da infraestrutu
 
 Você pode fazer o download do certificado ISO 20000-1:2011 do Azure e serviços adicionais que estão no escopo desta avaliação.
 
-**Posso usar a conformidade dos serviços da Microsoft com a ISO/IEC 20000-1:2011 no processo de certificação da minha organização?**
+**Posso usar a conformidade dos serviços Microsoft com a ISO 20000-1:2011 no processo de certificação da minha organização?**
 
 Sim. Se sua empresa estiver buscando certificação quanto a implementações instadas em serviços dentro do escopo, você poderá utilizar as certificações relevantes da Microsoft em sua avaliação de conformidade. Contudo, você é responsável por contratar um avaliador para analisar a conformidade de sua implementação e pelos controles e processos dentro de sua organização.
 

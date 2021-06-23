@@ -9,7 +9,7 @@ manager: laurawi
 audience: Admin
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+localization_priority: Priority
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ ms.collection:
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: f89faf915e31e375674020fda1fe56fe7cd78410
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 8448d9a77352491ce0066dbf74ed5aea0e8f7a29
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496057"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089574"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-security--compliance-center"></a>Gerenciar solicitações do titular de dados do GDPR com a ferramenta de caso DSR no Centro de Conformidade e Segurança.
 
@@ -57,7 +57,7 @@ Usando a ferramenta de caso DSR, você pode:
     
 - Exporte dados em resposta a um acesso DSR ou solicitação de exportação.
     
-- Exclua casos quando o processo de investigação do DSR for concluído. Isso remove todas as pesquisas de conteúdo e exportará trabalhos associados ao caso.
+- Excluir os casos quando o processo de investigação de DSR for concluído. Isso removerá todas as pesquisas e exportará os trabalhos associados ao caso.
     
 Este é o processo de alto nível para usar a ferramenta de caso de DSR para gerenciar investigações de DSR:
   
@@ -373,7 +373,7 @@ Quando você exporta dados do Serviço de Roaming do Office, os dados são salvo
 
 Recomendamos que você não exporte itens parcialmente indexados (também chamados de itens não indexados) da pesquisa criada quando você cria um caso de DSR. Isso porque os resultados da pesquisa provavelmente incluirão itens parcialmente indexados para outros usuários em sua organização e não apenas os itens parcialmente indexados para o titular dos dados). Em vez disso, recomendamos que você crie uma Pesquisa de Conteúdo separada associada ao caso de DSR que foi projetada para exportar somente os itens parcialmente indexados relacionados ao titular dos dados. 
   
-Este é um processo de alto nível para exportar itens parcialmente indexados. Depois que eles são exportados, você pode revisá-los para determinar se um item está responsivo a um acesso de DSR ou a uma solicitação de exportação.
+Este é um processo de alto nível para exportar itens parcialmente indexados. Depois de exportá-los, você pode revisá-los para determinar se um item é responsivo a um acesso de DSR ou uma solicitação de exportação.
   
 1. Abra o caso de DSR e crie uma pesquisa na página **Pesquisar**. 
     

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27f0072091520317a6780e00331e0997022941a0
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506116"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088940"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Centro de Sistemas de Informação da Indústria Financeira (FISC)
 
@@ -37,7 +37,7 @@ A conformidade com essa estrutura não é exigida por regulamentação e não é
 
 ## <a name="microsoft-and-fisc"></a>Microsoft e FISC
 
-A Microsoft contratou um avaliador externo para validar se o Microsoft Azure, Dynamics 365 e Microsoft Office 365 atendem aos requisitos de Diretrizes de Segurança do FISC para Sistemas de Computador para Instituições Financeiras, 9ª edição Revisada. A Microsoft forneceu evidências de conformidade em cada uma das áreas a seguir:
+A Microsoft engajada com avaliadores externos para validar que o Microsoft Azure, o Dynamics 365 e o Microsoft Office 365 atendem aos requisitos das Diretrizes de Segurança FISC em Sistemas de Computador para Instituições Financeiras, 9ª Edição Revisada. A Microsoft forneceu evidências de conformidade em cada uma das seguintes áreas:
 
 - As diretrizes de datacenter para monitoramento de prédios e salas de computação, energia, ar-condicionado, datacenter e instalações.
 - Diretrizes operacionais para organizações, treinamento, controle de acesso, desenvolvimento de sistemas e auditoria.
@@ -45,7 +45,7 @@ A Microsoft contratou um avaliador externo para validar se o Microsoft Azure, Dy
 
 As instituições financeiras podem se fiar na avaliação de conformidade dessas três áreas para os serviços de infraestrutura e plataforma Azure, Dynamics 365, Office 365 e Microsoft Cloud App Security que estão dentro do escopo.
 
-[Saiba mais sobre a validação de avaliadores externos e os links para os sites dos avaliadores (somente em japonês](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
+[Saiba mais sobre a validação de avaliadores externos e links para sites do avaliador (Somente Japonês](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
@@ -72,9 +72,9 @@ O FISC publicou dois relatórios de seu Conselho de Especialistas:
 
 Você pode consultar referências de segurança ([em japonês](https://aka.ms/microsoftresponsetofiscguidancejapanese)) de terceiros que avaliaram a conformidade FISC dos serviços de nuvem da Microsoft.
 
-**Posso usar as respostas da Microsoft a essa estrutura no processo de qualificação da minha organização?**
+**Posso usar as respostas da Microsoft para essa estrutura no processo de qualificação da minha organização?**
 
-Sim. Entretanto, embora a conformidade das respostas da Microsoft a essa estrutura sejam confirmadas por terceiros, os clientes são responsáveis por validar a conformidade das soluções que eles implementarem no Azure ou Office 365.
+Sim. No entanto, embora as respostas da Microsoft a essa estrutura sejam confirmadas em conformidade por terceiros, os clientes são responsáveis por validar a conformidade das soluções implementadas no Azure ou no Office 365.
 
 ## <a name="resources"></a>Recursos
 

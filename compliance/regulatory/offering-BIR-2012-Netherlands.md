@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cf7d749df05d4be1396fa988615daa5c195c51cf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505715"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089825"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Padrão de linha de base do Informatiebeveiliging Rijksdienst (BIR 2012)
 
@@ -45,8 +45,7 @@ Embora a Microsoft não esteja sujeita à conformidade com o BIR 2012, os client
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-- [Cobertura da linha de base do BIR-2012 do Azure e do Office 365](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage/pdf)
-- [Guia do usuário da Cobertura da linha de base do BIR-2012 do Azure e do Office 365 (em holandês)](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage%20User%20Guide_Dutch/docx)
+A Microsoft selecionou uma empresa de auditoria independente de terceiros para analisar até que ponto as certificações e atestados atuais do Azure e do Office 365 (como ISO/IEC 27001 e SOC 2 Type 2) abrangem a parte do BIR 2012 pela qual a Microsoft é responsável. O relatório resultante fornece um mapeamento dessas certificações e atestados existentes para os controles listados no padrão BIR 2012. Os clientes podem usar o relatório como uma ferramenta para ajudar a adotar o Azure em conformidade com o BIR 2012. O relatório demonstra claramente quais controles BIR 2012 são cobertos pela Microsoft e quais controles continuam sendo implementados pelos clientes. O relatório “Microsoft Cloud: Azure e Office 365 BIR 2012 Baseline Coverage” pode ser baixado da seção [Relatórios de Auditoria do Portal de Confiança do Serviço  - Relatórios de Avaliação do GRC](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3).
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 

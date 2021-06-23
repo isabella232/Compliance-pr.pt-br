@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e93f71a023fe79e768e96b3c8894bf09d0655b6e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505756"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089755"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Boas Práticas Clínicas, Laboratoriais e de Manufatura (GxP)
 
@@ -55,7 +55,7 @@ As organizações de ciências naturais que criam soluções de GxP no Azure e n
 ## <a name="how-to-implement"></a>Como implementar
 
 - [Diretrizes GxP do Microsoft 365](../downloads/microsoft-365-gxp-guidelines-july-2020.pdf): um relatório técnico de como usar o Microsoft 365 enquanto adere às melhores práticas e regulamentos do GxP.
-- [Diretrizes GxP do Microsoft Dynamics 365](../downloads/microsoft-dynamics-365-gxp-guidelines-july-2020.pdf): um relatório técnico de como usar o Microsoft 365 enquanto adere às melhores práticas e regulamentos do GxP.
+- [Diretrizes GxP do Microsoft Dynamics 365](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=fb579b09-0874-4197-a97e-a25992383482&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_Compliance_Guides): um relatório técnico de como usar o Microsoft 365 enquanto adere às melhores práticas e regulamentos do GxP.
 - [Diretrizes GxP do Azure](https://aka.ms/gxpcompliance): um conjunto completo de ferramentas para usar o Azure enquanto segue as melhores práticas e regulamentos do GxP.
 - [Como usar o Azure com sistemas GxP](https://aka.ms/GXP-Azure-Strategies): ajuda para organizações de ciências da vida para estabelecer uma estratégia para criar aplicativos GxP.
 - Guias da FDA CFR Título 21, Parte 11: obtenha ajuda para estabelecer uma estratégia de qualificação do [Azure](https://aka.ms/Azure-FDA-Guidelines) e [Office 365](https://aka.ms/o365-qualification-guideline) que esteja em conformidade com as diretrizes da FDA para registros eletrônicos.

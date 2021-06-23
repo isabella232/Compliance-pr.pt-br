@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e83206a9d8f0639d529b64f00c07a79a16d40f0d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121400"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088510"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Autoridade Financeira (AMF) e Autoridade Prudencial (ACPR) da França
 
@@ -36,7 +36,7 @@ Há vários requisitos e diretrizes que as instituições financeiras da França
 - A Regulamentação Geral da AMF ([francês](https://amf-france.org/eli/fr/aai/amf/rg/livre/1/fr.html) e [inglês](https://amf-france.org/eli/fr/aai/amf/rg/20180103/notes/en.pdf)) define regras e procedimentos para reforçar a legislação financeira. Em particular, o artigo 313-75 estabelece condições que devem ser refletidas nos contratos firmados pelas instituições financeiras com os provedores de serviços de nuvem.
 - A ACPR publicou Os riscos associados à computação em nuvem ([francês](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-risques-associes-au-cloud-computing.pdf) e [inglês](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-the-risks-associated-with-cloud-computing.pdf)), que incentivam as organizações sob supervisão da ACPR a tomarem medidas adequadas para gerenciar riscos quando terceirizam funções de negócios para a nuvem. Além disso, o [Artigo 239 do decreto da ACPR de 3 de novembro de 2014 sobre o controle interno de empresas](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029700770&categorieLien=id) (francês) sob supervisão da ACPR, também especifica os termos obrigatórios a serem incluídos nos contratos com os provedores de serviços de nuvem.
 - Em determinados casos, as instituições regulamentadas devem notificar a AMF e a ACPR sobre os acordos de terceirização de materiais, especialmente se tiverem o potencial de impactar significativamente suas operações de negócios.
-- Em sua função de autoridade de proteção de dados da França, a [CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l’Informatique et des Libertés) emitiu várias diretrizes de computação em nuvem, incluindo recomendações para empresas que planejam usar serviços de computação em nuvem ([francês](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) e [inglês](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf)).
+- Em sua função de Autoridade de Proteção de Dados na França, a [CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l'Informatique et des Libertés) emitiu muitas diretrizes de computação em nuvem, incluindo recomendações para empresas que planejam usar serviços de computação em nuvem ([Francês](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) e [Inglês](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf)).
 
 ## <a name="microsoft-and-the-amf-and-acpr"></a>Microsoft, AMF e ACPR
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 13a628ee832079bd0402e5aec9969ec6e1f14cb4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121800"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089835"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autoridade Holandesa para Mercados Financeiros e Banco Central dos Países Baixos
 
@@ -29,11 +29,11 @@ ms.locfileid: "50121800"
 
 Os principais reguladores financeiros nos Países Baixos são as [Autoridade Holandesa para Mercados Financeiros](https://afm.nl/en) ([Autoriteit financiële Markten, o AFM](https://afm.nl/)) e o [Banco Central dos](https://www.dnb.nl/en/home/index.jsp) ([de Nederlandsche Bank, DNB](https://www.dnb.nl/home/)). O AFM, cuja função é comparável ao SEC nos Estados Unidos, é "a autoridade de supervisão independente para poupanças, empréstimos, investimentos e seguros". O DNB, dentro do sistema europeu de bancos centrais, determinará e implementará a política e os exercícios monetários supervisão prudencial das organizações financeiras para os Países Baixos.  
   
-As duas instituições atuam em conjunto com a European Banking Authority (EBA), "uma autoridade independente da UE que trabalha para garantir uma regulação e supervisão prudente, eficaz e consistente em todo o setor bancário da europeu". Para isso, a EBA definiu uma abordagem abrangente para a terceirização da computação em nuvem por instituições financeiras na UE, [Recomendações para a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf ).  
+As duas instituições atuam em conjunto com a European Banking Authority (EBA), "uma autoridade independente da UE que trabalha para garantir uma regulação e supervisão prudente, eficaz e consistente em todo o setor bancário da europeu". Para isso, a EBA definiu uma abordagem abrangente para o uso da computação em nuvem por instituições financeiras na UE, [Recomendações para a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf ).  
   
-Em geral, as leis e diretrizes oferecem suporte para o ponto de vista que a computação em nuvem que envolve serviços de terceiros se qualifica como uma forma de terceirização, e as instituições financeiras nos Países Baixos devem atender aos riscos associados antes de migrar as atividades do negócio para a nuvem. Entre eles:
+Em geral, as leis e diretrizes oferecem suporte para o ponto de vista que a computação em nuvem que envolve serviços de terceiros se qualifica como uma forma de terceirização, e as instituições financeiras nos Países Baixos devem lidar com os riscos associados antes de migrar as atividades do negócio para a nuvem. Elas incluem:
 
-- A lei de supervisão financeira (FSA) ([holandês](https://wetten.overheid.nl/BWBR0020368/2018-02-09) e [inglês](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)), emitida pela Legislatura holandesa em 2018, anexa condições para instituições financeiras controlarem os riscos associados à terceirização e garante que isso não impeça a supervisão regulatória.
+- A Lei de Supervisão Financeira (FSA) ([holandês](https://wetten.overheid.nl/BWBR0020368/2018-02-09) e [inglês](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)), emitida pela legislatura holandesa em 2018, anexa condições para instituições financeiras controlarem os riscos associados à terceirização e garantirem que ela não impeça a supervisão regulatória.
 - A Circulaire Cloud Computing ([holandês](https://www.toezicht.dnb.nl/binaries/50-224828.pdf) e [inglês](https://www.toezicht.dnb.nl/en/binaries/51-224828.pdf)), emitida pela DNB, exige que, antes das instituições holandesas supervisionadas se envolverem na computação em nuvem, elas devem informar à DNB seus possíveis acordos de terceirização para garantir que os processos e os riscos operacionais estejam sob controle.
 
 Usando um modelo que o DNB fornece, elas devem enviar uma análise de risco obrigatório que inclui:

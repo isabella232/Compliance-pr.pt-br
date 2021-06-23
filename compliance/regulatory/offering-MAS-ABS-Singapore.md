@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a076f51bbbefe60b1bdb41e656398da9e6d41825
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 379720a1769048fea6abc22f850a6ef54f601351
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506090"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089050"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>Autoridade Monetária de Singapura (MAS) e Associação de Bancos em Singapura (ABS)
 
@@ -31,7 +31,7 @@ ms.locfileid: "49506090"
 
 Em julho de 2016, a MAS, o único regulador bancário de Singapura e o banco central, emitiu suas [Diretrizes sobre o Gerenciamento de risco da terceirização](https://www.mas.gov.sg/~/media/MAS/Regulations%20and%20Financial%20Stability/Regulatory%20and%20Supervisory%20Framework/Risk%20Management/Outsourcing%20Guidelines_Jul%202016.pdf). Nas diretrizes, a MAS estabeleceu suas expectativas em relação à terceirização de serviços de nuvem por instituições financeiras em Singapura, incluindo bancos, seguradoras e empresas fiduciárias. Ela foi o resultado de uma discussão iniciada em outubro de 2014 que abrangeu todo o setor e incluiu a participação da Microsoft.
 
-As Diretrizes da MAS simplificam substancialmente o processo de adoção de tecnologias, esclarecem as expectativas do regulador e abordam muitos dos conceitos errôneos que anteriormente retardavam a adoção de soluções em nuvem pelo setor financeiro.
+As Diretrizes de MAS simplificam substancialmente o processo de adoção de tecnologia, fornecem clareza sobre as expectativas do regulador e abordam muitos dos equívocos que anteriormente retardavam a adoção de soluções em nuvem pelo setor financeiro.
 
 Além disso, as diretrizes são claras em relação ao suporte ao uso de serviços de nuvem — incluindo uma nuvem pública — pelas instituições financeiras e que a utilização desses serviços é vantajosa para elas. As diretrizes eliminaram a exigência que recaía sobre as instituições financeiras de terem que notificar a MAS antes de assumir compromissos importantes de terceirização material. Em vez disso, espera-se que as instituições regulamentadas pela MAS refinem sua abordagem baseada em risco ao avaliar a terceirização material e realizem uma autoavaliação de todos os acordos de terceirização tendo essas diretrizes como base. (Por enquanto, essas diretrizes não são juridicamente vinculativas, mas a MAS indicou que emitirá um aviso estatutário no futuro.)
 
@@ -54,7 +54,7 @@ Com o endosso da computação em nuvem, incluindo o uso de nuvens públicas, pel
 
 Obtenha suporte prático para migrar dados e cargas de trabalho para o Microsoft Cloud em conformidade com as Diretrizes da MAS
 
-[Baixe o guia Aprendendo a navegar até a nuvem: A resposta da Microsoft às diretrizes de terceirização da MAS e as diretrizes da ABS](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
+[Baixar o Navegando em seu caminho para a nuvem: a resposta da Microsoft às diretrizes de terceirização de MAS e orientação de ABS](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
 
 Lista de verificação de conformidade para instituições financeiras em Singapura
 
@@ -78,13 +78,13 @@ Obtenha suporte prático para migrar dados e cargas de trabalho para o Microsoft
 
 **A aprovação regulatória é necessária?**
 
-Não, não há exigência de notificação prévia, consulta ou aprovação de disposições de terceirização. No entanto, a MAS espera que as instituições financeiras estejam prontas para demonstrar seu cumprimento e notificar a MAS o mais rápido possível caso haja desenvolvimentos adversos decorrentes de acordos de terceirização de instituições financeiras como, por exemplo, um incidente de violação de dados.
+Não, não há exigência de notificação, consulta ou aprovação prévia de acordos de terceirização. No entanto, o MAS espera que as instituições financeiras estejam prontas para demonstrar como estão em conformidade e notificar o MAS o mais rápido possível sobre desenvolvimentos adversos decorrentes de acordos de terceirização de uma instituição financeira - por exemplo, um incidente de violação de dados.
 
-**O que é uma disposição de terceirização “material” e por que a definição é importante?**
+**O que é um acordo de terceirização 'material' e por que a definição é importante?**
 
-Uma disposição de terceirização é "material" se uma falha ou violação de um serviço tiver o potencial de afetar materialmente as operações de negócios de uma empresa financeira ou sua capacidade de gerenciar riscos e cumprir com leis e regulamentos aplicáveis; ou se envolver informações do cliente e, no caso de acesso ou divulgação não autorizada, perda ou roubo de informações do cliente, tenha um impacto material nos clientes de uma empresa. A definição de "informações do cliente" exclui expressamente informações criptografadas com segurança.
+Um acordo de terceirização é 'relevante' se uma falha ou violação de serviço tiver o potencial de afetar materialmente as operações de negócios de uma empresa financeira ou a capacidade de gerenciar riscos e cumprir as leis e regulamentos aplicáveis; ou se envolver informações do cliente e, no caso de qualquer acesso não autorizado ou divulgação, perda ou roubo de informações do cliente, tenha um impacto material sobre os clientes de uma empresa. A definição de “informações do cliente” exclui expressamente as informações criptografadas com segurança.
 
-Essa definição é importante, pois certas disposições das Diretrizes de terceirização da MAS se aplicam apenas a "disposições de terceirização material". Elas incluem a obrigação da realização de revisões anuais, cláusulas contratuais obrigatórias relacionadas aos direitos de auditoria e a garantia de que a terceirização fora de Singapura não afetará as iniciativas de supervisão da MAS.
+Esta definição é importante, uma vez que certas disposições das Diretrizes de terceirização de MAS se aplicam apenas a 'acordos de terceirização de materiais. ” Elas incluem a obrigação da realização de revisões anuais, cláusulas contratuais obrigatórias relacionadas aos direitos de auditoria e a garantia de que a terceirização fora de Singapura não afetará as iniciativas de supervisão da MAS.
 
 ## <a name="resources"></a>Recursos
 

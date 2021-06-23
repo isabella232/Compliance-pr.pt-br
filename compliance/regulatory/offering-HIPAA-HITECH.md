@@ -1,5 +1,5 @@
 ---
-title: HipAA (Portabilidade e Responsabilidade do Seguro de Saúde) & ações hitech
+title: Lei de Portabilidade e Responsabilidade do Seguro de Saúde (HIPAA) & Tecnologia de Informações de Saúde para a HiTECH (Economic and Clinical Health Health) Act
 description: A Microsoft oferece a Portabilidade do Seguro de & Responsabilidade Act Business Associate Agreements (BAAs).
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
@@ -16,47 +16,41 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dbd05b64deb7b74a590a09f81004968e6cf3a84d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: f32ebfe11debbace7783722553d37f68815a9085
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497780"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089514"
 ---
-# <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>HipAA (Portabilidade e Responsabilidade do Seguro de Saúde) & ações hitech
+# <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Lei de Portabilidade e Responsabilidade do Seguro de Saúde (HIPAA) & Tecnologia de Informações de Saúde para a HiTECH (Economic and Clinical Health Health) Act
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>HIPAA e a visão geral da Lei HITECH
 
-A Lei de Portabilidade e Responsabilidade do Seguro de Saúde (HIPAA) é uma lei de saúde dos EUA que estabelece requisitos para o uso, divulgação e proteção de informações de saúde de identificação individual. Aplica-se a entidades cobertas, escritórios de médicos, hospitais, operadoras de saúde e outras empresas de saúde, com acesso às informações de saúde protegidas dos pacientes (PHI), bem como aos associados de negócios, como serviços de nuvem e provedores de TI, que processam a PHI em seu nome. (A maioria das entidades cobertas não realiza funções como declarações ou processamento de dados por conta própria; elas dependem dos associados comerciais para fazer isso.)
+A Lei de Portabilidade e Responsabilidade do Seguro de Saúde de 1996 (HIPAA) e os regulamentos emitidos em HIPAA são um conjunto de leis de saúde dos EUA que estabelecem requisitos para o uso, divulgação e proteção de informações de saúde de identificação individual. O escopo do HIPAA foi estendido com a aprovação da Lei hitech (tecnologia de informações de saúde) em 2009.
 
-A lei regulamenta o uso e a disseminação do PHI em quatro áreas gerais:
+A HIPAA se aplica a entidades cobertas (especificamente, provedores de saúde, planos de saúde e casas de limpeza de saúde) que criam, recebem, mantêm, transmitem ou acessam as informações de saúde protegidas dos pacientes (PHI). A HIPAA aplica-se ainda aos associados comerciais de entidades cobertas que executam determinadas funções ou atividades envolvendo a PHI como parte do fornecimento de serviços à entidade coberta ou em nome da entidade coberta.  
 
-- Privacidade, que abrange a confidencialidade do paciente.
-- Segurança, que lida com a proteção de informações, incluindo proteções físicas, tecnológicas e administrativas.
-- Identificadores, que são os tipos de informações que não podem ser lançadas se coletados para fins de pesquisa.
-- Códigos para transmissão eletrônica de dados em transações relacionadas à saúde, incluindo qualificação e declarações e pagamentos de seguros.
+Quando uma entidade coberta envolve os serviços de um provedor de serviços de nuvem, como a Microsoft, o provedor de serviços de nuvem seria um associado comercial em HIPAA. Além disso, quando uma empresa associa subcontratados a um provedor de serviços de nuvem para criar, receber, manter ou transmitir a PHI, o provedor de serviços de nuvem também se torna um associado comercial.
 
-O escopo do HIPAA foi estendido com a aprovação da Lei hitech (tecnologia de informações de saúde) para saúde econômica e clínica. Juntos, as regras da HIPAA e da Lei HITECH incluem:
+## <a name="microsoft-hipaa-and-the-hitech-act"></a>Microsoft, HIPAA e a Lei HITECH
 
-- A Regra de Privacidade HIPAA, que se concentra no direito das pessoas de controlar o uso de suas informações pessoais e aborda a confidencialidade da PHI, limitando seu uso e divulgação.
-- A Regra de Segurança HIPAA, que define os padrões para proteções administrativas, técnicas e físicas para proteger a PHI eletrônica contra acesso, uso e divulgação não autorizados. Ele também inclui requisitos organizacionais como Acordos de Associação comercial (BAAs).
+Os regulamentos HIPAA exigem que as entidades cobertas (definidas nas Regras) entrem em acordos com os associados de negócios para garantir que a PHI seja adequadamente protegida. Este contrato é chamado de Contrato de Associado Comercial. Entre outras coisas, um Contrato de Associação comercial estabelece os usos e divulgações permitidos e necessários da PHI pelo associado comercial, com base na relação entre as partes e as atividades ou serviços que estão sendo executados pelo associado comercial. Para dar suporte à conformidade de nossos clientes com a HIPAA ao utilizar produtos e serviços corporativos da Microsoft, a Microsoft entrará em Contratos de Associados corporativos com sua entidade coberta e clientes associados de negócios.
 
-A Regra Final de Notificação de Violação hitech, que exige notificação a indivíduos e ao governo quando ocorre uma violação de PHI não assegurada.
+Atualmente, não há um padrão de certificação aprovado pelo Departamento de Saúde e Serviços Humanos para demonstrar a conformidade com a HIPAA ou a Lei HITECH por um associado comercial. No entanto, a Microsoft habilita os clientes em conformidade com a HIPAA e a Lei HITECH e adere aos requisitos de Regra de Segurança do HIPAA em sua capacidade como associado comercial. Além disso, a Microsoft entra em Contratos de Associados De Negócios com sua entidade coberta e clientes associados de negócios para dar suporte à conformidade com as obrigações HIPAA.  
 
-## <a name="microsoft-and-hipaa-and-the-hitech-act"></a>Microsoft e HIPAA e a Lei HITECH
+## <a name="third-party-certifications"></a>Certificações de terceiros
 
-Os regulamentos HIPAA exigem que entidades cobertas e seus associados comerciais, nesse caso, a Microsoft quando fornece serviços, incluindo serviços de nuvem, para entidades cobertas, entrem em contratos para garantir que esses associados a negócios protejam adequadamente a PHI. Esses contratos, ou BAAs, esclarecem e limitam como o associado comercial pode lidar com a PHI e estabelecem a adesão de cada parte às disposições de segurança e privacidade definidas no HIPAA e na Lei HITECH. Depois que um BAA é colocado, os clientes da Microsoft (entidades cobertas) podem usar seus serviços para processar e armazenar a PHI.
+serviços Microsoft cobertas pela BAA passaram por auditorias conduzidas por auditores independentes credenciados para a certificação Microsoft ISO/IEC 27001 e a certificação CSF HITRUST.
 
-Atualmente, não há nenhuma certificação oficial para a conformidade da HIPAA ou da Lei HITECH. No entanto, esses serviços da Microsoft cobertos pela BAA passaram por auditorias conduzidas por auditores independentes credenciados para a certificação Microsoft ISO/IEC 27001.
+Os serviços de nuvem empresarial da Microsoft também são abordados por avaliações fedRAMP. Microsoft Azure e Microsoft Azure o Governo recebeu uma Autoridade Provisória para Operar do Conselho de Autorização Conjunto fedRAMP; O Microsoft Dynamics 365 U.S. Government recebeu uma Autoridade de Agência para Operar do Departamento de Habitação e Desenvolvimento Urbano dos EUA, assim como Microsoft Office 365 governo dos EUA do Departamento de Saúde e Serviços Humanos dos EUA.
 
-Os serviços de nuvem empresarial da Microsoft também são abordados por avaliações fedRAMP. O Microsoft Azure e o Microsoft Azure Government receberam uma Autoridade Provisória para Operar do Conselho de Autorização Conjunto fedRAMP; O Microsoft Dynamics 365 U.S. Government recebeu uma Autoridade de Agência para Operar do Departamento de Habitação e Desenvolvimento Urbano dos EUA, assim como o Microsoft Office 365 eua do Departamento de Saúde e Serviços Humanos dos EUA.
+Para saber como o Microsoft Cloud ajuda os clientes a dar suporte a HIPAA e aos requisitos hitech, visite [Microsoft Customer Stories](https://customers.microsoft.com/).
 
-Para saber como o Microsoft Cloud ajuda os clientes a dar suporte a HIPAA e aos requisitos hitech, visite [Microsoft Customer Stories](https://customers.microsoft.com).
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
-
-- [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
-- Segurança no aplicativo na nuvem da Microsoft
+- [Governo do Azure e do Azure](https://aka.ms/AzureCompliance)(consulte *Apêndice A* e *B* para a lista completa de serviços no escopo do Contrato de Associado Comercial HIPAA da Microsoft)
+- Microsoft Cloud App Security
 - [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
@@ -67,53 +61,55 @@ Para saber como o Microsoft Cloud ajuda os clientes a dar suporte a HIPAA e aos 
 - Intune
 - [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou do Dynamics 365
-- Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote de marca do Office 365 ou Dynamics 365
+- Power BI de nuvem como um serviço autônomo ou como incluído em um plano ou pacote de marca Office 365 ou Dynamics 365
 - Azure DevOps Services
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Acelerar sua implantação de soluções HIPAA/HITRUST no Azure
 
-Comece a aproveitar os benefícios da nuvem para soluções de dados de saúde com o [Azure Security and Compliance Blueprint: HIPAA/HITRUST Health Data and AI](/azure/governance/blueprints/samples/hipaa-hitrust-9-2). Este modelo fornece ferramentas e orientações para começar a criar soluções HIPAA/HITRUST hoje.
+Comece a aproveitar os benefícios da nuvem para soluções de dados de saúde com o Plano de Conformidade e Segurança do [Azure.](/azure/governance/blueprints/samples/hipaa-hitrust-9-2) Este modelo fornece ferramentas e orientações para começar a criar soluções HIPAA/HITRUST hoje.
+
+Visite a [oferta do Azure e HIPAA](/azure/compliance/offerings/offering-hipaa-us) para obter mais informações.
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Minha organização pode entrar em um BAA com a Microsoft?**
 
-A Microsoft oferece a empresas qualificadas ou seus fornecedores um BAA que abrange os serviços microsoft no escopo.
+Sim. A Microsoft oferece a sua entidade coberta e os clientes associados aos negócios um Contrato de Associação comercial que abrange o serviços Microsoft.
 
-Para serviços de nuvem da Microsoft: o Contrato de Associado Comercial [HIPAA](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) está disponível por meio dos Termos de Serviços Online por padrão para todos os clientes que são entidades cobertas ou associados de negócios em HIPAA. Consulte 'Serviços de nuvem no escopo da Microsoft' nesta página da Web para ver a lista de serviços de nuvem abordados por esse BAA.
+O Contrato de Associação comercial do [Microsoft HIPAA](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3) está disponível por meio do Adendo de Proteção de Dados Microsoft Online Services por padrão para todos os clientes que são entidades cobertas ou associados de negócios em HIPAA. Consulte 'Serviços de nuvem no escopo da Microsoft' nesta página da Web para ver a lista de serviços de nuvem abordados por esse BAA.
 
-Para os serviços do Microsoft Professional Services: a Alteração do HipAA Business Associate está disponível para serviços profissionais da Microsoft no escopo mediante solicitação ao representante dos serviços Microsoft.
+O Contrato de Associado Comercial HIPAA também está disponível para serviços Professional Microsoft no escopo. Entre em contato serviços Microsoft representante do serviços Microsoft para obter mais informações.
 
-**Ter um BAA com a Microsoft garante a conformidade da minha organização com a HIPAA e a Lei HITECH?**
+**Ter um Contrato de Associação comercial com a Microsoft garante a conformidade da minha organização com a HIPAA e a Lei HITECH?**
 
-Não. Ao oferecer um BAA, a Microsoft ajuda a dar suporte à conformidade com o HIPAA, mas o uso dos serviços da Microsoft não o alcança por conta própria. Sua organização é responsável por garantir que você tenha um programa de conformidade e processos internos adequados e que seu uso específico dos serviços Microsoft se alinha ao HIPAA e à Lei HITECH.
+Não. Ao oferecer um Contrato de Associado Comercial, a Microsoft ajuda a oferecer suporte à conformidade hipaaa. No entanto, o serviços Microsoft por conta própria não atinge a conformidade HIPAA. Sua organização é responsável por garantir que você tenha um programa de conformidade e processos internos adequados e que seu uso específico de serviços Microsoft se alinha às suas obrigações em HIPAA e na Lei HITECH.
 
-**A Microsoft pode modificar o BAA da minha organização?**
+**A Microsoft pode usar o Contrato de Associado Comercial da minha organização?**
 
-A Microsoft não pode modificar o HIPAA BAA, pois os serviços da Microsoft são consistentes para todos os clientes e, portanto, devem seguir os mesmos procedimentos para todos. No entanto, para criar o BAA para os clientes regulamentados hipaa da Microsoft e seus serviços, a Microsoft colaborou com algumas das principais escolas médicas dos EUA e seus conselhos de privacidade HIPAA, bem como outras entidades públicas e privadas cobertas pelo HIPAA.
+Não, a Microsoft não pode usar o Contrato de Associação Comercial de um cliente. Como oferecemos serviços de hiperescala e multi-locatários que são padronizados para todos os nossos clientes, devemos operar de maneira consistente. O Contrato de Associados do Microsoft HIPAA Business reflete de perto como operamos. Assim, para atender às necessidades do setor de saúde, a Microsoft colaborou com um grupo de centros médicos acadêmicos e outras entidades do setor público e privado na área de saúde para criar um Contrato de Associação comercial que se alinhe com nossas ofertas de serviço de escala e atenda às necessidades dos clientes.
 
-**Como posso obter cópias dos relatórios do auditor?**
+**Como posso obter cópias de relatórios de auditoria de terceiros?**
 
-O [Portal de Confiança do Serviço](https://www.microsoft.com/trustcenter/STP/default.aspx) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados dos serviços de nuvem da Microsoft com seus próprios requisitos legais e regulatórios.
+O [Portal de Confiança do Serviço](https://www.microsoft.com/trustcenter/STP/default.aspx) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados dos serviços de nuvem da Microsoft com seus próprios requisitos legais e regulatórios. Os clientes do Azure também podem recuperar certificados e relatórios de auditoria do Azure no portal do Azure por meio da folha de relatórios de auditoria no Centro de [Segurança do Azure.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Security/AuditReportsBlade)
 
-**Como saber mais sobre como cumprir a HIPAA e a Lei HITECH?**
+**Como saber mais sobre como a Microsoft dá suporte à conformidade com a HIPAA e a Lei HITECH?**
 
 Para ajudar os clientes com essa tarefa, a Microsoft publicou estes guias:
 
-- *Diretrizes de implementação da Lei HIPAA/HITECH* para [o Azure](/azure/governance/blueprints/samples/hipaa-hitrust/) e para [o Dynamics 365 e o Office 365](https://go.microsoft.com/fwlink/?LinkID=257510). Escrito para agentes de privacidade, segurança e conformidade e outros responsáveis pela implementação da HIPAA e da Lei HITECH, eles descrevem etapas concretas que sua organização pode tomar para manter a conformidade.
-- [Guia prático para projetar soluções](https://aka.ms/azureindustrysecurity) de saúde seguras usando o Microsoft Azure ajuda você a entender melhor o que é necessário para adotar com êxito um serviço de nuvem de maneira segura.
-- [O endereçamento dos requisitos](https://smb.blob.core.windows.net/smbproduction/Content/Microsoft_Cloud_Healthcare_HIPAA_Security_Privacy.pdf) de segurança e privacidade HIPAA no Microsoft Cloud oferece uma breve visão geral dos requisitos de regulamentação. Ele também fornece uma análise detalhada de como os serviços de nuvem da Microsoft foram construídos com metodologias que mapeiam para esses requisitos e orientações sobre como criar soluções prontas para conformidade.
+- As diretrizes de implementação da Lei HIPAA/HITECH para o [Azure](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) para agentes de privacidade, segurança e conformidade e outros responsáveis pela implementação da HIPAA e da Lei HITECH descrevem etapas concretas que sua organização pode tomar para manter a conformidade.
+- [Guia prático para projetar soluções](https://aka.ms/azureindustrysecurity) de saúde seguras usando Microsoft Azure ajuda você a entender melhor o que é necessário para adotar com êxito um serviço de nuvem de maneira segura.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
 ## <a name="resources"></a>Recursos
 
-- [Regra HIPAA Omnibus](https://aka.ms/HIPAA-omnibus) (As regras finais que modificam o HIPAA)
-- [Estrutura de Conformidade do Hub de Controles Comuns da Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Termos de Serviços Online da Microsoft](https://aka.ms/Online-Services-Terms)
-- [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2087246)
-- [Noções básicas sobre a conformidade do HIPAA com o Azure](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0)(19 de maio de 2016)
-- [Exemplo de modelo do Azure HIPAA HITRUST](/azure/governance/blueprints/samples/hipaa-hitrust/)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Contrato de associado do Microsoft HIPAA Business](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
+- [Diretrizes de implementação do Azure HIPAA](https://azure.microsoft.com/resources/a-practical-guide-to-designing-secure-health-solutions-using-microsoft-azure/)
+- [Azure HIPAA/HITRUST Blueprint](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/)
+- [Microsoft Cloud para ofertas de conformidade em saúde](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- [Azure for the Healthcare Industry](https://azure.microsoft.com/industries/healthcare/)
+- [Azure High-Performance Computing for Health and Life Sciences](https://azure.microsoft.com/solutions/high-performance-computing/health-and-life-sciences/)
+- [Microsoft Cloud for the Healthcare Industry](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
+- [Assistência médica no Centro de Confiação da Microsoft](https://www.microsoft.com/trust-center/cloudservices/health)

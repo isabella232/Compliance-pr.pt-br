@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8bc078a84501b329f80a10cf218fbebfee53fbf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6330ee298949353c24a4b95ff65696807b78b09b
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505764"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088790"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Diretrizes de Acessibilidade para Conteúdo da Web
 
@@ -35,7 +35,7 @@ A Microsoft é o provedor dos principais serviços de nuvem e software para cons
   
 ## <a name="microsoft-and-wcag"></a>Microsoft e WCAG
 
-A consideração da Microsoft sobre o padrão das WCAG no desenvolvimento de produtos e serviços aponta para o seu compromisso de tornar a tecnologia e os dados acessíveis para todos os clientes.
+A consideração da Microsoft pelo o padrão WCAG no desenvolvimento de produtos e serviços aponta para seu compromisso em tornar a tecnologia e os dados acessíveis para todos os clientes.
 
 A Microsoft publica relatórios WCAG que refletem o produto ou serviço completo. Geralmente, ela não cria relatórios para componentes ou recursos individuais. Às vezes, a Microsoft pode lançar um novo componente para um produto existente ou uma nova versão de um componente existente, que os usuários podem optar por instalar separadamente, e a Microsoft também pode publicar um relatório WCAG para esse componente.
 

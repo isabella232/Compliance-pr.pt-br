@@ -1,6 +1,6 @@
 ---
 title: CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
-description: O Azure e o Office 365 são certificados para o CSF (Health Information Trust Alliance).
+description: O Azure e Office 365 certificados para a Estrutura de Segurança Comum (CSF) HITRUST (Health Information Trust Alliance).
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b13af6be98f0a5c25e6a2c38e5f6dff9c923e665
-ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
+ms.openlocfilehash: 26aa13b8527dac1833c170dc8adbe8da36aa1e11
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51002171"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089705"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
 
@@ -35,13 +35,13 @@ O CSF é dividido em 19 domínios diferentes, incluindo proteção de ponto de e
 
 CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
 
-HITRUST oferece três graus de garantia ou níveis de avaliação: autoavaliação, CSF validado e certificado CSF. Cada nível é construído com rigor crescente no que está abaixo dele. Uma organização com o nível mais alto, certificado por CSF, atende a todos os requisitos de certificação do CSF. O Microsoft Azure e o Office 365 são os primeiros serviços de nuvem de hyperscale a receber a certificação para o CSF HITRUST. A Coalfire, uma empresa de consultoria HITRUST, realizou as avaliações com base em como o Azure e o Office 365 implementam requisitos de segurança, privacidade e regulamentação para proteger informações confidenciais. A Microsoft dá suporte ao Programa de Responsabilidade Compartilhada HITRUST.
+HITRUST oferece três graus de garantia ou níveis de avaliação: autoavaliação, CSF validado e certificado CSF. Cada nível é construído com rigor crescente no que está abaixo dele. Uma organização com o nível mais alto, certificado por CSF, atende a todos os requisitos de certificação do CSF. Microsoft Azure e Office 365 são os primeiros serviços de nuvem de hyperscale a receber a certificação para o CSF HITRUST. A Coalfire, uma empresa de assessores HITRUST, realizou as avaliações com base em como o Azure e o Office 365 implementam requisitos de segurança, privacidade e regulamentação para proteger informações confidenciais. A Microsoft dá suporte ao Programa de Responsabilidade Compartilhada HITRUST.
 
 Saiba como acelerar sua implantação HITRUST com nosso Plano de Conformidade e Segurança do Azure.
 
-[Baixe o plano de responsabilidade do cliente V9.0d do Microsoft Azure HITRUST (CRM) v9.0d](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
+[Baixe o Microsoft Azure de Responsabilidade do Cliente HITRUST (CRM) v9.0d](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
 - [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
 - Intune
@@ -50,10 +50,10 @@ Saiba como acelerar sua implantação HITRUST com nosso Plano de Conformidade e 
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-A certificação CSF HITRUST do Azure e do Office 365 é válida por dois anos.
+A certificação CSF HITRUST do Azure e Office 365 é válida por dois anos.
 
 - [Carta de certificação HITRUST do Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=02eaae7a-9d65-42e6-aec8-a8e22de1a494&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports)
-- [Carta de certificação HITRUST do Office 365](https://aka.ms/O365HITRUSTcertification)
+- [Office 365 Carta de certificação HITRUST](https://aka.ms/O365HITRUSTcertification)
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Acelerar sua implantação de soluções HIPAA/HITRUST no Azure
 
@@ -61,15 +61,15 @@ Comece a aproveitar os benefícios da nuvem para soluções de dados de saúde c
 
 [Exemplo de modelo de modelo HITRUST 9.2 HIPAA HITRUST 9.2](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
 
-## <a name="accelerate-your-hipaahitrust-compliance-when-using-office-365"></a>Acelere a conformidade HIPAA/HITRUST ao usar o Office 365
+## <a name="accelerate-your-hipaahitrust-compliance-when-using-office-365"></a>Acelere a conformidade HIPAA/HITRUST ao usar Office 365
 
-Use o Office 365 para gerenciar informações de saúde de forma segura e compatível com a Pontuação de Conformidade, o que permite que você execute avaliações de risco em relação a regulamentos de saúde, como HIPAA e estruturas de controle de segurança, como CSF NIST e NIST 800-53. Você pode seguir orientações passo a passo para saber como implementar e manter controles de proteção de dados que ajudam você a cumprir as obrigações de conformidade com a saúde.
+Use Office 365 para gerenciar informações de saúde de forma segura e compatível com a Pontuação de Conformidade, o que permite que você execute avaliações de risco em relação a regulamentos de saúde, como HIPAA e estruturas de controle de segurança, como CSF NIST e NIST 800-53. Você pode seguir orientações passo a passo para saber como implementar e manter controles de proteção de dados que ajudam você a cumprir as obrigações de conformidade com a saúde.
 
-[Gerente de Conformidade Microsoft](/microsoft-365/compliance/compliance-manager)
+[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager)
 
 ## <a name="collaborate-with-microsoft-in-the-hitrust-shared-responsibility-program"></a>Colaborar com a Microsoft no Programa de Responsabilidade Compartilhada HITRUST
 
-Acelere a realização da conformidade HITRUST para sua solução hospedada no Microsoft Azure preenchendo sua avaliação com controles de responsabilidade totalmente herdados ou compartilhados para o Azure na ferramenta HITRUST MyCSF e colaborando com a Microsoft em sua avaliação.
+Acelere a realização da conformidade HITRUST para sua solução hospedada no Microsoft Azure preenchendo previamente sua avaliação com controles de responsabilidade totalmente herdados ou compartilhados para o Azure na ferramenta HITRUST MyCSF e colaborando com a Microsoft em sua avaliação.
 
 [Saiba mais](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 
@@ -77,28 +77,28 @@ Acelere a realização da conformidade HITRUST para sua solução hospedada no M
 
 **Posso usar a conformidade HITRUST do Azure para desenvolver o processo de certificação da minha organização?**
 
-Sim. Se a sua empresa exigir uma certificação HITRUST para implementações implantadas nos serviços Microsoft, você poderá criar a conformidade do Azure HITRUST ao conduzir sua avaliação de conformidade. No entanto, você é responsável por avaliar os requisitos e controles HITRUST em sua própria organização.
+Sim. Se sua empresa exigir uma certificação HITRUST para implementações implantadas no serviços Microsoft, você poderá criar a conformidade do Azure HITRUST ao conduzir sua avaliação de conformidade. No entanto, você é responsável por avaliar os requisitos e controles HITRUST em sua própria organização.
 
 **Como posso obter uma cópia da certificação HITRUST?**
 
-Você pode baixar uma cópia da carta de certificação para [o Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=02eaae7a-9d65-42e6-aec8-a8e22de1a494&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports) e o [Office 365](https://aka.ms/O365HITRUSTcertification).
+Você pode baixar uma cópia da carta de certificação do [Azure](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=02eaae7a-9d65-42e6-aec8-a8e22de1a494&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports) e [Office 365](https://aka.ms/O365HITRUSTcertification).
 
-**Quais são os serviços no escopo do Office 365?**
+**Quais são os serviços no escopo para Office 365?**
 
-Os serviços no escopo da certificação CSF HITRUST são Arquivamento do Exchange Online, Proteção do Exchange Online, Exchange Online, Skype for Business, Centro de Administração, SharePoint Online, Project Online, OneDrive for Business, Office Online, MyAnalytics, Microsoft Teams, Microsoft 365 Apps para empresas no Office 365 Multi-tenant cloud e Office 365 GCC.
+Os serviços no escopo da certificação CSF HITRUST são Arquivamento do Exchange Online, Proteção do Exchange Online, Exchange Online, Skype for Business, Centro de Administração, SharePoint Online, Project Online, OneDrive for Business, Office Online, MyAnalytics, Microsoft Teams, Microsoft 365 Apps para Grandes Empresas em Office 365 nuvem multi locatário e Office 365 GCC.
 
 > [!NOTE]
-> O Microsoft 365 Apps para empresas permite o acesso a vários serviços de nuvem, como Configurações de Roaming, Licenciamento e Armazenamento em nuvem de consumidor do OneDrive, e pode habilitar o acesso a serviços de nuvem adicionais no futuro. As Configurações de Roaming e o Licenciamento suportam os padrões para HITRUST. O armazenamento em nuvem de consumidor do OneDrive e outros serviços de nuvem acessíveis por meio do Microsoft 365 Apps para empresas e que a Microsoft pode oferecer no futuro também podem não dar suporte a esses padrões.*
+> Microsoft 365 Apps para Grandes Empresas permite o acesso a vários serviços de nuvem, como roaming Configurações, licenciamento e OneDrive armazenamento em nuvem do consumidor, e pode permitir o acesso a serviços de nuvem adicionais no futuro. O roaming Configurações e o Licenciamento suportam os padrões para HITRUST. OneDrive armazenamento em nuvem do consumidor não e outros serviços de nuvem acessíveis por meio do Microsoft 365 Apps para Grandes Empresas e que a Microsoft pode oferecer no futuro também pode não dar suporte a esses padrões.*
 
-**Por que alguns serviços do Office 365 não estão no escopo dessa certificação?**
+**Por que alguns Office 365 serviços não estão no escopo dessa certificação?**
 
 A Microsoft fornece as ofertas mais abrangentes em comparação com outros provedores de serviços de nuvem. Para acompanhar nossas amplas ofertas de conformidade entre regiões e setores, incluímos serviços no escopo de nossos esforços de garantia com base na demanda de mercado, feedback do cliente e ciclo de vida do produto. Se um serviço não estiver incluído no escopo atual de uma oferta de conformidade específica, sua organização terá a responsabilidade de avaliar os riscos com base em suas obrigações de conformidade e determinar a maneira como você processa os dados nesse serviço. Coletamos continuamente comentários dos clientes e trabalhamos com reguladores e auditores para expandir nossa cobertura de conformidade para atender às suas necessidades de segurança e conformidade.
 
-**A certificação da Microsoft significa que, se minha organização usar o Azure ou o Office 365, ela será compatível com o CSF HITRUST?**
+**A certificação da Microsoft significa que, se minha organização usa o Azure ou Office 365, ela está em conformidade com o CSF HITRUST?**
 
-Quando você armazena seus dados em um SaaS como o Office 365, é uma responsabilidade compartilhada entre a Microsoft e sua organização atingir a conformidade. A Microsoft gerencia a maioria dos controles de infraestrutura, incluindo segurança física, controles de rede, controles de nível de aplicativo, etc., e sua organização tem a responsabilidade de gerenciar controles de acesso e proteger seus dados confidenciais. A certificação HITRUST do Office 365 demonstra a conformidade da estrutura de controle da Microsoft. Com base nisso, sua organização precisa implementar e manter seus próprios controles de proteção de dados para atender aos requisitos do CSF HITRUST.
+Quando você armazena seus dados em um SaaS como Office 365, é uma responsabilidade compartilhada entre a Microsoft e sua organização atingir a conformidade. A Microsoft gerencia a maioria dos controles de infraestrutura, incluindo segurança física, controles de rede, controles de nível de aplicativo, etc., e sua organização tem a responsabilidade de gerenciar controles de acesso e proteger seus dados confidenciais. A Office 365 hitrust demonstra a conformidade da estrutura de controle da Microsoft. Com base nisso, sua organização precisa implementar e manter seus próprios controles de proteção de dados para atender aos requisitos do CSF HITRUST.
 
-**A Microsoft fornece orientações para minha organização implementar controles apropriados ao usar o Office 365?**
+**A Microsoft fornece orientações para minha organização implementar controles apropriados ao usar Office 365?**
 
 Sim, você pode encontrar ações recomendadas do cliente em Pontuação de Conformidade, soluções de Nuvem entre Microsoft que ajudam sua organização a cumprir obrigações complexas de conformidade ao usar serviços de nuvem. Especificamente, para csf hitrust, recomendamos que você execute avaliações de risco usando as avaliações NIST 800-53 e NIST CSF na Pontuação de Conformidade. Nas avaliações, fornecemos orientações passo a passo e as soluções da Microsoft que você pode usar para implementar seus controles de proteção de dados. Você pode saber mais sobre a Pontuação de Conformidade no [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager).
 

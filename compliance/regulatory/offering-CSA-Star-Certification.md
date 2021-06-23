@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a33f9e6d19caa5a3b26f011b985481224123ea38
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 2918cc1d046719435b8661754b1d869f62505c7f
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496559"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088830"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>Certificação STAR do Cloud Security Alliance (CSA)
 
@@ -35,7 +35,7 @@ O Cloud Security Alliance (CSA) mantém o Registro de Segurança, Confiança e G
 
 ## <a name="microsoft-and-csa-star-certification"></a>Microsoft e Certificação STAR do CSA
 
-O Microsoft Azure, o Microsoft Intune e o Microsoft Power BI obtiveram a Certificação STAR, que envolve uma rigorosa avaliação independente de terceiros da postura de segurança do provedor de nuvem. Essa Certificação STAR se baseia em obter a certificação ISO/IEC 27001 e satisfazer os critérios especificados no CCM. Ela demonstra que um provedor de serviços de nuvem está em conformidade com os requisitos aplicáveis da ISO/IEC 27001, tratou de problemas essenciais à segurança da nuvem conforme descrito no CCM, e foi avaliado em relação ao Modelo de Maturidade de Capacidade STAR para o gerenciamento de atividades nas áreas de controle do CCM.  
+O Microsoft Azure, o Microsoft Intune e o Microsoft Power BI obtiveram a Certificação STAR, que envolve uma rigorosa avaliação independente de terceiros da postura de segurança de um provedor de nuvem. Essa Certificação STAR se baseia em obter a certificação ISO/IEC 27001 e satisfazer os critérios especificados no CCM. Ela demonstra que um provedor de serviços de nuvem está em conformidade com os requisitos aplicáveis da ISO/IEC 27001, tratou de problemas essenciais à segurança da nuvem conforme descrito no CCM, e foi avaliado em relação ao Modelo de Maturidade de Capacidade STAR para o gerenciamento de atividades nas áreas de controle do CCM.  
   
 Durante a avaliação, um auditor da Certificação CSA credenciado atribui uma pontuação de Capacidade de Maturidade a cada uma das 16 áreas de controle do CCM. A pontuação média é então usada para atribuir o nível geral de maturidade e o prêmio correspondente: Bronze, Prata ou Ouro. O Azure, o Intune, o Power BI e o Microsoft Cloud App Security receberam a Certificação STAR do Cloud Security Alliance (CSA) no nível Dourado.  
 

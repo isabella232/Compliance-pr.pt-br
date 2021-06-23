@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d542698eff82fa8f24a32d9f831553a9807609ce
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 43d95a4bedeca768dd6e9bf8bb4e38655382bd05
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505690"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089695"
 ---
 # <a name="korea-information-security-management-system-k-isms"></a>Sistema de Gerenciamento de Segurança de Informações da Coreia (K-ISMS)
 
 ## <a name="about-k-isms"></a>Sobre o K-ISMS
 
-De acordo com o Artigo 47 da “Lei de Promoção da Utilização e Proteção de Informações da Rede de Informações e Comunicações” ([em coreano](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) e [em inglês](https://law.go.kr/engLsSc.do?tabMenuId=tab45)), o governo coreano introduziu o [Sistema de gerenciamento de segurança de informações da Coreia do Sul](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS). A estrutura ISMS específica do país define um conjunto rigoroso de requisitos de controle projetados para ajudar a garantir que as organizações na Coreia do Sul protejam de maneira consistente e segura seus ativos de informações.
+No artigo 47 da 'Lei sobre promoção da utilização da rede de informações e comunicações e proteção de informações' ([coreano](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) e [inglês](https://law.go.kr/engLsSc.do?tabMenuId=tab45)), o governo coreano introduziu o [K-ISMS (Sistema de gerenciamento de segurança de informações da Coreia do Sul) ](https://isms.kisa.or.kr/main/isms/intro/). A estrutura ISMS específica do país define um conjunto rigoroso de requisitos de controle projetados para ajudar a garantir que as organizações na Coreia do Sul protejam de maneira consistente e segura seus ativos de informações.
 
 Para receber a certificação, a empresa deve ser submetida a uma avaliação por um auditor independente que aborde o gerenciamento da segurança e as contramedidas de segurança da informação. A avaliação aborda 104 critérios, incluindo 12 itens de controle em cinco setores para o gerenciamento da segurança da informação e 92 itens de controle em 13 setores para contramedidas de segurança da informação. Algumas delas incluem a análise das responsabilidades do gerenciamento da segurança da organização, políticas de segurança, treinamento sobre segurança, resposta a incidentes, gerenciamento de riscos e muito mais. Um comitê especial examina os resultados da auditoria e concede a certificação.
 
@@ -66,11 +66,11 @@ Há entidades voluntárias e obrigatórias. Entidades voluntárias, como a Micro
 
 - Provedores de serviços de Internet que são autorizados pelo Artigo 6, Seção 1 da Lei de Negócios de Telecomunicações e fornecem serviços de rede de informações em Seul e em todas as cidades metropolitanas.
 
-- Datacenters da Internet designados como “instalações integradas de informação e comunicação” pelo Artigo 46 da Lei sobre Promoção da Utilização e Proteção da Informação da Rede de Comunicação e Informação.
+- Datacenters da Internet designados como "instalações integradas de informação e comunicação" pelo Artigo 46 da Lei de Promoção da Utilização da Rede de Informação e Comunicação e Proteção da Informação.
 
 - Qualquer organização que atenda a essas condições:
 
-    - Hospitais classificados como “hospital geral superior” no Artigo 3, Seção 4 da Lei de Serviços Médicos, cuja receita anual de vendas ou impostos seja de, no mínimo, US$ 150 milhões.
+    - Hospitais categorizados como um "hospital geral superior" no Artigo 3, Seção 4 da Lei de Serviços Médicos cuja receita anual de vendas ou impostos é de pelo menos US$ 150 milhões.
     - Escolas, de acordo com o Artigo 2 da Lei do Ensino Superior, onde o número de estudantes matriculados seja de, pelo menos, 10.000 em 31 de dezembro do ano imediatamente anterior.
     - Provedores de serviços de rede de informações cujas vendas de serviços de informação e comunicação sejam de pelo menos US$ 10 milhões ou uma média de pelo menos 1 milhão de usuários por dia nos três meses anteriores; excluindo, no entanto, uma empresa financeira nos termos do subparágrafo 3 do Artigo 2 da Lei de Transações Financeiras Eletrônicas.
 

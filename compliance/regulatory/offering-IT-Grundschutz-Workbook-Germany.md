@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c079230e1fca6ea19248218a6ecd01eeb896fd87
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 36347cd4df74a87db2dba5977b5ed1270c29086e
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506101"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089805"
 ---
 # <a name="it-grundschutz-compliance-workbook"></a>Pasta de trabalho de conformidade da IT-Grundschutz
 
 ## <a name="it-grundschutz-compliance-workbook-overview"></a>Visão geral da pasta de trabalho de conformidade da IT-Grundschutz
 
-Para ajudar as organizações a identificar e implementar medidas que ajudam a proteger os sistemas de TI, o Instituto Federal de Segurança de Informações (Bundesamt für Sicherheit em der Informationstechnik) criou um conjunto de diretrizes para a proteção de informações de tecnologia (em alemão, IT-Grundschutz). Esses padrões BSI consistem em:
+Para ajudar as organizações a identificar e implementar medidas para ajudar a proteger os sistemas de TI, o Office Federal Alemão de Segurança da Informação (Bundesamt für Sicherheit in der Informationstechnik, ou BSI) criou um conjunto básico de padrões para proteger a tecnologia da informação (em alemão, IT-Grundschutz). Esses padrões BSI consistem em:
 
 - ISMS (sistema de gerenciamento de segurança de informações) baseado em padrões ISO/IEC 27001 (BSI-padrão 100-1)
 - A metodologia da IT-Grundschutz, que descreve como configurar e operar um ISMS (BSI padrão 100-2)
@@ -53,15 +53,15 @@ Esta pasta de trabalho pode ajudar os clientes da Microsoft Cloud Alemanha a imp
 
 **Posso usar a pasta de trabalho de conformidade da Microsoft IT-Grundschutz para ajudar minha organização a cumprir com a IT-Grundschutz?**
 
-Sim. O propósito da pasta de trabalho é ajudar os clientes da Microsoft Cloud Alemanha a usar os serviços do Microsoft Cloud Alemanha para implementar a metodologia IT- Grundschutz dentro do escopo de sua certificação ISO 27001 existente ou planejada.
+Sim. O objetivo da pasta de trabalho é ajudar os clientes da Nuvem da Microsoft da Alemanha a usar os serviços da Microsoft na Alemanha na Nuvem para implementar a metodologia IT-Grundschutz dentro do escopo de sua certificação ISO 27001 existente ou planejada com base na IT-Grundschutz.
 
-**Qual é a diferença entre os catálogos IT-Grundschutz e o C5?**
+**Qual é a diferença entre Catálogos IT-Grundschutz e C5?**
 
 O serviço de conformidade de computação em nuvem (C5) é um padrão auditado da BSI que estabelece uma linha de base mínima obrigatória para segurança na nuvem e a adoção de soluções de nuvem pública por órgãos governamentais da Alemanha e organizações que trabalham com o governo. Os catálogos IT-Grundschutz fornecem a metodologia específica para ajudar as organizações a identificar e implementar medidas de segurança para sistemas de TI e é um dos elementos sobre os quais os padrões C5 são criados.
 
 **O que é o Microsoft Cloud Alemanha?**
 
-O Microsoft Cloud Alemanha é fisicamente baseado na Alemanha e obedece ao requisito de lei de privacidade alemã, que limita estritamente a transferência de dados pessoais para outros países, incluindo proteção contra o acesso por autoridades de outras jurisdições que poderiam violar as leis nacionais. Ele oferece o Azure Alemanha, nossa plataforma de computação em nuvem pública e todos os seus serviços.
+A Nuvem da Microsoft da Alemanha está fisicamente sedeada na Alemanha e cumpre os requisitos da lei de privacidade Alemã, que limita estritamente a transferência de dados pessoais para outros países, incluindo proteção contra o acesso por autoridades de outras jurisdições que possam violar as leis nacionais. Ele oferece o Azure Alemanha, nossa plataforma de computação em nuvem pública e todos os seus serviços.
 
 ## <a name="resources"></a>Recursos
 

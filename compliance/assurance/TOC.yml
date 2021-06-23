@@ -8,6 +8,8 @@
       href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Isolamento e controles de acesso no AAD
       href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Protegendo a infraestrutura do Microsoft 365
+      href: assurance-securing-microsoft-365-infrastructure.md
 - name: Registro de Auditoria
   items:
     - name: Visão geral do registro de Auditoria
@@ -62,6 +64,8 @@
       href: assurance-pre-employment-screening.md
     - name: Verificação de antecedentes da nuvem da Microsoft
       href: assurance-cloud-background-check.md
+    - name: Transferência e rescisão de funcionários da Microsoft
+      href: assurance-employee-transfer-termination.md
 - name: Gerenciamento de identidades e acesso
   items:
     - name: Visão geral do gerenciamento de identidades e acesso
@@ -150,6 +154,8 @@
   items:
     - name: Visão geral de gerenciamento de risco
       href: assurance-risk-management.md
+    - name: Programa de gerenciamento de riscos do Microsoft 365
+      href: assurance-risk-management-program.md
 - name: Desenvolvimento e operação de segurança
   items:
     - name: Visão geral da operação de desenvolvimento da segurança

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: afe763500a4c8f3af261870af53216c6f6f95d39
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121230"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088950"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>Estruturas do Escudo de Proteção da Privacidade UE-EUA e Suíça-EUA
 
@@ -29,13 +29,13 @@ ms.locfileid: "50121230"
 
 De acordo com o Programa do Escudo de Proteção da Privacidade, “as [Estruturas do Escudo de Proteção da Privacidade UE-EUA e Suíça-EUA](https://www.privacyshield.gov/welcome) foram projetadas pelo Departamento de Comércio dos EUA e pela Comissão Europeia e Administração da Suíça, respectivamente, para oferecer às empresas dos dois lados do Atlântico um mecanismo para atender aos requisitos de proteção de dados ao transferir dados pessoais da União Europeia e da Suíça para os Estados Unidos.” A Administração de Comércio Exterior do Departamento de Comércio administra o Programa do Escudo de Privacidade nos Estados Unidos.
 
-A transferência de dados pessoais para fora da UE e da Suíça é regida pelas leis da E e da Suíça, que geralmente proíbem a transferência de dados pessoais para países/regiões fora do EEE, a menos que sejam garantidos níveis "adequados" de proteção. As Estruturas do Escudo de Proteção da Privacidade e as Cláusulas Contratuais Padrão (ou [Cláusulas do Modelo da UE](offering-EU-Model-Clauses.md)) são dois mecanismos projetados para fornecer esse nível de proteção de dados.
+A transferência de dados pessoais para fora da UE e da Suíça é regida pelas leis da UE e da Suíça, que geralmente proíbem a transferência de dados pessoais para países/regiões fora do EEE, a menos que sejam garantidos níveis "adequados" de proteção. As Estruturas do Escudo de Proteção da Privacidade e as Cláusulas Contratuais Padrão (ou [Cláusulas do Modelo da UE](offering-EU-Model-Clauses.md)) são dois mecanismos projetados para fornecer esse nível de proteção de dados.
 
 Os 23 [Princípios do Escudo de Proteção da Privacidade](https://www.privacyshield.gov/article?id=Requirements-of-Participation) definem um conjunto de requisitos que governam o uso e o manuseio de dados pessoais transferidos da UE, bem como mecanismos de resolução de conflitos e acesso que as empresas envolvidas devem oferecer aos cidadãos da UE. As empresas devem informar às pessoas como seus dados são processados, limitar as finalidades para as quais eles são usados, proteger os dados pelo tempo em que forem mantidos e garantir a responsabilidade pelos dados transferidos para terceiros. Os requisitos também incluem o fornecimento gratuito de uma resolução de conflitos acessível e transparência com relação a solicitações governamentais de dados pessoais.
 
 ## <a name="microsoft-and-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>Microsoft e as Estruturas do Escudo de Proteção da Privacidade UE-EUA e Suíça-EUA
 
-Para ingressar nas Estruturas do Escudo de Proteção da Privacidade UE-EUA e Suíça-EUA — voluntariamente — as empresas com sede nos EUA devem se comprometer publicamente a cumprir com os requisitos da estrutura e autocertificar sua conformidade com o Departamento de Comércio dos EUA. Após as empresas se comprometem publicamente e se certificarem, esse compromisso se torna obrigatório de acordo com a lei dos EUA.
+Para ingressar na UE-EUA e na Suíça-EUA Estruturas de Proteção de Privacidade, uma ação voluntária, as empresas baseadas nos EUA devem se comprometer publicamente em cumprir os requisitos de estrutura e certificar sua conformidade com o Departamento de Comércio dos EUA. Depois que eles se comprometem publicamente e se auto-certificam, esse compromisso se torna impossível de acordo com a lei dos EUA.
 
 A Microsoft se comprometeu publicamente com os [Princípios do Escudo de Proteção da Privacidade](https://www.privacyshield.gov/article?id=Requirements-of-Participation) e certificou sua conformidade com seus requisitos. Nossa participação se aplica a todos os dados pessoais processados pela Microsoft que são transferidos para os Estados Unidos da União Europeia, Espaço Econômico Europeu (EEA) e Suíça. Além disso, os clientes dos serviços de nuvem corporativos da Microsoft se beneficiam da conformidade com as Cláusulas Contratuais Padrão (também conhecidas como [Cláusulas do Modelo da UE](offering-eu-model-clauses.md)) sob os [Termos do Microsoft Online Services](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31), a menos que o cliente tenha recusado essas cláusulas.
 
@@ -67,7 +67,7 @@ Proteção de dados no Azure — o Azure fornece aos clientes uma forte seguran�
 
 **Quais dados são transferidos da UE ou da Suíça para os Estados Unidos no âmbito do contrato do Escudo de Proteção da Privacidade da Microsoft?**
 
-Conforme especificado nos Termos do Microsoft Online Services, os dados pessoais que a Microsoft processa em nome do cliente podem ser transferidos, armazenados e processados nos Estados Unidos ou em qualquer outro país no qual a Microsoft ou suas afiliadas ou subcontratadas mantenham instalações. No entanto, essas transferências da UE devem satisfazer os requisitos da lei da UE.
+Conforme especificado nos Termos do Microsoft Online Services, os dados pessoais que a Microsoft processa em nome do cliente podem ser transferidos, armazenados e processados nos Estados Unidos ou em qualquer outro país no qual a Microsoft ou suas afiliadas ou subcontratadas mantenham instalações.
 
 Quando os dados pessoais são transferidos da UE para os Estados Unidos:
 

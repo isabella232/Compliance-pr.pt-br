@@ -1,6 +1,6 @@
 ---
-title: Seção U.S. 508
-description: A Microsoft oferece relatórios de conformidade de acessibilidade detalhados para muitos dos seus serviços em nuvem descrevendo os recursos de acessibilidade desses serviços.
+title: Seção 508 dos EUA
+description: A Microsoft oferece relatórios detalhados de conformidade de acessibilidade para muitos de seus serviços de nuvem que descrevem os recursos de acessibilidade desses serviços.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,24 +16,24 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4af002c6543659ce78cd7d03e037088324e6af2e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b6c48ebc9461010db1e129e88e53b4ada5c32683
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505765"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088800"
 ---
-# <a name="us-section-508"></a>Seção U.S. 508
+# <a name="us-section-508"></a>Seção 508 dos EUA
 
-## <a name="about-us-section-508"></a>Sobre a seção norte-americana 508
+## <a name="about-us-section-508"></a>Sobre a Seção 508 dos EUA
 
-Os Estados Unidos da Congresso alteraram o Rehabilitation Act no 1998 e 2000 para exigir que as agências federais criem seus produtos eletrônicos e de tecnologia da informação (EIT), como software, hardware, conteúdo eletrônico e documentação de suporte, acessível para pessoas com deficiências. A seção 508 da equipe de forças de força dos Estados Unidos Rehabilitation ato de 1973 (29 de código § 794d), conforme emendado, obriga os órgãos federais a adquirir, manter e usar o EIT de uma maneira que garante que os funcionários federais com deficiências tenham acesso comparável e uso de dados e EIT em relação a outros funcionários federais.
+O Congresso dos Estados Unidos alterou a Lei de Recuperação em 1998 e 2000 para exigir que as agências federais façam seus produtos EIT (tecnologia de informação e eletrônica), como software, hardware, conteúdo eletrônico e documentação de suporte, acessíveis a pessoas com deficiências. A Seção 508 da Lei de Recuperação de Força de Trabalho dos Estados Unidos de 1973 (29 US Code §794d), conforme alterada, determina que as agências federais adquirem, mantenham e usem o EIT de uma maneira que garanta que os funcionários federais com deficiências tenham acesso comparável e o uso de dados e EIT em relação a outros funcionários federais.
 
-A Microsoft é um grande provedor de softwares e serviços em nuvem para governos federais e estaduais dos EUA.  Para ajudar os clientes governamentais a tomar decisões de compras, a Microsoft publica relatórios de conformidade de acessibilidade descrevendo a extensão à qual nossos produtos e serviços dão suporte aos critérios da seção 508.  Essas informações podem ajudar os clientes da Microsoft a determinar se um determinado produto ou serviço atenderá às suas necessidades específicas.
+A Microsoft é um grande provedor de software e serviços de nuvem para os governos federais e estaduais dos EUA.  Para ajudar os clientes governamentais a tomar decisões de compra, a Microsoft publica Os Relatórios de Conformidade de Acessibilidade que descrevem a extensão em que nossos produtos e serviços oferecem suporte aos critérios da Seção 508.  Essas informações podem ajudar os clientes da Microsoft a determinar se um determinado produto ou serviço atenderá às suas necessidades específicas.
 
-## <a name="microsoft-and-us-section-508"></a>Seção da Microsoft e dos EUA 508
+## <a name="microsoft-and-us-section-508"></a>Seção 508 da Microsoft e dos EUA
 
-A consideração da Microsoft da seção 508 dos EUA no desenvolvimento de produtos e serviços aponta para seu compromisso de tornar a tecnologia e os dados acessíveis para todos os clientes.
+A consideração da Microsoft sobre a Seção 508 dos EUA no desenvolvimento de produtos e serviços aponta para o compromisso de tornar a tecnologia e os dados acessíveis para todos os clientes.
 
 ## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
 
@@ -51,8 +51,8 @@ Encontre os [relatórios de conformidade](https://cloudblogs.microsoft.com/indus
 
 ## <a name="resources"></a>Recursos
 
-- [Página de acessibilidade da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2051579): Explore as maneiras como a Microsoft inova para que todos tenham a capacidade de obter mais.
+- [Página de acessibilidade da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2051579): Explore as maneiras pelas quais a Microsoft inova para que todos têm a capacidade de obter mais.
 - [Centro de Acessibilidade do Office 365](https://go.microsoft.com/fwlink/p/?linkid=2051801): recursos do Office 365 para pessoas com deficiências.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): suporte dedicado para clientes corporativos com questões de acessibilidade sobre nossos produtos e serviços ou conformidade.
-- [Programa de teste confiável DHS](https://go.microsoft.com/fwlink/?linkid=2052171): Obtenha informações sobre o programa de teste confiável do departamento de Homeland Security (DHS), no qual a Microsoft participa.
+- Programa testador confiável do [DHS](https://go.microsoft.com/fwlink/?linkid=2052171): obter informações sobre o Programa de Testador Confiável do Departamento de Segurança interna dos EUA (DHS), no qual a Microsoft participa.
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

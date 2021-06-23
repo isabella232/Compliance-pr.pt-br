@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 68d5fc100ac504eaed07f45dabbfe37c82e1c66a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120150"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089584"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>Autoridade de Supervisão Financeira (KNF) Polônia
 
@@ -29,7 +29,7 @@ ms.locfileid: "50120150"
 
 A [Autoridade de Supervisão Financeira da Polônia](https://www.knf.gov.pl/en/) ([Komisja Nadzoru Finansowego](https://www.knf.gov.pl/), KNF) é a autoridade reguladora financeira da Polônia responsável pela supervisão do mercado financeiro, que inclui a supervisão de bancos, mercados de capitais, seguros, regimes de pensão e instituições de moeda eletrônica.
 
-A KNF atua em conjunto com a [European Banking Authority](https://eba.europa.eu/about-us) (EBA), "uma autoridade independente da UE cuja função é garantir regulamentos e supervisão prudentes, eficazes e consistentes em todo o setor bancário europeu". Para isso, a EBA definiu uma abordagem abrangente para a terceirização da computação em nuvem por instituições financeiras na UE, [Recomendações para a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
+A KNF atua em conjunto com [EBA (Autoridade Bancária Europeia](https://eba.europa.eu/about-us) ), "uma autoridade independente da UE, que trabalha para garantir uma regulamentação e supervisão eficazes e consistentes em todo o setor bancário europeu". Para isso, a EBA definiu uma abordagem abrangente para a terceirização da computação em nuvem por instituições financeiras na UE, [Recomendações para a terceirização de provedores de serviços de nuvem](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362).
 
 Há vários requisitos e diretrizes que as instituições financeiras na Polônia devem considerar ao migrar os dados e as funções de negócios para a nuvem:
 
@@ -37,7 +37,7 @@ Há vários requisitos e diretrizes que as instituições financeiras na Polôni
 - O Anúncio, emitido pelo Gabinete da KNF em 2017, fornece uma lista de verificação detalhada e um plano de ação para instituições regulamentadas que pretendem migrar as funções de negócios para a nuvem.
 - [Recomendação D](https://www.knf.gov.pl/knf/en/komponenty/img/Recommendation_D_44255.pdf): o Gerenciamento da tecnologia de informação e a Segurança do ambiente bancário das TIC (Tecnologias da informação e comunicação) define as expectativas da KNF em relação ao gerenciamento prudente da segurança de TI pelos bancos, particularmente quanto a forma como eles gerenciam os riscos. A KNF oferece 22 recomendações de práticas recomendadas de segurança e emitiu diretrizes equivalentes para [empresas de seguros](https://www.knf.gov.pl/knf/en/komponenty/img/knf_136041_KNF_IT_Guidelines_for_Insurance_41850.pdf), [empresas de investimento](https://www.knf.gov.pl/knf/en/komponenty/img/knf_158416_Wytyczne_IT_firmy_inwestycyjne_eng_47464.pdf) e [empresas de previdência em geral](https://www.knf.gov.pl/knf/en/komponenty/img/knf_136042_KNF_IT_Guidelines_for_Pensions_41851.pdf).
 
-Além disso, o uso de serviços de nuvem por instituições financeiras deve estar em conformidade com a Lei de Proteção de Dados Pessoais da Polônia de 1997, fundamental para o processamento de dados pessoais. Para alinhar-se ao RGPD, a lei foi alterada no final de 2018 pela Lei de Facilitação do Desempenho da Atividade Empresarial ([em polonês](https://orka.sejm.gov.pl/proc7.nsf/ustawy/2606_u.htm)) e entrará em vigor em 1 de janeiro de 2019.
+Além disso, o uso de serviços de nuvem por instituições financeiras deve estar em conformidade com a Lei de Proteção de Dados Pessoais da Polônia de 1997, que é fundamental para o processamento de dados pessoais. Para alinhar-se ao RGPD, a lei foi alterada no final de 2018 pela Lei de Facilitação do Desempenho da Atividade Empresarial ([em polonês](https://orka.sejm.gov.pl/proc7.nsf/ustawy/2606_u.htm)) e entrará em vigor em 1 de janeiro de 2019.
 
 ## <a name="microsoft-and-the-knf"></a>Microsoft e KNF
 
@@ -67,7 +67,7 @@ A lista de verificação da Microsoft ajuda as instituições financeiras da Pol
 
 **A aprovação regulatória é necessária?**
 
-Não. No entanto, de acordo com a Lei Bancária de 1997, se o provedor de serviços estiver sediado fora do Espaço Econômico Europeu (EEE) ou se operações terceirizadas forem implementadas fora do EEE, os bancos deverão obter a aprovação da KNF antes de celebrar contratos.
+Não. No entanto, de acordo com a Lei Bancária de 1997, se o provedor de serviços estiver baseado fora do EEA (Espaço Econômico Europeu) ou se operações terceirizadas forem implementadas fora da EEA, os bancos deverão obter aprovação KNF antes de entrar em contratos.
 
 **Há termos obrigatórios que devem ser incluídos no contrato com o provedor de serviços de nuvem?**
 

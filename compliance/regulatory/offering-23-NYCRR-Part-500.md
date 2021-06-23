@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75103889b93957fa8d88a6d9fe8bbbaaf539608b
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: f48ba2f7bd10167d5e4cb384a7740df5e48b7617
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121410"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088710"
 ---
 # <a name="title-23-nycrr-part-500"></a>Título 23 do NYCRR Parte 500
 
@@ -37,7 +37,7 @@ Siga estas orientações para agilizar seu processo de conformidade com o Títul
 
 Os novos regulamentos de Nova York exigem que cada instituição financeira:
 
-- **Desenvolva e mantenha um programa robusto de segurança cibernética** que comece pela avaliação do perfil de risco específico da instituição e, em seguida, desenvolva um programa para tratar deles. O [Programa de conformidade para serviços financeiros do Microsoft Cloud](https://www.microsoft.com/download/confirmation.aspx?id=55332) foi criado para ajudar os serviços financeiros na avaliação dos riscos com o uso dos serviços de nuvem da Microsoft. O programa inclui o envolvimento direto com nossos engenheiros e executivos de risco corporativo e acesso a nossos especialistas em conformidade e segurança.
+- **Desenvolva e mantenha um programa robusto de segurança cibernética** começando com uma avaliação do perfil de risco específico da instituição e, em seguida, criando um programa que os solucione. O [Programa de conformidade para serviços financeiros do Microsoft Cloud](https://www.microsoft.com/download/confirmation.aspx?id=55332) foi criado para ajudar os serviços financeiros na avaliação dos riscos com o uso dos serviços de nuvem da Microsoft. O programa inclui o envolvimento direto com nossos engenheiros e executivos de risco corporativo e acesso a nossos especialistas em conformidade e segurança.
 - **Implemente uma política de segurança cibernética abrangente** que trate da segurança da informação, controle e classificação de dados, controles de acesso, continuidade de negócios e outras questões similares. A Microsoft oferece orientação para o desenvolvimento desta política com informações detalhadas sobre nossas certificações e avaliações de risco; métricas de continuidade de negócios e recuperação de desastres; e diagnóstico para registros em log e auditoria.
 - **Designe um diretor de segurança da informação** (CISO) para gerenciar o programa de segurança cibernética e aplicar a política. Para ajudar o CISO, a Microsoft fornece informações detalhadas de segurança cibernética sobre as implantações do Microsoft Cloud por meio da [Central de Segurança do Azure](https://azure.microsoft.com/services/security-center/?v=17.23h), [Office 365 Advanced Threat Analytics](/advanced-threat-analytics/) e da [Segurança do Power BI](https://go.microsoft.com/fwlink/?LinkId=829185).
 - **Monitore e teste a eficácia de seu programa segurança cibernética**: a Microsoft fornece informações de auditorias de suas práticas de segurança cibernética que incluem monitoramento contínuo, testes periódicos de penetração e avaliações de vulnerabilidades. Os clientes podem realizar seus próprios testes sem permissão prévia da Microsoft.
