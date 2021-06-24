@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 8d4dc89e8733db718491fcaa7c69b51e7b6d74f2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121000"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089845"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados do Azure para o GDPR e o CCPA
 
@@ -33,7 +33,7 @@ O Regulamento Geral [de Proteção de Dados da União Europeia (GDPR)](https://e
 
 Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do GDPR, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais. O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.md).
 
-Guia sobre como usar produtos, serviços e ferramentas administrativas da Microsoft para ajudar nossos clientes controladores a encontrarem e tomarem medidas em relação a dados pessoais para responder às DSRs. Especificamente, o guia mostra como localizar, acessar e tomar medidas em relação a dados pessoais que residem na nuvem da Microsoft. Veja a seguir uma visão geral rápida dos processos descritos neste guia:
+O guia descreve como usar os produtos, serviços e ferramentas administrativas da Microsoft para ajudar os nossos clientes controladores a encontrar dados pessoais e agir em relação a eles para responder a DSRs. Especificamente, isso inclui como localizar, acessar e agir em dados pessoais que residem na nuvem da Microsoft. Veja aqui uma breve visão geral dos processos descritos neste guia:
 
 - **Descobrir** – use ferramentas de pesquisa e descoberta para localizar dados pessoais que possam ser a entidade de uma solicitação DSR. Após a coleta dos documentos que atendem à solicitação, você pode executar uma ou mais das ações de DSR a seguir para responder à solicitação. Como alternativa, você pode determinar que a solicitação não atende às diretrizes da sua organização para responder a DSRs.
 - **Acesso:** recupere dados pessoais que residem na nuvem da Microsoft e, se solicitado, faça uma cópia para disponibilizar para o titular dos dados.
@@ -83,13 +83,13 @@ A Microsoft fornece a capacidade de acessar, excluir e exportar determinados Dad
 
 ### <a name="step-1-discover"></a>Etapa 1: Descoberta
 
-A primeira etapa ao responder a uma DSR é localizar os dados pessoais do titular da solicitação. Esta primeira etapa, localizar e revisar os dados pessoais em questão, ajuda a determinar se uma DSR atende aos requisitos de sua organização para aceitá-la ou recusá-la. Por exemplo, depois de encontrar e analisar os dados pessoais em questão, pode ser que você determine que a solicitação aos requisitos da sua organização porque afetaria negativamente os direitos e liberdade de terceiros.
+A primeira etapa para responder a um DSR é encontrar os dados pessoais que são o assunto da solicitação. Esta primeira etapa — encontrar e revisar os dados pessoais em questão — o ajudará a determinar se um DSR atende aos requisitos da sua organização para honrar ou recusar um DSR. Por exemplo, depois de encontrar e revisar os dados pessoais em questão, você pode determinar que a solicitação não atende aos requisitos da sua organização, pois isso pode afetar adversamente os direitos e liberdades de outras pessoas.
 
 Depois de encontrar os dados, você pode executar uma ação específica que atenda à solicitação feita pelo titular dos dados.
 
-O [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) é o serviço de gerenciamento de identidades e diretório de vários locatários baseado na nuvem da Microsoft. Você pode localizar informações de identificação de usuários finais, como perfis de usuários de clientes e funcionários, e informações de trabalho de usuários, que contenham dados pessoais do ambiente do [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (ADD) usando o [portal do Azure](https://portal.azure.com/).
+O [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) é um serviço da Microsoft para gerenciamento de identidades e diretórios com vários locatários baseados na nuvem. Você pode localizar informações de identificação de usuários finais, como perfis de usuários de clientes e funcionários, e informações de trabalho de usuários, que contenham dados pessoais do ambiente do [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) usando o [portal do Azure](https://portal.azure.com/).
 
-Isso será particularmente útil se você quiser encontrar ou alterar dados pessoais de um usuário específico. Você também pode adicionar ou alterar o perfil do usuário e as informações de trabalho. Você deve entrar com uma conta de administrador global do diretório.
+Isso é especialmente útil se você quiser localizar ou alterar dados pessoais de um usuário específico. Também é possível adicionar ou alterar informações de trabalho e de perfil de usuário. Você deve entrar com uma conta de administrador global do diretório.
 
 #### <a name="how-do-i-locate-or-view-user-profile-and-work-information"></a>Como localizar ou exibir informações de trabalho e de perfil de um usuário?
 
@@ -121,7 +121,7 @@ Ao oferecer uma cópia ao titular dos dados, talvez você tenha que remover ou r
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-A Microsoft oferece experiências de portal e produto, proporcionando ao administrador de locatário do cliente corporativo a capacidade de gerenciar solicitações de acesso de DSR. As solicitações de acesso de DSR permitem o acesso dos dados pessoais do usuário, incluindo: (a) informações identificáveis sobre um usuário final e (b) logs gerados pelo sistema.
+A Microsoft oferece um portal e experiências de produtos, proporcionando ao administrador de locatários do cliente corporativo a capacidade de gerenciar solicitações de acesso a DSR. As solicitações de acesso a DSR permitem acessar dados pessoais do usuário, incluindo: (a) informações de identificação sobre um usuário final e (b) logs gerados pelo sistema.
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas do serviço
 
@@ -129,7 +129,7 @@ A Microsoft oferece a capacidade de descobrir os dados dos clientes diretamente 
 
 ### <a name="step-3-rectify"></a>Etapa 3: Retificação
 
-Se um titular dos dados pediu para corrigir os dados pessoais que residem nos dados da sua organização, você e sua organização terão de determinar se é apropriado aceitar a solicitação. A correção dos dados podem incluir a realização de ações como editar, redigir ou remover dados pessoais de um documento ou de um outro tipo de item. A maneira mais rápida de fazer isso com o Suporte da Microsoft e os dados do FastTrack são fornecidos abaixo.
+Se um titular dos dados pediu para corrigir os dados pessoais que residem nos dados da sua organização, você e sua organização precisam determinar se é apropriado aceitar a solicitação. A correção dos dados pode incluir a execução de ações como editar, redigir ou remover dados pessoais de um documento ou de outro tipo de item. A maneira mais apropriada para fazer isso com dados do Suporte da Microsoft e do Microsoft FastTrack é fornecida abaixo.
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
@@ -137,7 +137,7 @@ Clientes corporativos têm a capacidade de gerenciar solicitações de retifica�
 
 ##### <a name="azure-active-directory-rectifycorrect-inaccurate-or-incomplete-personal-data"></a>Azure Active Directory: retificar/corrigir dados pessoais incorretos ou incompletos
 
-Você pode corrigir, atualizar ou excluir informações de identificação sobre usuários finais, como perfis de usuário de funcionários e clientes, e informações de trabalho de usuário que contêm dados pessoais, como nome do usuário, título de trabalho, endereço ou número de telefone no seu ambiente do [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (ADD) usando o [portal do Azure](https://portal.azure.com/). Você deve entrar com uma conta de administrador global do diretório.
+Você pode corrigir, atualizar ou excluir informações de identificação sobre usuários finais, como perfis de usuário de funcionários e clientes, e informações de trabalho de usuário que contêm dados pessoais, como nome do usuário, título de trabalho, endereço ou número de telefone no seu ambiente [Azure Active Directory](https://azure.microsoft.com/services/active-directory/) (AAD) usando a [portal do Azure](https://portal.azure.com/). Você deve entrar com uma conta de administrador global do diretório.
 
 ###### <a name="how-do-i-correct-or-update-user-profile-and-work-information-in-azure-active-directory"></a>Como corrigir ou atualizar o perfil de usuário e as informações de trabalho no Azure Active Directory?
 
@@ -165,7 +165,7 @@ A Microsoft oferece a capacidade de descobrir os dados dos clientes diretamente 
 
 ### <a name="step-4-restrict"></a>Etapa 4: Restrição
 
-Os entidades de dados podem solicitar que você restrinja o processamento de seus dados pessoais. Fornecemos tanto o Portal do Azure como interfaces de programação de aplicativos (APIs) ou interfaces de usuário (UIs) pré-existentes. Essas experiências fornecem ao administrador de locatário do cliente corporativo a capacidade de gerenciar essas DSRs por meio de uma combinação de exportação e exclusão de dados. Um cliente pode (1) exportar uma cópia eletrônica dos dados pessoais do usuário, incluindo (a) conta(s), (b) logs gerados pelo sistema e (c) logs associados, seguidos de (2) exclusão da conta e dados associados que residem nos sistemas Microsoft.
+Os titulares de dados podem solicitar que você restrinja o processamento dos dados pessoais. Fornecemos o Portal do Azure e APIs (interfaces de programação de aplicativos) preexistentes ou IUs (interfaces de usuário). Essas experiências proporcionam ao administrador de locatários do cliente corporativo a capacidade de gerenciar tais DSRs por meio de uma combinação de exportação e exclusão de dados. Um cliente pode (1) exportar uma cópia eletrônica de dados pessoais do usuário, incluindo (a) conta(s), (b) logs gerados pelo sistema e (c) logs associados, seguidos de (2) exclusão da conta e dos dados associados que residem em sistemas da Microsoft.
 
 ### <a name="step-5-delete"></a>Etapa 5: Exclusão
 
@@ -184,7 +184,7 @@ Veja a seguir o processo detalhado para excluir usuários de seu locatário.
 
 1. Acesse o portal do Azure e localize o usuário.
 
-2. Exclua o usuário. Quando você exclui o usuário inicialmente, a conta dele é enviada para a lixeira. **Neste ponto, o usuário é excluído temporariamente, o que significa que a conta está desabilitada, mas não foi eliminada do Azure Active Directory.**
+2. Exclua o usuário. Ao excluir o usuário inicialmente, a conta do usuário é enviada para a Lixeira. **Neste ponto, o usuário é excluído temporariamente, ou seja, a conta é desabilitada, mas não eliminada do Azure Active Directory.**
 
 3. Acesse a lista de usuários excluídos recentemente e exclua permanentemente o usuário. **Agora o usuário é excluído permanentemente (também conhecido como exclusão irreversível), o que significa que a conta foi eliminada do Azure Active Directory**
 
@@ -211,7 +211,7 @@ Veja a seguir o processo detalhado para excluir usuários de seu locatário.
 4. Selecione o mesmo usuário novamente, selecione  **Excluir permanentemente** na barra de comandos e selecione  **Sim**  na caixa que pergunta se você tem certeza.
 
 >[!IMPORTANT]  
->Lembre-se de que, ao clicar em **Sim**, você estará excluindo, de forma permanente e irrevogável, o usuário e todos os dados associados e logs gerados pelo sistema. Se você fizer isso por engano, precisará adicionar o usuário de volta ao locatário manualmente. Os dados associados e os logs gerados pelo sistema são irrecuperáveis.
+>Lembre-se que, ao clicar em **Sim**, você exclui permanente e irrevogavelmente o usuário, todos os dados associados e os logs gerados pelo sistema. Se você fizer isso por engano, será necessário adicioná-lo manualmente ao locatário. Os dados associados e os logs gerados pelo sistema não podem ser recuperados.
 
    ![Exibir informações comerciais do usuário](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
@@ -221,7 +221,7 @@ A Microsoft oferece a capacidade de descobrir os dados dos clientes diretamente 
 
 ## <a name="step-6-export"></a>Etapa 6: Exportação
 
-O “direito de portabilidade de dados” permite que uma entidade de dados solicite uma cópia de seus dados pessoais em formato eletrônico (que é um “formato estruturado, comumente usado, legível por máquina e interoperável”) que pode ser transmitido para outro controlador de dados. O Azure dá suporte a isso ao habilitar a sua organização a exportar dados no formato nativo JSON para o contêiner de armazenamento especificado do Azure.
+O "direito de portabilidade de dados" permite que o titular de dados solicite uma cópia dos seus dados pessoais em formato eletrônico (que é um "formato estruturado, comumente usado, interoperável e legível por máquina") que pode ser transmitido para outro controlador de dados. O Azure dá suporte a isso ao habilitar a sua organização a exportar dados no formato nativo JSON para o contêiner de armazenamento especificado do Azure.
 
 >[!IMPORTANT]
 >Você deve ser um administrador de locatários para exportar dados de usuário do locatário.
@@ -243,18 +243,18 @@ A Microsoft também proporciona a capacidade de acessar, excluir e exportar dete
 
 ### <a name="executing-dsrs-against-system-generated-logs"></a>Executar as DSRs em logs gerados pelo sistema
 
-A Microsoft fornece a capacidade de acessar, excluir e exportar determinados logs gerados pelo sistema por meio do Portal do Aure e, também, diretamente por meio de interfaces de programação ou interfaces de usuário para serviços específicos.  Os detalhes são descritos na documentação de referência dos respectivos serviços.
+A Microsoft fornece a capacidade de acessar, excluir e exportar determinados logs gerados pelo sistema por meio do Portal do Azure e, também, diretamente por meio de interfaces de programação ou interfaces de usuário para serviços específicos. Os detalhes são descritos na documentação de referência desses respectivos serviços.
 
 >[!IMPORTANT]  
-> Os serviços que oferecem suporte às DSRs do produto exigem o uso direto da interface de programação de aplicativos (API) do serviço ou da interface de usuário (IU). Consequentemente, **é necessário executar as DSRs e também executar uma DSR no Portal do Azure para concluir uma solicitação completa de um determinado titular dos dados. Consulte a documentação de referência de serviços específicos para saber mais.**
+> Serviços de suporte a DSRs de produtos exigem o uso direto de APIs (interfaces de programação de aplicativos) preexistentes ou IUs (interfaces de usuário). Consequentemente, **é necessário executar as DSRs e também executar uma DSR no Portal do Azure para concluir totalmente a solicitação de um determinado titular de dados. Consulte a documentação de referência de serviços específicos para saber mais.**
 
 ### <a name="step-1-access"></a>Etapa 1: Acessar
 
-O administrador de locatários é a única pessoa em sua organização que pode acessar os logs gerados pelo sistema associados à utilização do Azure por um usuário específico. Os dados recuperados de uma solicitação de acesso serão fornecidos em um formato legível para computador e serão fornecidos em arquivos que permitem ao usuário saber quais serviços são associados aos dados. Conforme observado acima, os dados recuperados não incluirão dados que possam comprometer a segurança do serviço.
+O administrador de locatário é a única pessoa em sua organização que tem acesso aos logs geradas pelo sistema associados ao uso do Azure por um usuário específico. Dados recuperados para uma solicitação de acesso são fornecidos em um formato legível por máquina em arquivos que permitem ao usuário saber com quais serviços os dados estão associados. Como mencionado acima, os dados recuperados não incluem dados que possam comprometer a segurança do serviço.
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-A Microsoft oferece um portal e experiências de produto, proporcionando ao administrador de locatários do cliente corporativo a capacidade de gerenciar solicitações de acesso. As solicitações de acesso permitem o acesso a dados pessoais do usuário, incluindo: (a) informações de identificação sobre um usuário final e (b) logs gerados pelo sistema. O processo é idêntico ao descrito na seção da Parte 1, Etapa 2: Acesso, do Azure Active Directory.
+A Microsoft oferece um portal e experiências de produto, proporcionando ao administrador de locatários do cliente corporativo a capacidade de gerenciar solicitações de acesso que permitem acessar dados pessoais do usuário, incluindo: (a) informações de identificação sobre um usuário final e (b) logs gerados pelo sistema. O processo é idêntico ao descrito na seção do Azure Active Directory da Parte 1, Etapa 2: Acessar.
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas do serviço
 
@@ -266,7 +266,7 @@ O administrador de locatário é a única pessoa em sua organização que pode e
 
 #### <a name="azure-active-directory"></a>Azure Active Directory
 
-A Microsoft oferece um portal e experiências de produto, proporcionando ao administrador de locatários do cliente corporativo a capacidade de gerenciar solicitações de exclusão de DSR. As solicitações de exclusão de DSR seguem o mesmo procedimento descrito na seção Excluir um usuário e dados associados por meio do portal do Azure da Parte 1, Etapa 5: excluir.
+A Microsoft oferece um portal e experiências de produto, proporcionando ao administrador de locatários do cliente corporativo a capacidade de gerenciar solicitações de exclusão de DSR, que seguem o mesmo processo descrito em Excluir um usuário e dados associados na seção do portal do Azure da Parte 1, Etapa 5: Excluir.
 
 #### <a name="service-specific-interfaces"></a>Interfaces específicas do serviço
 
@@ -274,7 +274,7 @@ A Microsoft oferece a capacidade de descobrir os dados dos clientes diretamente 
 
 ### <a name="step-3-export"></a>Etapa 3: Exportação
 
-O administrador de locatários é a única pessoa em sua organização que pode acessar os logs gerados pelo sistema associados à utilização do Azure por um usuário específico. Os dados recuperados de uma solicitação de exportação serão fornecidos em um formato legível para computador e serão fornecidos em arquivos que permitem ao usuário saber quais serviços são associados aos dados. Conforme observado acima, os dados recuperados não incluirão dados que possam comprometer a segurança ou estabilidade do serviço.
+O administrador de locatários é a única pessoa em sua organização que tem acesso aos logs gerados pelo sistema associados ao uso do Azure por um usuário específico. Dados recuperados para uma solicitação de exportação são fornecidos em um formato legível por máquina em arquivos que permitem ao usuário saber com quais serviços os dados estão associados. Como mencionado acima, dados recuperados não incluem dados que possam comprometer a segurança ou estabilidade do serviço.
 
 #### <a name="export-system-generated-logs-using-the-azure-portal"></a>Exportar logs gerados pelo sistema usando o portal do Azure
 
@@ -301,12 +301,12 @@ Veja a seguir o processo detalhado para exportar os dados de seu locatário.
 
 - **Usuário.** Digite o endereço de email do usuário do Azure Active Directory que solicitou a exportação.
 - **Assinatura.** Selecione a conta que você usa para relatar o uso de recursos e cobrar pelos serviços. Esse também é o local de sua conta de armazenamento do Azure.
-- **Conta de armazenamento.** Selecione a localização de seu Armazenamento do Azure (Blob). Para saber mais, confira o artigo [Introdução ao Armazenamento do Microsoft Azure — armazenamento de Blob](/azure/storage/common/storage-introduction#blob-storage).
+- **Conta de armazenamento.** Selecione o local do Armazenamento do Azure (Blob). Para saber mais, consulte o artigo [Introdução ao Armazenamento do Microsoft Azure: armazenamento de blob](/azure/storage/common/storage-introduction#blob-storage).
 - **Contêiner.** Crie um novo contêiner (ou selecione um existente) como o local de armazenamento para os dados de privacidade exportados do usuário.
 
-4. Selecione **Criar**.
+4. Selecione **Criar**. 
 
-A solicitação de exportação entra no status **Pendente**. Você pode exibir o status do relatório na folha **Privacidade do usuário — Visão Geral**.
+A solicitação de exportação entra no status **Pendente**. Você pode exibir o status do relatório na folha **Privacidade do usuário– Visão geral**.
 
 >[!IMPORTANT]  
 >Como dados pessoais podem vir de vários sistemas, é possível que o processo de exportação possa levar até um mês para ser concluído.
@@ -317,7 +317,7 @@ A Microsoft oferece a capacidade de descobrir os dados dos clientes diretamente 
 
 ### <a name="notify-about-exporting-or-deleting-issues"></a>Notificar problemas de exportação ou exclusão
 
-Se você tiver problemas ao exportar ou excluir dados do Portal do Azure, acesse a folha **Ajuda + Suporte** do portal do Azure e envie um novo tíquete na folha **Gerenciamento de Assinaturas > Outra Solicitação de Segurança e Conformidade > Privacidade e Solicitações de RGPD**.
+Se você tiver problemas ao exportar ou excluir dados do Portal do Azure, acesse a folha **Ajuda e suporte** do portal do Azure e envie um novo tíquete na folha **Gerenciamento de Assinaturas > Outra Solicitação de Segurança e Conformidade > Privacidade e Solicitações de RGPD**.
 
 ## <a name="learn-more"></a>Saiba mais
 
