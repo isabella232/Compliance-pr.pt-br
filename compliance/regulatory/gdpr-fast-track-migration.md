@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496109"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089504"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>Conjunto de ferramentas de migração FastTrack para envio de solicitação de exclusão
 
@@ -35,11 +35,11 @@ Se você for um cliente envolvido atualmente com migrações FastTrack, a exclus
 
 A Microsoft oferece suporte à versão inicial deste conjunto de ferramentas na plataforma do Windows e no console do PowerShell. Este conjunto de ferramentas oferece suporte às plataformas conhecidas a seguir:
 
-***Tabela 1 - Plataformas compatíveis com este conjunto de ferramentas***
+***Tabela 1 - Plataformas compatíveis com este conjunto de ferramentas** _
 
-****
+_***
 
-|Versão do Windows PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
+|Versão do Windows PowerShell|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |5.0|Não suportado|Com suporte|Com suporte|Com suporte|Com suporte|
 |5.1|Não suportado|Com suporte|Com suporte|Com suporte|Com suporte|
@@ -47,13 +47,13 @@ A Microsoft oferece suporte à versão inicial deste conjunto de ferramentas na 
 
 ### <a name="obtaining-the-toolset"></a>Como obter o conjunto de ferramentas
 
-Este conjunto de ferramentas está disponível na Galeria do PowerShell no aplicativo de console do PowerShell. Para localizar e carregar o módulo desse cmdlet, primeiro abra o PowerShell no modo de administrador para que ele tenha as permissões apropriadas para instalar o módulo. Se você nunca usou o PowerShell, acesse a Barra de Tarefas do Windows e, na caixa de pesquisa, digite "PowerShell". Selecione o aplicativo de console usando o botão direito e escolha **Executar como administrador**, depois clique em **Sim** para executar o Windows PowerShell.
+Este conjunto de ferramentas está disponível na Galeria do PowerShell no aplicativo de console do PowerShell. Para localizar e carregar este módulo de cmdlet, primeiro abra o PowerShell no modo de administrador para que ele tenha as permissões apropriadas para instalar o módulo. Se você não usou o PowerShell anteriormente, vá para a Barra de Tarefas do Windows e na caixa de pesquisa digite 'PowerShell ”. Selecione o aplicativo de console usando o botão direito do mouse e escolha **Executar como administrador** e clique em **Sim** para executar o Windows PowerShell.
 
 ![PowerShell - Executar como administrador](../media/fasttrack-powershell_image.png)
 
 ![PowerShell - Permitir que o aplicativo faça alterações](../media/fasttrack-run-powershell_image.png)
 
-Agora que o console está aberto, você precisa definir permissões para a execução de scripts. Digite o seguinte comando para permitir a execução de scripts:
+Agora que o console está aberto, você precisa definir as permissões para a execução do script. Digite o seguinte comando para permitir que os scripts sejam executados:
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 Você receberá uma solicitação para confirmar essa ação, pois o administrador pode alterar o escopo de acordo com seu critério.
 
-***Definir a política de execução***
+**_Definir a Política de Execução_* _
 
 ![Definir alteração de política de execução no PowerShell](../media/powershell-set-execution-policy_image.png)
 
@@ -75,7 +75,7 @@ Install-Module -Name Microsoft.FastTrack -Repository PSGallery -WarningAction Si
 
 Para executar com êxito este módulo, você precisará instalar módulos dependentes para uso, caso eles ainda não estejam instalados. Talvez seja necessário reiniciar o PowerShell.
 
-Para enviar um DSR, primeiro você deve fazer logon usando suas credenciais do Office 365. Inserir as credenciais adequadas validará o status do administrador global e coletará informações do locatário.
+Para enviar um DSR, você deve primeiro fazer logon usando suas credenciais do Office 365. Inserir as credenciais adequadas validará seu status de administrador global e coletará informações do locatário.
 
 ```powershell
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 Após o logon bem-sucedido, as credenciais e a chave serão armazenadas para uso com os módulos do FastTrack durante o restante da sessão atual do PowerShell.
 
-Se você precisar se conectar a um ambiente de nuvem que não seja comercial, será necessário adicionar *-Environment* ao comando de *Logon* com um dos seguintes ambientes válidos:
+Se você precisar se conectar a um ambiente de nuvem que não seja comercial, será necessário adicionar  _-Environment* ao comando de *Logon* com um dos seguintes ambientes válidos:
 
 - AzureCloud
 - AzureChinaCloud
@@ -100,7 +100,7 @@ Para enviar uma solicitação de DSR, execute o seguinte comando:
 Submit-FastTrackGdprDsrRequest -DsrRequestUserEmail SubjectUserEmail@mycompany.com
 ```
 
-Em caso de sucesso, o cmdlet retornará um objeto ID da Transação. Mantenha a ID da Transação.
+Em caso de sucesso, o cmdlet retornará um objeto de ID de transação. Guarde o ID da Transação.
 
 #### <a name="checking-the-status-of-a-request-transaction"></a>Verificar o status da transação de uma solicitação
 
