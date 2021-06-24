@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8ae3f837336b0eb79ded802d17df37fefe8d5245
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505714"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088490"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>Cloud Security Mark Gold (CS Gold Mark)
 
@@ -29,7 +29,7 @@ ms.locfileid: "49505714"
 
 O Cloud Security Mark (CS Mark) é o primeiro padrão de segurança para provedores de serviço de nuvem (CSPs) no Japão e baseia-se no ISO/IEC 27017, código de conduta internacional de controles de segurança da informação. Esse, por sua vez, baseia-se no ISO/IEC 27002 para serviços de nuvem, que aborda a segurança da informação em computação em nuvem e a implementação de controles de segurança da informação em nuvem.
 
-O CS Mark foi aprovado pela Associação de Auditoria de Segurança da Informação do Japão (JASA), organização sem fins lucrativos criada pelo Ministro do Interior e o Ministro da Economia, Comércio e Indústria para fortalecer a segurança da informação no Japão. O CS Mark promove o uso de serviços de nuvem e oferece:
+O CS Mark é credenciado pela Associação de Auditoria de Segurança da Informação do Japão (JASA), uma organização sem fins lucrativos estabelecida pelo ministério do interior e pelo Ministério da Economia, Comércio e Indústria para fortalecer a segurança da informação no Japão. O CS Mark promove o uso de serviços em nuvem e fornece:
 
 - Um padrão comum que os CSPs podem aplicar para lidar com as preocupações comuns dos clientes a respeito da segurança e confiabilidade dos dados e do impacto do uso de serviços de nuvem nos negócios.
 - Transparência operacional confirmável e visibilidade dos riscos que os clientes enfrentam quando usam serviços de nuvem.
@@ -55,7 +55,7 @@ Essa certificação é válida por três anos, com uma auditoria de supervisão 
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
-**Por onde começo a iniciativa de conformidade de minha empresa?**
+**Por onde começo a iniciativa de conformidade em minha empresa?**
 
 Se sua organização estiver usando o Azure ou Office 365, você precisará confirmar se o CS Mark atende seus requisitos de segurança. Se o CS Mark não atender seus requisitos de segurança, você podeusar a certificação o relatório de auditoria da Microsoft como parte de seu processo de certificação. Você é responsável por contratar um auditor para avaliar a conformidade de sua implementação e pelos controles e processos dentro da organização.
 

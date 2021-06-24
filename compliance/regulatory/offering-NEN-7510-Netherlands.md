@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3688ffe46405e6c8eea8f6896a94d8470151bb4d
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: 9ae0ba0b3ad10e4b1f2d308090f05c698bce092f
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012967"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088480"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -64,7 +64,7 @@ Os serviços em nuvem da Microsoft oferecem muitos controles que ajudam as organ
 
 **O relatório sobre a cobertura do NEN 7510 é um documento de associação legal?**
 
-Não. É uma ferramenta para dar suporte ao processo interno de garantia do NEN 7510 do cliente e ajuda a estabelecer a confiança sobre a viabilidade da conformidade com o NEN 7510. O relatório (criado pela empresa de auditoria independente, KPMG) tem um status descritivo e inclui um aviso de isenção de responsabilidade legal.
+Não. É uma ferramenta de suporte para o processo interno de garantia da NEN 7510 do cliente e ajuda a estabelecer a confiança e a confiança de que a conformidade com a NEN 7510 é viável. O relatório (criado pela empresa de auditoria independente, KPMG) tem um status descritivo e inclui um aviso de isenção de responsabilidade legal.
 
 **A Microsoft pagou pelo relatório?**
 
