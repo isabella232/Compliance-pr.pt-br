@@ -45,7 +45,7 @@ Embora a Microsoft não esteja sujeita à conformidade com o BIR 2012, os client
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
-A Microsoft selecionou uma empresa de auditoria independente de terceiros para analisar até que ponto as certificações e atestados atuais do Azure e do Office 365 (como ISO/IEC 27001 e SOC 2 Type 2) abrangem a parte do BIR 2012 pela qual a Microsoft é responsável. O relatório resultante fornece um mapeamento dessas certificações e atestados existentes para os controles listados no padrão BIR 2012. Os clientes podem usar o relatório como uma ferramenta para ajudar a adotar o Azure em conformidade com o BIR 2012. O relatório demonstra claramente quais controles BIR 2012 são cobertos pela Microsoft e quais controles continuam sendo implementados pelos clientes. O relatório “Microsoft Cloud: Azure e Office 365 BIR 2012 Baseline Coverage” pode ser baixado da seção [Relatórios de Auditoria do Portal de Confiança do Serviço  - Relatórios de Avaliação do GRC](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3).
+A Microsoft selecionou uma empresa de auditoria terceirizada e independente para analisar até que ponto as certificações e atestados atuais do Azure e do Office 365 (como ISO/IEC 27001 e SOC 2 Tipo 2) abrangem a parte do BIR 2012 pela qual a Microsoft é responsável. O relatório resultante fornece um mapeamento dessas certificações e atestados existentes para os controles listados no padrão BIR 2012. Os clientes podem usar o relatório como uma ferramenta para ajudar a adotar o Azure em conformidade com o BIR 2012. O relatório demonstra claramente quais controles BIR 2012 são cobertos pela Microsoft e quais controles continuam sendo implementados pelos clientes. O relatório 'Microsoft Cloud: cobertura da linha de base do Azure e Office 365 BIR 2012' pode ser baixado da seção [Relatórios de Auditoria do Portal de Confiança do Serviço  - Relatórios de Avaliação do GRC](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3).
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -63,7 +63,7 @@ Os serviços em nuvem da Microsoft fornecem muitos controles que ajudam as organ
 
 **O relatório sobre a cobertura do BIR é um documento de associação legal?**
 
-Não. É uma ferramenta para dar suporte ao processo interno de garantia do BIR do cliente e ajuda a estabelecer a confiança sobre a viabilidade da conformidade com o BIR. O relatório tem um status descritivo e inclui um aviso de isenção de responsabilidade legal.
+Não. É uma ferramenta para dar suporte ao processo interno de garantia do BIR do cliente e ajudar a estabelecer a confiança sobre a viabilidade da conformidade com o BIR. O relatório tem um status descritivo e inclui um aviso de isenção de responsabilidade legal.
 
 **Podemos compartilhar este relatório?**
 
