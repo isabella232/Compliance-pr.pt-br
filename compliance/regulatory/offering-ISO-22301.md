@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: afe6f7f5d5758442b6a016834456459ff9d40e7c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497765"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088930"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Padrão de Gerenciamento de Continuidade dos Negócios ISO 22301:2012
 
 ## <a name="iso-22301-overview"></a>Visão geral da ISO 22301
 
-A ISO (International Organization for Standardization) é uma organização não governamental independente e a maior desenvolvedora de padrões internacionais voluntários do mundo. A ISO formou o Comitê técnico da Segurança social TC 223 para desenvolver padrões para proteger a sociedade, incluindo organizações, se ocorrerem catástrofes como desastres naturais, grandes ataques terroristas ou o desligamento das redes elétricas.
+A ISO (International Organization for Standardization) é uma organização não governamental independente e o maior desenvolvedor de padrões internacionais voluntários do mundo. A ISO formou o Comitê técnico da Segurança social TC 223 para desenvolver padrões para proteger a sociedade, incluindo organizações, se ocorrerem catástrofes como desastres naturais, grandes ataques terroristas ou o desligamento das redes elétricas.
 
 Publicada em 2012 pelo comitê técnico, a ISO 22301:2012 é o primeiro padrão internacional para sistemas de gerenciamento que ajudam a garantir a continuidade dos negócios. A ISO 22301 é o padrão Premium para continuidade dos negócios, e a certificação demonstra a conformidade com as práticas rigorosas para evitar, minimizar, responder e recuperar de um incidente com interrupções.
 
@@ -69,7 +69,7 @@ A ISO 22301 é uma certificação usada por empresas e organizações governamen
 
 O [Portal de Confiança do Serviço](https://aka.ms/stphelp) fornece relatórios de conformidade executados por auditoria independente, assim seus auditores podem comparar os resultados dos serviços da nuvem da Microsoft com seus próprios requisitos legais e regulatórios.
 
-**Posso usar a conformidade dos serviços da Microsoft com a ISO 22301 no processo de certificação de minha organização?**
+**Posso usar a conformidade dos serviços Microsoft com a ISO 22301 no processo de certificação de minha organização?**
 
 Sim. Se a sua empresa exige a certificação ISO 22301 para as implementações implantadas em serviços da Microsoft, você pode usar as certificações do Azure e do Office 365 em sua avaliação de conformidade. Contudo, você é responsável por contratar um avaliador para analisar os controles, processos e implementação da ISO 22301 em sua organização e em seus próprios aplicativos.
 
