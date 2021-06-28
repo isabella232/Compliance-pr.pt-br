@@ -20,24 +20,24 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: eccc07b5f40182c3dad8652f0e4c1671b5eb9843
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496217"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141462"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de Titulares de Dados da Família do Visual Studio para o GDPR e CCPA
 
 O [GDPR (Regulamento Geral sobre a Proteção de Dados)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) da União Europeia fornece direitos às pessoas (conhecidas na regulamentação como _titulares de dados_) para gerenciar seus dados pessoais. Os dados pessoais são definidos amplamente no GDPR como quaisquer dados relacionados a uma pessoa identificada ou identificável. O RGPD fornece aos titulares de dados os direitos específicos a seus dados pessoais; esses direitos incluem a obtenção de cópias desses dados pessoais, a solicitação de correções, a restrição do processamento, a exclusão ou o recebimento desses dados em formato eletrônico. Uma solicitação formal de um titular de dados feita a um controlador de dados (um empregador ou outro tipo de agência ou organização que tem controle sobre os dados pessoais) para realizar uma ação nos dados pessoais desse titular de dados é chamado de _solicitação de titular de dados_ ou DSR. 
 
-Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do GDPR, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais.  O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.md).
+Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do GDPR, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais.  O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.yml).
 
 Para saber mais sobre o RGPD, confira a [Seção RGPD do portal de Confiança do Serviço](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted).
 
 ## <a name="products-covered-by-this-guide"></a>Produtos cobertos por este guia
 
-Este guia explica como usar as ferramentas da Microsoft para exportar ou excluir dados pessoais coletados durante o uso de sessão autenticada (conectada) do Visual Studio e do Visual Studio para Mac e extensões da Microsoft para eles e para o Visual Studio Code. Este guia também aborda como fazer solicitações do titular dos dados para dados pessoais coletados ao usar a Comunidade de Desenvolvedores do Visual Studio, NuGet.org e o site do ASP.NET. Esses produtos podem permitir o uso de ferramentas e extensões que não são da Microsoft e a Microsoft não é um processador ou controlador de dados para essas ferramentas e extensões. Os usuários devem contatar a ferramenta ou o provedor de extensão para compreender os dados pessoais e políticas de coleta dessas ferramentas e extensões.
+Esse guia descreve como usar as ferramentas da Microsoft para exportar ou excluir dados pessoais coletados durante o uso da sessão autenticada (conectada) do Visual Studio e do Visual Studio para Mac e as extensões da Microsoft para eles e para o Visual Studio Code. Esse guia também mostra como fazer solicitações de titulares de dados para dados pessoais coletados ao usar a Comunidade de Desenvolvedores do Visual Studio, NuGet.org e o site do ASP.NET. Esses produtos podem permitir o uso de ferramentas e extensões que não são da Microsoft e a Microsoft não é um controlador ou processadora de dados dessas ferramentas e extensões. Os usuários devem entrar em contato com o provedor da ferramenta ou extensão para entender as políticas de coleta e dados pessoais para essas ferramentas e extensões.
 
 ## <a name="additional-privacy-information"></a>Informações adicionais sobre privacidade
 

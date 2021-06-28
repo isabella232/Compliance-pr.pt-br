@@ -19,27 +19,27 @@ hideEdit: true
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 231021c75031a290686027f55bca868f4d7ac317
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 2fff7a2ffb6dc48e43c8a514609f0f584cb60db1
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120940"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141472"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de entidades de dados do Dynamics 365 para o RGPD e CCPA
 
 O [Regulamento Geral sobre a Proteção de Dados da União Europeia (RGPD)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) concede direitos a pessoas (conhecidas no regulamento como *titulares de dados*) para gerenciar dados pessoais coletados por um empregador ou outro tipo de agência ou organização (conhecido como *controlador de dados* ou apenas *controlador*). Os dados pessoais são definidos amplamente sob o RGPD como quaisquer dados relacionados a uma pessoa natural identificada ou identificável. O RGPD concede aos titulares dos dados direitos específicos aos seus dados pessoais; esses direitos incluem a obtenção de cópias, a solicitação de alterações, a restrição do processamento, a exclusão ou o recebimento em formato eletrônico dos dados, para que possam ser transferidos para outro controlador. Um pedido formal de um titular de dados a um responsável pelo tratamento para efetuar uma ação sobre os seus dados pessoais é chamado neste documento de *Solicitação de Direitos do Titular dos Dados* ou solicitação de DSR.
 
-Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do RGDP, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais.  O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.md).
+Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do RGDP, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais.  O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.yml).
 
-O guia explica como usar produtos, serviços e ferramentas administrativas da Microsoft para ajudar nossos clientes controladores a encontrarem e tomarem medidas em relação a dados pessoais para responder a solicitações de DSR. Especificamente, o guia mostra como localizar e acessar os dados pessoais ou informações pessoais que residem na nuvem da Microsoft e como executar ações relacionadas a eles. Aqui está uma rápida visão geral dos processos descritos neste guia:
+O guia trata sobre como usar os produtos, serviços e ferramentas administrativas da Microsoft para ajudar nossos clientes controladores a encontrarem e tomarem medidas em relação aos dados pessoais para responder às solicitações de DSR. Especificamente, isso inclui como encontrar, acessar e agir sobre os dados pessoais ou informações pessoais que residem na nuvem da Microsoft. Veja aqui uma breve visão geral dos processos descritos neste guia:
 
 - **Descobrir** – Use ferramentas de pesquisa e descoberta para localizar dados pessoais que possam ser a entidade de uma solicitação DSR. Após a coleta dos documentos que atendem à solicitação, você pode executar uma ou mais das ações de DSR a seguir para responder à solicitação. Como alternativa, você pode determinar que a solicitação não atende às diretrizes da sua organização para responder às solicitações DSR.
 - **Acesso:** recupere dados pessoais que residem na nuvem da Microsoft e, se solicitado, faça uma cópia para disponibilizar para o titular dos dados.
 - **Retificação:** faça alterações ou implemente outras ações solicitadas nos dados pessoais, onde for possível.
 - **Restringir** Restrinja o processamento dos dados pessoais, removendo licenças de diversos serviços online ou desabilitando os serviços desejados, sempre que possível. Você pode
 - **Excluir:** remova permanentemente os dados pessoais que residem na nuvem da Microsoft.
-- **Exportar/Receber (Portabilidade):** forneça uma cópia eletrônica (em formato legível para computador) de dados pessoais ou informações pessoais para o titular dos dados. Os dados pessoais do CCPA são quaisquer informações relacionadas a uma pessoa, identificável ou não. Não há distinção entre as funções pública, privada ou de trabalho de uma pessoa. O termo definido "informações pessoais" se alinha aproximadamente aos "dados pessoais" do RGPD. No entanto, o CCPA também inclui dados da família e do domicílio. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.md).
+- **Exportar/Receber (Portabilidade):** forneça uma cópia eletrônica (em formato legível para computador) de dados pessoais ou informações pessoais para o titular dos dados. Os dados pessoais do CCPA são quaisquer informações relacionadas a uma pessoa, identificável ou não. Não há distinção entre as funções pública, privada ou de trabalho de uma pessoa. O termo definido "informações pessoais" se alinha aproximadamente aos "dados pessoais" do RGPD. No entanto, o CCPA também inclui dados da família e do domicílio. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.yml).
 
 Cada seção deste guia descreve os procedimentos técnicos que uma organização controladora de dados pode realizar para responder a uma solicitação de DSR para dados pessoais na nuvem da Microsoft
 
@@ -55,10 +55,10 @@ A lista a seguir fornece as definições dos termos que são relevantes para est
 
 ## <a name="how-this-guide-can-help-you-meet-your-controller-responsibilities"></a>Como este guia pode ajudar você a cumprir suas responsabilidades de controlador
 
-O guia, dividido em duas partes, descreve como usar os produtos, serviços e ferramentas administrativas do Dynamics 365 para ajudar a localizar e executar ações em dados na nuvem da Microsoft em resposta a solicitações de titulares de dados exercendo seus direitos no RGPD. A primeira parte aborda dados pessoais incluídos nos dados do cliente, seguida por uma parte que aborda outros dados pessoais pseudonimizados obtidos de registros gerados pelo sistema.
+O guia, dividido em duas partes, descreve como usar produtos, serviços e ferramentas administrativas do Dynamics 365 para ajudá-lo a encontrar e agir sobre os dados na nuvem da Microsoft em resposta a solicitações de titulares dos dados que estão exercendo seus direitos de acordo com o GDPR. A primeira parte aborda os dados pessoais incluídos nos dados do cliente, seguido por uma parte que aborda outros dados pessoais com pseudônimos capturados em logs gerados pelo sistema.
 
 - **Parte 1: Respondendo a solicitações de Direitos do Titular dos Dados (DSR) para Dados Pessoais incluídos nos dados do cliente:** A parte 1 deste guia aborda como acessar, corrigir, restringir, excluir e exportar dados pessoais a partir de aplicativos do Dynamics 365 (software como um serviço), que é processado como parte dos dados do cliente que você forneceu ao serviço online.
-- **Parte 2: Responder a solicitações de direitos de assunto de dados para dados do Pseudonymized:** ao usar os serviços corporativos do Dynamics 365, a Microsoft gera algumas informações (mencionadas neste documento, como *logs gerados pelo sistema*) para fornecer o serviço, o que limita o espaço de uso deixado pelos usuários finais para identificar suas ações no sistema. Embora esses dados não possam ser atribuídos a uma entidade de dados específica sem o uso de informações adicionais, alguns deles podem ser considerados pessoais de acordo com o RGPD. A Parte 2 deste guia discute como acessar, excluir e exportar logs gerados pelo sistema produzidos pelo Dynamics 365.
+- **Parte 2: Respondendo às solicitações de direitos do titular dos dados para Dados com Pseudônimos:** Quando você usa os serviços corporativos do Dynamics 365, a Microsoft gera algumas informações (referidas neste documento como *logs gerados pelo sistema*) para fornecer o serviço, que é limitado à memória de uso deixada pelos usuários finais para identificar suas ações no sistema. Embora esses dados não possam ser atribuídos a um titular de dados específico sem o uso de informações adicionais, alguns deles podem ser considerados pessoais no âmbito do GDPR. A Parte 2 deste guia discute como acessar, excluir e exportar logs gerados pelo sistema produzidos pelo Dynamics 365.
 
 ## <a name="preparing-for-data-subject-rights-investigations"></a>Preparar para investigações de direitos de entidades de dados
 
@@ -125,7 +125,7 @@ Dados do cliente no ***Dynamics 365 for Finance and Operations** _ podem ser exp
 
 No ***Dynamics 365 Business Central***, você pode usar dois recursos para fornecer uma cópia dos dados do cliente para um titular de dados:
 
-Você pode exportar dados do cliente para um arquivo do Excel. No Excel, você pode editar os dados do cliente a serem incluídos na solicitação de portabilidade, e depois salvar como um formato comum legível por máquina, como .csv ou .xml. Para saber mais, confira [exportar dados corporativos para o Excel.](/dynamics365/business-central/about-export-data)
+Você pode exportar os dados do cliente para um arquivo do Excel. No Excel, você poderá editar os dados do cliente a serem incluídos na solicitação de portabilidade e salvá-los em um formato legível por máquina comumente usado, como .csv ou .xml. Para saber mais, consulte [Exportar seus dados corporativos para o Excel.](/dynamics365/business-central/about-export-data)
 
 No ***Dynamics 365 for Talent***, você pode [estender o relatório de pesquisa de pessoa](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report) para coletar informações para oferecer suporte a uma solicitação de uma cópia de dados pessoais do titular de dados.
 
@@ -133,7 +133,7 @@ No ***Dynamics 365 for Talent***, você pode [estender o relatório de pesquisa 
 
 O ***Dynamics 365 for Customer Engagement*** fornece os seguintes métodos para corrigir dados imprecisos ou incompletos do cliente ou apagar dados do cliente:
 
-- Pesquise dados do cliente usando os recursos mencionados em "Localizando dados do cliente" e edite diretamente os dados nos Formulários de envolvimento do cliente. Um nível de linha única ou várias linhas poderão ser editadas diretamente.
+- Pesquise dados do cliente usando os recursos mencionados em "Localizando dados do cliente" e edite os dados diretamente nos Formulários de Envolvimento do Cliente. As edições poderão ser feitas em um nível de linha única ou várias linhas poderão ser modificadas diretamente.
 - Para editar vários registros de Customer Engagement ao mesmo tempo, você pode utilizar o suplemento do Microsoft Office para exportar dados para o Excel, fazer suas alterações e importar os dados modificados do Excel para o Dynamics 365 for Customer Engagement.
 
 Além disso, para o Dynamics 365 for Marketing, você também pode:
@@ -149,7 +149,7 @@ O ***Dynamics 365 Business Central*** oferece duas maneiras de corrigir dados im
 
 Para editar em massa vários registros do Business Central, você pode exportar listas para o Excel usando o [suplemento para Excel do Business Central](/dynamics365/business-central/finance-analyze-excel#the--excel-add-in) para corrigir vários registros e publicar os dados modificados do Excel no Business Central. Para saber mais, consulte [Exportar seus dados empresariais para o Excel](/dynamics365/business-central/about-export-data).
 
-Você pode alterar dados do cliente armazenados em qualquer campo, como as informações do cliente no cartão do cliente, ao editar manualmente o elemento de dados com os dados pessoais de destino. Para saber mais, confira [inserir dados](/dynamics365/business-central/ui-enter-data).
+Você pode alterar os dados do cliente armazenados em qualquer campo, como informações sobre um cliente no cartão do cliente, editando manualmente o elemento de dados que contém os dados pessoais de destino. Para saber mais, consulte [Inserir dados](/dynamics365/business-central/ui-enter-data).
 
 #### <a name="brief-note-about-modifying-entries-in-business-transactions"></a>Nota curta sobre como modificar entradas em transações de negócios
 
@@ -161,7 +161,7 @@ Se você armazenar dados pessoais em registros de transação de negócios, a ú
 
 Ao receber uma solicitação de um titular de dados para restringir o processamento de dados do cliente, você pode extrair facilmente os dados afetados do serviço online e armazená-los em um contêiner separado (ou seja, um armazenamento local ou em um serviço Web separado com recursos de isolamento de dados) isolado das funções de processamento fornecidas por qualquer aplicativo da nuvem.
 
-O mecanismo alternativo, como o bloco de processamento de dados, é oferecido pelo ***Dynamics 365 Business Central***, em que os usuários podem bloquear o registro de assunto de dados específico. Para saber mais, confira [Restrição de processamento de dados para um titular de dados](/dynamics365/business-central/admin-responding-to-requests-about-personal-data#restrict-data-processing-for-a-data-subject). Quando um registro for bloqueado, o Dynamics 365 Business Central irá interromper o processamento de dados do cliente daquele titular de dados. Não é possível criar novas transações que usam um registro bloqueado como, por exemplo, uma nova fatura para um cliente, se o cliente ou vendedor estiver bloqueado.
+Um mecanismos alternativo, como o bloqueio de processamento de dados, é oferecido pelo ***Dynamics 365 Business Central***, no qual os usuários podem bloquear o registro específico do titular dos dados. Para saber mais, consulte [Restringir o processamento de dados para um titular dos dados](/dynamics365/business-central/admin-responding-to-requests-about-personal-data#restrict-data-processing-for-a-data-subject). Quando um registro é marcado como bloqueado, o Dynamics 365 Business Central deixará de processar os dados do cliente desse titular dos dados. Não será possível criar novas transações que usem um registro bloqueado; por exemplo, Não será possível criar uma nova fatura para um cliente, quando o cliente ou o vendedor estiver bloqueado.
 
 ### <a name="deleting-customer-data"></a>Exclusão de dados do cliente
 
@@ -170,7 +170,7 @@ Quando um titular de dados solicita a exclusão de seus dados do cliente, há v�
 - Para editar vários registros do Dynamics 365 em massa, você pode utilizar o suplemento do Microsoft Office para exportar dados para o Excel, fazer suas alterações e importar os dados modificados do Excel para o serviço online.
 - Você pode excluir os dados do cliente armazenados em qualquer campo ao localizar os dados que deseja excluir e, em seguida, excluir manualmente o elemento de dados com os dados do cliente-alvo, por exemplo, realizando uma exclusão permanente do registro de contato que representa o titular de dados e outros registros que contêm dados pessoais
 
-Além disso, para o Dynamics 365 Marketing, a exclusão de um contato irá garantir que a interação de dados com as informações pessoais também serão removidas. Para quaisquer entidades ou campos personalizados, personalizar o seu sistema garante que ele exclui todos os dados do cliente dos registros relacionados e/ou desvinculá-los do registro de contato para que todas as informações pessoais sejam removidas. Saiba mais: [Guia do Desenvolvedor (Marketing)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide).
+Além disso, para o Dynamics 365 Marketing, a exclusão de um contato garantirá que a interação de dados com informações pessoais também sejam removidos. Para quaisquer entidades ou campos personalizados, você deve personalizar seu sistema para garantir que ele exclua todos os dados do cliente dos registros relacionados e/ou desvinculá-los do registro de contato para que todas as informações pessoais sejam removidas. Mais informações: [Guia do desenvolvedor (Marketing)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide).
 
 O ***Dynamics 365 Customer Service Insights*** também fornece às organizações recursos para [excluir dados do cliente](/dynamics365/ai/customer-service-insights/gdpr-delete).
 
@@ -179,7 +179,7 @@ Como alternativa, no ***Dynamics 365 for Finance and Operations** _ você pode u
 No ***Dynamics 365 Business Central***, quando um titular de dados solicitar que você exclua seus dados pessoais incluídos nos dados do cliente, há várias maneiras para atender a essa solicitação:
 
 - Para editar em massa vários registros do Business Central, você pode exportar dados para o Excel usando o [suplemento para Excel do Business Central](/dynamics365/business-central/finance-analyze-excel#the--excel-add-in) para excluir vários registros e publicar essas mudanças do Excel para o Business Central. Para saber mais, consulte [Exportar seus dados empresariais para o Excel](/dynamics365/business-central/about-export-data).
-- Você pode excluir dados do cliente armazenados em qualquer campo excluindo manualmente o elemento de dados que contém os dados do cliente-alvo. Para saber mais, confira [inserir dados](/dynamics365/business-central/ui-enter-data).
+- Você pode excluir os dados do cliente armazenados em qualquer campo, excluindo manualmente o elemento de dados que contém os dados do cliente de destino. Para saber mais, consulte [Inserir dados ](/dynamics365/business-central/ui-enter-data).
 - Você pode excluir diretamente os dados do cliente, por exemplo, ao excluir um contato e executar o trabalho em lote Excluir Entradas do Log de Interações Canceladas para excluir as interações para esse contato.
 - Você pode [excluir documentos](/dynamics365/business-central/admin-manage-documents) com dados do cliente como, por exemplo, memorandos, vendas lançadas e faturas de compra.
 
@@ -187,7 +187,7 @@ Além da exclusão individual ou em massa de registros discretos, observe que ap
 
 ### <a name="exporting-customer-data"></a>Exportação de dados do cliente
 
-Para atender a uma solicitação de portabilidade de dados, os dados do cliente no ***Dynamics 365 for Customer Engagement*** podem ser exportados usando os recursos abrangentes de exportação de entidade. Dados do cliente podem ser exportados para um arquivo estático do Excel para facilitar uma solicitação de portabilidade de dados. Usando o Excel, você pode editar os dados pessoais a serem incluídos na solicitação de portabilidade e depois salvar como um formato comum legível por máquina, como .csv ou .xml.
+Para responder a uma solicitação de portabilidade de dados, os dados do cliente no ***Dynamics 365 for Customer Engagement*** podem ser exportados usando os recursos abrangentes de exportação de entidade. Os dados do cliente podem ser exportados para um arquivo estático do Excel para facilitar uma solicitação de portabilidade de dados. Usando o Excel, você pode editar os dados pessoais a serem incluídos na solicitação de portabilidade e salvá-los em um formato legível por máquina comumente usado, como .csv ou .xml.
 
 Além disso, para o Dynamics 365 for Marketing, é fornecida uma [API dedicada](/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact) para criar extensões que recuperem registros adicionais de interações de clientes capturadas, que podem conter dados pessoais do cliente. A API carrega as informações relevantes do sistema de back-end e as reúne em um único documento portátil.
 
@@ -199,8 +199,8 @@ Tanto o Dynamics 365 for Finance and Operations quanto o ***Dynamics 365 for Tal
 
 O ***Dynamics 365 Business Central*** oferece os seguintes recursos:
 
-- Você pode exportar dados do cliente para um arquivo do Excel. No Excel, você pode editar os dados do cliente a serem incluídos na solicitação de portabilidade, e depois salvar como um formato comum legível por máquina, como .csv ou .xml. Para saber mais, confira [exportar dados corporativos para o Excel](/dynamics365/business-central/about-export-data).
-- Você pode exportar dados do cliente para um arquivo do Excel. No Excel, você pode editar os dados do cliente a serem incluídos na solicitação de portabilidade, e depois salvar como um formato comum legível por máquina, como .csv ou .xml. Para saber mais, confira [exportar dados corporativos para o Excel](/dynamics365/business-central/about-export-data).
+- Você pode exportar os dados do cliente para um arquivo do Excel. No Excel, você poderá editar os dados do cliente a serem incluídos na solicitação de portabilidade e salvá-los em um formato legível por máquina comumente usado, como .csv ou .xml. Para saber mais, consulte [Exportar seus dados corporativos para o Excel](/dynamics365/business-central/about-export-data).
+- Você pode exportar os dados do cliente para um arquivo do Excel. No Excel, você poderá editar os dados do cliente a serem incluídos na solicitação de portabilidade e salvá-los em um formato legível por máquina comumente usado, como .csv ou .xml. Para saber mais, consulte [Exportar seus dados corporativos para o Excel](/dynamics365/business-central/about-export-data).
 
 
 ## <a name="part-2-responding-to-dsrs-for-system-generated-logs"></a>Parte 2: Responder aos DSRs para logs gerados pelo sistema
@@ -237,7 +237,7 @@ A tabela a seguir resume como acessar e exportar os logs gerados pelo sistema:
 |:----|:---|
 |**Quanto tempo a ferramenta de Exportação de Log de Dados da Microsoft leva para concluir uma solicitação?**| Isso pode depender de vários fatores. Na maioria dos casos, uma solicitação deve ser concluída em um ou dois dias, mas pode levar até 30 dias. |
 |**Qual será o formato da saída?**| A saída será em arquivos estruturados legíveis por máquina, como JSON, CSV ou XML. |
-|**Quais são os dados retornados pela ferramenta Exportação de Log de Dados?**| A ferramenta Exportação de Log de Dados retorna logs gerados pelo sistema que a Microsoft armazena. Os dados exportados serão distribuídos em vários serviços da Microsoft, incluindo o Office 365, o Azure e o Dynamics. |
+|**Quais são os dados retornados pela ferramenta Exportação de Log de Dados?**| A ferramenta Exportação de Logs de Dados retorna logs gerados pelo sistema que a Microsoft armazena. Os dados exportados serão distribuídos em vários serviços Microsoft, incluindo o Office 365, o Azure e o Dynamics. |
 |***Quem tem acesso à ferramenta de Exportação de Log de Dados para enviar solicitações de acesso para logs gerados pelo sistema?**| Os administradores globais do Dynamics 365 terão acesso ao utilitário de Gerenciamento de Logs do RGPD. |
 |**Como os dados são retornados ao usuário?**| Os dados serão exportados para o local de Armazenamento do Azure da sua organização. Caberá aos administradores da sua organização determinar como eles mostrarão/retornarão esses dados para os usuários. |
 |**Qual será a aparência dos dados nos logs gerados pelo sistema?**| Exemplo de um registro de log gerado pelo sistema no formato JSON: <br><br> "DateTime": "2017-04-28T12:09:29-07:00", <br> "AppName": "SharePoint", <br> "Action": "OpenFile", <br> "IP": "154.192.13.131", <br> "DevicePlatform": "Windows 1.0.1607" |
