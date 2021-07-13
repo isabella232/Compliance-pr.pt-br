@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e57959e6463704b1a6821ace10b9eadad1b570c1
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088840"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385491"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Autoridade de Regulação Prudencial Australiana (APRA)
 
@@ -72,11 +72,25 @@ Confiando em nossa abordagem abrangente para a garantia de riscos na nuvem, esta
 
 Obter suporte prático para mover dados e cargas de trabalho para o Azure em conformidade com os regulamentos do APRA: Baixar serviços de nuvem da [Microsoft:](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)uma lista de verificação de conformidade para instituições financeiras na Austrália .
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
 
-- [Azure](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Dynamics 365
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
+
+## <a name="office-365-and-apra"></a>Office 365 e APRA
+
+### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Proteção do Exchange Online, Exchange Online, Office 365 Customer Portal, Office Online, infraestrutura de serviços Office, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 

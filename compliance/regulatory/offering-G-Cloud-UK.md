@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 887d6a2be0ef4b1d9f1d22eefc53e3fc23e75e22
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088810"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384961"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 
@@ -41,16 +41,30 @@ O compromisso de serviços Microsoft para o Marketplace Digital significa que as
 
  [14 Controles](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) de Segurança de Nuvem para nuvem do Reino Unido usando o Microsoft Azure fornece estratégias do cliente para mover seus serviços para o Azure e ajudar a cumprir suas obrigações do Reino Unido impostas pelo CESG/NCSC. O whitepaper fornece informações sobre como o Azure pode ser usado para ajudar a lidar com os 14 controles descritos nas entidades de segurança na nuvem e descreve como os clientes podem se mover mais rapidamente e obter mais ao economizar dinheiro enquanto adotam serviços Microsoft Azure.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Segurança no aplicativo na nuvem da Microsoft
+- Azure
+- Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
-- Office 365: Exchange Online, SharePoint Online e Skype for Business Online
-- Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou do Dynamics 365
-- Serviço em nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
+- Office 365
+- Power Automate (anteriormente Microsoft Flow) serviço de nuvem (como um serviço autônomo ou incluído em um plano ou pacote de marca Office 365 ou Dynamics 365)
+- Serviço de nuvem do PowerApps (como um serviço autônomo ou como incluído em um Office 365 ou plano ou pacote de marca do Dynamics 365)
+- Power BI de nuvem (como um serviço autônomo ou como incluído em um Office 365 ou pacote)
+
+## <a name="office-365-and-uk-g-cloud"></a>Office 365 e Uk G-Cloud
+
+### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint Online, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
@@ -105,7 +119,7 @@ Além dos datacenters do Reino Unido, os serviços de nuvem da Microsoft têm da
 
 **Como posso obter cópias dos relatórios do auditor?**
 
-O [Portal de Confiança do Serviço](/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados da Microsoft com seus próprios requisitos legais e regulatórios.
+O [Portal de Confiança de Serviços](/microsoft-365/compliance/get-started-with-service-trust-portal) fornece relatórios de conformidade auditados de forma independente. Você pode usar o portal para solicitar relatórios de auditoria para que seus auditores possam comparar os resultados da Microsoft com seus próprios requisitos legais e regulatórios.
 
 ## <a name="resources"></a>Recursos
 

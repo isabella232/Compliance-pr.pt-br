@@ -19,18 +19,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b31dd13f4a6209712a9cc212ab3bcd9c5addf6b7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 862bd05a84e5144602a24ac2aca1780cffaff3fe
+ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089595"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53395611"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Transferência e rescisão de funcionários da Microsoft
 
-As transferências e terminações de funcionários fazem parte das operações comerciais normais de cada organização. Quando um funcionário muda de posição ou sai da empresa, é essencial revogar o acesso inadequado em tempo hábil. Para facilitar alterações de acesso eficientes e revogações de acesso, o Microsoft 365 usa procedimentos padronizados e processos automatizados para coordenar o SISTEMA de Informações de Recursos Humanos (HRIS) com o sistema de Gerenciamento de Identidade (IDM). A orquestração automatizada entre esses dois sistemas é essencial para manter a consistência operacional, proteger os serviços e os dados do Microsoft 365 do Microsoft 365, evitar o risco de privilégios e reduzir os riscos relacionados a ameaças internas.
+A Microsoft, como todas as outras organizações, lida com transferências e terminações de funcionários como parte de sua operação comercial normal. Quando um funcionário muda de posição ou sai da empresa, é essencial revogar o acesso inadequado em tempo hábil. Para facilitar alterações de acesso eficientes e revogações de acesso, a Microsoft usa procedimentos padronizados e processos automatizados para coordenar o HRIS (Sistema de Informações de Recursos Humanos) com o sistema de Gerenciamento de Identidade (IDM). A orquestração automatizada entre esses dois sistemas é essencial para manter a consistência operacional, proteger os serviços online e os dados da Microsoft, evitar o rebaixamento de privilégios e reduzir os riscos relacionados a ameaças internas.
 
-Microsoft 365 sistemas são projetados para operar sem acesso administrativo permanente a ambientes de produção para nossos engenheiros. A Microsoft usa um modelo Just-In-Time (JIT), Just-Enough-Access (JEA) para fornecer aos engenheiros o acesso temporário necessário para dar suporte ao serviço quando necessário. Para solicitar e usar uma conta de equipe de serviço para acesso JIT, os engenheiros devem solicitar e manter eligibilidades por meio da ferramenta IDM. Quando os funcionários são transferidos ou encerrados, a conta da equipe de serviço e as eligibilidades relacionadas são modificadas automaticamente para impedir o acesso inadequado.
+Os serviços online da Microsoft foram projetados para operar sem acesso administrativo permanente a ambientes de produção para nossos engenheiros. A Microsoft usa um modelo Just-In-Time (JIT), Just-Enough-Access (JEA) para fornecer aos engenheiros o acesso temporário necessário para dar suporte ao serviço quando necessário. Para solicitar e usar uma conta de equipe de serviço para acesso JIT, os engenheiros devem solicitar e manter eligibilidades por meio da ferramenta IDM. Quando os funcionários são transferidos ou encerrados, a conta da equipe de serviço e as eligibilidades relacionadas são modificadas automaticamente para impedir o acesso inadequado.
 
 ## <a name="transfer-and-reassignment"></a>Transferência e reatribuição
 

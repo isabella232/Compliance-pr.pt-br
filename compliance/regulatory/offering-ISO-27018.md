@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 319f51416b0bcafb17d8ac343093789146d13742
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 579e300213f15d6416b7c0c8f9d37668c9934faa
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497730"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384731"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>Código de Conduta ISO/IEC 27018 para Proteção de Dados Pessoais na Nuvem
 
@@ -33,7 +33,7 @@ Em 2014, a ISO adotou a ISO/IEC 27018:2014, um adendo à ISO/IEC 27001, o primei
 
 Microsoft e ISO/IEC 27018
 
-Pelo menos uma vez por ano, o Microsoft Azure e o Azure Alemanha são auditados em relação à conformidade com a ISO/IEC 27001 e ISO/IEC 27018 por um corpo de certificação terceirizado credenciado, fornecendo uma validação independente de que os controles de segurança pertinentes estão disponíveis e operando com eficácia. Como parte desse processo de verificação de conformidade, os auditores confirmaram em sua declaração de aplicabilidade que os serviços de suporte técnico comercial e os serviços de nuvem no escopo da Microsoft incorporaram os controles da ISO/IEC 27018 para proteção da PII no Azure. Para continuar compatíveis, os serviços de nuvem da Microsoft devem passar por reavaliações anuais de terceiros.
+Pelo menos uma vez por ano, o Microsoft Azure e o Azure Alemanha são auditados em relação à conformidade com a ISO/IEC 27001 e ISO/IEC 27018 por um corpo de certificação terceirizado credenciado, fornecendo uma validação independente de que os controles de segurança pertinentes estão disponíveis e operando com eficácia. Como parte desse processo de verificação de conformidade, os auditores confirmaram em sua declaração de aplicabilidade que os serviços de suporte técnico comercial e os serviços de nuvem no escopo da Microsoft incorporaram os controles da ISO/IEC 27018 para proteção da PII no Azure. Para continuar compatíveis, os serviços de nuvem da Microsoft devem passar por reavaliações anuais de terceiros.
 
 Seguindo os padrões da ISO/IEC 27001 e o código de prática incorporado na ISO/IEC 27018, a Microsoft (o primeiro grande provedor de nuvem a incorporar esse código de prática) demonstra que suas políticas e procedimentos de privacidade são robustos e alinhados com seus padrões elevados.
 
@@ -42,51 +42,58 @@ Seguindo os padrões da ISO/IEC 27001 e o código de prática incorporado na ISO
 - **Os clientes da Microsoft sabem o que acontece com as PII deles.** A ISO/IEC 27018 exige uma política que possibilite o retorno, a transferência e o descarte seguro de informações pessoais dentro de um período aceitável. Se a Microsoft trabalhar com outras empresas que precisem acessar seus dados de clientes, a Microsoft divulga as identidades desses subprocessadores de forma proativa.
 - **A Microsoft cumprirá apenas as solicitações de divulgação de dados de clientes obrigatórias por lei.** Se a Microsoft precisar atender a essa solicitação (como no caso de uma investigação criminal), sempre notificará o cliente, a menos que seja proibido por Lei.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
-- [Azure, Azure Governamental e Azure Alemanha](https://aka.ms/AzureCompliance)
+- Azure, Azure Government e Azure Alemanha
 - Azure DevOps Services
-- Segurança no aplicativo na nuvem da Microsoft
-- Dynamics 365, Dynamics 365 e Dynamics 365 Germany
+- [Dynamics 365, Dynamics 365 e Dynamics 365 Germany](https://aka.ms/d365-compliance-list)
+- Intune
+- Microsoft Cloud App Security
 - Serviços Profissionais da Microsoft: Premier e no Local para Azure, Dynamics 365, Intune e para clientes de médias empresas e corporativos do Microsoft 365 para empresas.
 - Microsoft Graph
 - Bot do Microsoft Healthcare
-- Intune
 - [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
-- Power Automate (anteriormente Microsoft Flow): serviço em nuvem como serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
-- [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Especialistas em ameaças da Microsoft
+- Microsoft Stream
+- Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense
 - Office 365 Alemanha
 - Mapa do serviço do OMS
-- Serviço de nuvem do PowerApps: como um serviço autônomo ou como incluído em um plano ou pacote do Office 365 ou Dynamics 365
+- Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
+- Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - Serviço de nuvem do Power BI: como um serviço autônomo ou como incluído em um plano ou pacote da marca do Office 365
 - Power BI incorporado
 - Agentes virtuais do Power
-- Especialistas em ameaças da Microsoft
-- Microsoft Stream
 - Microsoft Defender para Ponto de Extremidade: Resposta e Detecção do Ponto de Extremidade, Investigação e Correção Automática, Classificação de Segurança
 
-## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
+## <a name="azure-dynamics-365-and-iso-isoiec-27018"></a>Azure, Dynamics 365 e ISO ISO/IEC 27018
 
-### <a name="audit-cycle"></a>Ciclo de auditoria
+Para obter mais informações sobre o Azure, o Dynamics 365 e outros serviços de conformidade do serviços online, consulte [Oferta do SOC 27018 do Azure](/azure/compliance/offerings/offering-iso-27018).
+
+## <a name="office-365-and-iso-isoiec-27018"></a>Office 365 e ISO ISO/IEC 27018
+
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, Compliance Manager, Customer Lockbox, Delve, Exchange Online Protection, Exchange Online, Forms, Griffin, Identity Manager, Lockbox (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, Suplemento Avançado de Conformidade do Office 365, Portal do Cliente do Office 365, Microsserviços do Office 365 (incluindo, mas não limitado ao Kaizala, ObjectStore, Sway, PowerPoint Online Document Service, Query Annotation Service, School Data Sync, Siphon, Speech, StaffHub, eXtensible Application Program), Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, Infraestrutura de Serviços do Office, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Project Online, Criptografia de Serviço com Chave de Cliente, SharePoint Online, Skype for Business, Stream |
+| **GCC** | Azure Active Directory, Exchange Online, Flow, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Conformidade e Segurança do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **GCC Alta** | Azure Active Directory, Exchange Online, Flow, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Conformidade e Segurança do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Flow, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Conformidade e Segurança do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
 Os serviços de suporte técnico comercial e de nuvem da Microsoft são auditados uma vez ao ano de acordo em relação ao código de conduta da ISO/IEC 27018 como parte do processo de certificação do ISO/IEC 27001.
-
-### <a name="audits-and-reports"></a>Auditorias e relatórios
-
-- [Azure, Dynamics 365 e serviços online: certificação ISO27018](https://aka.ms/azureiso27018cert)
-- [Azure, Dynamics 365 e serviços online: relatório de avaliação ISO27018](https://aka.ms/azureiso27001report)
-- [Azure Alemanha: Código de prática ISO27018 para a proteção de dados pessoais no certificado em nuvem](https://servicetrust.microsoft.com/Documents/ComplianceReports?downloadDocument=1&documentId=6a0dab80-8382-4af6-980c-ed2ed9a341c6)
-
-### <a name="office-365"></a>Office 365
 
 - [Office 365: Relatório da avaliação de auditoria do ISO 27001, 27018 e 27017](https://aka.ms/o365isoreport)
 - [Relatório da avaliação de auditoria do ISO 27018 do Yammer](https://aka.ms/YammerISO27018Auditreport)
 
-### <a name="azure-devops-services"></a>Azure DevOps Services
-
-- [Serviços de DevOps do Azure: certificado ISO27018 PII 665918](https://go.microsoft.com/fwlink/p/?linkid=2062252)
-
-## <a name="frequently-asked-questions"></a>Perguntas frequentes
+### <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **A quem o ISO/IEC 27018 se aplica?**
 
@@ -101,21 +108,19 @@ No contexto da ISO/IEC 27018:
 
 **Onde posso ver as informações de conformidade da Microsoft com o ISO/IEC 27018?**
 
-- Você pode revisar os certificados ISO/IEC 27018 do BSI para [Azure](https://go.microsoft.com/fwlink/p/?linkid=2078016), [Microsoft Professional Services](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft%2bCorporation&licencenumber=PII%20642270) e [Power BI](https://go.microsoft.com/fwlink/p/?linkid=2078016).
-- Você também pode revisar os certificados ISO/IEC 27001 do BSI, no qual a certificação ISO/IEC 27018 se baseia no [Dynamics 365](https://aka.ms/Dynamics-CRM-Online-Cert), no [Office 365](https://aka.ms/Office365-Cert) e no [Azure DevOps Services](https://go.microsoft.com/fwlink/p/?linkid=2062159).
-- Para revisar os relatórios do BSI, o auditor independente que validou a conformidade da Microsoft com a ISO/IEC 27018, acesse o [Portal de Confiança do Serviço](https://aka.ms/stphelp).
+- Você pode examinar os certificados ISO/IEC 27018 da BSI (o auditor independente que validou a conformidade da Microsoft com ISO/IEC 27018) para o [Office 365](https://aka.ms/Office365-Cert).
 
 **Posso usar a conformidade da Microsoft no processo de certificação de minha organização?**
 
-Sim. Se a conformidade com a ISO/IEC 27018 for importante para a sua empresa e as implementações forem realizadas em qualquer um dos serviços de nuvem empresarial no escopo da Microsoft, use o atestado de conformidade da Microsoft com a ISO/IEC 27018 com a certificação da Microsoft para ISO/IEC 27001 em sua avaliação de conformidade.
+Sim. Se a conformidade com a ISO/IEC 27018 for importante para a sua empresa e as implementações forem realizadas em qualquer um dos serviços em nuvem empresarial no escopo da Microsoft, você pode usar o atestado de conformidade da Microsoft com a ISO/IEC 27018 com a certificação da Microsoft para ISO/IEC 27001 em sua avaliação de conformidade.
 
 Contudo, você é responsável por contratar um avaliador para analisar a conformidade de sua implementação e pelos controles e processos dentro de sua organização.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
 - [Código de conduta ISO/IEC 27018:2014](https://aka.ms/ISO.IEC_27018.2014)
 - [Estrutura de Conformidade do Microsoft Common Controls Hub](https://www.microsoft.com/trustcenter/common-controls-hub)

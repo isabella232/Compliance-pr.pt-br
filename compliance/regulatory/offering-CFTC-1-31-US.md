@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 85a8a27b1478ef3cecccd15a4f01bba563a5e1ef
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: ac17525d8368b61dfd00bfa765e5ee2d1533b3f6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087620"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385421"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>CfTC (Comissão de Negociação de Futuros de Mercadorias) Regra 1.31(c-d) Estados Unidos
 
@@ -45,7 +45,7 @@ Para avaliar a conformidade do Azure com a Regra CFTC 1.31(c-d), a Microsoft ret
 
 Para [requisitos do CFTC 1.31(c)-(d),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) a Cohasset validou que o Microsoft 365 inclui recursos de arquivamento que permitem que clientes regulamentados, incluindo operadores de agente, armazenem dados de maneira que os ajude a cumprir os requisitos da SEC para retenção de registros. Os recursos de retenção Microsoft 365 ajudam a preservar uma ampla variedade de dados, incluindo email, caixa postal, documentos compartilhados, mensagens instantâneas e dados de terceiros. Em particular, o arquivamento no Microsoft 365 permite aos clientes definir políticas de retenção de mensagens globais ou granulares para armazenar dados por um período definido e além em um formato não regravável e não-reescrita.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)

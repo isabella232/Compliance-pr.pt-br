@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f87b4d376c43db9d8524c200cd1fd86d2791b49
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: abded0cc92e49ed1c12eb44a3200ffdebed18b4f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089735"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385111"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Lei de Privacidade e Direitos Educacionais da Família (FERPA)
 
@@ -33,7 +33,7 @@ A lei se aplica a escolas, distritos escolares e qualquer outra instituição qu
 
 A segurança é central para a conformidade com a FERPA, que exige a proteção das informações dos alunos contra divulgações não autorizadas. As instituições educacionais que usam computação em nuvem precisam de garantias contratuais de que um fornecedor de tecnologia gerencia dados confidenciais de alunos adequadamente.
 
-## <a name="microsoft-and-ferpa"></a>Microsoft e (FERPA)
+## <a name="microsoft-and-ferpa"></a>Microsoft e FERPA
 
 A FERPA não exige ou reconhece auditorias ou outras certificações, portanto, qualquer instituição acadêmica sujeita à FERPA deve avaliar por si só se e como seu uso de um serviço de nuvem afeta sua capacidade de atender aos requisitos ferpa. No entanto, a Microsoft fez os seguintes compromissos contratuais que atestam sua conformidade:
 
@@ -43,23 +43,42 @@ A FERPA não exige ou reconhece auditorias ou outras certificações, portanto, 
 
 Como resultado desses compromissos contratuais, os clientes que estão sujeitos à FERPA — instituições educacionais e terceiros aos quais eles dão acesso a dados confidenciais de alunos — podem usar com confiança os serviços de nuvem empresariais da Microsoft no escopo para processar, armazenar e transmitir esses dados.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
 
 Os serviços para os quais a Microsoft concorda em ser designada como "funcionário da escola" com "interesses educacionais legítimos" nos dados do cliente incluem:
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI, PowerApps e Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou como incluído em um plano ou pacote de Office 365 de marca do Office 365
-- Azure DevOps Services
-- Microsoft Defender para Ponto de Extremidade
+- Office 365, Office 365 governo dos EUA, Office 365 governo dos EUA - Alta e Office 365 do governo dos EUA
 
-## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
+## <a name="azure-dynamics-365-and-ferpa"></a>Azure, Dynamics 365 e FERPA
+
+Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outros serviços online, consulte a oferta [do Azure FERPA](/azure/compliance/offerings/offering-ferpa).
+
+## <a name="office-365-and-ferpa"></a>Office 365 e FERPA
+
+### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento Conformidade Avançada do Office 365, Office 365 Cloud App Security, Office 365 Grupos, Office 365 Centro de Conformidade & segurança, vídeo Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, harePoint Online, Skype for Business, Stream |
+| **CCG Alto** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365, relatórios e certificados
 
 A FERPA não exige nem reconhece auditorias ou certificações.
 
-## <a name="frequently-asked-questions"></a>Perguntas frequentes
+### <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Por que a FERPA é importante?**
 
@@ -70,16 +89,14 @@ Esta lei federal dos EUA determina a proteção da privacidade dos registros de 
 - [Registro Federal: Regra Final do FERPA](https://aka.ms/ferpa-reg) (dezembro de 2011)
 - [Diretrizes gerais da FERPA para pais](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html)
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
 - [Lei de Privacidade e Direitos Educacionais da Família](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [Código Eletrônico de Regulamentos Federais: FERPA](https://aka.ms/FERPA-GPO)
 - [Registro Federal: Regra Final DO FERPA](https://aka.ms/ferpa-reg)
-- [Guia de implementação do FERPA para Microsoft Azure](https://aka.ms/azureferpa)
-- [Mapeamento da estrutura de conformidade do Azure FERPA](https://aka.ms/AzureFERPAMapping)
-- [Termos de Serviços Online da Microsoft](https://aka.ms/Online-Services-Terms)
+- [Termos do Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

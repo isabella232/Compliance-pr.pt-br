@@ -1,5 +1,5 @@
 ---
-title: Lei de Proteção de Dados Pessoais (PDPA) da Argentina
+title: Lei de Proteção de Dados Pessoais da Argentina (PDPA)
 description: Os serviços de nuvem comerciais da Microsoft obedecem às normas da PDPA para proteger a privacidade das informações pessoais.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119910"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385641"
 ---
-# <a name="personal-data-protection-act-pdpa-argentina"></a>Lei de Proteção de Dados Pessoais (PDPA) da Argentina
+# <a name="argentina-personal-data-protection-act-pdpa"></a>Lei de Proteção de Dados Pessoais da Argentina (PDPA)
 
 ## <a name="about-the-pdpa"></a>Sobre a PDPA
 
@@ -39,13 +39,27 @@ A Microsoft se compromete contratualmente, por meio dos [Termos do Microsoft Onl
 
 As medidas de segurança técnica e organizacional implementadas nos serviços de nuvem comerciais também suportariam outras regras da PDPA, como a proibição de qualquer uso secundário dos dados pessoais de um titular dos dados e a proibição de transferência de dados pessoais para países que não oferecem um nível adequado de proteção.
 
-O contrato de transferência de dados da Microsoft é um aditamento (Aditamento ID M314) aos termos de processamento de dados em nossos Termos do Online Services. Ele adiciona compromissos importantes, incluindo que a Microsoft notificará o cliente sobre qualquer solicitação juridicamente vinculativa de divulgação de dados pessoais; enviará suas instalações de processamento de dados para auditoria a pedido do cliente, seja pelo cliente ou por um terceiro independente; e solicitará consentimento prévio por escrito para o uso de subcontratados.
+O contrato de transferência de dados da Microsoft é um aditamento (ID do Aditamento M314) aos termos de processamento de dados em nosso Termos dos Serviços Online. Ele adiciona compromissos importantes, incluindo que a Microsoft notifica o cliente sobre qualquer solicitação legalmente vinculativa para divulgar dados pessoais; enviará suas instalações de processamento de dados para auditoria por solicitação do cliente pelo cliente ou por terceiros independentes; e obterá consentimento prévio por escrito para o uso de subcontratados.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure e Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-pdpa"></a>Office 365 e PDPA
+
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Proteção de Informações do Azure, Bookings, Exchange Online, Proteção do Exchange Online, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, Office 365 Cloud App Security, Grupos do Office 365, Vídeo do Office 365, Office Delve, OneDrive for Business, Planner, Power Apps, Power BI para Office 365, PowerApps, Power Automate, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>Como implementar
 
@@ -56,9 +70,9 @@ O contrato de transferência de dados da Microsoft é um aditamento (Aditamento 
 
 **Como o GDPR alterou a Lei de Proteção de Dados Pessoais?**
 
-No final de 2018, a Argentina ainda não havia aplicado os regulamentos relacionados ao GDPR, mas elaborou um novo projeto de lei de proteção de dados, já submetido ao Congresso pelo Poder Executivo e em revisão pela Câmara dos Deputados, para alinhar a lei de proteção de dados com o GDPR. Ele aborda diferenças como a definição de titulares de dados e preocupações com a transferência internacional de informações pessoais.
+No final de 2018, a Argentina ainda não promulgou regulamentos relacionados ao RGPD, mas redigiu um novo projeto de lei de proteção de dados — já enviado ao Governo pelo Poder Executivo e em revisão pela Casa dos Representantes — para colocar sua lei de proteção de dados em alinhamento com o RGPD. Ele aborda diferenças como a definição de entidades de dados e preocupações sobre a transferência entre fronteiras de informações pessoais.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
+## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 

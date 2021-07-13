@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 6e088f64d6b0113640100269b29ef31737befe92
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089010"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377948"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>RGPD para Servidor do Office Web Apps e Servidor do Office Online
 
@@ -80,7 +80,7 @@ Os logs do Office contêm vários tipos diferentes de dados. A seguir estão exe
 
 - Dados de desempenho do aplicativo e/ou recursos específicos do aplicativo
 
-- Informações gerais de localização sobre a localização do computador do usuário (por exemplo, país/região, estado e cidade, derivadas do endereço IP), mas não a localização geográfica precisa.
+- Informações gerais de localização sobre onde está o computador do usuário (por exemplo, país/região, estado e cidade, derivado do endereço de IP), mas não a localização geográfica precisa.
 
 - Metadados básicos sobre o navegador, por exemplo, nome e versão do navegador e o computador, por exemplo, tipo e versão do sistema operacional
 

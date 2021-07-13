@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef6b2fd3c7254251831b84fbfd3c4d5e1648f9c7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089715"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384941"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Programa Federal de Gerenciamento de Autorização e Risco)
 
@@ -47,53 +47,45 @@ Os serviços de nuvem governamentais da Microsoft, incluindo o Governo do Azure,
 
 Os serviços de nuvem do governo da Microsoft oferecem aos clientes do setor público uma rica matriz de serviços em conformidade com FedRAMP e ferramentas robustas de orientação e implementação, incluindo o plano [High fedRAMP](https://aka.ms/fedrampblueprint), que ajuda os clientes a implantar um conjunto principal de políticas para qualquer arquitetura implantada pelo Azure que deve implementar controles FedRAMP High.
 
-## <a name="microsoft-azure-p-atos"></a>Microsoft Azure P-ATOs
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
 
-O Azure e o Azure Government ganharam um P-ATO no Nível de Alto Impacto do Joint Authorization Board, a barra mais alta para a credenciamento fedRAMP, que autoriza o uso do Azure e do Azure Government para processar dados altamente confidenciais.
+- Azure e Azure Governamental
+- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
+- Intune
+- Office 365 Governo dos EUA, Office 365 governo dos EUA - Alta, Office 365 defesa do governo dos EUA
+- Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
 
-A auditoria fedRAMP do Azure e do Azure Government incluiu o sistema de gerenciamento de segurança da informação que abrange infraestrutura, desenvolvimento, operações, gerenciamento e suporte de serviços no escopo. Depois que um P-ATO é concedido, um CSP ainda requer uma autorização (um ATO) de qualquer agência governamental com a que ele trabalha. Para o Azure, uma agência governamental pode usar o Azure P-ATO em seu próprio processo de autorização de segurança e depender dele como base para a emissão de uma ATO de agência que também atenda aos requisitos fedRAMP.
+## <a name="azure-dynamics-365-and-fedramp"></a>Azure, Dynamics 365 e FedRAMP
 
-O Azure continua a dar suporte a mais serviços em níveis de Alto Impacto fedRAMP do que qualquer outro provedor de nuvem. Enquanto o FedRAMP High na nuvem pública do Azure atenderá às necessidades de muitos clientes do governo dos EUA, as agências com requisitos mais rigorosos continuarão a depender do Azure Government, que fornece proteções adicionais, como a triagem apurada de funcionários. A Microsoft lista todos os serviços públicos do [Azure](/azure/azure-government/compliance/azure-services-in-fedramp-auditscope#azure-public-services-by-audit-scope) atualmente disponíveis no Azure Government para o Limite Alto fedRAMP, bem como serviços planejados para o ano atual.
+Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e de outros serviços online, consulte a oferta [fedRAMP do Azure](/azure/compliance/offerings/offering-fedramp).
 
-## <a name="microsoft-dynamics-365-us-government-ato"></a>ATO do Governo dos EUA do Microsoft Dynamics 365
-
-O Dynamics 365 U.S. Government recebeu uma AGÊNCIA FEDRAMP ATO no Nível de Alto Impacto pelo Departamento de Habitação e Desenvolvimento Urbano (HUD) dos EUA. Embora o escopo da certificação seja limitado ao Nuvem da Comunidade Governamental, os planos corporativos e corporativos do Dynamics 365 U.S. operam seguindo o mesmo conjunto de controles FedRAMP rigorosos.
-
-## <a name="microsoft-office-365-and-office-365-us-government-atos"></a>Microsoft Office 365 e Office 365 ATOs do governo dos EUA
+## <a name="office-365-and-fedramp"></a>Office 365 e FedRAMP
 
 - Office 365 e Office 365 eua têm um ATO do Departamento de Saúde e Serviços Humanos dos EUA (DHHS).
 - Office 365 A Defesa do Governo dos EUA tem um P-ATO da DISA (Agência de Sistemas de Informações de Defesa dos EUA). Qualquer cliente que deseje implantar Office 365 defesa governamental dos EUA pode usar o DISA P-ATO para gerar uma ato de agência para documentar sua aceitação.
 - Office 365 (planos corporativos e corporativos) e Office 365 governo dos EUA têm uma Agência FEDRAMP ATO no Nível de Impacto Moderado do DHHS Office do Inspetor Geral. Office 365 O Governo dos EUA foi o primeiro serviço de colaboração e email baseado em nuvem a obter essa autorização.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
 
-- [Azure e Azure Governamental](https://go.microsoft.com/fwlink/p/?linkid=2095323)
-- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
-- Intune
-- [Office 365 e Office 365 governança dos EUA](https://go.microsoft.com/fwlink/p/?linkid=2077751)
-- Office 365 U.S. Government Defense
-- Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
-- Microsoft Defender ATP
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-> [!NOTE]
-> O uso de Azure Active Directory no Azure Government exige o uso de componentes implantados fora do Azure Government na nuvem pública do Azure.
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
 
-## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
+Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **GCC** | Serviço de Feed de Atividades, Serviços Bing, Delve, Exchange Online, Proteção do Exchange Online, Infraestrutura, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **CCG Alto** | Serviço de Feed de Atividades, serviços Bing, Exchange Online, Proteção do Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **DoD** | Serviço de Feed de Atividades, serviços Bing, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente do Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365, relatórios e certificados
 
 A Microsoft tem a obrigação de certificar novamente seus serviços de nuvem todos os anos para manter os P-ATOs e ATOs. Para fazer isso, a Microsoft deve monitorar e avaliar seus controles de segurança continuamente e demonstrar que a segurança de seus serviços permanece em conformidade.
 
-- [Autorizações fedRAMP de serviços de nuvem da Microsoft</span>](https://marketplace.fedramp.gov/#/product/azure-government?sort=productName&productNameSearch=azure)
-- [Relatórios de auditoria do Microsoft FedRAMP</span>](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
+- [Relatórios de auditoria do Microsoft FedRAMP](https://aka.ms/MicrosoftFedRAMPAuditDocuments)  
 
-Para receber outros relatórios fedRAMP, envie emails para [a Documentação Federal do Azure.](mailto:AzFedDoc@microsoft.com)
-
-## <a name="quickly-deploy-your-fedramp-solutions-on-azure-government"></a>Implantar rapidamente suas soluções fedRAMP no Azure Government
-
-Deixe a Microsoft orientá-lo sobre o processo ATO e implantar rapidamente suas soluções FedRAMP usando o plano High fedRAMP, que ajuda os clientes a implementar um conjunto principal de políticas para qualquer arquitetura implantada pelo Azure que deve implementar controles FedRAMP High.
-
-[Comece a usar o Plano Alto fedRAMP do Azure](https://aka.ms/fedrampblueprint)
-
-## <a name="frequently-asked-questions"></a>Perguntas frequentes
+### <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Os serviços de nuvem da Microsoft estão em conformidade com a Lei Federal de Gerenciamento de Segurança da Informação (FISMA)?**
 
@@ -111,14 +103,13 @@ Para obter uma visão geral das etapas que as agências federais devem seguir pa
 
 Sim. Você pode usar as certificações dos serviços de nuvem da Microsoft como base para qualquer programa ou iniciativa que exija um ATO de uma agência governamental federal. No entanto, você precisa obter suas próprias autorizações para componentes fora desses serviços.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
 - [Programa Federal de Gerenciamento de Riscos e Autorizações](https://www.fedramp.gov/)
 - [Estrutura de Avaliação de Segurança fedRAMP](https://www.fedramp.gov/assets/resources/documents/FedRAMP_Security_Assessment_Framework.pdf)
 - [Gerenciando a conformidade na nuvem na Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2087246)
-- [Ofertas de conformidade do Azure](https://aka.ms/azurecompliance)

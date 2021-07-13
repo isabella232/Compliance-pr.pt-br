@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ab0e70a9dab9b1f98351556dcdf4ae597e362b64
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 9080474699eae7e65d8df86638a9250ec7127585
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088910"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385671"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>CSF (National Institute of Standards and Technology) Cybersecurity Framework (CSF)
 
@@ -42,35 +42,41 @@ Saiba como acelerar a implantação da Estrutura de Segurança Cibernética do N
 - [Visão geral do exemplo de projeto do NIST SP 800-53 R4](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [Saiba mais sobre a avaliação CSF do NIST para Office 365 na Pontuação de Conformidade](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
 
-- [Governo do Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365 for Government](https://aka.ms/d365-compliance-list)
-- [Office 365 e Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Governo do Azure
+- Dynamics 365 for Government
+- Office 365
 
-## <a name="audit-cycle-and-certification"></a>Ciclo de auditoria e certificação
+## <a name="azure-dynamics-365-and-nist-csf"></a>Azure, Dynamics 365 e NIST CSF
+
+Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outros serviços online, consulte a oferta [CSF do Azure NIST](/azure/compliance/offerings/offering-nist-csf).
+
+## <a name="office-365-and-nist-csf"></a>Office 365 e NIST CSF
+
+### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Serviço de Feed de Atividades, Serviços Bing, Delve, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, Infraestrutura de Serviço Office, Relatórios de Uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+
+### <a name="office-365-audit-cycle-and-certification"></a>Office 365 e certificação de auditoria
 
 A certificação CSF NIST de Office 365 é válida por dois anos.
 
 - [Office 365 Carta de certificação CSF do NIST](https://aka.ms/O365NISTCSFcertification)
 
-## <a name="quickly-build-nist-csf-solutions-on-azure"></a>Criar soluções CSF NIST rapidamente no Azure
+### <a name="frequently-asked-questions"></a>Perguntas frequentes
 
-O padrão CSF (Estrutura de Segurança Cibernética do NIST) pode ser desafiador na nuvem. Felizmente, com o Azure, você terá um head start no Azure Security and Compliance NIST CSF Blueprint. Este modelo fornece ferramentas e orientações para começar a criar soluções compatíveis com NIST CSF hoje.
+**Um avaliador independente validou se o Office 365 oferece suporte aos requisitos CSF NIST?**
 
-- [Comece a usar o modelo CSF do Azure NIST](https://aka.ms/Azure-Blueprint-DoD-NIST)
-
-## <a name="perform-risk-assessment-on-office-365-using-nist-csf-in-compliance-score"></a>Executar a avaliação de risco Office 365 usando o CSF NIST na Pontuação de Conformidade
-
-A segurança cibernética permanece um problema crítico de gerenciamento na era da transformação digital. Para ajudá-lo a implementar e verificar controles de segurança para seu locatário Office 365, a Microsoft fornece ações recomendadas do cliente na Avaliação CSF NIST na Pontuação de Conformidade.
-
-- [Começar a usar a Pontuação de Conformidade](/microsoft-365/compliance/compliance-manager)
-
-## <a name="frequently-asked-questions"></a>Perguntas frequentes
-
-**Um avaliador independente validou que o Azure Government, o Dynamics 365 e o Office 365 suportam requisitos de CSF NIST?**
-
-Sim, uma organização de avaliação de terceiros atestou que a oferta do serviço de nuvem do Azure Government está em conformidade com as práticas de gerenciamento de riscos da Estrutura de Segurança Cibernética do NIST (CSF), conforme definido no Framework for Improving Critical Infrastructure Cybersecurity, Versão 1.0, datada de 12 de fevereiro de 2014. O CSF NIST é mapeado para a estrutura de controles Moderados fedRAMP e um assessor independente avalia o Dynamics 365 em relação à linha de base Moderada fedRAMP. Além disso, Office 365 a carta de certificação [CSF NIST](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) da HITRUST em julho de 2019.
+Sim, Office 365 a carta de certificação [CSF NIST](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports) da HITRUST em julho de 2019.
 
 **Como o Microsoft Cloud Services demonstra a conformidade com a estrutura?**
 
@@ -78,7 +84,7 @@ Usando os relatórios de auditoria formais preparados por terceiros para a crede
 
 **Quais são as responsabilidades da Microsoft para manter a conformidade com essa iniciativa?**
 
-A participação na FICIC é voluntária. No entanto, a Microsoft garante que o Azure, Office 365 e o Dynamics 365 atendem aos termos definidos nos Termos de Serviços Online e contratos de nível de serviço aplicáveis. Eles definem a responsabilidade da Microsoft de implementar e manter controles adequados para proteger a plataforma do Azure e monitorar o sistema.
+A participação na FICIC é voluntária. No entanto, a Microsoft garante Office 365 os termos definidos nos Termos de Serviços Online e contratos de nível de serviço aplicáveis.
 
 **Posso usar a conformidade da Microsoft para minha organização?**
 
@@ -88,22 +94,15 @@ Sim. Os relatórios de conformidade independentes de terceiros para os padrões 
 
 De acordo com o Departamento de Segurança nacional [,](https://www.dhs.gov/critical-infrastructure-sectors)eles incluem organizações nos seguintes setores: Produtos Químicos, Instalações Comerciais, Comunicações, Fabricação Crítica, Barragens, Base Industrial de Defesa, Serviços de Emergência, Energia, Serviços Financeiros, Alimentação e Agricultura, Instalações Governamentais, Saúde e Saúde Pública, Tecnologia da Informação, Materiais e Desperdícios de Proa ressaltados, Sistemas de Transporte e Água (e Lixo).
 
-**Quais são os serviços no escopo para Office 365?**
-
-Os serviços no escopo da certificação CSF NIST são Arquivamento do Exchange Online, Proteção do Exchange Online, Exchange Online, Skype for Business, Centro de Administração, SharePoint Online, Project Online, OneDrive for Business, Office Online, MyAnalytics, Microsoft Teams, Microsoft 365 Apps para Grandes Empresas em Office 365 nuvem multi locatário e Office 365 GCC.
-
-> [!NOTE]
-> Microsoft 365 Apps para Grandes Empresas permite o acesso a vários serviços de nuvem, como roaming Configurações, licenciamento e OneDrive armazenamento em nuvem do consumidor, e pode permitir o acesso a serviços de nuvem adicionais no futuro. O roaming Configurações e o Licenciamento suportam os padrões para HITRUST. OneDrive armazenamento em nuvem do consumidor não e outros serviços de nuvem acessíveis por meio do Microsoft 365 Apps para Grandes Empresas e que a Microsoft pode oferecer no futuro também pode não dar suporte a esses padrões.*
-
 **Por que alguns Office 365 serviços não estão no escopo dessa certificação?**
 
 A Microsoft fornece as ofertas mais abrangentes em comparação com outros provedores de serviços de nuvem. Para acompanhar nossas amplas ofertas de conformidade entre regiões e setores, incluímos serviços no escopo de nossos esforços de garantia com base na demanda de mercado, feedback do cliente e ciclo de vida do produto. Se um serviço não estiver incluído no escopo atual de uma oferta de conformidade específica, sua organização terá a responsabilidade de avaliar os riscos com base em suas obrigações de conformidade e determinar a maneira como você processa dados nesse serviço. Coletamos continuamente comentários dos clientes e trabalhamos com reguladores e auditores para expandir nossa cobertura de conformidade para atender às suas necessidades de segurança e conformidade.
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
-## <a name="resources"></a>Recursos
+### <a name="resources"></a>Recursos
 
 - [Autorizações do Microsoft Cloud Services](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
 - [Mapeamento das Ofertas Cibernéticas da Microsoft para: CSF (Estrutura de Segurança Cibernética do NIST), Controles CIS, ISO27001:2013 e CSF HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2074025)

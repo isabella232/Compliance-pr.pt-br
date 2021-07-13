@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: eb609f081f3f2aeb182bfe7a24327ebc89513a9c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 711cbafddaa6fbdff4050b138edacbd399666ef3
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496308"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377778"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>Avaliação de impacto de proteção de dados do GDPR
 
@@ -43,7 +43,7 @@ O GDPR exige que os controladores preparem uma avaliação de impacto de proteç
 
 ## <a name="dpia-in-action"></a>DPIA em ação
 
-As diretrizes DPIA se aplicam ao Office 365, ao Azure, ao Dynamics 365 e a suporte da Microsoft e a serviços profissionais. Essas diretrizes incluem considerações sobre:
+As diretrizes de DPIA se aplicam ao Office 365, ao Azure, ao Dynamics 365 e Suporte da Microsoft e aos Serviços Profissionais. Essa orientação inclui a consideração de:
 
 **Quando um DPIA é necessário?**
 
@@ -53,11 +53,11 @@ Os fatores de risco listados abaixo devem ser resolvidos quando se avaliam se de
 - Processamento em grande escala de categorias especiais de dados pessoais (os dados revelam informações de forma exclusiva, identificando uma pessoa natural) ou de dados relacionados a condenações e delitos penais.
 - Monitoramento sistemático de uma área de acesso público em grande escala.
 
-O GDPR esclarece que: “O processamento de dados pessoais não deve ser considerado em grande escala se o processamento se referir a dados pessoais de pacientes ou clientes por um médico individual, outro profissional da saúde ou advogado. Nesses casos, a avaliação de impacto sobre a proteção dos dados não deve ser obrigatória.”
+O GDPR esclarece "O processamento de dados pessoais não deve ser considerado em grande escala se o processamento se referir a dados pessoais de pacientes ou clientes por um médico individual, outro profissional de saúde ou advogado. Nesses casos, uma avaliação de impacto da proteção de dados não deve ser obrigatória.'
 
 **O que é necessário para concluir um DPIA?**
 
-Um DPIA deve fornecer informações específicas sobre o processamento desejado, que é detalhado na parte 2 das instruções. Essas informações incluem:
+Um DPIA deve fornecer informações específicas sobre o processamento desejado, que é detalhado na parte 2 das instruções:
 
 - Avaliação da necessidade e da proporcionalidade das operações de processamento em relação aos propósitos.  
 - Uma avaliação dos riscos aos direitos e às liberdades dos indivíduos.
@@ -77,6 +77,7 @@ Abaixo, detalhes específicos que podem ser relevantes para a implementação da
 - [Office 365](gdpr-dpia-office365.md): Este documento se aplica aos aplicativos e serviços do Office 365, incluindo o, mas não se limitando ao Exchange Online, SharePoint Online, Yammer, Skype for Business e Power BI. Confira as tabelas[1](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed) e [2](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia) para obter mais detalhes.  
 - [Azure](gdpr-dpia-azure.md): Aconselhamos os clientes a trabalhar com os agentes de privacidade e de aconselhamento jurídico para determinar a necessidade e conteúdo de qualquer DPIAs relacionada ao uso do Microsoft Azure.  
 - [Dynamics 365](gdpr-dpia-dynamics.md): o conteúdo de um DPIA pode variar de acordo com as ferramentas Dynamics 365 que você está utilizando. Para obter detalhes específicos, consulte [Parte 2 do conteúdo de um DPIA](/microsoft-365/compliance/gdpr-dpia-dynamics#part-2--contents-of-a-dpia).
+- [Windows](/compliance/regulatory/gdpr-dpia-windows): este documento se aplica à configuração dos [dados de diagnóstico do Windows processador](/windows/privacy/configure-windows-diagnostic-data-in-your-organization). Os clientes são incentivados a trabalhar com seus agentes de privacidade e consultores legais para determinar a necessidade e o conteúdo de qualquer DPIA relacionada ao uso da configuração do dados de diagnóstico do Windows processador.
 - [Suporte da Microsoft e serviços profissionais](gdpr-dpia-prof-services.md)os serviços profissionais não realizam determinadas rotinas ou o processamento de dados automático, nem se destina a processar categorias especiais ou executar tarefas que facilitem ou exijam o monitoramento de dados acessíveis publicamente. Para mais informações, confira [Parte 1 — Determinar se a DPIA é necessária](/microsoft-365/compliance/gdpr-dpia-prof-services#part-1--determining-whether-a-dpia-is-needed). Os controladores devem considerar os elementos do DPIA descritos acima, juntamente com outros fatores relevantes, no contexto das implementações específicas do controlador e do uso de serviços profissionais. Para obter informações sobre serviços profissionais, consulte[Part 2 — conteúdo de um DPIA](/microsoft-365/compliance/gdpr-dpia-prof-services#part-2--contents-of-a-dpia).
 
 ## <a name="learn-more"></a>Saiba mais

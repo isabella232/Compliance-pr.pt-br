@@ -1,6 +1,6 @@
 ---
-title: 'Gerenciamento de incidentes de segurança do Microsoft 365: contenção, erradicação e recuperação'
-description: Este artigo fornece uma visão geral do processo de contenção, erradicação e recuperação de gerenciamento de incidentes de segurança no Microsoft 365.
+title: 'Gerenciamento de incidentes de segurança da Microsoft: contenção, erradicação e recuperação'
+description: Este artigo fornece uma visão geral do processo de contenção, erradicação e recuperação de gerenciamento de incidentes de segurança nos serviços online da Microsoft.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,16 +19,16 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 7fff9c1909f0acd076945e3d569b143fe2324c0f
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 95e52107df2f3e745d393c62929f7c169bcf9a33
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496726"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377548"
 ---
-# <a name="microsoft-365-security-incident-management-containment-eradication-and-recovery"></a>Gerenciamento de incidentes de segurança do Microsoft 365: contenção, erradicação e recuperação
+# <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Gerenciamento de incidentes de segurança da Microsoft: contenção, erradicação e recuperação
 
-Com base na análise realizada pela equipe de Resposta de Segurança do Microsoft 365, a equipe de serviço e outros, um plano de contenção e recuperação apropriado é desenvolvido para minimizar o efeito do incidente de segurança. Em seguida, as equipes de serviço apropriadas aplicam esse plano em produção com suporte da equipe de Resposta de Segurança do Microsoft 365.
+Com base na análise realizada pela equipe de resposta à segurança, a equipe de serviço e outras, um plano de recuperação e contenção apropriado é desenvolvido para minimizar o efeito do incidente de segurança. Em seguida, as equipes de serviço apropriadas aplicam esse plano em produção com suporte da equipe de resposta de segurança.
 
 ## <a name="containment"></a>Contenção
 
@@ -41,23 +41,25 @@ A erradicação é o processo de eliminação da causa raiz do incidente de segu
 - para despejar completamente o adversário do ambiente
 - para atenuar a vulnerabilidade (se conhecida) que habilitada ou poderia permitir que o adversário reentra no ambiente.
 
-Dependendo da natureza do incidente, do escopo do incidente de segurança, da profundidade da penetração e das possíveis consequências, a equipe de Resposta de Segurança do Microsoft 365 recomendará que as equipes de serviço adotem técnicas de erradicação. Considerando o impacto comercial potencial que pode ser causado por essas etapas de erradicação, essas decisões serão tomadas pelas equipes de serviço e pela equipe de Resposta de Segurança do Microsoft 365 após uma análise detalhada e aprovação do Gerente de Incidentes Executivo (se necessário).
+Dependendo da natureza do incidente, do escopo do incidente de segurança, da profundidade da penetração e das possíveis consequências, a equipe de resposta de segurança recomendará que as equipes de serviço adotem técnicas de erradicação. Considerando o impacto comercial potencial que pode ser causado por essas etapas de erradicação, essas decisões serão tomadas pelas equipes de serviço e pela equipe de resposta de segurança após uma análise detalhada e aprovação do Gerente executivo de Incidentes (se necessário).
 
 ## <a name="recovery"></a>Recuperação
 
-À medida que a equipe de resposta obtém um nível razoável de confiança de que o adversário foi despejado do ambiente e todos os caminhos vulneráveis conhecidos foram eliminados, as equipes de serviço individuais iniciarão etapas de restauração para trazer o serviço para uma configuração conhecida e boa. Essas etapas de restauração estarão em consulta com a equipe de Resposta de Segurança do Microsoft 365. Essa atividade inclui identificar o último estado bom conhecido do serviço, restaurar de backups para esse estado, inspecionar caminhos de ataque vulneráveis no estado restaurado, etc. A equipe de Resposta de Segurança do Microsoft 365, em consulta com as equipes de serviço, determinará o melhor plano de recuperação possível para o ambiente.
+À medida que a equipe de resposta obtém um nível razoável de confiança de que o adversário foi despejado do ambiente e todos os caminhos vulneráveis conhecidos foram eliminados, as equipes de serviço individuais iniciarão etapas de restauração para trazer o serviço para uma configuração conhecida e boa. Essas etapas de restauração estarão em consulta com a equipe de resposta à segurança. Essa atividade inclui identificar o último estado bom conhecido do serviço, restaurar de backups para esse estado, inspecionar caminhos de ataque vulneráveis no estado restaurado, etc. A equipe de resposta de segurança, em consulta com as equipes de serviço, determinará o melhor plano de recuperação possível para o ambiente.
 
 Um aspecto importante para a recuperação é ter a segurança e os controles aprimorados para validar que o plano de recuperação foi executado com êxito e que não existem sinais de violação no ambiente.
 
 ## <a name="customer-notification-of-security-incident"></a>Notificação do cliente de incidente de segurança
 
-Se a Microsoft determinar que ocorreu um incidente de segurança, notificaremos você com atraso indevido, e dentro dos requisitos contratuais e de conformidade que fizemos acordo. Depois de identificar todos os locatários afetados, a equipe de Comunicações da Experiência do Cliente (CxP) do Microsoft 365 trabalha para identificar quaisquer regulamentações relevantes que possam se aplicar aos locatários afetados. A equipe de Comunicações CxP do Microsoft 365 usa o canal de comunicação apropriado definido nos regulamentos aplicáveis para notificar o contato de locatário apropriado.
+Se a Microsoft determinar que ocorreu um incidente de segurança, notificaremos você com atraso indevido, e dentro dos requisitos contratuais e de conformidade que fizemos acordo. Depois de identificar todos os locatários afetados, a equipe de comunicações correspondente trabalha para identificar quaisquer regulamentos relevantes que possam se aplicar aos locatários afetados. A equipe de comunicações usa o canal de comunicação apropriado definido nos regulamentos aplicáveis para notificar o contato de locatário apropriado.
 
-A notificação incluirá informações detalhadas sobre o incidente, como uma descrição do incidente, o efeito sobre os dados do cliente, se for o caso, ações tomadas pela Microsoft e/ou ações sugeridas para os clientes tomarem para resolver o problema e evitar a recorrência. A notificação será entregue aos administradores designados do locatário do Microsoft 365. Para garantir que as notificações sejam recebidas, você deve garantir que seus administradores forneçam e mantenham informações de contato precisas em seus perfis de locatário. Além disso, dependendo da natureza do incidente, os clientes também podem ser notificados por meio do Painel de Saúde do Serviço do Microsoft 365.[](http://status.yammer.com/)
+A notificação incluirá informações detalhadas sobre o incidente, como uma descrição do incidente, o efeito sobre os dados do cliente, se for o caso, ações tomadas pela Microsoft e/ou ações sugeridas para os clientes tomarem para resolver o problema e evitar a recorrência. A notificação será entregue aos administradores designados do locatário de serviços online da Microsoft. Para garantir que as notificações sejam recebidas, você deve garantir que seus administradores forneçam e mantenham informações de contato precisas em seus perfis de locatário. Além disso, dependendo da natureza do incidente, os clientes Microsoft 365 também podem ser notificados por meio do Painel de Microsoft 365 [de Saúde do Serviço.](http://status.yammer.com/)
 
 ## <a name="related-articles"></a>Artigos relacionados
 
-- [Gerenciamento de incidentes do Centro de segurança do Microsoft 365](assurance-security-incident-management.md)
-- [Preparação do gerenciamento de incidentes de segurança do Microsoft 365](assurance-sim-preparation.md)
-- [Análise e detecção de gerenciamento de incidentes de segurança do Microsoft 365](assurance-sim-detection-analysis.md)
-- [Atividade pós-incidente de gerenciamento de incidentes de segurança do Microsoft 365](assurance-sim-post-incident-activity.md)
+- [Gerenciamento de incidentes de segurança da Microsoft](assurance-security-incident-management.md)
+- [Gerenciamento de incidentes de segurança da Microsoft: Preparação](assurance-sim-preparation.md)
+- [Gerenciamento de incidentes de segurança da Microsoft: Detecção e análise](assurance-sim-detection-analysis.md)
+- [Gerenciamento de incidentes de segurança da Microsoft: atividade pós-incidente](assurance-sim-post-incident-activity.md)
+- [Como registrar um tíquete de suporte a eventos de segurança](/azure/security/fundamentals/event-support-ticket)
+- [Notificação de Violação do Azure e do Dynamics 365 no GDPR](/compliance/regulatory/gdpr-breach-azure-dynamics)

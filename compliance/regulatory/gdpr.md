@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 69c81b78e5107055c7760a99842468210eec70da
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 5543a8077ae0f5ff344a3f8f7cafbb2c778e7a5d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51495797"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377928"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumo do Regulamento Geral sobre a Proteção de Dados
 
@@ -102,7 +102,7 @@ Precisamos implementar as medidas técnicas e organizacionais apropriadas para a
 
 **Onde posso encontrar as informações relacionadas ao RGPD para servidores locais?**
 
-Você pode encontrar uma série de artigos relacionados a RGPD. Produzidos pela Microsoft, eles fornecem abordagens recomendadas para a carga de trabalho local para o SharePoint Server, o Exchange Server, o Project Server, o servidor do Office Web Apps, o Office Online Server e os compartilhamentos de arquivos locais.
+Você pode encontrar uma série de artigos relacionados a RGPD aqui. Produzidos pela Microsoft, eles fornecem abordagens recomendadas para a carga de trabalho local para o SharePoint Server, o Exchange Server, o Project Server, o servidor do Office Web Apps, o Servidor do Office Online e os compartilhamentos de arquivos locais.
 
 **Como a Microsoft permite que você responda a solicitações de entidades de dados?**
 
@@ -128,7 +128,7 @@ O RGPD exige que um DPIA inclua:
 
 **Quais são minhas responsabilidades como Controlador?**
 
-Segundo o GDPR, como controlador, é necessário que você realize DPIAs antes de práticas de processamento de dados que provavelmente resultarão em um alto risco aos direitos e às liberdades dos indivíduos, em particular, o processamento com o uso de novas tecnologias. O GDPR fornece a seguinte lista não exaustiva de casos em que DPIAs devem ser realizadas:
+Segundo o RGPD, como controlador, é necessário que você realize DPIAs antes de práticas de processamento de dados que provavelmente resultarão em um alto risco aos direitos e às liberdades dos indivíduos, em particular, o processamento com o uso de novas tecnologias. O RGPD fornece a seguinte lista não exaustiva de casos em que DPIAs devem ser realizadas:
 
 - Processamento automatizado para fins de criação de perfis e atividades semelhantes que tenham efeitos legais ou que, de modo semelhante, afetem significativamente os titulares dos dados;  
 - Processamento em grande escala de categorias especiais de dados pessoais - dados que revelam origem racial ou étnica, opinião política e similares - ou de dados relacionados a condenações e ofensas criminais;  
@@ -193,7 +193,7 @@ Sim. O RGPD exige que os controladores (por exemplo, organizações que usam os 
 
 **Como a Microsoft me ajuda a consentir?**
 
-A Microsoft fornece ferramentas e documentação para dar suporte à sua responsabilidade ao RGPD. Isso inclui suporte para Direitos de Dados, realização de suas próprias Avaliações do Impacto sobre a Proteção dos Dados e trabalho em conjunto para resolver violações de dados pessoais.
+A Microsoft fornece ferramentas e documentação para dar suporte à sua responsabilidade ao RGPD. Isso inclui suporte para Direitos do Titular de Dados, realização de suas próprias Avaliações de Impacto da Proteção dos Dados e trabalho conjunto para resolver violações de dados pessoais.
 
 **Quais compromissos estão nos termos RGPD?**
 
@@ -260,7 +260,7 @@ As empresas podem ser multadas em até &euro;20m ou 4% do faturamento global anu
 
 **Minha empresa precisa indicar um DPO (Diretor de Proteção de Dados)?**
 
-Isso depende de vários fatores identificados dentro da regulamentação. O artigo 37 da RGPD afirma que os controladores e os processadores devem designar um diretor de proteção de dados em qualquer caso em que: (a) o processamento tenha sido feito por uma autoridade pública ou corpo, exceto por tribunais atuando em sua capacidade judicial; (b) as principais atividades do controlador ou do processador consiste em operações de processamento que, em virtude da natureza, do escopo e/ou de seus propósitos, exigem o monitoramento regular e sistemático dos assuntos de dados em uma grande escala; ou (c) as principais atividades do controlador ou processador consistem em processamento em uma grande escala de categorias especiais de dados, de acordo com o artigo 9 e dados pessoais relacionados a condenações e infrações penais referidas no artigo 10.
+Isso depende de vários fatores identificados dentro da regulamentação. O Artigo 37 da RGPD afirma que os controladores e os processadores devem designar um diretor de proteção de dados em qualquer caso em que: (a) o processamento tenha sido feito por uma autoridade pública ou corpo, exceto por tribunais atuando em sua capacidade judicial; (b) as principais atividades do controlador ou do processador consiste em operações de processamento que, em virtude da sua natureza, do seu escopo e/ou de seus propósitos, exigem o monitoramento regular e sistemático dos titulares de dados em uma grande escala; ou (c) as principais atividades do controlador ou processador consistem em processamento em uma grande escala de categorias especiais de dados, de acordo com o Artigo 9 e dados pessoais relacionados a condenações e infrações penais referidas no Artigo 10.
 
 **Quanto custará atender à conformidade com o RGPD?**
 
@@ -268,7 +268,7 @@ Atender a conformidade com o RGPD custará tempo e dinheiro para a maioria das o
 
 **Como faço para saber se os dados que a minha organização está processando são cobertos pelo RGPD?**
 
-O RGPD regula o conjunto, armazenamento, uso e compartilhamento de "dados pessoais". Os dados pessoais são definidos em linhas gerais no RGPD como todos os dados relacionados a uma pessoa física identificada ou identificável.
+O RGPD regulamenta a coleta, armazenamento, uso e compartilhamento de "dados pessoais". Os dados pessoais são definidos amplamente no RGPD como dados relacionados a uma pessoa física identificada ou identificável.
 
 Os dados pessoais podem incluir, mas não se limitam a identificadores online (por exemplo, endereços de IP), informações de funcionários, bancos de dados de vendas, dados de atendimento ao cliente, formulários de comentários do cliente, dados de localização, dados biométricos, imagens de CCTV, registros de esquemas de fidelidade, informações de saúde e financeiras e muito mais. Pode inclusive incluir informações que não parecem ser pessoais, como uma foto de um paisagem sem pessoas, onde essas informações são vinculadas por um número de conta ou código exclusivo a uma pessoa identificável. E mesmo dados pessoais que foram pseudonimizados podem ser dados pessoais se o pseudônimo puder ser vinculado a um indivíduo em particular.
 
@@ -299,7 +299,7 @@ Os dados pessoais são quaisquer informações relacionadas a uma pessoa, identi
 - Número de contribuinte
 - Endereço comercial
 - Números de cartão de crédito/débito
-- Postagens em redes sociais
+- Postagens em mídia social
 - Endereço IP (região da UE)
 - Dados de localização/GPS
 - Cookies

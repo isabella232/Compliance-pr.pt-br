@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 35c24da993fd40cd787650389ab8324eca1cf828
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5db72902615eef26b45b5d4eeaa52132ee3703b1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089534"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385021"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>FinRA (Autoridade Regulatória do Setor Financeiro) Regra 4511(c) Estados Unidos
 
@@ -51,7 +51,7 @@ Os provedores de software e parceiros com cargas de trabalho confidenciais agora
 
 Para os requisitos da Regra [FINRA 4511(c),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) a Cohasset validou que o Microsoft 365 inclui recursos de arquivamento que permitem que clientes regulamentados, incluindo corretores, armazenem dados de maneira que os ajude a cumprir os requisitos da SEC para retenção de registros. Os recursos de retenção Microsoft 365 ajudam a preservar uma ampla variedade de dados, incluindo email, caixa postal, documentos compartilhados, mensagens instantâneas e dados de terceiros. Em particular, o arquivamento no Microsoft 365 permite aos clientes definir políticas de retenção de mensagens globais ou granulares para armazenar dados por um período definido e além em um formato não regravável e não-reescrita.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
@@ -68,9 +68,9 @@ Para os requisitos da Regra [FINRA 4511(c),](/microsoft-365/compliance/retention
 
 ## <a name="how-to-implement"></a>Como implementar
 
-- **Regulamentação de serviços financeiros**: Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- **Guia de conformidade e avaliação de risco**: cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
-- **Casos de uso financeiro**: Visões gerais de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros. [Saiba mais](/azure/industry/financial/)
+- **Regulamentação de serviços financeiros**: Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- **Guia de conformidade e avaliação de risco**: cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+- **Casos de uso financeiro**: Visões gerais de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros. [Saiba Mais](/azure/industry/financial/)
 
 ## <a name="resources"></a>Recursos
 

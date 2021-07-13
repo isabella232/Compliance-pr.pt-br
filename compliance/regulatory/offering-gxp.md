@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a3801d434cb86f4157b70d1afcb0479365af3e9c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089755"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384191"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Boas Práticas Clínicas, Laboratoriais e de Manufatura (GxP)
 
@@ -46,7 +46,7 @@ A Microsoft contratou a [Montrium](https://www.montrium.com/), uma organização
 
 As organizações de ciências naturais que criam soluções de GxP no Azure e no Office 365 podem aproveitar as eficiências da nuvem, além de proteger a segurança do paciente, a qualidade do produto e a integridade dos dados. Os clientes também se beneficiam de várias camadas de segurança, tecnologias de governança, práticas operacionais e políticas de conformidade que reforçam a privacidade e a integridade dos dados em níveis específicos.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Microsoft 365

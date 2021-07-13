@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f6b0582215242dd1de187b4cd0386e44b144dba8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: b0b16b88ede35ed71cdc90b27a7e3076e51ae56b
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496486"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377808"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>Suporte ao seu programa RGPD com listas de verificação de preparação para responsabilidade
 
@@ -37,8 +37,9 @@ Esta lista de verificação de preparação de responsabilidade fornece uma mane
 Há um guia específico para quatro famílias de produtos e serviços da Microsoft:
 
 - [Office 365](gdpr-arc-Office365.md)
-- [Dynamics 365](gdpr-arc-azure-dynamics.md)
-- [Azure](gdpr-arc-azure-dynamics.md)
+- [Dynamics 365](gdpr-arc-azure-dynamics-windows.md)
+- [Azure](gdpr-arc-azure-dynamics-windows.md)
+- [Windows](gdpr-arc-azure-dynamics-windows.md)
 - [Suporte e Serviços Profissionais da Microsoft](gdpr-arc-prof-services.md)
 
 Você pode gerenciar os itens nesta lista de verificação com o [Gerente de Conformidade](/microsoft-365/compliance/compliance-manager) fazendo referência à ID de controle e ao Título do controle em Controles gerenciados do cliente no bloco RGPD.

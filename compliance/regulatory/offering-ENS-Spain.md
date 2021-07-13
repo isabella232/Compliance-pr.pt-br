@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7079147a9ee952f97a4ad5b9d8df0cfcf9d494a2
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 55f576c4fdfd22b487a948c16eca4327f45494c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089815"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385161"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Medidas de Segurança de Alto Nível do ENS (Esquema Nacional de Seguridad) da Espanha
 
@@ -41,10 +41,24 @@ O sistema prescreve um processo de credenciamento que é voluntário para sistem
 
 O Microsoft Azure e o Microsoft Office 365 passaram por uma avaliação rigorosa pela BDO, um auditor independente que emitiu uma declaração oficial de conformidade. A BDO relata que as medidas de segurança em ambos os serviços e em seus sistemas de informação e instalações de processamento de dados mantêm um alto nível de conformidade com o DR 3/2010 sem a necessidade de medidas corretivas. A Microsoft foi o primeiro provedor de serviços de nuvem em hiperescala a receber essa certificação na Espanha.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
-- [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure e Azure Governamental
+- Office 365
+
+## <a name="office-365-and-ens-high"></a>Office 365 e ENS de alto nível
+
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade dos seus serviços e da assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, Proteção do Exchange Online, Microsoft Teams, MyAnalytics, Portal do Cliente do Office 365, Office Online, Serviço de Infraestrutura do Office, Serviço Móvel do Outlook, SharePoint Online, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 

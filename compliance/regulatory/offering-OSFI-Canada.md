@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 2b98a7ab816f526a5371788df14755b998e14099
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120010"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384361"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Escritório do Superintendente de Instituições Financeiras (OSFI), Canadá
 
@@ -44,7 +44,7 @@ A lista de verificação da Microsoft ajuda as instituições financeiras do Can
 - Uma visão geral do panorama normativo para o contexto.
 - Uma lista de verificação que define as questões a serem abordadas e os mapas dos serviços do Microsoft Azure, Microsoft Dynamics 365 e Microsoft 365 dessas obrigações normativas. A lista de verificação pode ser usada como uma ferramenta para medir a conformidade em relação a uma estrutura regulatória, fornecer uma estrutura interna para a documentação de conformidade e ajudar os clientes a realizar suas próprias avaliações de risco dos serviços de nuvem de negócios da Microsoft.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

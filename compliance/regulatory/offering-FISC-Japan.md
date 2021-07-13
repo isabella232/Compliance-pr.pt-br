@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 977c4805617e71d065b5f8c7a97b91d277a2ef34
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088940"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384951"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Centro de Sistemas de Informação da Indústria Financeira (FISC)
 
@@ -45,15 +45,29 @@ A Microsoft engajada com avaliadores externos para validar que o Microsoft Azure
 
 As instituições financeiras podem se fiar na avaliação de conformidade dessas três áreas para os serviços de infraestrutura e plataforma Azure, Dynamics 365, Office 365 e Microsoft Cloud App Security que estão dentro do escopo.
 
-[Saiba mais sobre a validação de avaliadores externos e links para sites do avaliador (Somente Japonês](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/).
+[Saiba mais sobre a validação de avaliadores externos e links para sites de avaliadores (Somente em Japonês](https://cloudblogs.microsoft.com/industry-blog/ja-jp/financial-services/2018/05/11/fisc_v9/)).
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem da Microsoft no escopo
 
-- [Azure](https://aka.ms/AzureCompliance)
-- Segurança no aplicativo na nuvem da Microsoft
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
+- Microsoft Cloud App Security
+- Office 365
+- Serviço de nuvem do Power BI (como um serviço autônomo ou incluído em um plano ou pacote com a marca Office 365)
+
+## <a name="office-365-and-fisc"></a>Office 365 e FISC
+
+### <a name="office-365-cloud-environments"></a>Nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Proteção do Exchange Online, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI para Office 365, Project Online, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
