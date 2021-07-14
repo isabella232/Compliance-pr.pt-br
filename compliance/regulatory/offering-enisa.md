@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8f3471ee619bd2c67641d621652f1ce99322959a
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 0769681ba9a8885639c52eaa1a3d4d55ea9ab0c0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49506060"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384132"
 ---
 # <a name="enisa-information-assurance-framework"></a>Estrutura de garantia de informações da ENISA
 
@@ -33,7 +33,7 @@ A [Estrutura de Garantia da Informação](https://www.enisa.europa.eu/publicatio
 
 ## <a name="microsoft-and-the-enisa-iaf"></a>Microsoft e ENISA IAF
 
-A Estrutura de Garantia de Informações ENISA é baseada nas amplas classes de controles da ISO/IEC 27001, no padrão internacional de gerenciamento de segurança de informações e na Cloud Controls Matrix (CCM) v3.0.1 da Cloud Security Alliance (CSA). O CCM  
+A Estrutura de Garantia de Informações ENISA é baseada nas amplas classes de controles da ISO/IEC 27001, no padrão internacional de gerenciamento de segurança de informações e na Aliança de Segurança em Nuvem (CSA) Matriz de Controles em Nuvem (CCM) v3.0.1. A CCM  
 é uma estrutura de controles que abrange princípios fundamentais de segurança em 16 domínios para ajudar os clientes da nuvem a avaliar o risco geral de segurança de um provedor de serviços de nuvem (CSP).
 
 Para a autoavaliação do CSA STAR, a Microsoft enviou um relatório documentando a conformidade do Microsoft Azur e com o CCM CSA. (A Microsoft também publica um questionário completo de iniciativa de avaliação de consenso (CAIQ) para o Azure.) Essa autoavaliação  
@@ -43,19 +43,30 @@ A conformidade do Azure está listada no CSA STAR Registry, um registro gratuito
 
 Como esses relatórios de autoavaliação estão publicamente disponíveis, os clientes do Azure ganham visibilidade em relação às práticas de segurança da Microsoft e podem comparar vários CSPs usando a mesma linha de base.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
+- Office 365
 
-## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
+## <a name="azure-dynamics-365-and-enisa-iaf"></a>Azure, Dynamics 365 e ENISA IAF
 
-A Microsoft atesta a conformidade do Azure com a estrutura CSA CCM baseada na auto-avaliação, alinhando serviços com a  
-ENISA IAF.
+Para obter mais informações sobre o Azure, o Dynamics 365 e outros serviços de conformidade on-line, consulte [Oferta do Azure ENISA IAF](/azure/compliance/offerings/offering-eu-enisa-iaf).
 
-- [CSA STAR Registry](https://aka.ms/Azure_STAR)
+## <a name="office-365-and-enisa-iaf"></a>Office 365 e ENISA IAF
 
-## <a name="resources"></a>Recursos
+### <a name="office-365-cloud-environments"></a>Ambientes em nuvem do Office 365
 
-- [Resposta padrão do Azure quanto à solicitação de informações](https://gallery.technet.microsoft.com/Azure-Standard-Response-to-5de19cb6)
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade dos seus serviços e da assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para a Web, MyAnalytics, complemento da Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Conformidade e Segurança do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+
+### <a name="resources"></a>Recursos
+
 - [Autoavaliações do CSA STAR e da Microsoft](offering-csa-star-self-assessment.md)
 - [Microsoft e ISO/IEC 27001](offering-ISO-27001.md)

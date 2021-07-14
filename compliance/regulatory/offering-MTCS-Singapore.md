@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120086"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384511"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>Padrão MTCS (Multi-Tier Cloud Security) para Singapura
 
@@ -40,25 +40,37 @@ O MTCS é o primeiro padrão de segurança de nuvem com diferentes níveis de se
 
 ## <a name="microsoft-and-mtcs"></a>Microsoft e MTCS
 
-Depois de avaliações rigorosas realizadas pelo MTCS Certification Body, os serviços de nuvem da Microsoft receberam a certificação MTCS 584:2013 em todas as três classificações de serviços: IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço). A Microsoft foi a primeira CSP global a receber essa certificação em todas as três classificações.
+Depois de avaliações rigorosas realizadas pelo MTCS Certification Body, os serviços em nuvem da Microsoft receberam a certificação MTCS 584:2013 em todas as três classificações de serviço: Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) e Software como Serviço (SaaS). A Microsoft foi a primeira CSP global a receber essa certificação em todas as três classificações.
 
 As certificações foram concedidas no Nível 3 para os serviços do Azure (IaaS e PaaS), Serviços do Microsoft Dynamics 365 (SaaS) e Serviços do Microsoft Office 365 (SaaS). Uma certificação Nível 3 significa que os serviços de nuvem no escopo da Microsoft podem hospedar dados de alto impacto para organizações regulamentadas seguindo os requisitos de segurança mais rigorosos. Ela é exigida pelo governo de Singapura para determinadas implementações de soluções em nuvem.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
-- [Azure](https://go.microsoft.com/fwlink/p/?linkid=2092718)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
-- Segurança no aplicativo na nuvem da Microsoft
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Genomics
+- Intune
+- Microsoft Cloud App Security
 - Microsoft Graph
 - Bot do Microsoft Healthcare
-- Intune
-- Flow
+- Office 365
 - Mapa do serviço do OMS
 - PowerApps
 - Power BI
-- Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+
+## <a name="office-365-and-mtcs"></a>Office 365 e MTCS
+
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade de seus serviços e da assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Delve, Exchange Online, Proteção do Exchange Online Loki, Microsoft Teams, Portal do Cliente do Office 365, Office Online, Serviço de Infraestrutura do Office, SharePoint Online, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
@@ -88,7 +100,7 @@ Aplica-se a empresas em Singapura que adquirirem serviços de nuvem que exigem c
 O MTCS tem um total de 535 controles que abrangem três níveis de segurança:
 
 - O Nível 1, de baixo custo, conta com um número mínimo de controles de segurança de linha de base exigidos. É apropriado para hospedagem de sites, trabalhos de desenvolvimento e testes, simulação e aplicativos de negócios não críticos.
-- O Nível 2 atende às necessidades da maioria das organizações preocupadas com a segurança de dados, com um conjunto de controles mais rigorosos direcionados aos riscos e ameaças de segurança dos dados. O Nível 2 aplica-se à maior parte do uso da nuvem, incluindo aplicativos de negócios críticos.
+- O Nível 2 atende às necessidades da maioria das organizações preocupadas com a segurança de dados, com um conjunto de controles mais rigorosos direcionados para os riscos e ameaças de segurança dos dados. O Nível 2 aplica-se à maior parte do uso da nuvem, incluindo aplicativos de negócios críticos.
 - O Nível 3 foi criado para organizações regulamentadas com requisitos específicos e que estão dispostas a pagar por requisitos de segurança mais rígidos. O Nível 3 adiciona um conjunto de controles de segurança que complementam os dos Níveis 1 e 2. Eles tratam dos riscos e ameaças à segurança em sistemas de informações de alto impacto que usam serviços de nuvem, como aplicativos de hospedagem com informações confidenciais e em sistemas regulamentados.
 
 **Por onde começo a iniciativa de conformidade em minha empresa?**

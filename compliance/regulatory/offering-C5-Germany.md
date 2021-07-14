@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7154e239956c624d621977b8c9167ec5e58c5001
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7a530d78107af4f37607f90c6a93008ec695f765
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121770"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385461"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>Catálogo de Controles de Conformidade de Computação em Nuvem (C5)
 
@@ -39,7 +39,7 @@ O BSI também enfatiza a transparência. Como parte de uma auditoria, o provedor
 
 Os serviços de nuvem da Microsoft são auditados pelo menos anualmente seguindo as normas SOC 2 (AT Section 101). De acordo com o BSI, uma auditoria de C5 pode ser combinada com uma auditoria de SOC 2 para reutilizar partes da descrição do sistema e resultados da auditoria para controles sobrepostos. O Microsoft Azure, o Azure Governamental e o Azure Alemanha mantêm um relatório combinado (C5, SOC 2 Tipo 2, CSA STAR Attestation) com base na avaliação de auditoria realizada por um auditor independente, que demonstra prova de conformidade com o C5.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure, Azure Governamental e Azure Alemanha](https://go.microsoft.com/fwlink/p/?linkid=2051569)
 - Office 365 Alemanha
@@ -68,8 +68,8 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 
 ## <a name="resources"></a>Recursos
 
-- Catálogo de Controles de Conformidade de Computação em Nuvem (C5) ([inglês](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([alemão](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
-- Recomendações de Segurança para Provedores de Computação em Nuvem ([inglês](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([alemão](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
+- Catálogo de Controles de Conformidade de Computação em Nuvem (C5) ([inglês](https://www.bsi.bund.de/EN/Topics/CloudComputing/Compliance_Criteria_Catalogue/Compliance_Criteria_Catalogue_node.html)) ([alemão](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Kriterienkatalog/Kriterienkatalog_node.html))
+- Recomendações de Segurança para Provedores de Computação em Nuvem ([inglês](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([alemão](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
 - [Relatórios de Conformidade: C5- und SOC-Testate Azure Deutschland](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=df100ae1-baf9-4785-8a6d-864c0bc5c308&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_SOC%20%2F%20SSAE%2016%20Reports)
 - [Pasta de Trabalho de Conformidade de IT-Grundschutz](https://gallery.technet.microsoft.com/Azure-Germany-IT-fca4afd7) do Microsoft Azure Alemanha
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496530"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385151"
 ---
 # <a name="european-union-model-clauses"></a>Cláusulas Modelo da União Europeia
 
@@ -41,19 +41,33 @@ A Microsoft apresentou suas Cláusulas Contratuais Padrão ao Grupo de Trabalho 
 
 O grupo determinou que a implementação das disposições nos contratos da Microsoft estava alinhada com seus requisitos estritos. (A Microsoft foi o primeiro provedor de serviços de nuvem a receber uma carta de endosso e aprovação do grupo.) A aprovação abordou os compromissos refletidos nas Cláusulas Modelo 2010/87/UE, mas não nos apêndices, que descrevem as transferências de dados e as medidas de segurança implementadas pelo importador de dados. Os apêndices podem ser analisados separadamente pelo DPA.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
-- [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
-- Segurança no aplicativo na nuvem da Microsoft
-- Serviços Profissionais da Microsoft: Premier e no Local para Azure, Dynamics 365, Intune e para clientes de médias empresas e corporativos do Microsoft 365 para empresas.
+- Azure e Azure Governamental
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: Parte do serviço de nuvem do Produto Complementar do Intune e o Gerenciamento de Dispositivo Móvel para o Office 365
+- Microsoft Cloud App Security
+- Microsoft Defender para Ponto de Extremidade para as seguintes partes do serviço de nuvem: Detecção e resposta dos Pontos de Extremidade, Investigação e Correção Automática, Classificação de Segurança.
+- Serviços Profissionais da Microsoft: Premier e no Local para Azure, Dynamics 365, Intune e para clientes de médias empresas e corporativos do Microsoft 365 para empresas.
+- Office 365
 - Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
-- Azure DevOps Services
-- Proteção Avançada contra Ameaças do Microsoft Defender para as seguintes partes do serviço de nuvem: Detecção e resposta dos Pontos de Extremidade, Investigação e Correção Automática, Classificação de Segurança.
+
+## <a name="office-365-and-european-union-model-clauses"></a>Office 365 e Cláusulas de Modelo da União Europeia
+
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade de seus serviços e da assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Conformidade e Segurança do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
@@ -88,7 +102,6 @@ Você pode inserir um contrato como o [Termos de Serviços Online](https://aka.m
 - [Diretiva de Proteção de Dados da UE](https://aka.ms/EU-DPD)
 - [comité Europeu para a Proteção de Dados](https://edpb.europa.eu/)
 - [Perguntas frequentes sobre as Cláusulas Modelo da UE para Dynamics 365 e Office 365](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
-- [Defesa de Privacidade da Microsoft e dos EUA-UE.](offering-eu-us-privacy-shield.md)
 - [Estrutura de Conformidade do Hub de Controles Comuns da Microsoft](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Termos de Serviços Online da Microsoft](https://aka.ms/Online-Services-Terms)
+- [Termos do Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

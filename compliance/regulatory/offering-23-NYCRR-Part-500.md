@@ -16,24 +16,22 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f48ba2f7bd10167d5e4cb384a7740df5e48b7617
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 93a45f3da668ef9f6115fe352b5bbbce49e15d7f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088710"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385521"
 ---
 # <a name="title-23-nycrr-part-500"></a>Título 23 do NYCRR Parte 500
 
 ## <a name="title-23-nycrr-part-500-overview"></a>Visão geral do Título 23 do NYCRR Parte 500
 
-Em resposta a ameaças graves e cada vez maiores à segurança cibernética dos sistemas de informação e financeiro, em 2017, o Departamento de Serviços Financeiros do Estado de Nova York impôs um novo conjunto de requisitos de segurança cibernética às instituições financeiras licenciadas ou autorizadas a fazer negócios no estado. Este regulamento — Título 23 Códigos, Regras e Regulamento de Nova York, Parte 500: Requisitos de Segurança Cibernética para Empresas de Serviços Financeiros — foi criado para proteger dados de clientes e sistemas de tecnologia da informação de instituições financeiras, como bancos estatais, privados e internacionais, corretores financeiros e companhias de seguros.
+Em resposta a ameaças graves e cada vez maiores à segurança cibernética dos sistemas de informação e financeiro, em 2017, o Departamento de Serviços Financeiros do Estado de Nova York impôs um novo conjunto de requisitos de segurança cibernética às instituições financeiras licenciadas ou autorizadas a fazer negócios no estado. Título 23, Códigos, Regras e Regulamentações de Nova York Parte 500: Os Requisitos de Segurança cibernética para Empresas de Serviços Financeiros foram projetado para proteger os dados do cliente e os sistemas de tecnologia da informação de instituições financeiras, como bancos estaduais, privados e internacionais, corretores de hipoteca e companhias de seguros.
 
 ## <a name="microsoft-and-title-23-nycrr-part-500"></a>Microsoft e Título 23 do NYCRR Parte 500
 
 A Microsoft fornece um guia completo, o [Serviços do Microsoft Cloud: dar suporte à conformidade com os requisitos de segurança cibernética do NYDFS](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7e56dc6-4e52-4e9a-af06-aa41d5851d36&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides), para serviços financeiros regulamentados em Título 23 do NYCRR Parte 500. O guia detalha como os serviços de nuvem do Azure, Office 365 e Power BI dão suporte à conformidade por meio dos requisitos. As instituições financeiras que desejam operar no centro financeiro mundial nova iorquino devem atender a esses requisitos. Portanto, a conformidade é fundamental para muitas instituições.
-
-Siga estas orientações para agilizar seu processo de conformidade com o Título 23 do NYCRR Parte 500: Serviços do Microsoft Cloud: [dar suporte à conformidade com os requisitos de segurança cibernética do NYDFS](https://go.microsoft.com/fwlink/p/?linkid=2098969)
 
 Os novos regulamentos de Nova York exigem que cada instituição financeira:
 
@@ -51,24 +49,37 @@ Os novos regulamentos de Nova York exigem que cada instituição financeira:
 - **Monitore a atividade de usuários autorizados, detecte acesso não autorizado e ofereça treinamento regular de conscientização sobre a segurança cibernética aos funcionários**: o Azure, o Office 365 e o Power BI incluem monitoramento externo para gerar alertas sobre incidentes e diagnósticos abrangentes para registros em log e auditoria. O [Microsoft Virtual Academy](https://mva.microsoft.com/) oferece treinamento online abordando a segurança cibernética dos serviços de nuvem da Microsoft.
 - **Desenvolva planos para responder e recuperar-se de incidentes de segurança cibernética**: a Microsoft ajuda você a se preparar para incidentes de segurança cibernética usando uma estratégia defensiva para detectar, prever e evitar violações de segurança antes que elas ocorram. Durante o desenvolvimento de seus próprios planos, você pode usar nosso plano de gerenciamento de incidentes para reagir às violações de segurança cibernética.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
+- Office 365
+
+## <a name="office-365-and-title-23-nycrr-part-500"></a>Office 365 e Título 23 NYCRR Parte 500
+
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
+
+Use a tabela a seguir para determinar a aplicabilidade de seus serviços e da assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Proteção do Exchange Online, Exchange Online, Portal do Cliente do Office 365, Office Online, Infraestrutura de Serviços do Office, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **Quais instituições são cobertas por essa regulamentação?**
 
-Confira o artigo [Quem supervisionamos](https://go.microsoft.com/fwlink/p/?linkid=2099374) do Departamento de Serviços Financeiros de Nova York para determinar se sua instituição é regida por este regulamento.
+Consulte o site [do Departamento de Serviços Financeiros de Nova York Que Supervisionamos](https://go.microsoft.com/fwlink/p/?linkid=2099374) para determinar se sua instituição é regida por este regulamento.
 
 ## <a name="resources"></a>Recursos
 
 - [Recursos em destaque](https://www.microsoft.com/trustcenter/compliance/NYCRR)
 - [Departamento de Serviços Financeiros do Estado de Nova York 23 do NYCRR 500: requisitos de segurança cibernética para empresas de serviços financeiros](https://go.microsoft.com/fwlink/p/?linkid=2098976)
-- [Perguntas frequentes: 23 do NYCRR Parte 500–Segurança cibernética](https://go.microsoft.com/fwlink/p/?linkid=2098977)
+- [P e R: 23 NYCRR Parte 500-Segurança cibernética](https://go.microsoft.com/fwlink/p/?linkid=2098977)
 - [Serviços do Microsoft Cloud: dar suporte à conformidade com os requisitos de segurança cibernética do NYDFS](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7e56dc6-4e52-4e9a-af06-aa41d5851d36&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
@@ -76,5 +87,4 @@ Confira o artigo [Quem supervisionamos](https://go.microsoft.com/fwlink/p/?linki
 
 - [Serviços de nuvem corporativos da Microsoft e serviços financeiros](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Programa de conformidade para serviços financeiros do Microsoft Cloud](https://www.microsoft.com/download/confirmation.aspx?id=55332)
-- [Conformidade de serviços financeiros no Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Responsabilidades compartilhadas da computação em nuvem](https://aka.ms/sharedresponsibility)- 
