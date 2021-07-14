@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121370"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385391"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Parâmetros da Center for Internet Security (CIS)
 
@@ -50,7 +50,7 @@ Como todos os parâmetros da CIS, os parâmetros da Microsoft foram criados usan
   
 Além dos parâmetros para produtos e serviços da Microsoft, a CIS também publicou [Imagens Protegidas da CIS para uso em máquinas virtuais do Azure](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/) configuradas para atender aos parâmetros da CIS. Isso inclui a Imagem Protegida da CIS para Microsoft Windows Server 2016 certificada para execução no Azure. O CIS declara que "Todas as imagens protegidas da CIS disponíveis no [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) são certificadas para veiculação no Azure. Elas foram pré-testadas quanto à prontidão e compatibilidade com a nuvem pública do Azure, ao Microsoft Cloud Platform hospedado por provedores de serviços pela Rede do Cloud OS e implantações locais do Windows Server Hyper-V em nuvem privada gerenciadas pelos clientes”.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure e Azure Government](https://aka.ms/AzureCompliance)
 - [Office e Microsoft 365](https://aka.ms/o365-compliance-framework)

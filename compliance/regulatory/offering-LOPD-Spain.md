@@ -1,5 +1,5 @@
 ---
-title: Decreto Real Espanhol 1720/2007, lei orgânica da Espanha 15/1999
+title: Decreto Real Espanhol 1720/2007, Lei Orgânica Espanhola 15/1999 (LOPD)
 description: Os clientes da Microsoft Cloud são autorizados pela Agência de Proteção de Dados da Espanha (AEPD) a transferir dados entre fronteiras.
 keywords: Microsoft 365, conformidade, ofertas
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089795"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384561"
 ---
-# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>Decreto Real Espanhol 1720/2007, Lei Orgânica da Espanha 15/1999
+# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>Decreto Real Espanhol 1720/2007, Lei Orgânica Espanhola 15/1999 (LOPD)
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>Visão Geral do Decreto Real Espanhol 1720/2007, lei orgânica da Espanha 15/1999
 
@@ -35,12 +35,26 @@ O título VIII do Decreto Real 1720/2007 estabelece requisitos rigorosos para pr
 
 A Microsoft foi o primeiro provedor de serviços de nuvem dae hiper escala a receber, por benefício dos seus clientes, uma autorização do órgão de proteção de dados espanhol (Agencia Española de Protección de Datos, ou AEPD) por atender aos altos padrões que regem a transferência de dados internacional dentro da Lei Orgânica Espanhola 15/1999 (Ley Orgánica 15/1999 de Protección de Datos ou LOPD). A Microsoft também é o primeiro provedor de serviços de nuvem de hiper escala a obter uma certificação de auditoria de terceiros para a conformidade dos serviços online com as medidas de segurança definidas no título VIII do Decreto Real 1720/2007. Essas autorizações permitem aos clientes fazer transferências de dados pessoais para os serviços do Microsoft Azure, do Dynamics 365 e do Office 365 cobertos pelas cláusulas modelo da União Europeia.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
-- [Microsoft Azure](https://aka.ms/AzureCompliance)
-- [Microsoft Dynamics 365](https://aka.ms/d365-compliance-list)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Microsoft Office 365](https://aka.ms/o365-compliance-framework)
+- Office 365
+
+## <a name="office-365-and-lopd"></a>Office 365 e LOPD
+
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços dentro do escopo
+
+Use a tabela a seguir para determinar a aplicabilidade de seus serviços e assinatura do Office 365:
+
+| **Aplicabilidade** | **Serviços no escopo** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para a Web, MyAnalytics, complemento da Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 

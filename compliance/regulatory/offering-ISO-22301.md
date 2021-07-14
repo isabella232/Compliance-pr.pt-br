@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1c4cf624eb6f658bcdddde1acbef7bc43323f257
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088930"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384711"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Padrão de Gerenciamento de Continuidade dos Negócios ISO 22301:2012
 
@@ -35,7 +35,7 @@ Publicada em 2012 pelo comitê técnico, a ISO 22301:2012 é o primeiro padrão 
 
 A Microsoft é o primeiro provedor de serviços de nuvem de grande escala a receber a certificação ISO 22301 para o gerenciamento de continuidade dos negócios. Um corpo de certificação independente concedeu essa certificação ao Microsoft Azure, ao Microsoft Azure Government, ao Microsoft Office 365 (incluindo ofertas comerciais, governamentais e educativas), ao Microsoft Cloud App Security, ao Microsoft Intune e ao Microsoft Power BI após uma auditoria estrita abordando todos os aspectos dos processos de continuidade dos negócios. A auditoria abordou os serviços dentro do escopo listados abaixo e os recursos de gerenciamento do Azure, o portal do Azure e os sistemas usados para monitorar, operar e atualizar os serviços dentro do escopo.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no Escopo da Microsoft 
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure, Azure Governamental e Azure Alemanha](https://aka.ms/AzureCompliance)
 - Segurança no aplicativo na nuvem da Microsoft
@@ -46,8 +46,8 @@ A Microsoft é o primeiro provedor de serviços de nuvem de grande escala a rece
 - Intune
 - [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Serviço de nuvem do Power Automate (anteriormente Microsoft Flow) como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
-- [Office 365 comercial, governamental e educacional](https://go.microsoft.com/fwlink/p/?linkid=2077751)
-- Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou do Dynamics 365
+- Office 365 Comercial, Governamental e Educacional
+- Serviço de nuvem do PowerApps como um serviço autônomo ou incluído em um plano ou pacote do Office 365 ou Dynamics 365
 - Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
 - Power BI incorporado
 

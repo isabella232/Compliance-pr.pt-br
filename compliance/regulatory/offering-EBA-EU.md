@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 18abcba03796d7f6563c65cebcbbafd63759dc7c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120920"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385221"
 ---
 # <a name="european-banking-authority-eba"></a>Autoridade Bancária Europeia (EBA)
 
@@ -37,16 +37,16 @@ Para ajudar instituições financeiras na UE seguir as recomendações da Autori
 
 As diretrizes da Microsoft abordam, ponto por ponto, cada uma das recomendações da EBA:
 
-- Direitos de auditoria. A Microsoft fornece direitos contratuais de auditoria para clientes e direitos de exame para reguladores em suas Emendas de Serviços Financeiros líderes do setor.
+- Direitos de Auditoria. A Microsoft fornece direitos contratuais de auditoria para clientes e direitos de exame para reguladores em sua Emenda de Serviços Financeiros líderes do setor.
 - Notificação sobre a terceirização. A Microsoft pode ajudar os clientes a notificar os reguladores sobre atividades materiais a serem terceirizadas.
 - Residência de dados. Com 36 regiões, incluindo seis na Europa, a Microsoft oferece o maior número de datacenters em todo o mundo em qualquer provedor de serviços de nuvem. As organizações podem implantar cargas de trabalho em uma região sem precisar hospedar dados na Europa.
-- Notificação sobre subcontratados. A Microsoft lidera o setor com o compromisso contratual de fornecer aos clientes um aviso de 180 dias sobre novos subcontratados e o direito de rescindir se o cliente não aprovar a nomeação de um novo subcontratado.
-- Continuidade dos negócios. A Microsoft fornece provisões de continuidade e a resolução de negócios em ossa Emenda de Serviços Financeiros, incluindo a disposição de fornecer assistência de transição por meio dos Serviços de Consultoria da Microsoft.
-- Avaliação de risco e monitoramento de segurança. A Microsoft permite que os clientes realizem suas próprias avaliações de risco e fornece ferramentas e painéis para que possam supervisionar e monitorar nossos serviços de nuvem.
+- Notificação sobre subcontratados. A Microsoft lidera o setor com o compromisso contratual de fornecer aos clientes um aviso de 180 dias sobre novos subcontratados e o direito de rescindir o contrato se o cliente não aprovar a nomeação de um novo subcontratado.
+- Continuidade de negócios. A Microsoft fornece provisões de continuidade e a resolução de negócios em nossa Emenda de Serviços Financeiros, incluindo a disposição de fornecer assistência de transição por meio dos Serviços de Consultoria Microsoft.
+- Avaliação de riscos e monitoramento de segurança. A Microsoft permite que os clientes realizar suas próprias avaliações de risco e fornece ferramentas e painéis para que possam supervisionar e monitorar nossos serviços de nuvem.
 
 Para instituições financeiras na UE, a Microsoft também publicou o [Guia de Conformidade e Avaliação de Risco para Instituições Financeiras no Microsoft Cloud](https://aka.ms/RiskGovernanceGuide), uma lista de verificação modelada de acordo com as diretrizes da EBA. Ele explica como estabelecer um modelo de governança otimizado para atender aos requisitos normativos e avaliar eficazmente os riscos de usar os serviços de nuvem da Microsoft, seguido do envio para aprovação regulatória. Nosso guia inclui uma lista de perguntas que devem ser respondidas em uma submissão reguladora retirada da, e responsiva para, as diretrizes da EBA sobre a terceirização para provedores de serviços de nuvem.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Microsoft 365](https://aka.ms/o365-compliance-framework)

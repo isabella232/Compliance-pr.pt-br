@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 13a628ee832079bd0402e5aec9969ec6e1f14cb4
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: e2653fbe30a6bde61260ac825d3c2e08f6d11dbb
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089835"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385501"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autoridade Holandesa para Mercados Financeiros e Banco Central dos Países Baixos
 
@@ -54,7 +54,7 @@ A lista de verificação da Microsoft ajuda as instituições financeiras dos Pa
 - Visão geral do panorama normativo para o contexto.
 - Uma lista de verificação que define as questões a serem abordadas e os mapas dos serviços do Microsoft Azure, Microsoft Dynamics 365 e Microsoft 365 dessas obrigações normativas. A lista de verificação pode ser usada como uma ferramenta para medir a conformidade em relação a uma estrutura regulatória, fornecer uma estrutura interna para a documentação de conformidade e ajudar os clientes a realizar suas próprias avaliações de risco dos serviços de nuvem de negócios da Microsoft.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

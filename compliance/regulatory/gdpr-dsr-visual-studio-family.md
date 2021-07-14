@@ -20,18 +20,18 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 4a4ec723a046b65ade51b2e7aaa08fcda3a1908d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141462"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377938"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de Titulares de Dados da Família do Visual Studio para o GDPR e CCPA
 
-O [GDPR (Regulamento Geral sobre a Proteção de Dados)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) da União Europeia fornece direitos às pessoas (conhecidas na regulamentação como _titulares de dados_) para gerenciar seus dados pessoais. Os dados pessoais são definidos amplamente no GDPR como quaisquer dados relacionados a uma pessoa identificada ou identificável. O RGPD fornece aos titulares de dados os direitos específicos a seus dados pessoais; esses direitos incluem a obtenção de cópias desses dados pessoais, a solicitação de correções, a restrição do processamento, a exclusão ou o recebimento desses dados em formato eletrônico. Uma solicitação formal de um titular de dados feita a um controlador de dados (um empregador ou outro tipo de agência ou organização que tem controle sobre os dados pessoais) para realizar uma ação nos dados pessoais desse titular de dados é chamado de _solicitação de titular de dados_ ou DSR. 
+O [Regulamento Geral sobre a Proteção de Dados (RGPD)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) União Europeia concede direitos às pessoas (conhecidas no regulamento como _entidades de dados_) para gerenciar seus dados pessoais. Os dados pessoais são definidos amplamente nas linhas gerais no RGPD como todos os dados relacionados a uma pessoa física identificada ou identificável. O RGPD fornece aos titulares de dados direitos específicos aos seus dados pessoais; esses direitos incluem obter cópias de dados pessoais, solicitar suas correções, restringir o processamento, excluí-los ou recebê-los em um formato eletrônico. Uma solicitação formal de um titular de dados a um controlador de dados (um empregador ou outro tipo de agência ou organização que tenha controle sobre dados pessoais) para tomar uma ação quanto aos dados pessoais desse titular de dados é chamada de _solicitação do titular de dados_ ou STD.
 
-Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do GDPR, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais.  O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.yml).
+Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do RGDP, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais.  O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.yml).
 
 Para saber mais sobre o RGPD, confira a [Seção RGPD do portal de Confiança do Serviço](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted).
 
@@ -83,8 +83,8 @@ Os usuários podem controlar as configurações de privacidade para esses produt
 
 Os controladores podem gerenciar os dados dos clientes e os logs gerados pelo sistema coletados de seus titulares de dados por um dos dois métodos, dependendo de como o seu produto da Família do Visual Studio ou extensões da Microsoft foram registrados. Em alguns casos, os dois métodos devem ser usados. Os dois métodos permitem que os controladores baixem uma cópia do seu histórico de atividades gerenciado por esse método. O fechamento de uma conta MSA ou AAD exclui os dados de clientes associados ao Visual Studio e cria o anonimato de dados de identificação pessoal nos logs gerados pelo sistema referentes a esses produtos. Os logs gerados pelo sistema em anonimato são mantidos por não mais que 18 meses.
 
-- Os usuários que registraram um produto da Família do Visual Studio usando uma conta com o apoio de um locatário do Azure — por exemplo, conta AAD ou conta MSA associada a uma assinatura do Azure — pode seguir as instruções em [Solicitações de Titulares de Dados do Azure para o RGPD](gdpr-dsr-azure.md).
-- Os usuários que registraram um produto da Família do Visual Studio sem uma conta com o apoio de um locatário do Azure — por exemplo, muitas contas usando uma Conta da Microsoft (MSA) — podem usar o [Centro de Respostas de Privacidade da Microsoft baseado na Web](https://aka.ms/userprivacysite) disponível por meio de sua conta da Microsoft para exibir, controlar e excluir dados de atividades vinculados a sua conta da Microsoft em vários serviços Microsoft. Neste cenário, o usuário é um controlador dos seus próprios dados pessoais.
+- Os usuários que registraram um produto da Família do Visual Studio usando uma conta com o apoio de um locatário do Azure, por exemplo, conta AAD ou conta MSA associada a uma assinatura do Azure, pode seguir as instruções em [Solicitações dos Titulares de Dados do Azure para o RGPD](gdpr-dsr-azure.md).
+- Os usuários que registraram um produto da Família do Visual Studio sem uma conta com o apoio de um locatário do Azure, por exemplo, muitas contas usando uma Conta da Microsoft (MSA), podem usar o [Centro de Respostas de Privacidade da Microsoft baseado na Web](https://aka.ms/userprivacysite), disponível pela sua conta da Microsoft para exibir, controlar e excluir dados de atividades vinculados a sua conta da Microsoft em vários serviços da Microsoft. Neste cenário, o usuário é um controlador dos seus próprios dados pessoais.
 
 > [!NOTE]
 > Quando um titular de conta MSA exclui sua conta, todos os seus dados de identificação pessoal referentes a esses produtos são excluídos, seja a conta apoiada por um locatário do Azure ou não e os logs gerados pelo sistema são definidos de maneira anônima.
@@ -212,9 +212,9 @@ Para ter informações sobre DSR para o site do IIS.NET, consulte [o site do IIS
 
 ## <a name="other-visual-studio-family-services"></a>Outros serviços da Família do Visual Studio
 
-### <a name="surveymonkey"></a>SurveyMonkey
+### <a name="survey-monkey"></a>Macaquinho de Pesquisa
 
-Ocasionalmente, nós convidamos clientes para enviar comentários sobre esses produtos por meio do SurveyMonkey. Esses dados são excluídos em até 28 dias. Ao fornecer atendimento a solicitações de titular de dados para esses produtos, se tivermos respostas de pesquisas autenticadas, nós as incluiremos nas solicitações de exportação e exclusão de titulares de dados.
+De tempos em tempos, pedimos que os clientes forneçam comentários sobre esses produtos através do Macaquinho de Pesquisa. Esses dados são excluídos do Macaquinho de Pesquisa dentro de 28 dias. A Microsoft pode reter esses dados internamente por até 18 meses. Se as respostas da pesquisa forem autenticadas, as incluiremos na exportação e exclusão dos pedidos dos titulares de dados ao atendermos aos pedidos do titular dos dados desses produtos.
 
 ## <a name="learn-more"></a>Saiba mais
 

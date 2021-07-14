@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a29713d530542b64514f694eef67aabb09e303e0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119880"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385531"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -41,7 +41,7 @@ Em setembro de 2018, a TruSight emitiu sua primeira avaliação de risco dos ser
 
 Como resultado desta rigorosa avaliação da TruSight, os clientes de serviços financeiros, agora, têm acesso sob demanda a uma avaliação de alta qualidade dos serviços de nuvem da Microsoft com base na metodologia padronizada e com suporte do setor, sem a necessidade de expandir os recursos necessários para fazer isso por conta própria.
 
-## <a name="microsoft-in-scope-cloud-services"></a>Serviços de nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365 (versão 9 e subsequentes)](https://aka.ms/d365-compliance-list)
