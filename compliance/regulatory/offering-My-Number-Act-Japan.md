@@ -66,7 +66,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Office 365 Centro de Conformidade e Segurança, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>Como implementar
 
