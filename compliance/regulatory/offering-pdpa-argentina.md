@@ -70,7 +70,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 **Como o GDPR alterou a Lei de Proteção de Dados Pessoais?**
 
-No final de 2018, a Argentina ainda não promulgou regulamentos relacionados ao RGPD, mas redigiu um novo projeto de lei de proteção de dados — já enviado ao Governo pelo Poder Executivo e em revisão pela Casa dos Representantes — para colocar sua lei de proteção de dados em alinhamento com o RGPD. Ele aborda diferenças como a definição de entidades de dados e preocupações sobre a transferência entre fronteiras de informações pessoais.
+No final de 2018, a Argentina ainda não promulgou regulamentos relacionados ao Regulamento Geral sobre a Proteção de Dados (RGPD), mas redigiu um novo projeto de lei de proteção de dados — já enviado ao Governo pelo Poder Executivo e em revisão pela Casa dos Representantes — para colocar sua lei de proteção de dados em alinhamento com o RGPD. Ele aborda diferenças como a definição de entidades de dados e preocupações sobre a transferência entre fronteiras de informações pessoais.
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
