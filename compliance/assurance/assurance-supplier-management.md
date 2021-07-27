@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: c22b996ab7abac17a5aa93d0d5b03911a0b521de
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 7d645db077972678674a2f7999a271766e940130
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089494"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573679"
 ---
 # <a name="supplier-management-overview"></a>Visão geral do gerenciamento de fornecedores
 
@@ -42,12 +43,12 @@ Os requisitos de DPR são escopos com base em seis categorias de processamento d
 
 Um "subprocessador" é um terceiro que a Microsoft engaja cujas obrigações incluem o processamento de Dados Pessoais da Microsoft para os quais a Microsoft é um processador. Os subprocessadores da Microsoft se enquadram em três categorias distintas. Cada um deve demonstrar a conformidade com o SSPA antes de poder processar dados do cliente em nome da Microsoft.
 
-- **Os** subprocessadores de tecnologia fornecem tecnologias usadas para fornecer serviços online específicos da Microsoft. Se um cliente implantar um desses serviços, os subprocessadores identificados para esse serviço poderão processar, armazenar ou acessar dados do cliente ou dados pessoais enquanto ajudam a fornecer esse serviço.
+- Os subprocessadores de **tecnologia** fornecem tecnologias usadas para fornecer recursos específicos dos serviços online da Microsoft. Se um cliente implantar um desses serviços, os subprocessadores identificados para esse serviço poderão processar, armazenar ou acessar dados do cliente ou dados pessoais enquanto ajudam a fornecer esse serviço.
 - **Os subprocessadores** auxiliares fornecem serviços que dão suporte, operam e mantêm os serviços online. Se um cliente implantar um desses serviços, os subprocessadores identificados poderão processar, armazenar ou acessar dados de clientes limitados ou dados pessoais ao fornecer seus serviços auxiliares.
 - **Os subprocessadores** de Aumento de Equipe têm duas formas diferentes: em ambos os cenários, Os Dados Pessoais residem apenas em instalações da Microsoft, nos sistemas Microsoft, e estão sujeitos às políticas e supervisão da Microsoft.
 
-    - A primeira forma de aumento de equipe fornece equipes que suportam, operam e mantêm os serviços online da Microsoft. Embora cumpram suas responsabilidades, esses subprocessadores podem ser expostos a dados do cliente ou dados pessoais. Por exemplo, um subprocessador pode executar a solução de problemas remotas em um servidor Microsoft e, ao fazê-lo, pode ser exposto a trechos de dados do cliente em um log de despejo de falha do servidor.
-    - A segunda forma de aumento de equipe envolve subprocessadores que trabalham lado a lado com funcionários em tempo integral da Microsoft para dar suporte, operar e manter os serviços online da Microsoft. Esses subprocessadores podem ser expostos a dados pseudônimos como parte de seu trabalho junto com funcionários em tempo integral da Microsoft.
+    - A primeira forma de aumento de equipe fornece à equipe que dá suporte, opera e mantém o Microsoft serviços online. Embora cumpram suas responsabilidades, esses subprocessadores podem ser expostos a dados do cliente ou dados pessoais. Por exemplo, um subprocessador pode executar a solução de problemas remota em um servidor Microsoft e, ao fazer isso, pode ser exposto a snippets de dados do cliente em um log de despejo de memória do servidor.
+    - A segunda forma de aumento de equipe envolve subprocessadores que trabalham lado a lado com funcionários em tempo integral da Microsoft para dar suporte, operar e manter os serviços online da Microsoft. Esses subprocessadores podem ser expostos a dados pseudonimizados como parte de seu trabalho junto com funcionários em tempo integral da Microsoft.
 
 Os subprocessadores de tecnologia e auxiliar são necessários para implementar controles de acesso em conformidade com os Requisitos de Proteção de Dados (DPR) da Microsoft. Esses requisitos atendem ou excedem os compromissos contratuais que a Microsoft faz com seus clientes nos Termos de Serviço Online (OST). Os fornecedores que executam o trabalho de aumento de equipe estão sujeitos aos mesmos controles de acesso no local para funcionários em tempo integral da Microsoft.
 

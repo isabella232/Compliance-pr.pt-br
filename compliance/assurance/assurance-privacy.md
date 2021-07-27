@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 42cc3db2ce0e072cb42ee4694757896958cd5e5c
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 0af79e7834006940f46643dae678c1a8ca77fad2
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087660"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573779"
 ---
 # <a name="privacy-overview"></a>Visão geral da privacidade
 
@@ -44,13 +45,13 @@ A Microsoft limita a coleta [](https://www.microsoft.com/trust-center/privacy/cu
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>Como a Microsoft lida com o compartilhamento de terceiros?
 
-O compartilhamento de terceiros é o compartilhamento ou a divulgação de dados para terceiros. A Microsoft só compartilhará dados quando autorizado pelo cliente ou necessário para fazer isso pela lei aplicável. A Microsoft não dá a qualquer governo (incluindo a aplicação da lei ou outras entidades governamentais) acesso direto ou sem segurança aos dados do cliente. A Microsoft [está em conformidade com as leis internacionais](https://www.microsoft.com/trust-center/privacy/data-location) de proteção de dados em relação às transferências de dados do cliente entre bordas.
+O compartilhamento de terceiros é o compartilhamento ou a divulgação de dados para terceiros. A Microsoft só compartilhará dados quando autorizado pelo cliente ou necessário para fazer isso pela lei aplicável. A Microsoft não concede a nenhum governo (incluindo aplicação da lei ou outras entidades governamentais) acesso direto ou livre aos dados do cliente. A Microsoft [está em conformidade com as leis internacionais](https://www.microsoft.com/trust-center/privacy/data-location) de proteção de dados em relação às transferências de dados do cliente entre bordas.
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>Como a Microsoft exclui dados do cliente quando um cliente sai do serviço?
 
-O Microsoft Data Handling Standard especifica por quanto tempo os dados do cliente serão mantidos após a exclusão. Quando um cliente termina sua assinatura, a Microsoft mantém os dados do cliente em uma conta de função limitada por 90 dias para permitir que o cliente extraia os dados. Depois que o período de retenção de 90 dias terminar, a Microsoft excluirá os dados do cliente, a menos que autorizados a retê-los ou necessários para retê-los por lei. Não mais do que 180 dias após a expiração ou término de uma assinatura para Microsoft 365, a Microsoft desabilita a conta e exclui todos os dados do cliente da conta. Depois que o período máximo de retenção de todos os dados tiver decorrido, os dados serão renderizados comercialmente irrecuperáveis.
+O Microsoft Data Handling Standard especifica por quanto tempo os dados do cliente serão mantidos após a exclusão. Quando um cliente encerra sua assinatura, a Microsoft retém os dados do cliente em uma conta de função limitada por 90 dias para permitir que o cliente extraia os dados. Após o término do período de retenção de 90 dias, a Microsoft excluirá os dados do cliente, a menos que autorizado a retê-los ou seja necessário retê-los por lei. No máximo 180 dias após a expiração ou término de uma assinatura do Microsoft 365, a Microsoft desabilita a conta e exclui todos os dados do cliente da conta. Depois que o período máximo de retenção de todos os dados tiver decorrido, os dados são renderizados comercialmente irrecuperáveis.
 
-A Microsoft também exclui todos os dados de diagnóstico e gerados pelo serviço como parte do ciclo de vida de dados padrão da Microsoft, a menos que os dados são necessários para manter a segurança e a estabilidade do serviço. Para qualquer assinatura, um assinante pode entrar em contato com o Suporte da Microsoft e solicitar o des provisionamento de assinatura acelerada. Quando um cliente aproveita esse processo, todos os dados do usuário são excluídos três dias após o administrador inserir o código de bloqueio fornecido pela Microsoft. Essa exclusão inclui dados em SharePoint Online e Exchange Online em espera ou armazenados em caixas de correio inativas.
+A Microsoft também exclui todos os dados de diagnóstico e gerados pelo serviço como parte do ciclo de vida de dados padrão da Microsoft, a menos que os dados são necessários para manter a segurança e a estabilidade do serviço. Para qualquer assinatura, um assinante pode entrar em contato com Suporte da Microsoft e solicitar o desprovisionamento de assinatura acelerada. Quando um cliente aproveita esse processo, todos os dados do usuário são excluídos três dias após o administrador inserir o código de bloqueio fornecido pela Microsoft. Essa exclusão inclui dados em SharePoint Online e Exchange Online em espera ou armazenados em caixas de correio inativas.
 
 ## <a name="related-external-regulations--certifications"></a>Regulamentações externas relacionadas & certificações
 

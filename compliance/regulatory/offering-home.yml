@@ -31,13 +31,13 @@ conceptualContent:
         - url: /azure/compliance/offerings/offering-csa-star-certification
           itemType: reference
           text: Certificação CSA-STAR
-        - url: /azure/compliance/offerings/offering-csa-star-self-assessment
+        - url: offering-csa-star-self-assessment.md
           itemType: reference
           text: Autoavaliação CSA-STAR
-        - url: offering-ISO-20000-1-2011.md
+        - url: /azure/compliance/offerings/offering-iso-20000-1
           itemType: reference
           text: 'ISO 20000-1:2011'
-        - url: /azure/compliance/offerings/offering-iso-20000-1
+        - url: offering-iso-22301.md
           itemType: reference
           text: ISO 22301
         - url: offering-ISO-27001.md
@@ -277,7 +277,7 @@ conceptualContent:
         - url: offering-en-301-549-eu.md
           itemType: reference
           text: EN 301 549 (UE)
-        - url: /azure/compliance/offerings/offering-eu-enisa-iaf
+        - url: offering-enisa.md
           itemType: reference
           text: ENISA IAF (UE)
         - url: offering-ens-spain.md

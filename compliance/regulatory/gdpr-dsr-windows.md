@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: b79d856591566aa1e13633377600c605429ee68e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 8715ef1ee8133fe950e3ff42b0c53b49f916a018
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377958"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573839"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Dados de diagnóstico do Windows solicitações de titulares de dados de configuração do processador para o RGPD e CCPA
 
@@ -58,7 +58,7 @@ A lista a seguir fornece as definições dos termos que são relevantes para est
 
 * _Dados do Cliente_ — Todos os dados, incluindo texto, som, vídeo ou arquivos de imagem e software que são fornecidos para a Microsoft, por ou em nome de um cliente, através do uso do serviço corporativo. 
 
-* _Dados de Diagnóstico do Windows_: dados técnicos vitais sobre os dispositivos Windows e como o Windows e os softwares relacionados estão funcionando. Ele é usado para manter o Windows atualizado, seguro, confiável, de alto desempenho e fazer melhorias no produto. Alguns exemplos de Dados de Diagnóstico do Windows são o tipo de hardware que está sendo usado, os aplicativos instalados com o respectivo uso e as informações sobre a confiabilidade dos drivers de dispositivos. Alguns aplicativos e componentes do Windows se conectam aos serviços Microsoft diretamente, mas os dados que eles trocam não são Dados de Diagnóstico do Windows. Por exemplo, trocar o local de um usuário pelo clima ou a notícia local não é um exemplo de Dados de Diagnóstico do Windows.
+* _Dados de Diagnóstico do Windows_: dados técnicos vitais sobre os dispositivos Windows e como o Windows e os softwares relacionados estão funcionando. Ele é usado para manter o Windows atualizado, seguro, confiável, de alto desempenho e fazer melhorias no produto. Alguns exemplos de Dados de Diagnóstico do Windows são o tipo de hardware que está sendo usado, os aplicativos instalados com o respectivo uso e as informações sobre a confiabilidade dos drivers de dispositivos. Alguns aplicativos e componentes do Windows se conectam aos serviços Microsoft diretamente, mas os dados que eles trocam não são dados de diagnóstico do Windows. Por exemplo, trocar o local de um usuário pelo clima ou a notícia local não é um exemplo de Dados de Diagnóstico do Windows.
 
 ## <a name="how-to-use-this-guide"></a>Como usar este guia
 
@@ -104,3 +104,6 @@ A Microsoft oferece a capacidade de exportar Dados de Clientes diretamente por m
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>Notificar problemas de exportação ou exclusão
 
 Se você tiver problemas ao exportar ou excluir dados do Portal do Azure, acesse a folha **Ajuda e suporte** do portal do Azure e envie um novo tíquete na folha **Gerenciamento de Assinaturas > Outra Solicitação de Segurança e Conformidade > Privacidade e Solicitações de RGPD**.
+
+>[!NOTE]
+>Pode levar até 5 dias para completar um pedido de exportação de dados de diagnóstico do Windows. Se você tiver problemas, aguarde pelo menos sete dias antes de abrir um tíquete de suporte.

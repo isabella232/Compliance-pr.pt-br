@@ -14,39 +14,40 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 2019289542a49f6f586d22da8907eb5c7143e329
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0285110c3fe4225ba2e2c6d1fb58820ff2a1dc8
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088870"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573609"
 ---
 # <a name="security-monitoring-overview"></a>Visão geral de monitoramento de segurança
 
 ## <a name="what-is-microsofts-strategy-for-monitoring-security"></a>Qual é a estratégia da Microsoft para monitorar a segurança?
 
-Microsoft 365 se envolve no monitoramento contínuo de segurança de seus sistemas para detectar e responder a ameaças aos serviços Microsoft 365. Nossos princípios principais para monitoramento e alertas de segurança são:
+O Microsoft 365 envolve o monitoramento contínuo de segurança de seus sistemas para detectar e responder a ameaças aos Microsoft 365 Services. Nossos princípios principais para monitoramento e alertas de segurança são:
 
 - Robustez: sinais e lógica para detectar uma variedade de comportamentos de ataque
 - Precisão: alertas significativos para evitar distrações de ruído
 - Velocidade: capacidade de capturar invasores rapidamente o suficiente para impedi-los
 
-Soluções baseadas em automação, escala e nuvem são os principais pilares de nossa estratégia de monitoramento e resposta. Para capturar e parar ataques efetivamente na escala de alguns dos serviços Microsoft 365 principais, nossos sistemas de monitoramento precisam levantar automaticamente alertas altamente precisos em tempo real. Da mesma forma, quando um problema é detectado, precisamos da capacidade de reduzir o risco em escala, não podemos contar com nossa equipe para corrigir manualmente problemas máquina a máquina. Para reduzir os riscos em escala, usamos ferramentas baseadas em nuvem para aplicar contramedidas automaticamente e fornecer aos engenheiros ferramentas para aplicar mitigações aprovadas rapidamente em todo o ambiente.
+As soluções baseadas em nuvem, escala e automação são pilares fundamentais de nossa estratégia de monitoramento e resposta. Para que nós capturemos e interrompamos ataques com eficiência na escala de alguns dos principais serviços do Microsoft 365, nossos sistemas de monitoramento precisam gerar automaticamente alertas altamente precisos quase em tempo real. Da mesma forma, quando um problema é detectado, precisamos da capacidade de reduzir o risco em escala, não podemos contar com nossa equipe para corrigir manualmente problemas máquina a máquina. Para reduzir os riscos em escala, usamos ferramentas baseadas em nuvem para aplicar contramedidas automaticamente e fornecer aos engenheiros ferramentas para aplicar mitigações aprovadas rapidamente em todo o ambiente.
 
 ## <a name="how-does-microsoft-365-perform-security-monitoring"></a>Como o Microsoft 365 executa o monitoramento de segurança?
 
-Microsoft 365 utiliza o log centralizado para coletar e analisar eventos de log para atividades que possam indicar um incidente de segurança. As ferramentas de registro em log centralizadas agregam logs de todos os componentes do sistema, incluindo logs de eventos, logs de aplicativos, logs de controle de acesso e sistemas de detecção de intrusão baseados em rede. Além dos dados de log do servidor e do nível do aplicativo, a infraestrutura principal em nosso serviço é equipada com agentes de segurança personalizados que geram telemetria detalhada e fornecem detecção de intrusão baseada em host. Usamos essa telemetria para monitoramento e perícia.
+Microsoft 365 utiliza o log centralizado para coletar e analisar eventos de log para atividades que possam indicar um incidente de segurança. As ferramentas de log centralizadas agregam logs de todos os componentes do sistema, incluindo logs de eventos, logs de aplicativos, logs de controle de acesso e sistemas de detecção de intrusão baseados em rede. Além do registro em log do servidor e dos dados no nível do aplicativo, a infraestrutura principal em nosso serviço é equipada com agentes de segurança personalizados que geram telemetria detalhada e fornecem detecção de intrusão baseada em host. Usamos essa telemetria para monitoramento e análise forense.
 
-Os dados de log e telemetria que coletamos permitem alertas de segurança 24 horas por dia. Nosso sistema de alerta analisa os dados de log à medida que são carregados, produzindo alertas em tempo real. Isso inclui alertas baseados em regras e alertas mais sofisticados com base em modelos de aprendizado de máquina. Nossa lógica de monitoramento vai além dos cenários de ataque genéricos e incorpora uma profunda percepção da arquitetura e das operações do serviço. Usamos dados de monitoramento de segurança para melhorar continuamente nossos modelos para detectar novos tipos de ataques e melhorar a precisão do nosso monitoramento de segurança.
+Os dados de log e telemetria que coletamos permitem alertas de segurança 24 horas por dia. Nosso sistema de alertas analisa os dados de log conforme eles são carregados, produzindo alertas quase em tempo real. Isso inclui alertas baseados em regras e alertas mais sofisticados com base em modelos de aprendizado de máquina. Nossa lógica de monitoramento vai além dos cenários de ataque genéricos e incorpora reconhecimento profundo da arquitetura e das operações do serviço. Usamos dados de monitoramento de segurança para melhorar continuamente nossos modelos para detectar novos tipos de ataques e melhorar a precisão de nosso monitoramento de segurança.
 
 ## <a name="how-does-microsoft-365-respond-to-security-monitoring-alerts"></a>Como o Microsoft 365 responde aos alertas de monitoramento de segurança?
 
-Quando precisamos tomar uma ação em resposta a um alerta ou investigar ainda mais as evidências forenses em todo o serviço, nossas ferramentas baseadas em nuvem nos permitem responder rapidamente em todo o ambiente. Essas ferramentas incluem agentes inteligentes e totalmente automatizados que respondem a ameaças detectadas com medidas de segurança. Em muitos casos, esses agentes implantam contramedidas automáticas para reduzir as detecções de segurança em escala sem intervenção humana. Quando isso não é possível, o sistema de monitoramento de segurança alerta automaticamente os engenheiros de chamada apropriados, que estão equipados com um conjunto de ferramentas que permitem que eles ajam em tempo real para mitigar ameaças detectadas em escala. Os possíveis incidentes escalonados para Microsoft 365 equipe de Resposta de Segurança são resolvidos usando o processo de resposta a incidentes de segurança.
+Quando precisamos tomar uma ação em resposta a um alerta ou investigar ainda mais as evidências forenses em todo o serviço, nossas ferramentas baseadas em nuvem nos permitem responder rapidamente em todo o ambiente. Essas ferramentas incluem agentes inteligentes e totalmente automatizados que respondem a ameaças detectadas com contramedidas de segurança. Em muitos casos, esses agentes implantam contramedidas automáticas para atenuar detecções de segurança em escala sem intervenção humana. Quando isso não é possível, o sistema de monitoramento de segurança alerta automaticamente os engenheiros de chamada apropriados, que estão equipados com um conjunto de ferramentas que permitem que eles atuem em tempo real para atenuar as ameaças detectadas em escala. Os possíveis incidentes escalonados para Microsoft 365 equipe de Resposta de Segurança são resolvidos usando o processo de resposta a incidentes de segurança.
 
 ## <a name="how-does-microsoft-365-monitor-system-availability"></a>Como o Microsoft 365 monitora a disponibilidade do sistema?
 
@@ -67,4 +68,4 @@ Os serviços online da Microsoft são regularmente auditados para conformidade c
 
 ## <a name="resources"></a>Recursos
 
-- [Bastidores: proteger a infraestrutura que está a Microsoft 365 Serviço](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+- [Nos bastidores: protegendo a infraestrutura que faz o Serviço do Microsoft 365 funcionar](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)

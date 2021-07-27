@@ -14,19 +14,20 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8922124e6fd6da852ee4bfc4c51dae7ee432f35b
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 21408643bcdb3effc0a8630d3f4da54a42281f44
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089606"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573749"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de Gerenciamento de Riscos
+# <a name="microsoft-365-risk-management-program"></a>Programa de gerenciamento de riscos do Microsoft 365
 
 O objetivo do programa Microsoft 365 gerenciamento de riscos é identificar, avaliar e gerenciar riscos para Microsoft 365. Microsoft 365 a prioridade da empresa é cumprir obrigações contratuais e acreditações, aumentar a confiança do cliente e manter nossa vantagem competitiva. Embora o Microsoft 365 de Gerenciamento de Riscos funcione independentemente, ele se alinha com as políticas, prioridades e metodologias do programa de Gerenciamento de Riscos (ERM) do Enterprise. Trabalhar com o programa ERM permite uma comparação consistente entre unidades de negócios e grupos de engenharia, contribuindo para uma abordagem mais coesiva para o gerenciamento de riscos em toda a empresa.
 
@@ -60,15 +61,15 @@ Essas métricas são usadas para calcular uma pontuação de risco que represent
 
 Usando a lista verificada de riscos para Microsoft 365, a equipe de Confiança atribui riscos ao serviço afetado para resposta a riscos. As diretrizes definidas ajudam a determinar a estratégia de resposta de risco apropriada com base na pontuação de risco e na eficácia do controle. As estratégias de resposta de risco se enquadram em quatro categorias:
 
-- Tolere: áreas de exposição de baixo risco com baixo nível de controle.
-- Operar: áreas de exposição de baixo risco em que os controles são considerados adequados.
-- Monitor: Áreas de exposição de alto risco onde os controles são considerados adequados e devem ser monitorados para a eficácia.
+- Tolere: áreas de exposição de baixo risco com um baixo nível de controle.
+- Opere: áreas de exposição de baixo risco em que os controles são considerados adequados.
+- Monitore: áreas de exposição de alto risco em que os controles são considerados adequados e devem ser monitorados em caso de eficácia.
 - Melhorar: áreas de exposição de alto risco com um baixo nível de controle que são as principais prioridades no endereçamento.
 
 A equipe de Confiança coordena com equipes de serviço para desenvolver planos para lidar com cada risco. O nível de gravidade determina o nível apropriado de revisão e aprovação para cada plano. Para riscos que exigem ação, os processos de bugs de engenharia existentes são usados para controlar, gerenciar e tomar decisões de exceção. O uso de um processo familiar às equipes de engenharia e operação torna a resposta de risco mais eficiente e eficaz.
 
 ## <a name="monitoring-and-reporting"></a>Monitoramento e relatórios
 
-Os riscos identificados como parte da avaliação de risco são monitorados e relatados aos participantes relevantes. As estratégias de monitoramento incluem monitoramento de segurança, análises periódicas de risco, testes de penetração e verificação de vulnerabilidades. Esses esforços de monitoramento atuam como fontes de dados para relatórios sobre os principais indicadores de desempenho, criação de painéis e desenvolvimento de relatórios formais, todos eles informam decisões futuras de risco.
+Os riscos identificados como parte da avaliação de risco são monitorados e relatados aos stakeholders relevantes. As estratégias de monitoramento incluem monitoramento de segurança, análises periódicas de risco, testes de penetração e verificação de vulnerabilidades. Esses esforços de monitoramento atuam como fontes de dados para relatórios sobre os principais indicadores de desempenho, criação de painéis e desenvolvimento de relatórios formais, todos eles informam decisões futuras de risco.
 
 Várias vezes por ano, a equipe de Confiança se reúne com proprietários de risco de cada serviço para revisar as pontuações de risco, avaliar a eficácia de seus planos de ação e fazer atualizações quando necessário. Além disso, as Microsoft 365 de avaliação de risco do Microsoft 365 contribuem para as Avaliações de Risco Enterprise do programa DEM, que fornecem uma visão geral de alto nível da postura de risco da Microsoft para o gerenciamento sênior da Microsoft e para o programa DEM.

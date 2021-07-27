@@ -14,15 +14,16 @@ audience: itpro
 ms.collection:
 - GDPR
 - M365-security-compliance
+- MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 59f32d9ae9afc5e3682c032168d296dc0eec95f4
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: abdda00cf161c880400babef54989dd8d6935d46
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496039"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573849"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Proteção de informações para o RGPD com recursos do Microsoft 365
 
@@ -57,8 +58,8 @@ A Microsoft fornece uma configuração recomendada que você pode usar como pont
 A proteção contra ameaças está integrada a todos os serviços do Microsoft 365. Aqui estão alguns recursos para começar:
 
 - [Roteiro de segurança do Office 365: principais prioridades nos primeiros 30 dias, 90 dias e depois](/microsoft-365/security/office-365-security/security-roadmap). Esse roteiro contém recomendações para implementar os recursos. 
-- [Proteção contra ameaças do Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Saiba mais sobre medidas de proteção que você pode tomar na central de segurança do Microsoft 365.
-- [Proteção contra Ameaças do Windows](/windows/security/threat-protection/). Saiba mais sobre o Microsoft Defender para Ponto de Extremidade e outras funcionalidades no Windows 10.
+- [Proteja-se contra ameaças no Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Saiba mais sobre as ações de proteção que você pode realizar no Centro de segurança do Microsoft 365.
+- [Proteção contra Ameaças do Windows](/windows/security/threat-protection/). Saiba mais sobre o Microsoft Defender para Ponto de Extremidade e outros recursos no Windows 10.
 
 ## <a name="learn-more"></a>Saiba mais
 

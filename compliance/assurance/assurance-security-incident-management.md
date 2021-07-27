@@ -16,15 +16,15 @@ f1.keywords:
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
-- MS-Compliance0
+- MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a2c2a472d911034952814da51db133acc5744288
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: d52832d34034966eb9373925be2d3f5b31cfad5a
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377498"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573719"
 ---
 # <a name="microsoft-security-incident-management"></a>Gerenciamento de incidentes de segurança da Microsoft
 
@@ -43,7 +43,7 @@ A abordagem da Microsoft para gerenciar um incidente de segurança está em conf
 
 |**Equipe/Área**|**Descrição**|
 |:------------|:--------------|
-| Centro de Resposta de Segurança da Microsoft | Identifica, monitora, resolve e responde a incidentes de segurança e vulnerabilidades de segurança de software da Microsoft. |
+| Microsoft Security Response Center da Microsoft | Identifica, monitora, resolve e responde a incidentes de segurança e vulnerabilidades de segurança de software da Microsoft. |
 | Centro de Operações de Defesa Cibernética | O Centro de Operações de Defesa Cibernética é o local físico que reúne equipes de resposta de segurança e especialistas de toda a empresa para ajudar a proteger, detectar e responder a ameaças em tempo real. |
 | Assuntos corporativos, externos e jurídicos | Fornece orientações legais e regulatórias para um incidente de segurança suspeito. |
 | Equipe de Segurança do Microsoft Datacenter | Equipe que se concentra nos vários serviços em investimentos comuns de engenharia de segurança para proteger, detectar e responder a riscos e ameaças da arquitetura de serviço. |
@@ -71,7 +71,7 @@ Os serviços online da Microsoft consistem em produtos principais da Microsoft, 
 
 Esta tabela apresenta os limites operacionais entre as várias equipes de operações de segurança do serviço online da Microsoft e as equipes de serviço da Microsoft:
 
-|**Atividades**|**Operações da Equipe de Segurança da Microsoft**|**Operações de equipe de serviço da Microsoft**|
+|**Atividade**|**Operações da Equipe de Segurança da Microsoft**|**Operações de equipe de serviço da Microsoft**|
 |:-----------|:-----------------------------------------|:----------------------------------------|
 | Detecção e análise | - Requisitos de detecção <br> - Monitoramento e análise de segurança <br> - Indicador de varreduras de comprometimento (IOC) <br> - Busca de violação <br> - Líder de resposta a incidentes e segurança 24x7 | - Requisitos de detecção <br> - Monitoramento da implantação de infraestrutura <br> - Análise e visão do serviço <br> - Triagem de eventos e alertas <br> - Engenharia de serviço 24x7 em chamada  |
 | Contenção, erradicação, recuperação | - Líder de resposta a incidentes <br> - Investigação forense <br> - Experiência em segurança e consultoria <br> - Diretrizes de recuperação | - Proprietário de incidentes de segurança <br> - Experiência e experiência do serviço <br> - Executar contenção, erradicação e recuperação |

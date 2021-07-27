@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5c94dcab6ac61daa2d1723d84b47a6f360d55b59
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5708ab20d78d1862af5613c64ea492c40bea9da1
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087700"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573829"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulação de ataque no Microsoft 365
 
@@ -35,7 +35,7 @@ Microsoft 365 tem sistemas de monitoramento internos que monitoram continuamente
 
 Embora o Microsoft 365 tenha automatizado as ações de recuperação sempre que possível, os engenheiros de chamada da Microsoft estão disponíveis 24 horas por dia, 7 dias por semana, para investigar todas as escalonamentos de segurança da Gravidade 1, e as análises pós-mortem de cada incidente de serviço contribuem para o aprendizado contínuo e melhoria. Essa equipe inclui engenheiros de suporte, desenvolvedores de produtos, gerentes de programas, gerentes de produto e liderança sênior. Nossos profissionais de chamada fornecem backup em tempo há tempo e, muitas vezes, podem automatizar ações de recuperação, para que, na próxima vez que um evento ocorrer, ele possa ser auto-recuperado.
 
-A Microsoft realiza uma revisão completa após o incidente sempre que um incidente de segurança Microsoft 365 ocorre independentemente da magnitude do impacto. Uma revisão pós-incidente consiste em uma análise do que aconteceu, como respondemos e como evitamos incidentes semelhantes no futuro. No interesse da transparência e da responsabilidade, compartilharemos avaliações pós-incidentes para quaisquer incidentes de serviço importantes com clientes afetados. Para obter detalhes específicos, [consulte Office 365 Gerenciamento de Incidentes de Segurança.](https://aka.ms/Office365SIM)
+A Microsoft realiza uma revisão completa após o incidente sempre que um incidente de segurança Microsoft 365 ocorre independentemente da magnitude do impacto. Uma revisão pós-incidente consiste em uma análise do que aconteceu, como respondemos e como evitamos incidentes semelhantes no futuro. No interesse da transparência e da responsabilidade, compartilharemos avaliações pós-incidentes para quaisquer incidentes de serviço importantes com clientes afetados. Para obter detalhes específicos, consulte [Gerenciamento de incidentes de segurança da Microsoft.](assurance-security-incident-management.md)
 
 ## <a name="assume-breach-methodology"></a>Suponha que a metodologia de violação
 

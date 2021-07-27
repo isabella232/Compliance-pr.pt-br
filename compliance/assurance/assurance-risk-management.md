@@ -14,29 +14,30 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 673090a2ce8c4ad59b3f406fc6b76917ff3e9cdb
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 04ca3dde35ded2f0f4117d91ccc8ae0fa6a9aa9b
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088750"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573639"
 ---
 # <a name="risk-management-overview"></a>Visão geral de gerenciamento de risco
 
 ## <a name="how-does-microsoft-assess-and-manage-risk-across-the-enterprise"></a>Como a Microsoft avalia e gerencia o risco em toda a empresa?
 
-O gerenciamento de riscos é o processo de identificação, avaliação e resposta ao risco. O gerenciamento de riscos na Microsoft foi projetado para prever novas ameaças e fornecer segurança contínua para nossos sistemas de nuvem e para os clientes que as usam.
+O gerenciamento de riscos é o processo de identificar, avaliar e responder ao risco. O gerenciamento de riscos na Microsoft foi projetado para prever novas ameaças e fornecer segurança contínua para nossos sistemas de nuvem e os clientes que as usam.
 
-As atividades de gerenciamento de riscos da Microsoft são governadas pelo programa Enterprise Gerenciamento de Riscos (ERM). O ERM habilita o processo geral de gerenciamento de riscos corporativos e trabalha com gerenciamento em toda a empresa para identificar e garantir a responsabilidade pelos riscos mais significativos da Microsoft. Ele se concentra na antecipação, avaliação e relatórios de riscos para informar a estratégia de negócios da Microsoft e impulsionar a mitigação de riscos e a responsabilidade.
+As atividades de gerenciamento de riscos da Microsoft são regida pelo programa ENTERPRISE Risk Management (CONTROL). O ARM permite o processo geral de gerenciamento de riscos empresariais e trabalha com o gerenciamento em toda a empresa para identificar e garantir a responsabilidade pelos riscos mais significativos da Microsoft. Ele se concentra em prever, avaliar e relatar riscos para informar a estratégia de negócios da Microsoft e impulsionar a mitigação de riscos e a responsabilidade.
 
 ![Estrutura de gerenciamento de riscos](../media/assurance-risk-management-structure.png)
 
-O Microsoft ERM coordena as atividades de gerenciamento de riscos em toda a empresa para permitir que as unidades de negócios facilitem de forma independente avaliações de risco consistentes e comparativas. Essa coordenação oferece à Microsoft a capacidade de agregar e relatar informações de risco de forma consolidada para o gerenciamento. O ERM fornece unidades de negócios na Microsoft com metodologias, ferramentas e metas comuns para o processo de gerenciamento de riscos. Microsoft 365 e outros grupos de engenharia e unidades de negócios usam essas ferramentas para conduzir avaliações de risco individuais como parte de seus próprios programas de gerenciamento de riscos sob as diretrizes do ERM.
+O Microsoft DIMENSION coordena as atividades de gerenciamento de riscos em toda a empresa para permitir que as unidades de negócios facilitem avaliações de risco consistentes e comparativos de forma independente. Essa coordenação oferece à Microsoft a capacidade de agregar e relatar informações de risco de forma consolidada para o gerenciamento. ONS fornece unidades de negócios na Microsoft com metodologias, ferramentas e metas comuns para o processo de gerenciamento de riscos. Microsoft 365 e outros grupos de engenharia e unidades de negócios usam essas ferramentas para conduzir avaliações de risco individuais como parte de seus próprios programas de gerenciamento de riscos sob as diretrizes do ERM.
 
 ## <a name="how-does-microsoft-365-work-with-erm"></a>Como o Microsoft 365 funciona com o ERM?
 
@@ -46,9 +47,9 @@ Como parte das atividades de avaliação de risco, o programa Microsoft 365 Gere
 
 ## <a name="how-does-microsoft-365-manage-and-assess-risk-in-its-online-services"></a>Como a Microsoft 365 gerencia e avalia o risco em seus serviços online?
 
-Como parte das atividades de avaliação de risco em andamento, o programa Microsoft 365 Gerenciamento de Riscos realiza entrevistas com as equipes de serviço que projetam, constroem e operam serviços Microsoft 365 para identificar os riscos atuais e áreas de preocupação. Essas atividades, juntamente com a análise de dados de monitoramento contínuo, auditorias e outras fontes, são usadas para desenvolver relatórios de avaliação de riscos que identificam riscos atuais e possíveis futuros para metas de negócios de longo prazo. Os relatórios de avaliação de riscos fornecem uma visão geral de alto nível Microsoft 365 postura de risco da Microsoft 365 com base em nossas descobertas e comentários de Microsoft 365 equipes de serviço. Juntamente com relatórios semelhantes de outras unidades de negócios, Microsoft 365 relatórios de avaliação de risco contribuem e informam avaliações de risco do programa DEM.
+Como parte das atividades de avaliação de risco em andamento, o programa Microsoft 365 Gerenciamento de Riscos realiza entrevistas com as equipes de serviço que projetam, constroem e operam serviços Microsoft 365 para identificar os riscos atuais e áreas de preocupação. Essas atividades, juntamente com a análise de dados de monitoramento contínuo, auditorias e outras fontes, são usadas para desenvolver relatórios de avaliação de riscos que identificam riscos atuais e possíveis futuros para metas de negócios de longo prazo. Os relatórios de avaliação de riscos fornecem uma visão geral de alto nível Microsoft 365 postura de risco da Microsoft 365 com base em nossas descobertas e comentários de Microsoft 365 equipes de serviço. Juntamente com relatórios semelhantes de outras unidades de negócios, Microsoft 365 relatórios de avaliação de risco contribuem para e informam avaliações de risco do programa DEM.
 
-Microsoft 365 A confiança é um grupo responsável por dar suporte a operações de garantia relacionadas à conformidade da política, aos requisitos de segurança e ao gerenciamento de riscos. Microsoft 365 A confiança funciona para identificar novos riscos à medida que eles surgem e monitoram riscos conhecidos e respostas de risco. Comentários de Microsoft 365 equipes de serviço e dados de monitoramento contínuos Microsoft 365 ambientes informam esse processo. O sucesso e a falha das respostas de risco são acompanhados para desenvolver e informar a análise de probabilidades e impactos de risco. Reuniões de revisão de riscos regulares com proprietários de risco permitem Microsoft 365 Confiança para atualizar e gerenciar respostas de risco.
+Microsoft 365 A confiança é um grupo responsável por dar suporte a operações de garantia relacionadas à conformidade da política, aos requisitos de segurança e ao gerenciamento de riscos. Microsoft 365 Confiança funciona para identificar novos riscos à medida que surgem e monitorar riscos conhecidos e respostas de risco. Comentários de Microsoft 365 equipes de serviço e dados de monitoramento contínuos Microsoft 365 ambientes informam esse processo. O sucesso e a falha das respostas de risco são acompanhados para desenvolver e informar a análise de probabilidades e impactos de risco. Reuniões de revisão de riscos regulares com proprietários de risco permitem Microsoft 365 Confiança para atualizar e gerenciar respostas de risco.
 
 ## <a name="related-external-regulations--certifications"></a>Regulamentações externas relacionadas & certificações
 

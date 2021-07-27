@@ -14,35 +14,36 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d1cc1473a0478cd516ddfebf37d881174219e0c2
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 7a706cda887c0c2675841648ef8541ffbb872884
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087600"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573689"
 ---
 # <a name="security-development-and-operations-overview"></a>Visão geral de desenvolvimento e operações de segurança
 
 ## <a name="how-does-microsoft-implement-secure-development-practices"></a>Como a Microsoft implementa práticas de desenvolvimento seguro?
 
-O Ciclo de Vida do Desenvolvimento de Segurança (SDL) da Microsoft é um processo de garantia de segurança focado no desenvolvimento e operação de software seguro. O SDL fornece requisitos detalhados e mensuráveis de segurança para desenvolvedores e engenheiros da Microsoft para reduzir o número e a gravidade das vulnerabilidades em nossos produtos e serviços. Todas as equipes de desenvolvimento de software da Microsoft devem seguir os requisitos do SDL e atualizamos continuamente o SDL para refletir o cenário de ameaças, as práticas recomendadas do setor e os padrões regulatórios para conformidade.
+O SDL (Security Development Lifecycle) da Microsoft é um processo de garantia de segurança focado no desenvolvimento e operação de software seguro. O SDL fornece requisitos de segurança detalhados e mensuráveis para desenvolvedores e engenheiros da Microsoft reduzirem o número e a gravidade das vulnerabilidades em nossos produtos e serviços. Todas as equipes de desenvolvimento de software da Microsoft devem seguir os requisitos do SDL e atualizamos continuamente o SDL para refletir o cenário de ameaças, as práticas recomendadas do setor e os padrões regulatórios para conformidade.
 
 ## <a name="how-does-microsofts-sdl-improve-application-security"></a>Como o SDL da Microsoft melhora a segurança do aplicativo?
 
-O processo SDL na Microsoft pode ser pensado em termos de cinco fases de desenvolvimento: requisitos, design, implementação, verificação e versão. Ele começa definindo requisitos de software com segurança em mente. Para fazer isso, fazemos perguntas relevantes para a segurança sobre o que o aplicativo deve realizar. O aplicativo precisa coletar dados confidenciais? O aplicativo executará tarefas confidenciais ou importantes? O aplicativo precisa aceitar a entrada de fontes não confiáveis?
+O processo SDL na Microsoft pode ser pensado em termos de cinco fases de desenvolvimento: requisitos, design, implementação, verificação e versão. Ele começa definindo requisitos de software com a segurança em mente. Para fazer isso, fazemos perguntas relevantes à segurança sobre o que o aplicativo deve realizar. O aplicativo precisa coletar dados confidenciais? O aplicativo executará tarefas confidenciais ou importantes? O aplicativo precisa aceitar a entrada de fontes não confiáveis?
 
-Depois que os requisitos de segurança relevantes foram identificados, projetamos nosso software para incorporar recursos de segurança que atendem a esses requisitos. Nossos desenvolvedores implementam requisitos de SDL e design no código, que verificamos por meio de revisão manual de código, ferramentas de segurança automatizadas e testes de penetração. Por fim, antes que o código possa ser lançado, novos recursos e alterações materiais passam pela revisão final de segurança e privacidade para garantir que todos os requisitos sejam atendidos.
+Depois que os requisitos de segurança relevantes forem identificados, projetamos nosso software para incorporar recursos de segurança que atendam a esses requisitos. Nossos desenvolvedores implementam requisitos de SDL e design no código, que verificamos por meio de revisão manual de código, ferramentas de segurança automatizadas e testes de penetração. Por fim, antes que o código possa ser lançado, novos recursos e alterações materiais passam pela revisão final de segurança e privacidade para garantir que todos os requisitos sejam atendidos.
 
 ## <a name="how-does-microsoft-test-source-code-for-common-vulnerabilities"></a>Como a Microsoft testa o código-fonte para vulnerabilidades comuns?
 
-Para dar suporte aos desenvolvedores na implementação de requisitos de segurança durante o desenvolvimento de código e após a versão, a Microsoft fornece um pacote de ferramentas de desenvolvimento seguro para verificar automaticamente o código-fonte para verificar falhas e vulnerabilidades de segurança. A Microsoft define e publica uma lista de ferramentas aprovadas para nossos desenvolvedores usarem, como compiladores e ambientes de desenvolvimento, juntamente com as verificações de segurança internas executadas automaticamente em pipelines de compilação da Microsoft. Nossos desenvolvedores usam as versões mais recentes das ferramentas aprovadas para tirar proveito dos novos recursos de segurança.
+Para dar suporte aos nossos desenvolvedores na implementação de requisitos de segurança durante o desenvolvimento de código e após o lançamento, a Microsoft fornece um pacote de ferramentas de desenvolvimento seguro para verificar automaticamente o código-fonte em caso de falhas e vulnerabilidades de segurança. A Microsoft define e publica uma lista de ferramentas aprovadas para nossos desenvolvedores usarem, como compiladores e ambientes de desenvolvimento, juntamente com as verificações de segurança internas executadas automaticamente em pipelines de compilação da Microsoft. Nossos desenvolvedores usam as versões mais recentes das ferramentas aprovadas para aproveitar os novos recursos de segurança.
 
-Antes que o código possa ser verificado em um branch de versão, o SDL requer a revisão manual de código por um revistor separado. Os revisadores de código verificam se há erros de codificação e verificam se as alterações de código atendem aos requisitos de SDL e design, passam por testes funcionais e de segurança e executam com confiança. Eles também analisam documentação, configs e dependências associadas para garantir que as alterações de código sejam documentadas adequadamente e não causarão efeitos colaterais não intencionais. Se um revisor encontrar problemas durante a revisão de código, ele pode pedir ao enviador para reenviar o código com alterações sugeridas e testes adicionais. Os revisadores de código também podem decidir bloquear o check-in inteiramente para um código que não atender aos requisitos. Depois que o código for considerado satisfatório pelo revistor, o revistor fornece aprovação, o que é necessário para que o código possa prosseguir para a próxima fase de implantação.
+Antes que o código possa ser verificado em um branch de versão, o SDL requer a revisão manual de código por um revistor separado. Os revisores de código verificam se há erros de codificação e se as alterações no código atendem aos requisitos de SDL e de design, passam nos testes funcionais e de segurança e têm um desempenho confiável. Eles também analisam a documentação, configurações e dependências associadas para garantir que as alterações no código sejam documentadas de forma adequada e não causem efeitos colaterais indesejados. Se um revisor encontrar problemas durante a revisão do código, ele pode pedir ao remetente para reenviar o código com as alterações sugeridas e testes adicionais. Os revisores de código também podem decidir bloquear totalmente o check-in de código que não atenda aos requisitos. Depois que o código for considerado satisfatório pelo revistor, o revistor fornece aprovação, o que é necessário para que o código possa prosseguir para a próxima fase de implantação.
 
 Além de ferramentas de desenvolvimento seguras e revisão manual de código, a Microsoft impõe requisitos de SDL usando ferramentas de segurança automatizadas. Muitas dessas ferramentas são internas no pipeline de confirmação e analisam automaticamente o código para falhas de segurança à medida que são verificadas e conforme novas compilações são compiladas. Exemplos incluem a análise de código estático para falhas comuns de segurança e scanners de credenciais que analisam o código para segredos incorporados. Os problemas descobertos por ferramentas de segurança automatizadas devem ser corrigidos antes que novas versões possam passar na revisão de segurança e serem aprovadas para lançamento.
 
@@ -50,12 +51,12 @@ Além de ferramentas de desenvolvimento seguras e revisão manual de código, a 
 
 A Microsoft adotou uma estratégia de alto nível para gerenciar a segurança de código aberto, que aproveita ferramentas e fluxos de trabalho projetados para:
 
-- Entenda quais componentes de código aberto estão sendo usados em nossos produtos e serviços.
-- Acompanhe onde e como esses componentes são usados.
-- Determine se esses componentes têm vulnerabilidades.
-- Responda corretamente quando as vulnerabilidades são descobertas que afetam esses componentes.
+- Entender quais componentes de software livre estão sendo usados em nossos produtos e serviços.
+- Acompanhar onde e como esses componentes são usados.
+- Determinar se esses componentes têm vulnerabilidades.
+- Responder corretamente quando forem descobertas vulnerabilidades que afetam esses componentes.
 
-As equipes de engenharia da Microsoft mantêm a responsabilidade pela segurança de todos os softwares de código aberto incluídos em um produto ou serviço. Para fazer isso em escala, a Microsoft criou recursos essenciais em sistemas de engenharia por meio de CG, o que automatiza a detecção de código aberto, fluxos de trabalho de requisitos legais e alerta para componentes vulneráveis. As ferramentas CG automatizadas digitalizem builds na Microsoft para componentes de código aberto e vulnerabilidades de segurança associadas ou obrigações legais. Os componentes descobertos são registrados e enviados às equipes apropriadas para análises de segurança e negócios. Essas análises foram projetadas para avaliar quaisquer obrigações legais ou vulnerabilidades de segurança associadas a componentes de código aberto e resolvê-los antes de aprovar componentes para implantação.
+As equipes de engenharia da Microsoft mantêm a responsabilidade pela segurança de todos os softwares livres incluídos em um produto ou serviço. Para fazer isso em escala, a Microsoft criou recursos essenciais em sistemas de engenharia por meio de CG, que automatizam a detecção de software livre, fluxos de trabalho de requisitos legais e alertas para componentes vulneráveis. As ferramentas CG automatizadas digitalizem builds na Microsoft para componentes de código aberto e vulnerabilidades de segurança associadas ou obrigações legais. Os componentes descobertos são registrados e enviados para as equipes apropriadas para revisões de negócios e segurança. Essas revisões foram projetadas para avaliar quaisquer obrigações legais ou vulnerabilidades de segurança associadas a componentes de software livre e resolvê-las antes de aprovar componentes para implantação.
 
 ## <a name="related-external-regulations--certifications"></a>Regulamentações externas relacionadas & certificações
 

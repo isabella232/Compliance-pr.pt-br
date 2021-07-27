@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 862bd05a84e5144602a24ac2aca1780cffaff3fe
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395611"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573356"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Transferência e rescisão de funcionários da Microsoft
 
@@ -36,8 +37,8 @@ Os serviços online da Microsoft foram projetados para operar sem acesso adminis
 
 As transferências de funcionários são iniciadas por meio de uma solicitação de transação de transferência pelo gerente do funcionário. O gerente cria uma requisição e se envolve com a Aquisição Global de Talentos para o processo de carta de oferta. Depois que o funcionário aceita a oferta para a nova função, os serviços de RH concluem a transferência nas ferramentas principais de RH, disparando o IDM para definir uma data de expiração para todas as eligibilidades do funcionário. O funcionário deve enviar uma solicitação e receber aprovação de seu novo gerente para manter suas eligibilidades. A falha ao enviar uma solicitação ou receber aprovação do gerente resulta na revogação das eligibilidades do funcionário transferido. Para transferências que incluem implicações de segurança específicas, os acessos ao sistema e associações a grupos de segurança são reavaliados imediatamente para refletir sua nova função.
 
-## <a name="termination"></a>Terminação
+## <a name="termination"></a>Término
 
-A Microsoft usa políticas e procedimentos claramente definidos para revogar prontamente o acesso físico e lógico aos sistemas e recursos da Microsoft quando um funcionário é encerrado. Quando um funcionário dá sua notificação, o gerente do funcionário ins fornece a data de término no HRIS. Após o último dia útil do funcionário, o HRIS marca o funcionário como encerrado e compartilha as informações com o IDM, que remove todas as contas de equipe de serviço e as eligibilidades automaticamente.
+A Microsoft usa políticas e procedimentos claramente definidos para revogar imediatamente o acesso físico e lógico aos sistemas e recursos da Microsoft quando um funcionário é demitido. Quando um funcionário dá sua notificação, o gerente do funcionário ins fornece a data de término no HRIS. Após o último dia útil do funcionário, o HRIS marca o funcionário como encerrado e compartilha as informações com o IDM, que remove todas as contas de equipe de serviço e as eligibilidades automaticamente.
 
 Para terminações involuntárias, o RH trabalha com o gerente do funcionário para seguir as etapas apropriadas para encerrar e desalocar o funcionário. Semelhante a uma rescisão voluntária, as informações de término são inseridas no HRIS juntamente com todas as etapas necessárias, como coordenação de data efetiva, remoção de acesso. e quaisquer outras etapas relativas à transição para fora da função.
