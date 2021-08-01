@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0af79e7834006940f46643dae678c1a8ca77fad2
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573779"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678236"
 ---
 # <a name="privacy-overview"></a>Visão geral da privacidade
 
@@ -49,18 +49,28 @@ O compartilhamento de terceiros é o compartilhamento ou a divulgação de dados
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>Como a Microsoft exclui dados do cliente quando um cliente sai do serviço?
 
-O Microsoft Data Handling Standard especifica por quanto tempo os dados do cliente serão mantidos após a exclusão. Quando um cliente encerra sua assinatura, a Microsoft retém os dados do cliente em uma conta de função limitada por 90 dias para permitir que o cliente extraia os dados. Após o término do período de retenção de 90 dias, a Microsoft excluirá os dados do cliente, a menos que autorizado a retê-los ou seja necessário retê-los por lei. No máximo 180 dias após a expiração ou término de uma assinatura do Microsoft 365, a Microsoft desabilita a conta e exclui todos os dados do cliente da conta. Depois que o período máximo de retenção de todos os dados tiver decorrido, os dados são renderizados comercialmente irrecuperáveis.
+O Microsoft Data Handling Standard especifica por quanto tempo os dados do cliente serão mantidos após a exclusão. Quando um cliente encerra sua assinatura, a Microsoft retém os dados do cliente em uma conta de função limitada por 90 dias para permitir que o cliente extraia os dados. Após o término do período de retenção de 90 dias, a Microsoft excluirá os dados do cliente, a menos que autorizado a retê-los ou seja necessário retê-los por lei. Não mais do que 180 dias após a expiração ou término de uma assinatura para serviços online da Microsoft, a Microsoft desabilita a conta e exclui todos os dados do cliente da conta. Depois que o período máximo de retenção de todos os dados tiver decorrido, os dados são renderizados comercialmente irrecuperáveis.
 
-A Microsoft também exclui todos os dados de diagnóstico e gerados pelo serviço como parte do ciclo de vida de dados padrão da Microsoft, a menos que os dados são necessários para manter a segurança e a estabilidade do serviço. Para qualquer assinatura, um assinante pode entrar em contato com Suporte da Microsoft e solicitar o desprovisionamento de assinatura acelerada. Quando um cliente aproveita esse processo, todos os dados do usuário são excluídos três dias após o administrador inserir o código de bloqueio fornecido pela Microsoft. Essa exclusão inclui dados em SharePoint Online e Exchange Online em espera ou armazenados em caixas de correio inativas.
+A Microsoft também exclui todos os dados de diagnóstico e gerados pelo serviço como parte do ciclo de vida de dados padrão da Microsoft, a menos que os dados são necessários para manter a segurança e a estabilidade do serviço. Para qualquer assinatura, um assinante pode entrar em contato com Suporte da Microsoft e solicitar o desprovisionamento de assinatura acelerada. Quando um cliente usa esse processo, todos os dados do usuário são excluídos três dias após o administrador inserir o código de bloqueio fornecido pela Microsoft. Essa exclusão inclui dados em SharePoint Online e Exchange Online em espera ou armazenados em caixas de correio inativas.
 
 ## <a name="related-external-regulations--certifications"></a>Regulamentações externas relacionadas & certificações
 
 Os serviços online da Microsoft são regularmente auditados para conformidade com regulamentações e certificações externas. Consulte a tabela a seguir para validação de controles relacionados à privacidade.
 
+### <a name="azure-and-dynamics-365"></a>Azure e Dynamics 365
+
 | **Auditorias externas** | **Section** | **Data do relatório mais recente** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Instrução of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificação](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Finalidade do processador PII de nuvem pública | Abril de 20, 2021 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Contratos de nível de serviço (SLAs) <br> CA-17: Política de segurança da Microsoft <br> CA-25: Atualizações da estrutura de controle | 24 de dezembro de 2020 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Instrução of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificação](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Finalidade do processador PII de nuvem pública | 2 de dezembro de 2020 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: Término/expiração da assinatura do cliente <br> SDL-1: metodologia SDL (Ciclo de Vida do Desenvolvimento de Segurança) <br> LA-4: Proteção de dados confidenciais do cliente | 21 de março de 2021 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: Término/expiração da assinatura do cliente <br> SDL-1: metodologia SDL (Ciclo de Vida do Desenvolvimento de Segurança) <br> LA-4: Proteção de dados confidenciais do cliente <br> SOC2-1: Classificação de ativos <br> SOC2-7: Obrigações de confidencialidade e segurança publicadas | 31 de março de 2021 |
+
+### <a name="office-365"></a>Office 365
+
+| **Auditorias externas** | **Section** | **Data do relatório mais recente** |
+|:--------------------|:------------|:-----------------------|  
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Instrução of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: Finalidade do processador PII de nuvem pública | Abril de 20, 2021 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: Contratos de nível de serviço (SLAs) <br> CA-17: Política de segurança da Microsoft <br> CA-25: Atualizações da estrutura de controle | 24 de dezembro de 2020 |
 
 ## <a name="resources"></a>Recursos
 
