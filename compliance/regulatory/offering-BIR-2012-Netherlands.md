@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ca869ce3fe1bc6111cf975296993c655040be4d1
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 3dd35bdfba174f82db40ef783c61c65e475b2ac01a6e2962556f6bef362f8173
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292608"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Padrão de linha de base do Informatiebeveiliging Rijksdienst (BIR 2012)
 
@@ -51,7 +51,7 @@ Embora a Microsoft não esteja sujeita à conformidade com o BIR 2012, os client
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade de seus serviços e da assinatura do Office 365:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|

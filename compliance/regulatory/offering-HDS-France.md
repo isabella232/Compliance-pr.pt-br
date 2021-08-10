@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 65739fcf3b787ea50523c3195ffaf7e31d315d3f
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4d69d75e99537e7087a4ddf880f1f26ee03af463d23738f548499f0c6b39daed
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293798"
 ---
 # <a name="health-data-hosting-hds-france"></a>Hospedagem de Dados de Integridade (HDS) França
 

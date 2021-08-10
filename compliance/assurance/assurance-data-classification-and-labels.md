@@ -1,6 +1,6 @@
 ---
 title: Classificação de dados & taxonomia do rótulo de sensibilidade
-description: Neste artigo, você pode encontrar uma visão geral do uso da classificação de dados & taxonomia de rótulo de sensibilidade com o Microsoft 365.
+description: Neste artigo, você pode encontrar uma visão geral do uso da classificação de dados & taxonomia de rótulo de sensibilidade com Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,18 +20,18 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: fcfe98116f4d0629f322383f2992605d2dcf19de
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 0a178b23182427c0d202be38a9986c9e9069e1af2b71290a248c33aae19e0eaa
+ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497787"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57833878"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>Classificação de dados & taxonomia do rótulo de sensibilidade
 
 Os dados confidenciais apresentam um risco significativo para uma empresa se eles são roubados, compartilhados inadvertidamente ou expostos por meio de uma violação. Os fatores de risco incluem danos à reputação, impacto financeiro e perda de vantagem competitiva. Proteger os dados e informações que sua empresa gerencia é uma prioridade máxima para sua organização, mas talvez seja difícil saber se seus esforços são realmente eficazes, considerando a quantidade de conteúdo mantida pela sua empresa.
 
-Além do volume, seu conteúdo pode variar de altamente sensível e impactante a trivial e transitório. Ele também pode estar sob a alçada de vários requisitos de conformidade regulamentar. Saber o que priorizar e onde aplicar controles pode ser um desafio. Leia para saber mais sobre a classificação de dados *,* uma ferramenta importante para proteger seu conteúdo contra roubo, sabotagem ou destruição inadvertida e como o Microsoft 365 pode ajudá-lo a cumprir suas metas de segurança de informações.
+Além do volume, seu conteúdo pode variar de altamente sensível e impactante a trivial e transitório. Ele também pode estar sob a alçada de vários requisitos de conformidade regulamentar. Saber o que priorizar e onde aplicar controles pode ser um desafio. Leia para saber mais sobre a classificação de dados *,* uma ferramenta importante para proteger seu conteúdo contra roubo, sabotagem ou destruição inadvertida e como a Microsoft 365 pode ajudá-lo a cumprir suas metas de segurança de informações.
 
 ## <a name="what-is-data-classification"></a>O que é classificação de dados?
 
@@ -40,7 +40,9 @@ Além do volume, seu conteúdo pode variar de altamente sensível e impactante a
 ## <a name="what-is-a-data-classification-framework"></a>O que é uma estrutura de classificação de dados?
 
 Geralmente codificada em uma política formal em toda a empresa, uma estrutura de classificação de dados (às vezes chamada de "política de classificação de dados") geralmente é composta por níveis de classificação de 3 a 5. Geralmente, eles incluem três elementos: um nome, uma descrição e exemplos do mundo real. A Microsoft recomenda não mais do que cinco rótulos pai de nível superior, cada um com cinco sub-rótulos (25 no total) para manter a interface do usuário (UI) gerenciável. Normalmente, os níveis são organizados do mínimo para o mais confidencial, como *Público,* *Interno,* *Confidencial* e *Altamente* 
- *Confidencial.* Outras variações de nome de nível que você pode encontrar *incluem Restricted,* *Unrestricted* e *Consumer Protected*. A Microsoft recomenda nomes de rótulo auto-descritivos e que realçam claramente sua sensibilidade relativa. Por exemplo, *Confidencial* e *Restrito* pode deixar os usuários supondo qual rótulo é apropriado, enquanto *Confidencial* e Altamente *Confidencial* são mais claros sobre o qual é mais confidencial. A tabela a seguir mostra exemplos de níveis da estrutura de classificação de dados.
+ *Confidencial.* Outras variações de nome de nível que você pode encontrar *incluem Restricted,* *Unrestricted* e *Consumer Protected*. A Microsoft recomenda nomes de rótulo auto-descritivos e que realçam claramente sua sensibilidade relativa. Por exemplo, *Confidencial* e *Restrito* pode deixar os usuários supondo qual rótulo é apropriado, enquanto *Confidencial* e Altamente *Confidencial* são mais claros sobre o qual é mais confidencial. 
+
+A tabela a seguir mostra um exemplo de *um* nível de estrutura de classificação de dados altamente confidencial:
 
 |**Nível de classificação**|**Descrição**|**Exemplos**|
 |:-----------------------|:--------------|:-----------|
@@ -51,7 +53,7 @@ Geralmente codificada em uma política formal em toda a empresa, uma estrutura d
 
 Outro componente importante de uma estrutura de classificação de dados são os controles associados a cada nível. Os níveis de classificação de dados por si só são rótulos (ou marcas) que indicam o valor ou a sensibilidade do conteúdo. Para *proteger* esse conteúdo, as estruturas de classificação de dados definem os controles que devem estar no local para cada um dos seus níveis de classificação de dados. Esses controles podem incluir requisitos relacionados a:
 
-- Tipo e local de armazenamento
+- Armazenamento tipo e local
 - Criptografia
 - Controle de acesso
 - Destruição de dados
@@ -64,7 +66,7 @@ Seus controles de segurança variam de acordo com o nível de classificação de
 
 |**Tipo de armazenamento**|**Confidencial**|**Interno**|**Irrestrita**|
 |:---------------|:---------------|:-----------|:---------------|
-| Armazenamento removível | Proibido | Proibido, a menos que criptografado | Nenhum controle necessário |
+| Removível Armazenamento | Proibido | Proibido, a menos que criptografado | Nenhum controle necessário |
 
 A aplicação correta do nível correto de classificação de dados pode ser complexa em situações da vida real e, às vezes, sobrecarregar os usuários finais. Depois que uma política ou padrão é criada que define os níveis necessários de classificação de dados, é importante orientar os usuários finais sobre como dar vida a essa estrutura em seu trabalho diário. Essa área é onde as regras ou diretrizes de tratamento de classificação de dados chegam.
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0769681ba9a8885639c52eaa1a3d4d55ea9ab0c0
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: d7eec293ba5f91eb9fc4b3ebd6cb694298f6e1f70f2520bdaf1ad630ccdaa31a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294278"
 ---
 # <a name="enisa-information-assurance-framework"></a>Estrutura de garantia de informações da ENISA
 
@@ -60,7 +60,7 @@ Para obter mais informações sobre o Azure, o Dynamics 365 e outros serviços d
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade dos seus serviços e da assinatura do Office 365:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|

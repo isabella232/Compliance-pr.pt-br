@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2896f3dea06181ef11393a40a4822b3b6fd345a5
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4ba6e4160b14ff89f4e8afd57036c7817f2ad4a4bb262c6a032e4bdb3983723e
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292468"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>Autoridade de Supervisão Financeira (FSA) da Dinamarca
 

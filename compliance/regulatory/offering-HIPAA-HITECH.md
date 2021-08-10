@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293828"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Lei de Portabilidade e Responsabilidade do Seguro de Saúde (HIPAA) & Tecnologia de Informações de Saúde para a HiTECH (Economic and Clinical Health Health) Act
 
@@ -47,9 +47,9 @@ Os serviços de nuvem empresarial da Microsoft também são abordados por avalia
 
 Para saber como o Microsoft Cloud ajuda os clientes a dar suporte a HIPAA e aos requisitos hitech, visite [Microsoft Customer Stories](https://customers.microsoft.com/).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
-- Azure e Azure Government
+- Azure e Azure Governamental
 - Azure DevOps Services
 - Dynamics 365 e Dynamics 365 U.S. Government
 - Intune
@@ -69,18 +69,18 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-hipaa"></a>Office 365 e HIPAA
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
 | **Office 365** | Access Online, Azure Active Directory, Serviço de Comunicações do Azure, Gerenciador de Conformidade, Caixa de Bloqueio do Cliente, Delve, Exchange Online, Formulários, Grifo, Gerenciador de Identidade, Lockbox (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Portal do Cliente do Office 365, Microserviços do Office 365 (incluindo, mas não limitado a Kaizala, Repositório de Objetos, Sway, Power Automate, Serviço de Documento do PowerPoint Online, Query Serviço de Anotação, School Data Sync, Siphon, Speech, StaffHub, Programa de Aplicativos EXtensible Office 365), Centro de Conformidade & segurança, Office Online, Office Pro Plus, infraestrutura de serviços Office, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Criptografia de Serviço com Chave de Cliente, SharePoint Online, Skype for Business, Stream |
-| **GCC** | Azure Active Directory, Serviço de Comunicações do Azure, Gerenciador de Conformidade, Delve, Exchange Online, Formulários, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC** | Azure Active Directory, Exchange Online, Flow, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="frequently-asked-questions"></a>Perguntas frequentes
 

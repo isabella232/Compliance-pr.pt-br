@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f92ed19a22b7eff8a7e9988e66c51aea90d42ab
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294228"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Nível de impacto do Departamento de Defesa (DoD) 5 (IL5)
 
@@ -51,11 +51,11 @@ Além disso, de acordo com a [Seção 5.2.2.3](https://dl.dod.cyber.mil/wp-conte
 - A separação física de locatários que não são do DoD/do Governo Federal (ou seja, locatários públicos, locais/estatais do governo) é necessária.
 - O CSP restringe o acesso potencial às informações do DoD e da comunidade aos funcionários do CSP que são cidadãos dos EUA.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure
 - Serviço de Atendimento ao Cliente do Dynamics 365
-- Microsoft Defender para Ponto de Extremidade (anteriormente Proteção Avançada contra Ameaças do Microsoft Defender)
+- Microsoft Defender para Ponto de Extremidade (anteriormente Proteção avançada contra ameaças do Microsoft Defender)
 - Microsoft Graph
 - Microsoft Stream
 - Office 365 U.S. Government Defense
@@ -68,13 +68,13 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-dod-il5"></a>Office 365 e DoD IL5
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|

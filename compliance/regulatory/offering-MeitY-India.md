@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292448"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministry of Electronics and Information Technology (MeitY)
 
@@ -43,7 +43,7 @@ Em novembro de 2017, a Microsoft se tornou um dos primeiros provedores globais d
 
 O credenciamento MeitY da Microsoft foi o resultado de uma auditoria rigorosa conduzida pelo Diretório stqc (Standardization Testing and Quality Certification), uma organização governamental que fornece serviços de garantia de qualidade, usando uma estrutura de avaliação com base no trabalho da Iniciativa de Nuvem MeghRaj. Por meio Microsoft Azure, as organizações do setor público agora podem desenhar uma ampla variedade de modelos de implantação e ofertas de serviço, incluindo infraestrutura como serviço (IaaS), plataforma como serviço (PaaS), recuperação de desastres, DevOps e backup gerenciado.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

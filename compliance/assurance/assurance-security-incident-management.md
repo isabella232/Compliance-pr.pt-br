@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d52832d34034966eb9373925be2d3f5b31cfad5a
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 38bb8c8492c3bbff6ed96380ac3a4d284f220a0ec5b2fb7b7c00814033a5c02c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292179"
 ---
 # <a name="microsoft-security-incident-management"></a>Gerenciamento de incidentes de segurança da Microsoft
 
@@ -71,7 +71,7 @@ Os serviços online da Microsoft consistem em produtos principais da Microsoft, 
 
 Esta tabela apresenta os limites operacionais entre as várias equipes de operações de segurança do serviço online da Microsoft e as equipes de serviço da Microsoft:
 
-|**Atividade**|**Operações da Equipe de Segurança da Microsoft**|**Operações de equipe de serviço da Microsoft**|
+|**Atividades**|**Operações da Equipe de Segurança da Microsoft**|**Operações de equipe de serviço da Microsoft**|
 |:-----------|:-----------------------------------------|:----------------------------------------|
 | Detecção e análise | - Requisitos de detecção <br> - Monitoramento e análise de segurança <br> - Indicador de varreduras de comprometimento (IOC) <br> - Busca de violação <br> - Líder de resposta a incidentes e segurança 24x7 | - Requisitos de detecção <br> - Monitoramento da implantação de infraestrutura <br> - Análise e visão do serviço <br> - Triagem de eventos e alertas <br> - Engenharia de serviço 24x7 em chamada  |
 | Contenção, erradicação, recuperação | - Líder de resposta a incidentes <br> - Investigação forense <br> - Experiência em segurança e consultoria <br> - Diretrizes de recuperação | - Proprietário de incidentes de segurança <br> - Experiência e experiência do serviço <br> - Executar contenção, erradicação e recuperação |

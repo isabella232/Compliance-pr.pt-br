@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8eebfff19667ee96298179843b7b39f071b9f0a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6406c63d73e30a62d3cbe54bf8cef632cc5564b2cae3d1a9588652644b8f8c96
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293898"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Publicação do Serviço de Receita Interna dos EUA 1075
 
@@ -45,7 +45,7 @@ Para ajudar as agências governamentais em seus esforços de conformidade, a Mic
 - Fornece ao IrS Azure Government Compliance Considerations e Office 365 considerações de conformidade do governo dos EUA, que descreve como uma agência pode usar o Microsoft Cloud for Government services de forma que seja de acordo com o IRS 1075. Os clientes governamentais em NDA podem solicitar esses documentos.
 - Oferece aos clientes a oportunidade (às suas custas) de se comunicar com especialistas no assunto da Microsoft ou auditores externos, se necessário.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 As autorizações fedRAMP são concedidas em três níveis de impacto com base nas diretrizes NIST — baixo, médio e alto. Eles classificam o impacto que a perda de confidencialidade, integridade ou disponibilidade poderia ter em uma organização — baixo (efeito limitado), médio (efeito adverso grave) e alto (efeito grave ou catastrófico).
 
@@ -60,20 +60,20 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-irs-1075"></a>Office 365 e IRS 1075
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
 | **Office 365** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, relatórios de uso do Office, OneDrive for Business, Cartão de Pessoas, Infraestrutura de Serviço, SharePoint Online, Skype for Business, Windows Ink |
 | **GCC** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365, relatórios e certificados
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
 
 A conformidade com os requisitos substantivos do IRS 1075 é coberta pela auditoria fedRAMP todos os anos.
 

@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 965c7d6d0d469b9eea981252805bda598c92a4c8
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 5962a910a65744bae70277d10867c3046310cdf1ead4f99ef285e40c72dc8ce6
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291849"
 ---
 # <a name="microsoft-security-incident-management-post-incident-activity"></a>Gerenciamento de incidentes de segurança da Microsoft: atividade pós-incidente
 

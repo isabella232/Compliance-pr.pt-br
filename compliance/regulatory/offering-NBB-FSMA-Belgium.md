@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3e0cedef50d4ac52547c785e5a5395b8b67ca1d6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 561d978301f5078f8b244e3262c7afa7cd81f1c890b692b2b619b4a2c563c6fb
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293408"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>O National Bank of Belgium (NBB) e a Financial Services and Markets Authority (FSMA)
 

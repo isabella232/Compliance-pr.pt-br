@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a3431b93e1c8f4b2705a0362114412aa4381143b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: abe4804585269110d07e00b2e6f7cda75bd88106effd21f4d8060fedc03bbce8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294348"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>Controles de Sistema e Organização (SOC) 1 Tipo 2
 
@@ -105,11 +105,11 @@ Para obter links para a documentação de auditoria, consulte a seção de relat
 
 **Onde posso ver respostas de gerenciamento para exceções detectadas?**
 
-As respostas de gerenciamento estão localizadas no final do relatório de atestado soc. Pesquise 'Resposta de Gerenciamento' no documento.
+As respostas de gerenciamento estão localizadas no final do relatório de atestado SOC. Pesquise por “Resposta de Gerenciamento” no documento.
 
 **Onde posso ver as responsabilidades da entidade do usuário?**
 
-As responsabilidades da entidade usuária estão localizadas no final do relatório de atestado SOC. Pesquise o documento para 'Responsabilidades da Entidade do Usuário'.
+As responsabilidades da entidade usuária estão localizadas no final do relatório de atestado SOC. Pesquise por “Responsabilidades da Entidade do Usuário” no documento.
 
 ### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 

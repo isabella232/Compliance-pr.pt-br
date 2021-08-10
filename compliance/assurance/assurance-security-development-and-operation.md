@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3e2b1e62e0d614c503c978dff98d6952ff7de20d
-ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
+ms.openlocfilehash: 062284cb1cb56602bbcc4ba683670bfeb98460db2569bd837eaf748feceaae7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2021
-ms.locfileid: "53678216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292169"
 ---
 # <a name="security-development-and-operations-overview"></a>Visão geral de desenvolvimento e operações de segurança
 

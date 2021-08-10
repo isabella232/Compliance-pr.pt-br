@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292488"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 
@@ -41,7 +41,7 @@ O compromisso de serviços Microsoft para o Marketplace Digital significa que as
 
  [14 Controles](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) de Segurança de Nuvem para nuvem do Reino Unido usando o Microsoft Azure fornece estratégias do cliente para mover seus serviços para o Azure e ajudar a cumprir suas obrigações do Reino Unido impostas pelo CESG/NCSC. O whitepaper fornece informações sobre como o Azure pode ser usado para ajudar a lidar com os 14 controles descritos nas entidades de segurança na nuvem e descreve como os clientes podem se mover mais rapidamente e obter mais ao economizar dinheiro enquanto adotam serviços Microsoft Azure.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure
 - Microsoft Cloud App Security
@@ -50,17 +50,17 @@ O compromisso de serviços Microsoft para o Marketplace Digital significa que as
 - Office 365
 - Power Automate (anteriormente Microsoft Flow) serviço de nuvem (como um serviço autônomo ou incluído em um plano ou pacote de marca Office 365 ou Dynamics 365)
 - Serviço de nuvem do PowerApps (como um serviço autônomo ou como incluído em um Office 365 ou plano ou pacote de marca do Dynamics 365)
-- Power BI de nuvem (como um serviço autônomo ou como incluído em um Office 365 ou pacote)
+- Serviço de nuvem do Power BI (como um serviço autônomo ou incluído em um plano ou pacote com a marca Office 365)
 
 ## <a name="office-365-and-uk-g-cloud"></a>Office 365 e Uk G-Cloud
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|

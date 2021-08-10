@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f9189b763824a144a72259643c252563bc6a349b
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 764b56a0f950d0b933bb86bb86ad505481bce482cbed4d2a0b06a4969b1c6661
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292293"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Triagem de pré-emprego da Microsoft
 
@@ -54,7 +54,7 @@ Na medida em que permitido pela lei local, as verificações incluem o seguinte:
 
 - Rastreamento SSN nos Estados Unidos ou confirmação de identidade de um documento emitido pelo governo na Europa, Oriente Médio e Ásia.
 - O histórico criminal verifica até sete anos por crimes criminais e contravenções nos níveis de estado, município e local, e no nível federal, se apropriado nos Estados Unidos. Uma verificação de histórico criminal internacional (dependente da lei local) é aplicável para áreas fora dos Estados Unidos.
-- Confirmação do nível mais alto de conquistas acadêmicas
+- Confirmação do nível mais alto de conquista acadêmica
 - Histórico de cinco anos de emprego
 - Verificação de sanções e imposições globais, incluindo Office lista of Foreign Assets Control (OFAC), lista do Bureau of Industry and Security (BIS) e verificações de lista Office de DDTC (Defense Trade Controls Debarred Persons).
 
@@ -66,8 +66,8 @@ Na medida em que permitido pela lei local, as verificações de Triagem de Forne
 
 - Rastreamento SSN nos Estados Unidos ou confirmação de identidade de um documento emitido pelo governo na Europa, Oriente Médio e Ásia.
 - O histórico criminal verifica até sete anos por crimes criminais e contravenções nos níveis de estado, município e local, e no nível federal, se apropriado nos Estados Unidos. Uma verificação de histórico criminal internacional (dependente da lei local) é aplicável para áreas fora dos Estados Unidos.
-- Confirmação do nível mais alto de conquistas acadêmicas
-- Verificação global de sanções e imposição
+- Confirmação do nível mais alto de conquista acadêmica
+- Sanções globais e verificação de imposição
 
 Nos Estados Unidos antes de cada posicionamento de cada membro da equipe de fornecedores a ser realizado para a Microsoft, na medida do permitido pela lei local, o Fornecedor realizará um pré-posicionamento e, para determinados posicionamentos, verificações periódicas em segundo plano utilizando o provedor de serviço de triagem de verificação de plano de fundo preferencial da Microsoft que confirmará à Microsoft que a triagem atende ao padrão da Microsoft. 
 

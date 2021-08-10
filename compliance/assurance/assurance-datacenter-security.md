@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0ac1cdfb315c872e78872d144fa24d28500be096
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: f9cd84fed225764b61049aefc3ec95b2eb75fce845b2b9ef752fc194d949c409
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292438"
 ---
 # <a name="datacenter-security-overview"></a>Visão geral da segurança do datacenter
 
@@ -35,25 +35,25 @@ ms.locfileid: "53088650"
 
 A Microsoft fornece mais de 200 serviços de nuvem, incluindo serviços corporativos, como Microsoft Azure, Microsoft 365 e Microsoft Dynamics 365, para clientes 24x7x365. Esses serviços são hospedados na infraestrutura de nuvem da Microsoft composta por datacenters distribuídos globalmente, nós de computação de borda e centros de operações de serviço. Eles são suportados e conectados por uma das maiores redes globais do mundo, com um amplo volume de fibra.
 
-Os datacenters que potencializando nossas ofertas de nuvem se concentram em alta confiabilidade, excelência operacional, custo-eficácia, sustentabilidade ambiental e uma experiência online confiável para clientes e parceiros em todo o mundo. A Microsoft testa regularmente a segurança do datacenter por meio de auditorias internas e de terceiros. Como resultado, as organizações mais altamente regulamentadas do mundo confiam na nuvem da Microsoft, que está em conformidade com mais certificações do que qualquer outro provedor de serviços de nuvem.
+Nos concentramos em alta confiabilidade, excelência operacional, bom valor de custo-benefício, sustentabilidade ambiental e uma experiência online confiável para clientes e parceiros em todo o mundo. A Microsoft testa regularmente nossa segurança de datacenter por meio de auditorias internas e de terceiros. Como resultado, as organizações mais regulamentadas do mundo confiam na nuvem da Microsoft, que está em conformidade com mais certificações do que qualquer outro provedor de serviços de nuvem.
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-unauthorized-access"></a>Como a Microsoft protege seus datacenters contra acesso não autorizado?
 
 O acesso a instalações de datacenter físico é fortemente controlado por perímetros externos e internos com segurança crescente em cada nível, incluindo cerca de perímetro, agentes de segurança, racks de servidor bloqueados, sistemas de alarme integrados, monitoramento de vídeo 24 horas pelo centro de operações e controle de acesso multi-fator. Somente funcionários necessários estão autorizados a acessar datacenters da Microsoft. O acesso lógico à Microsoft 365, incluindo dados do cliente, é proibido dentro dos datacenters da Microsoft.
 
-Nossos Centros de Operações de Segurança usam a vigilância em vídeo juntamente com sistemas de controle de acesso eletrônico integrados para monitorar sites e instalações do datacenter. As câmeras são posicionadas estrategicamente para cobertura efetiva do perímetro de instalações, entradas, compartimentos de envio, compartimentos de servidor, corredores internos e outros pontos de interesse de segurança confidenciais. Como parte de nossa postura de segurança em várias camadas, todas as tentativas de entrada não autorizadas detectadas pelos sistemas de segurança integrados geram alertas para a equipe de segurança para resposta imediata e correção.
+Nossos Centros de Operações de Segurança usam vigilância em vídeo junto com sistemas de controle de acesso eletrônico integrados para monitorar sites e instalações do datacenter. As câmeras são posicionadas estrategicamente para uma cobertura eficaz do perímetro, das entradas, dos compartimentos de remessa, dos compartimentos do servidor, das resserções interiores e de outros pontos de segurança confidenciais de interesse. Como parte de nossa postura de segurança em várias camadas, todas as tentativas de entrada não autorizada detectadas pelos sistemas de segurança integrados geram alertas à equipe de segurança para resposta imediata e correção.
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-environmental-hazards"></a>Como a Microsoft protege seus datacenters contra riscos ambientais?
 
 A Microsoft emprega uma variedade de proteções para proteger contra ameaças ambientais à disponibilidade do datacenter. Os sites de datacenter são selecionados estrategicamente para minimizar o risco de uma variedade de fatores, incluindo inundações, terremotos, furacões e outros desastres naturais. Nossos datacenters usam o controle climático para monitorar e manter espaços otimizados para funcionários, equipamentos e hardware. Os sistemas de detecção e supressão de incêndio e sensores de água ajudam a detectar e evitar danos de incêndio e água ao equipamento.
 
-Os desastres são imprevisíveis, mas os datacenters e operações da Microsoft se preparam para que desastres forneçam continuidade das operações caso ocorram eventos inesperados. A arquitetura resiliente e os planos de continuidade testados atualizados atenuam possíveis danos e promovem uma recuperação rápida das operações do datacenter. Os planos de gerenciamento de crise fornecem clareza sobre funções, responsabilidades e atividades de mitigação antes, durante e após uma crise. As funções e contatos definidos nesses planos facilitam o escalonamento efetivo da cadeia de comando durante situações de crise.
+Os desastres são imprevisíveis, mas os datacenters e a equipe de operações da Microsoft se preparam para desastres para fornecer continuidade das operações caso ocorram eventos inesperados. A arquitetura resiliente e os planos de continuidade testados atualizados atenuam possíveis danos e promovem uma recuperação rápida de operações de datacenter. Os planos de gerenciamento de crise fornecem clareza sobre funções, responsabilidades e atividades de mitigação antes, durante e após uma crise. As funções e contatos definidos nesses planos facilitam o escalonamento efetivo da cadeia de comando durante situações de crise.
 
 ## <a name="how-does-microsoft-verify-the-effectiveness-of-datacenter-security"></a>Como a Microsoft verifica a eficácia da segurança do datacenter?
 
-Entendemos que, para que nossos clientes percebam totalmente os benefícios da nuvem, eles devem ser capazes de confiar no provedor de serviços de nuvem. Nossa infraestrutura e o pacote de serviços de nuvem são construídos do zero para atender aos requisitos rigorosos de segurança e privacidade de nossos clientes. Ajudamos nossos clientes a cumprir requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados de indivíduos, fornecendo o conjunto mais abrangente de ofertas de conformidade de qualquer provedor de serviços de nuvem.
+Entendemos que, para que nossos clientes percebam totalmente os benefícios da nuvem, eles devem ser capazes de confiar no provedor de serviços de nuvem. Nossa estrutura e conjunto de serviços de nuvem são construídos de raiz para atender às rigorosas exigências de segurança e privacidade dos nossos clientes. Para ajudá-lo a cumprir os requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados dos indivíduos, oferecemos o conjunto mais abrangente de ofertas de conformidade de qualquer provedor global de produtividade na nuvem.
 
-Nossa infraestrutura de nuvem e ofertas atendem a um amplo conjunto de padrões de conformidade internacionais e específicos do setor, como ISO, HIPAA, FedRAMP e SOC, bem como padrões específicos do país, como o IRAP da Austrália, o G-Cloud do Reino Unido e o MTCS de Cingapura. Auditorias rigorosas de terceiros verificam nossa adesão aos rigorosos controles de segurança que esses padrões determinam. Relatórios de auditoria para nossa infraestrutura de datacenter e ofertas de nuvem estão disponíveis no Portal de Confiança [do Serviço Microsoft.](https://servicetrust.microsoft.com/)
+Nossa infraestrutura e ofertas de nuvem atendem a um amplo conjunto de padrões de conformidade internacionais e específicos do setor, como ISO, HIPAA, FedRAMP e SOC, bem como padrões específicos de países, como IRAP da Austrália, G-Cloud do Reino Unido e MTCS de Singapura. Auditorias rigorosas de terceiros verificam nossa adesão aos rígidos controles de segurança exigidos por esses padrões. Relatórios de auditoria para nossa infraestrutura de datacenter e ofertas de nuvem estão disponíveis no Portal de Confiança [do Serviço Microsoft.](https://servicetrust.microsoft.com/)
 
 ## <a name="related-external-regulations--certifications"></a>Regulamentações externas relacionadas & certificações
 

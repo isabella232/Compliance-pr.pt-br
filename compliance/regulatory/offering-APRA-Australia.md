@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385491"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292618"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Autoridade de Regulação Prudencial Australiana (APRA)
 
@@ -72,7 +72,7 @@ Confiando em nossa abordagem abrangente para a garantia de riscos na nuvem, esta
 
 Obter suporte prático para mover dados e cargas de trabalho para o Azure em conformidade com os regulamentos do APRA: Baixar serviços de nuvem da [Microsoft:](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)uma lista de verificação de conformidade para instituições financeiras na Austrália .
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -80,17 +80,17 @@ Obter suporte prático para mover dados e cargas de trabalho para o Azure em con
 
 ## <a name="office-365-and-apra"></a>Office 365 e APRA
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Proteção do Exchange Online, Exchange Online, Office 365 Customer Portal, Office Online, infraestrutura de serviços Office, OneDrive for Business, SharePoint Online, Skype for Business |
+| **Office 365** | Proteção do Exchange Online, Exchange Online, Portal do Cliente do Office 365, Office Online, Infraestrutura de Serviços do Office, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 

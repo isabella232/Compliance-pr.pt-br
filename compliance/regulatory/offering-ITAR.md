@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0797161b0c7bfca8d4fda37cbf05a037d29322de
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: d5bebc4a270a11518989c548ef17ac48b8f79b5cc5720f09bc8677c40e422421
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293878"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>ITAR (International Traffic in Arms Regulations)
 
@@ -41,7 +41,7 @@ O ITAR tem obrigações específicas para relatar violações, o que pode oferec
   
 Os clientes que procuram hospedar dados regulamentados pelo ITAR devem trabalhar com suas equipes de licenciamento e conta da Microsoft para saber mais, obter contratos adequados e acessar informações relevantes da arquitetura do sistema.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Governo do Azure
 - Office 365 Governo dos EUA - Defesa Office 365 alta
@@ -52,17 +52,17 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-itar"></a>Office 365 e ITAR
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **CCG Alto** | Serviço de Feed de Atividades, Serviços Bing, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, Infraestrutura de Serviço Office, Relatórios de Uso do Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC Alta** | Serviço de Feed de Atividades, Serviços Bing, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, Infraestrutura de Serviço Office, Relatórios de Uso do Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 | **DoD** | Serviço de Feed de Atividades, Serviços Bing, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, Infraestrutura de Serviço Office, Relatórios de Uso do Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
 ### <a name="frequently-asked-questions"></a>Perguntas frequentes

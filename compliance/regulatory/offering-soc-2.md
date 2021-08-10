@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c20ad27b244825e017d7545e669262ca61202b60
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 10e746cb1e948311090437bb85e497bdd81d97021b9dcd5f3a767c3237f5b8b6
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293493"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>Controles de Sistema e Organização (SOC) 2 Tipo 2
 
@@ -76,7 +76,7 @@ Para obter mais informações sobre o Azure, o Dynamics 365 e outros serviços d
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade de seus serviços e da assinatura do Office 365:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|

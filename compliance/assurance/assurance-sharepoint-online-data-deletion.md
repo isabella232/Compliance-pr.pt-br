@@ -21,12 +21,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6968cc318a625676195460814a9e264dada8605e
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 5a507dcd68aeda46ccf744e31828559aa6102a4f0fc50987f97041c6da8ab56f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292039"
 ---
 # <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>SharePoint Exclusão de dados online em Microsoft 365
 

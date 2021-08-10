@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293588"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Us Export Administration Regulations (EAR)
 
@@ -51,9 +51,9 @@ O Departamento de Comércio dos EUA, que impõe o EAR, tomou a posição de que 
 - **Criptografia de ponta a ponta.** Aproveitando o porto seguro de criptografia de ponta a ponta para locais de armazenamento físico especificados no EAR, os serviços de nuvem no escopo da Microsoft oferecem recursos de criptografia que podem ajudar a proteger contra riscos de controle de exportação. Eles também oferecem aos clientes uma [ampla](https://aka.ms/Azure-Encryption-Overview) variedade de opções para criptografar dados em trânsito e em repouso e a flexibilidade de escolher entre opções de criptografia.
 - **Ferramentas e protocolos para impedir a exportação não autorizada considerada**. O uso da criptografia também ajuda a proteger contra uma exportação potencial considerada (ou considerada re-exportação) sob o EAR, porque mesmo que uma pessoa não-EUA tenha acesso a dados criptografados, nada será revelado se não puder ler ou entender os dados enquanto eles são criptografados; portanto, não há "versão" de dados controlados.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
-- [Azure e Azure Governamental](https://aka.ms/AzureCompliance)
+- [Azure e Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 Government (GCC-High e DoD)](https://aka.ms/Office-365-Export-Controls)
 - Intune
 

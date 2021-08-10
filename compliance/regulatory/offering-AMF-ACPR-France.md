@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 40309a5da5a9124fa91ddca4f371ebf05e363715
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 6504060cf7918981a601d4272c944d4b3343c69b97efa675893b21f8719a4757
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292738"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Autoridade Financeira (AMF) e Autoridade Prudencial (ACPR) da França
 

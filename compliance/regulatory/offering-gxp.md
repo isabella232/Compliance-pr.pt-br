@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a3801d434cb86f4157b70d1afcb0479365af3e9c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 76a66ea2cf7b5483c68a2baa0cff4e96b949d3932aa7ca4dd41209ff0cc363ac
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293468"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Boas Práticas Clínicas, Laboratoriais e de Manufatura (GxP)
 

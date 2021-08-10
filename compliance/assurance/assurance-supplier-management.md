@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 00a1f4ae37e3ec79a87414926c2821bab8393e39
-ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
+ms.openlocfilehash: abf8616033ee8046447b0d10292ddd25278a29a31ad829c9e0a97df7d11e2271
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2021
-ms.locfileid: "53678226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291729"
 ---
 # <a name="supplier-management-overview"></a>Visão geral do gerenciamento de fornecedores
 

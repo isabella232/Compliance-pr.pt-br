@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a29713d530542b64514f694eef67aabb09e303e0
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 0e9a29d85fcf58b31c1ba14cd115741396be79fa3b42dc6ceb09e262845376fb
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293948"
 ---
 # <a name="trusight"></a>TruSight
 

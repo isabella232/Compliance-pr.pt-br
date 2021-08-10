@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 19b312d1b9f31683d775049010d390710554df01
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294298"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,7 +44,7 @@ Os requisitos do NIST SP 800-171 são um subconjunto do NIST SP 800-53, o padrã
 
 Qualquer entidade que processe ou armazene a CUI do governo dos EUA — instituições de pesquisa, empresas de consultoria, fornecedores de manufatura, deve estar em conformidade com os requisitos rigorosos do NIST SP 800-171. Esse atestado significa que os serviços de nuvem no escopo da Microsoft podem acomodar clientes que procuram implantar cargas de trabalho cui com a garantia de que a Microsoft está em conformidade total. Por exemplo, todos os contratados do DoD que processam, armazenam ou transmitem "informações de defesa cobertas" usando serviços de nuvem da Microsoft em seus sistemas de informações atendem às cláusulas DFARS do Departamento de Defesa dos EUA que exigem conformidade com os requisitos de segurança do NIST SP 800-171.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure Commercial, Azure Government
 - Dynamics 365 U.S. Government
@@ -57,18 +57,18 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-nist-sp-800-171"></a>Office 365 e NIST SP 800-171
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
 | **GCC** | Serviço de Feed de Atividades, Serviços Bing, Delve, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, Infraestrutura de Serviço Office, Relatórios de Uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
-| **CCG Alto** | Serviço de Feed de Atividades, serviços Bing, Exchange Online, Serviços Inteligentes, Microsoft Teams, portal do cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, 
+| **GCC Alta** | Serviço de Feed de Atividades, serviços Bing, Exchange Online, Serviços Inteligentes, Microsoft Teams, portal do cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, 
 SharePoint Online, Skype for Business, Windows Ink |
 | **DoD** | Serviço de Feed de Atividades, Serviços Bing, Exchange Online, Serviços Inteligentes, Portal do Cliente do Office 365, Office Online, Infraestrutura de Serviço do Office, Relatórios de Uso do Office, OneDrive for Business, Cartão de Pessoas, Microsoft Teams, SharePoint Online, Skype for Business, Windows Ink |
 

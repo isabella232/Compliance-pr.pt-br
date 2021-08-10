@@ -1,5 +1,5 @@
 ---
-title: Proteger a infraestrutura Microsoft 365 de segurança
+title: Protegendo a infraestrutura do Microsoft 365
 description: Saiba como a Microsoft garante a infraestrutura Microsoft 365 de segurança.
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 224900bd60f2fd5637e7264f1aed98d5ff878b20
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292748"
 ---
-# <a name="securing-the-microsoft-365-infrastructure"></a>Proteger a infraestrutura Microsoft 365 de segurança
+# <a name="securing-the-microsoft-365-infrastructure"></a>Protegendo a infraestrutura do Microsoft 365
 
 Microsoft 365 é um dos maiores serviços de nuvem empresarial e consumidor do mundo e continua a crescer rapidamente, tanto na base de clientes, produtos e recursos. Os clientes se Microsoft 365 para suas soluções de produtividade de classe mundial, mas para ajudar a proteger suas informações mais confidenciais do cenário de ameaças cibernéticas em constante evolução. É a prioridade máxima da Microsoft para manter os dados do cliente seguros e manter a confiança do cliente.
 
@@ -101,4 +101,4 @@ Para obter mais informações sobre o monitoramento de segurança Microsoft 365,
 
 ## <a name="resources"></a>Recursos
 
-[Bastidores: proteger a infraestrutura que está a Microsoft 365 Serviço](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)
+[Nos bastidores: protegendo a infraestrutura que faz o Serviço do Microsoft 365 funcionar](https://download.microsoft.com/download/c/4/5/c45b197e-f0d9-4f40-bd5f-ed8fc7d0cd8c/M365DCSecurityIntro_Whitepaper.pdf)

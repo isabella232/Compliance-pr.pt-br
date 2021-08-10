@@ -14,12 +14,12 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 6fb930d713d22b38d43b57654d83f966c678d004
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c8fbeeb0eca5cf81613e7b1ad3db4b483b1299f348f8e98e957df95af556a0d4
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51495981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292958"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>RGPD para compartilhamentos de arquivos no Windows Server local
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292768"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Programa Federal de Gerenciamento de Autorização e Risco)
 
@@ -47,7 +47,7 @@ Os serviços de nuvem governamentais da Microsoft, incluindo o Governo do Azure,
 
 Os serviços de nuvem do governo da Microsoft oferecem aos clientes do setor público uma rica matriz de serviços em conformidade com FedRAMP e ferramentas robustas de orientação e implementação, incluindo o plano [High fedRAMP](https://aka.ms/fedrampblueprint), que ajuda os clientes a implantar um conjunto principal de políticas para qualquer arquitetura implantada pelo Azure que deve implementar controles FedRAMP High.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure e Azure Governamental
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -65,21 +65,21 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 - Office 365 A Defesa do Governo dos EUA tem um P-ATO da DISA (Agência de Sistemas de Informações de Defesa dos EUA). Qualquer cliente que deseje implantar Office 365 defesa governamental dos EUA pode usar o DISA P-ATO para gerar uma ato de agência para documentar sua aceitação.
 - Office 365 (planos corporativos e corporativos) e Office 365 governo dos EUA têm uma Agência FEDRAMP ATO no Nível de Impacto Moderado do DHHS Office do Inspetor Geral. Office 365 O Governo dos EUA foi o primeiro serviço de colaboração e email baseado em nuvem a obter essa autorização.
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
 | **GCC** | Serviço de Feed de Atividades, Serviços Bing, Delve, Exchange Online, Proteção do Exchange Online, Infraestrutura, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
-| **CCG Alto** | Serviço de Feed de Atividades, serviços Bing, Exchange Online, Proteção do Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC Alta** | Serviço de Feed de Atividades, serviços Bing, Exchange Online, Proteção do Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 | **DoD** | Serviço de Feed de Atividades, serviços Bing, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente do Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365, relatórios e certificados
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
 
 A Microsoft tem a obrigação de certificar novamente seus serviços de nuvem todos os anos para manter os P-ATOs e ATOs. Para fazer isso, a Microsoft deve monitorar e avaliar seus controles de segurança continuamente e demonstrar que a segurança de seus serviços permanece em conformidade.
 

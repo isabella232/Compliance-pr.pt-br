@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 95e52107df2f3e745d393c62929f7c169bcf9a33
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292049"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Gerenciamento de incidentes de segurança da Microsoft: contenção, erradicação e recuperação
 
@@ -36,7 +36,7 @@ Depois de detectar um incidente de segurança, é importante conter a intrusão 
 
 ## <a name="eradication"></a>Erradicação
 
-A erradicação é o processo de eliminação da causa raiz do incidente de segurança com alto grau de confiança. O objetivo é duas vezes:
+A eliminação é o processo de eliminar a causa raiz do incidente de segurança com um alto grau de confiança. O objetivo é duas vezes:
 
 - para despejar completamente o adversário do ambiente
 - para atenuar a vulnerabilidade (se conhecida) que habilitada ou poderia permitir que o adversário reentra no ambiente.

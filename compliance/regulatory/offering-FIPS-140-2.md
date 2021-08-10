@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292508"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Publicação FIPS (Federal Information Processing Standard) 140-2
 
@@ -37,7 +37,7 @@ A Microsoft mantém um compromisso ativo para atender aos requisitos 140-2, tend
 
 Para obter informações técnicas sobre os módulos criptográficos do Microsoft Windows, a política de segurança para cada módulo e o catálogo de detalhes do certificado CMVP, consulte o conteúdo do Windows e [do Windows Server FIPS 140-2](https://aka.ms/AA6ehud).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 Embora a orientação de implementação atual do CMVP FIPS 140-2 preclua uma validação FIPS 140-2 para um serviço de nuvem em si; os provedores de serviços de nuvem podem optar por obter e operar módulos criptográficos validados fips 140 para os elementos de computação que compõem seu serviço de nuvem. Os serviços online da Microsoft que incluem componentes, que foram fips 140-2 validados incluem, entre outros:
 
@@ -51,13 +51,13 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-fips-140-2"></a>Office 365 e FIPS 140-2
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|

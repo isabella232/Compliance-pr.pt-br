@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fbeb7cefc0096225b5de012f62da951ae41d7045
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384351"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294218"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>Banco de Reserva da Índia (RBI) e Autoridade de Regulação e Desenvolvimento de Seguros da Índia (IRDAI)
 
@@ -45,10 +45,10 @@ Quando as instituições financeiras índias terceirizam atividades comerciais p
 
 A lista de verificação da Microsoft ajuda as empresas financeiras na Índia que estão realizando avaliações de due-diligence dos serviços de nuvem de negócios da Microsoft e inclui:
 
-- Uma visão geral do panorama normativo para o contexto.
+- Visão geral do panorama normativo para o contexto.
 - Uma lista de verificação que define os problemas a serem resolvidos e mapeia Microsoft Azure, o Microsoft Dynamics 365 e Microsoft Office 365 serviços em relação a essas obrigações regulatórias. A lista de verificação pode ser usada como uma ferramenta para medir a conformidade em relação a uma estrutura regulatória, fornecer uma estrutura interna para a documentação de conformidade e ajudar os clientes a realizar suas próprias avaliações de risco dos serviços de nuvem de negócios da Microsoft.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

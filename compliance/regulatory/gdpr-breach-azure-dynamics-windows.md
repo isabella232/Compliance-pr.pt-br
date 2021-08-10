@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: ac740f31a7d09353752eea93a4ce41f2230e3178
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 67b03795984f03354ba901a9c0fedaab70886e97a357628ceed5568e542db210
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53378238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288300"
 ---
 # <a name="azure-dynamics-365-and-windows-breach-notification-under-the-gdpr"></a>Notificação de violação do Azure, Dynamics 365 e Windows no GDPR
 
@@ -34,7 +34,7 @@ A Microsoft tem um serviço global dedicado de resposta a incidentes 24 horas po
 
 ## <a name="detection-of-potential-breaches"></a>Detecção de possíveis violações
 
-Devido à natureza da computação moderna em nuvem, nem todas as violações de dados ocorrem no ambiente de nuvem do cliente envolvemos os serviços do Microsoft Azure. A Microsoft emprega um modelo de responsabilidade compartilhado para os serviços do Azure para definir as responsabilidades operacionais e de segurança. A responsabilidade compartilhada é importante ao discutir a segurança de um serviço de nuvem, porque o provedor de serviços de nuvem e o cliente são responsáveis por partes da segurança na nuvem.
+Devido à natureza da computação em nuvem moderna, nem todas as violações de dados que ocorrem em um ambiente de nuvem do cliente envolvem serviços do Microsoft Azure. A Microsoft emprega um modelo de responsabilidade compartilhada para serviços do Azure para definir segurança e responsabilidades operacionais. A responsabilidade compartilhada é importante ao discutir a segurança de um serviço em nuvem, porque tanto o provedor de serviços em nuvem quanto o cliente são responsáveis por partes da segurança em nuvem.
 
 A Microsoft não monitora ou responde a incidentes de segurança dentro da esfera de responsabilidade do cliente. Um comprometimento de segurança exclusivo do cliente não seria processado como um incidente de segurança do Azure e exigiria que o locatário do cliente gerencie o esforço de resposta. A resposta a incidentes do cliente pode envolver a colaboração com o [suporte ao cliente](https://azure.microsoft.com/support/options/) do Microsoft Azure, mediante contratos de serviço apropriados. O Microsoft Azure também oferece vários serviços (por exemplo, [Central de Segurança do Azure](https://azure.microsoft.com/services/security-center/)) que os clientes podem utilizar para desenvolver e gerenciar a resposta a incidentes de segurança.
 
@@ -69,7 +69,7 @@ A equipe de resposta de segurança trabalha com os engenheiros de segurança do 
 - **Evento de Privacidade**: um Evento de Segurança que afeta os Dados Pessoais ou o processamento de dados que resulta em consequências indesejadas para a privacidade, incluindo a não conformidade com as políticas, padrões e controles de privacidade da Microsoft.
 - **Incidente de Privacidade/Incidente de Privacidade/Segurança Reportável pelo Cliente (CRSPI)**: um incidente de segurança que afeta Dados pessoais, Dados ou processamento de dados que resulta em consequências indesejadas para a privacidade, incluindo não conformidade com as políticas, padrões e controles de privacidade da Microsoft.
 
-Para um CRSI ser declarado, a Microsoft deve determinar que o acesso não autorizado aos dados do cliente ocorreu ou muito provavelmente ocorreu e/ou que há um compromisso jurídico ou contratual exigindo a notificação. É recomendável, mas não obrigatório, que as etapas de impacto, acesso a recursos e reparo de um cliente específico sejam notificadas. Um incidente geralmente é declarado como CRSI após a conclusão da etapa Diagnosticar um incidente de segurança. No entanto, a declaração pode ocorrer a qualquer momento quando todas as informações pertinentes estiverem disponíveis.
+Para que um CRSPI seja declarado, a Microsoft deve determinar que o acesso não autorizado aos dados do cliente ocorreu ou provavelmente ocorreu ou que existe um compromisso legal ou contratual de que a notificação deve ocorrer. É desejável, mas não obrigatório, que sejam conhecidos o impacto específico no cliente, o acesso a recursos e as etapas de reparo. Um incidente é geralmente declarado um CRSPI após a conclusão do estágio de Diagnóstico de um incidente de segurança. No entanto, a declaração pode acontecer a qualquer momento em que todas as informações pertinentes estejam disponíveis.
 
 A Microsoft confirma que o risco à empresa e ao cliente foi suprimido com êxito e que foram implementadas medidas corretivas. Se necessário, realizam-se etapas de atenuação emergenciais para resolver riscos de segurança imediatos associados ao evento.
 
@@ -81,7 +81,7 @@ A Microsoft notifica os clientes afetados e as autoridades regulatórias sobre v
 
 Após a declaração de um CRSPI, o processo de notificação ocorrerá o mais rapidamente possível, considerando os riscos de segurança da mudança rápida. Geralmente, o processo de redação das notificações acontece quando a investigação do incidente está em andamento. As notificações dos clientes são entregues em até 72 horas a partir do momento em que declaramos uma violação *exceto* nas seguintes circunstâncias:
 
-- A Microsoft acredita que o ato de executar uma notificação aumentará o risco para outros clientes. Por exemplo, o ato de notificar pode alertar algum adversário, causando uma incapacidade para remediar.
+- A Microsoft acredita que o ato de executar uma notificação aumenta o risco para outros clientes. Por exemplo, o ato de notificar pode alertar um adversário, causando uma incapacidade de corrigir.
 - Outras circunstâncias incomuns ou extremas examinadas pelo departamento jurídico da Microsoft e pelo Gerente Executivo de Incidentes.
 - O cronograma de 72 horas pode deixar alguns detalhes do incidente disponíveis. Esses detalhes são fornecidos aos clientes e autoridades regulatórias à medida que a investigação avança.
 

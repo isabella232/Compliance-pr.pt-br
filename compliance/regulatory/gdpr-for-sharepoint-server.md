@@ -14,12 +14,12 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
 hideEdit: true
-ms.openlocfilehash: ce9fe3ba09d619173754da8e97ca13934243164a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c76f609f5a5ff41632a5eeca0a0058678706793d388cf5362351e1ac5f34d523
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51495989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292928"
 ---
 # <a name="gdpr-for-sharepoint-server"></a>RGPD para SharePoint Server
 

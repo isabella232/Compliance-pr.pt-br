@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ac17525d8368b61dfd00bfa765e5ee2d1533b3f6
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 903f4d3db8965fdcd8c96a8d474e5180430b4966e4adc6945315f283ddbc0d3f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292578"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>CfTC (Comissão de Negociação de Futuros de Mercadorias) Regra 1.31(c-d) Estados Unidos
 
@@ -45,7 +45,7 @@ Para avaliar a conformidade do Azure com a Regra CFTC 1.31(c-d), a Microsoft ret
 
 Para [requisitos do CFTC 1.31(c)-(d),](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d) a Cohasset validou que o Microsoft 365 inclui recursos de arquivamento que permitem que clientes regulamentados, incluindo operadores de agente, armazenem dados de maneira que os ajude a cumprir os requisitos da SEC para retenção de registros. Os recursos de retenção Microsoft 365 ajudam a preservar uma ampla variedade de dados, incluindo email, caixa postal, documentos compartilhados, mensagens instantâneas e dados de terceiros. Em particular, o arquivamento no Microsoft 365 permite aos clientes definir políticas de retenção de mensagens globais ou granulares para armazenar dados por um período definido e além em um formato não regravável e não-reescrita.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)
@@ -60,7 +60,7 @@ Para [requisitos do CFTC 1.31(c)-(d),](/microsoft-365/compliance/retention-regul
 
 - [Regulamentação de serviços financeiros](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft.
 - [Guia de conformidade e avaliação de risco](https://aka.ms/RiskGovernanceGuide): cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador.
-- [Casos de uso financeiro](/azure/industry/financial/): Visões gerais de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros.
+- [Casos de uso financeiro](/azure/industry/financial/): usa visões gerais, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros.
 
 ## <a name="resources"></a>Recursos
 
