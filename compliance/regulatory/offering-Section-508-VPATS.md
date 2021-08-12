@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b761a9848e29b09fa46fdac822a545dc67be61f1
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9df3b3f2d39ba28eb3d6b8ca9cdc293594dcc10f13aa17e7c08c85d41ab6ba0c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384331"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288579"
 ---
 # <a name="us-section-508"></a>Seção 508 dos EUA
 
@@ -35,31 +35,31 @@ A Microsoft é um grande provedor de software e serviços de nuvem para os gover
 
 A consideração da Microsoft sobre a Seção 508 dos EUA no desenvolvimento de produtos e serviços aponta para o compromisso de tornar a tecnologia e os dados acessíveis para todos os clientes.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
-- Azure e Azure Government
+- Azure e Azure Governamental
 - Azure DevOps Services
 - Dynamics 365 e Dynamics 365 U.S. Government
 - Intune
-- Office 365, Office 365 governo dos EUA, Office 365 defesa governamental dos EUA
+- Office 365, Office 365 U.S. Government e Office 365 U.S. Government Defense
 - Windows Server 2016
 
 ## <a name="office-365-and-us-section-508"></a>Office 365 e seção 508 dos EUA
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
 | **Office 365** | Access, Azure Active Directory, Bookings, Gerenciador de Conformidade, Delve, Excel, Exchange Online, Formulários, Kaizala, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, portal de administração do Office 365 para Android, portal de administração do Office 365 para iOS, portal de administração do Office 365, complemento Conformidade Avançada do Office 365, Office 365 e entrada do Azure AD, Office 365 Business Center, Office 365 Business Center, Office 365 Centro de conformidade & segurança, Office 365 vídeo, Office 365 Web Suite, Office Configuration Tool, Office Lens, Office Online, Office Pro Plus, OneDrive for Business, OneDrive, OneNote, grupos Outlook, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype for Business, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
-| **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Formulários, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
-| **CCG Alto** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
-| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |
+| **GCC** | Azure Active Directory, Gerente de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **GCC Alta** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power Automate, Power BI, SharePoint Online, Skype for Business |
 
 ### <a name="microsoft-accessibility-conformance-reports"></a>Relatórios de Conformidade de Acessibilidade da Microsoft
 

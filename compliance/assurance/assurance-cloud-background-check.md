@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 96cd820b597970e6e4611700dbbfaed8621ac497
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 4871d95164ffa4050e03af071b851cd555e411f1a3bfdf97781fa5060a8ed2b3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289999"
 ---
 # <a name="microsoft-cloud-background-check"></a>Verificação de antecedentes da nuvem da Microsoft
 

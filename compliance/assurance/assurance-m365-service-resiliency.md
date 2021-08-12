@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: fc8964f453c5a2924fc9a4b43a2c89aa1dec4271
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 59316ed6c9a2935047cc9c3c137f886eecd3e77d427d3ac6e8c3808bf29f9b7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290909"
 ---
 # <a name="built-in-service-resiliency-in-microsoft-365"></a>Resiliência de serviço integrado no Microsoft 365
 

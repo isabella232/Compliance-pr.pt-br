@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 hideEdit: true
-ms.openlocfilehash: f0c59e0b4fb6fd80fd13521a3ed4996e787474bc
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 945c9a90b117aca97b5b1af56e802e62bed91c9f700cddb595fc32bbe325559e
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287960"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>RGPD para Skype for Business Server e Lync Server
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1dff74da16ca0a58dd7c11445ee4b435d8737855
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 559614554eb661be33a751c212080bea20d967565daf37de59a292851b9a28e8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287140"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>Requisitos de localização de dados pessoais russo
 
@@ -70,7 +70,7 @@ Para perguntas técnicas e de cobrança, consulte os recursos de Suporte da Micr
 - **Chamada Local**: 499 922 8623
 - **Suporte online**: Enviar consultas por meio do [portal de suporte dinâmico](https://dynamics.microsoft.com/support/)
 
-### <a name="power-platform"></a>Plataforma Power
+### <a name="power-platform"></a>Power Platform
 
 - **Gratuito**: 8 10 800 2548 1044
 - **Chamada Local**: 499 922 8623

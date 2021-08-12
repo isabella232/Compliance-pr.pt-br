@@ -20,26 +20,26 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: bf17ec68648efbc5f149bad0671a4e035d27a307
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 953255f96acbc22349d9f00a83edff7d65106ec6360b42930fe5985fcb4df3f5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377468"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291059"
 ---
 # <a name="governance-overview"></a>Visão geral de governança
 
 ## <a name="how-does-microsoft-provide-effective-security-governance-across-the-enterprise"></a>Como a Microsoft fornece uma governança de segurança eficaz em toda a empresa?
 
-A Microsoft entende que políticas de segurança eficazes devem ser implementadas de forma consistente em toda a empresa para proteger os sistemas de informações e os clientes da Microsoft. As políticas de segurança também devem levar em conta variações nas funções comerciais e sistemas de informações a serem universalmente aplicáveis. Para atender a esses requisitos, a Microsoft implementa um programa abrangente de governança de segurança como parte da Estrutura de Política da Microsoft. A governança de segurança se enquadra na Política de Segurança da Microsoft (MSP).
+A Microsoft entende que políticas de segurança eficazes devem ser implementadas de forma consistente em toda a empresa para proteger os sistemas de informações e os clientes da Microsoft. As políticas de segurança também devem ser contabilizados para variações em funções de negócios e sistemas de informações a serem aplicáveis universalmente. Para atender a esses requisitos, a Microsoft implementa um programa abrangente de governança de segurança como parte da Estrutura de Política da Microsoft. A governança de segurança se enquadra na Política de Segurança da Microsoft (MSP).
 
-O MSP organiza as políticas de segurança, os padrões e os requisitos da Microsoft para que possam ser implementadas em todos os grupos de engenharia e unidades de negócios da Microsoft. Unidades de negócios individuais são responsáveis por implementações específicas de políticas de segurança da Microsoft. Por exemplo, Microsoft 365 documenta suas implementações de segurança na Política Microsoft 365 segurança de informações e a estrutura de controle Microsoft 365 relacionada. O Azure e o Dynamics 365 documentam suas implementações de segurança nos PROCEDIMENTOS Operacionais Padrão (SOPs) e na Estrutura de Controle do Azure. Essas implementações de segurança se alinham às metas e objetivos do MSP.
+O MSP organiza as políticas de segurança, os padrões e os requisitos da Microsoft para que eles possam ser implementados em todos os grupos de engenharia e unidades de negócios da Microsoft. Unidades de negócios individuais são responsáveis por implementações específicas das políticas de segurança da Microsoft. Por exemplo, Microsoft 365 documenta suas implementações de segurança na Política Microsoft 365 segurança de informações e a estrutura de controle Microsoft 365 relacionada. O Azure e o Dynamics 365 documentam suas implementações de segurança nos PROCEDIMENTOS Operacionais Padrão (SOPs) e na Estrutura de Controle do Azure. Essas implementações de segurança se alinham às metas e objetivos do MSP.
 
 O programa de governança de segurança da Microsoft é informado e se alinha com várias estruturas regulatórias e de conformidade. Os requisitos de segurança estão em constante evolução para levar em conta novas tecnologias, requisitos regulatórios e de conformidade e ameaças à segurança. Devido a essas alterações, a Microsoft atualiza regularmente nossas políticas de segurança e documentos de suporte para proteger os sistemas e clientes da Microsoft, cumprir nossos compromissos e manter a confiança do cliente.
 
 ## <a name="how-do-microsoft-online-services-implement-the-microsoft-security-policy-msp"></a>Como os serviços online da Microsoft implementam a Política de Segurança da Microsoft (MSP)?
 
-Microsoft 365 documentos implementações de segurança na Política Microsoft 365 de Segurança da Informação. Esta política se alinha à Política de Segurança da Microsoft e rege o sistema de informações Microsoft 365, incluindo todos os ambientes Microsoft 365 e todos os recursos envolvidos na coleta, processamento, manutenção, uso, compartilhamento, disseminação e descarte de dados. Da mesma forma, o Azure e o Dynamics 365 usam a Política de Segurança da Microsoft para governar seu sistema de informações.
+Microsoft 365 documentos implementações de segurança na Política Microsoft 365 de Segurança da Informação. Essa política se alinha à Política de Segurança da Microsoft e rege o sistema de informações do Microsoft 365, incluindo todos os ambientes do Microsoft 365 e todos os recursos envolvidos na coleta, processamento, manutenção, uso, compartilhamento, compartilhamento e descarte de dados. Da mesma forma, o Azure e o Dynamics 365 usam a Política de Segurança da Microsoft para governar seu sistema de informações.
 
 Os sistemas de informações incluem os seguintes componentes regidos pela Política Microsoft 365 de Segurança da Informação (para Microsoft 365) e a Política de Segurança da Microsoft (para o Azure e o Dynamics 365):
 
@@ -49,11 +49,11 @@ Os sistemas de informações incluem os seguintes componentes regidos pela Polí
 - Procedimentos: os procedimentos programados e manuais envolvidos na operação dos sistemas Azure, Dynamics 365 e Microsoft 365
 - Dados: as informações geradas, coletadas e processadas pelos sistemas do Azure, dynamics 365 e Microsoft 365 (fluxos de transação, arquivos, bancos de dados e tabelas)
 
-A Microsoft 365 de Segurança da Informação é complementada pela Estrutura Microsoft 365 Controle. A Microsoft 365 de Controle detalha os requisitos de segurança mínima para todos os Microsoft 365 e componentes do sistema de informações. Ele também faz referência aos requisitos legais e corporativos por trás de cada controle. A estrutura inclui nomes de atividades de controle, descrições e diretrizes para garantir implementações de controle eficazes por equipes de serviço. Microsoft 365 usa a estrutura de controle para controlar implementações de controle para relatórios internos e externos. Da mesma forma, as implementações de controle de registro do Azure e do Dynamics 365 na Estrutura de Controle do Azure.
+A Política de Segurança de Informação do Microsoft 365 é complementada pela Estrutura de Controle do Microsoft 365. A Microsoft 365 de Controle detalha os requisitos de segurança mínima para todos os Microsoft 365 e componentes do sistema de informações. Ele também faz referência aos requisitos legais e corporativos por trás de cada controle. A estrutura inclui nomes de atividades de controle, descrições e diretrizes para garantir implementações de controle eficazes por equipes de serviço. Microsoft 365 usa a estrutura de controle para controlar implementações de controle para relatórios internos e externos. Da mesma forma, as implementações de controle de registro do Azure e do Dynamics 365 na Estrutura de Controle do Azure.
 
 ## <a name="how-do-online-services-limit-and-track-exceptions-to-established-policies-and-procedures"></a>Como os serviços online limitam e rastreia exceções a políticas e procedimentos estabelecidos?
 
-Todas as exceções às Estruturas de Controle devem ter justificativas comerciais legítimas e ser aprovadas por uma entidade de governança apropriada em cada equipe de serviços online. Dependendo do escopo da exceção e do risco potencial que representa, a aprovação para exceções pode precisar ser obtida de um vice-presidente corporativo ou superior. As exceções são gerenciadas em uma ferramenta de controle onde são revisadas e aprovadas para relevância contínua.
+Todas as exceções às Estruturas de Controle devem ter justificativas comerciais legítimas e ser aprovadas por uma entidade de governança apropriada em cada equipe de serviços online. Dependendo do escopo da exceção e do risco potencial que ela representa, a aprovação de exceções pode precisar ser obtida de um vice-presidente corporativo ou superior. As exceções são gerenciadas em uma ferramenta de controle onde são revisadas e aprovadas para relevância contínua.
 
 ## <a name="how-do-online-services-keep-security-and-compliance-requirements-updated"></a>Como os serviços online mantêm os requisitos de segurança e conformidade atualizados?
 

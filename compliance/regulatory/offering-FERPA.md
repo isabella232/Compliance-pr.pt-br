@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abded0cc92e49ed1c12eb44a3200ffdebed18b4f
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 10300b66564465e8362ca72c8cbb1604d590a45f91608b7b5dbcb0a55054d4b5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287580"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Lei de Privacidade e Direitos Educacionais da Família (FERPA)
 
@@ -43,7 +43,7 @@ A FERPA não exige ou reconhece auditorias ou outras certificações, portanto, 
 
 Como resultado desses compromissos contratuais, os clientes que estão sujeitos à FERPA — instituições educacionais e terceiros aos quais eles dão acesso a dados confidenciais de alunos — podem usar com confiança os serviços de nuvem empresariais da Microsoft no escopo para processar, armazenar e transmitir esses dados.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 Os serviços para os quais a Microsoft concorda em ser designada como "funcionário da escola" com "interesses educacionais legítimos" nos dados do cliente incluem:
 
@@ -59,22 +59,22 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-ferpa"></a>Office 365 e FERPA
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento Conformidade Avançada do Office 365, Office 365 Cloud App Security, Office 365 Grupos, Office 365 Centro de Conformidade & segurança, vídeo Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, harePoint Online, Skype for Business, Stream |
-| **CCG Alto** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
-| **DoD** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power BI, SharePoint Online, Skype for Business |
+| **GCC Alta** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power Automate, Power BI, SharePoint Online, Skype for Business |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365, relatórios e certificados
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
 
 A FERPA não exige nem reconhece auditorias ou certificações.
 

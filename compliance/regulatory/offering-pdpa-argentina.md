@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 96e5fbeac64f0905dfa6cda98eb13d8ebb725aaed471b6adbb4fdadab9363ddd
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288200"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>Lei de Proteção de Dados Pessoais da Argentina (PDPA)
 

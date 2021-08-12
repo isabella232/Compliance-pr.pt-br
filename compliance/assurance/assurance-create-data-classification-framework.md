@@ -1,6 +1,6 @@
 ---
 title: Criar uma estrutura de classificação de dados bem projetada
-description: Neste artigo, você pode encontrar uma visão geral de como criar uma estrutura de classificação de dados bem projetada para o Microsoft 365.
+description: Neste artigo, você pode encontrar uma visão geral de como criar uma estrutura de classificação de dados bem projetada para Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: df2bc373fea046ac120c40c57af2ba061d2b0781
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 88a07e5c6d5e3e84260c5099d957ebf38745819e239f951df62a5d04886f3fa4
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288719"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Criar uma estrutura de classificação de dados bem projetada
 
@@ -41,7 +41,7 @@ ms.locfileid: "51497788"
     - Seus usuários e sua capacidade de estar em conformidade com a complexidade e a nuance crescentes associadas a mais níveis de classificação
     - Experiência do usuário e acessibilidade ao tentar aplicar a classificação manual em vários tipos de dispositivos
 
-- **Obter as pessoas certas envolvidas**: ter um stakeholder sênior é fundamental para o sucesso, pois muitos projetos se esforçam para iniciar ou levar mais tempo sem o gerenciamento sênior. As estruturas de classificação de dados geralmente pertencem a equipes de tecnologia da informação, mas podem ter implicações legais, de conformidade, de privacidade e de gerenciamento de alterações. Para garantir que você está criando uma estrutura que ajude a proteger sua empresa, certifique-se de incluir privacidade e partes interessadas legais, como seu Diretor de Privacidade e o Office of General Counsel no desenvolvimento de sua política. Se sua organização tiver uma divisão de Conformidade, profissionais de governança de informações ou uma equipe de gerenciamento de registros, eles também poderão ter entradas valiosas. À medida que sua estrutura é rolada para a empresa, seu departamento de Comunicações também tem uma função fundamental a ser desempenhada para a adoção e mensagens internas.
+- **Obter as pessoas certas envolvidas**: ter um stakeholder sênior é fundamental para o sucesso, pois muitos projetos se esforçam para iniciar ou levar mais tempo sem o gerenciamento sênior. As estruturas de classificação de dados geralmente pertencem a equipes de tecnologia da informação, mas podem ter implicações legais, de conformidade, de privacidade e de gerenciamento de alterações. Para garantir que você está criando uma estrutura que ajude a proteger sua empresa, inclua a privacidade e as partes interessadas legais, como seu Diretor de Privacidade e o Office do Conselho Geral no desenvolvimento de sua política. Se sua organização tiver uma divisão de Conformidade, profissionais de governança de informações ou uma equipe de gerenciamento de registros, eles também poderão ter entradas valiosas. À medida que sua estrutura é rolada para a empresa, seu departamento de Comunicações também tem uma função fundamental a ser desempenhada para a adoção e mensagens internas.
 - **Balancear a segurança em relação** à conveniência : um erro comum é redigir uma estrutura de classificação de dados segura, mas muito restritiva. Essa estrutura pode ter sido projetada com segurança em mente, mas geralmente é difícil de implementar na prática. Se os usuários precisam seguir procedimentos complexos, rígidos e demorados para aplicar a estrutura em suas vidas diárias, sempre há o risco de que eles possam não acreditar mais em seu valor e eventualmente interromperão os procedimentos a seguir. Esse risco existe em todos os níveis da organização, incluindo gerentes de nível executivo (C-suite) dentro da organização. Um bom equilíbrio de segurança em relação à conveniência juntamente com ferramentas fáceis de usar geralmente levam à adoção e ao uso mais amplos do usuário. Se houver lacunas em sua estrutura, não espere até que tudo seja perfeito para iniciar a implementação. Em vez disso, avalie o risco ou a lacuna, crie um plano para atenuar e continue avançando. Lembre-se de que a proteção de informações é uma jornada, não é algo que é ativado durante a noite e, em seguida, feito. Planeje, implemente alguns recursos, confirme o sucesso e itere para a próxima etapa à medida que as ferramentas evoluem e os usuários obtenham maturidade e experiência.
 
 Lembre-se também de que uma estrutura de classificação de dados só aborda *o que* sua organização deve fazer para proteger dados confidenciais. As estruturas de classificação de dados geralmente são acompanhadas por regras ou diretrizes de tratamento de dados que *definem* como colocar essas políticas em vigor de uma perspectiva técnica e de tecnologia. Nas seções a seguir, vamos usar algumas diretrizes práticas sobre como levar sua estrutura de classificação de dados de um documento de política para uma iniciativa totalmente implementada e a ação.
@@ -61,7 +61,7 @@ Os esforços de classificação de dados são por natureza abrangentes, tocando 
 
 ## <a name="change-management-and-training"></a>Alterar o gerenciamento e o treinamento
 
-Atualmente, as organizações usam ferramentas como o Microsoft 365 para implementar sua estrutura de classificação de dados. O objetivo é tentar automatizar a classificação de dados e não aumentar a carga em sua força de trabalho. Essa estrutura não significa que sua organização não tem a responsabilidade de aumentar a conscientização sobre a necessidade de gerenciar o conteúdo e proteger a organização dos riscos discutidos neste artigo. A prática principal continua sendo conduzir o treinamento de conscientização em toda a organização como parte do cronograma de treinamento anual. Nossa experiência mostra que colocar um esforço robusto e abrangente no treinamento de seus usuários, que são o público-chave que executa esse trabalho, aumenta sua "compra" para o esforço e pode aumentar a adoção e a qualidade. Adicionar [recomendações de rótulo e](/microsoft-365/compliance/apply-sensitivity-label-automatically#recommend-that-the-user-apply-a-sensitivity-label) dicas no aplicativo pode ampliar esses esforços. Esse treinamento não precisa ser um curso autônomo extensivo. Sua organização pode incorporá-lo a outros treinamentos regulares, como seu treinamento anual de segurança de informações e incluir uma visão geral dos níveis e definições de classificação de dados. O principal ponto é que sua força de trabalho tem a compreensão de que, embora a ferramenta esteja automatizando a classificação de dados, isso não elimina a responsabilidade geral de cada usuário para proteger os dados de acordo com a política da empresa.
+Atualmente, as organizações usam ferramentas como Microsoft 365 para implementar sua estrutura de classificação de dados. O objetivo é tentar automatizar a classificação de dados e não aumentar a carga em sua força de trabalho. Essa estrutura não significa que sua organização não tem a responsabilidade de aumentar a conscientização sobre a necessidade de gerenciar o conteúdo e proteger a organização dos riscos discutidos neste artigo. A prática principal continua sendo conduzir o treinamento de conscientização em toda a organização como parte do cronograma de treinamento anual. Nossa experiência mostra que colocar um esforço robusto e abrangente no treinamento de seus usuários, que são o público-chave que executa esse trabalho, aumenta sua "compra" para o esforço e pode aumentar a adoção e a qualidade. Adicionar [recomendações de rótulo e](/microsoft-365/compliance/apply-sensitivity-label-automatically#recommend-that-the-user-apply-a-sensitivity-label) dicas no aplicativo pode ampliar esses esforços. Esse treinamento não precisa ser um curso autônomo extensivo. Sua organização pode incorporá-lo a outros treinamentos regulares, como seu treinamento anual de segurança de informações e incluir uma visão geral dos níveis e definições de classificação de dados. O principal ponto é que sua força de trabalho tem a compreensão de que, embora a ferramenta esteja automatizando a classificação de dados, isso não elimina a responsabilidade geral de cada usuário para proteger os dados de acordo com a política da empresa.
 
 Além disso, você deve considerar um treinamento mais aprofundado para equipes de TI e segurança da informação para reforçar a prontidão operacional. As equipes que gerenciam a ferramenta e a estrutura de classificação de dados devem estar na mesma página. Essa coordenação pode exigir que você invista em um cronograma de treinamento mais robusto que pode ser mais frequente do que anualmente. O investimento em treinamento mais frequente representa outro caminho para reduzir o risco para sua organização. Essa equipe é responsável pela implementação e, portanto, pode ser um ponto de falha se não for treinado na ferramenta e na política.
 
@@ -87,7 +87,7 @@ Por exemplo, as empresas de serviços financeiros podem precisar considerar a co
 
 As agências governamentais enfrentam vários regulamentos que regem seus dados, que variam com base no território e na natureza de seu trabalho. Nos Estados Unidos, por exemplo, as agências governamentais e seus agentes que acessam informações fiscais federais (FTI) estão sujeitos ao [IRS 1075](/microsoft-365/compliance/offering-irs-1075), que visa minimizar o risco de perda, violação ou uso indevido de informações fiscais federais.
 
-Embora as empresas de serviços financeiros e agências governamentais estão entre as organizações mais regulamentadas do mundo, a maioria das empresas tem considerações específicas do setor que precisam ser consideradas. Alguns exemplos incluem:
+Embora as empresas de serviços financeiros e agências governamentais estão entre as organizações mais regulamentadas do mundo, a maioria das empresas tem considerações específicas do setor que precisam ser consideradas. Veja a seguir alguns exemplos:
 
 - Organizações do setor [de saúde que garantem a conformidade com a HIPAA](/microsoft-365/compliance/offering-hipaa-hitech).
 - Instituições de ensino, de escolas K-12 a universidades, gerenciando a [conformidade ferpa.](/microsoft-365/compliance/offering-ferpa)
@@ -96,21 +96,21 @@ Embora as empresas de serviços financeiros e agências governamentais estão en
 - Entrega e armazenamento de conteúdo de entretenimento, software e informações que lidam com [CDSA.](/microsoft-365/compliance/offering-cdsa)
 - Segurança de informações do setor de energia em conformidade com o [padrão CIP do NERC.](/microsoft-365/compliance/offering-nerc-cip)
 
-## <a name="implementing-your-data-classification-framework-in-microsoft-365"></a>Implementando sua estrutura de classificação de dados no Microsoft 365
+## <a name="implementing-your-data-classification-framework-in-microsoft-365"></a>Implementando sua estrutura de classificação de dados Microsoft 365
 
-Depois de desenvolver sua estrutura de classificação de dados, a próxima etapa será a implementação. O Centro de conformidade do [Microsoft 365](https://compliance.microsoft.com/) permite que os administradores descubram, classifiquem, revisem e monitorem seus dados de acordo com a estrutura de classificação de dados. Os rótulos de sensibilidade podem ser usados para ajudar a proteger seus dados, aplicando várias proteções, como criptografia e marcação de conteúdo. Eles podem ser aplicados aos dados manualmente; por padrão, com base nas configurações de política; ou automaticamente, como resultado de uma condição como PII identificado.
+Depois de desenvolver sua estrutura de classificação de dados, a próxima etapa será a implementação. A [Centro de conformidade do Microsoft 365](https://compliance.microsoft.com/) permite que os administradores descubram, classifiquem, revisem e monitorem seus dados de acordo com a estrutura de classificação de dados. Os rótulos de sensibilidade podem ser usados para ajudar a proteger seus dados, aplicando várias proteções, como criptografia e marcação de conteúdo. Eles podem ser aplicados aos dados manualmente; por padrão, com base nas configurações de política; ou automaticamente, como resultado de uma condição como PII identificado.
 
 Para organizações menores ou organizações com uma estrutura de classificação de dados relativamente simplificada, a criação de um único rótulo de sensibilidade para cada um dos seus níveis de classificação de dados pode ser suficiente. O exemplo a seguir mostra um nível de classificação de dados um para um para o mapeamento de rótulos de sensibilidade:
 
-|**Rótulo de classificação**|**Rótulo de sensibilidade**|**Configurações de rótulos**|**Publicado para**|
+|**Rótulo de classificação**|**Rótulo de confidencialidade**|**Configurações de rótulos**|**Publicado para**|
 |:-----------------------|:--------------------|:-----------------|:---------------|
-| Irrestrita | Irrestrita | Aplicar o rodapé 'Irrestrito' | todos os usuários |
-| Geral | Geral | Aplicar rodapé 'Geral' | todos os usuários |
+| Irrestrita | Irrestrita | Aplicar o rodapé 'Irrestrito' | Todos os usuários |
+| Geral | Geral | Aplicar rodapé 'Geral' | Todos os usuários |
 
 >[!TIP]
 >Durante um piloto de proteção de informações internas da Microsoft, houve dificuldades no entendimento e no uso do rótulo "Pessoal". Os usuários estavam confusos sobre se isso significava PII ou apenas relacionado a uma questão pessoal. O rótulo foi alterado para "não comercial" para ser mais claro. Este exemplo mostra que a taxonomia não precisa ser perfeita desde o início. Comece com o que você acha correto, pilote-o e ajuste o rótulo com base nos comentários, se necessário
 
-Para organizações maiores com um alcance global ou necessidades de segurança de informações mais complexas, você pode encontrar essa relação um para um entre o número de níveis de classificação em sua política e o número de rótulos de sensibilidade em seu ambiente do Microsoft 365 como um desafio. Esse desafio é especialmente verdadeiro em organizações globais em que um determinado nível de classificação de dados, como "Restrito", pode ter uma definição diferente ou um conjunto diferente de controles, dependendo da região.
+Para organizações maiores com um alcance global ou necessidades de segurança de informações mais complexas, você pode achar que essa relação um para um entre o número de níveis de classificação em sua política e o número de rótulos de sensibilidade em seu ambiente Microsoft 365 é um desafio. Esse desafio é especialmente verdadeiro em organizações globais em que um determinado nível de classificação de dados, como "Restrito", pode ter uma definição diferente ou um conjunto diferente de controles, dependendo da região.
 
 Para obter mais informações sobre a implementação, consulte [Understand data classification and](/microsoft-365/compliance/data-classification-overview) Learn about [sensitivity labels](/microsoft-365/compliance/sensitivity-labels).
 

@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 04ca3dde35ded2f0f4117d91ccc8ae0fa6a9aa9b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: cdc3b00123a1bb3fe862260b32ae08bf876dad552827af6878a9c65f4b33b75c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290489"
 ---
 # <a name="risk-management-overview"></a>Visão geral de gerenciamento de risco
 

@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5708ab20d78d1862af5613c64ea492c40bea9da1
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 04c4f73df051273620fdd1ef2fb328a069761788118c94a580b0b6cdd40aa95d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573829"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290629"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulação de ataque no Microsoft 365
 

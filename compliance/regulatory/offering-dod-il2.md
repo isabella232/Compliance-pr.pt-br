@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 77e8cb50f815c167e50293d495b4a548a73d022e
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288220"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Nível de impacto do Departamento de Defesa (DoD) 2 (IL2)
 
@@ -35,7 +35,7 @@ O [memorando CIO do DoD 15](https://www.esi.mil/contentview.aspx?id=585) de  dez
 
 O uso do DoD da Seção [5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) do SRG dos Controles de Segurança *fedRAMP* afirma que as informações il2 podem ser hospedadas em um CSP que detém minimamente uma PA moderada fedRAMP e uma PA de Nível 2 do DoD, sujeitas à conformidade com os requisitos de segurança da equipe descritos na Seção 5.6.2. No entanto, essa abordagem não alivia o CSP de atender a outros requisitos de segurança e integração, conforme exigido pelo Proprietário da Missão. De acordo com os Requisitos de Localização e SEPARAÇÃO do SRG Seção [5.2.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *IL2,* o DoD IL2 PA é adequadamente coberto por um PA moderado fedRAMP para que os requisitos não sejam avaliados adicionalmente para um PA IL2.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure
 - Dynamics 365
@@ -45,7 +45,7 @@ O uso do DoD da Seção [5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/clou
 - Microsoft Intune
 - Microsoft Stream
 - Office 365 Governo dos EUA, Office 365 governo dos EUA - Alta
-- Aplicativos de energia
+- Power Apps
 - Power Automate
 - Power BI
 
@@ -55,18 +55,18 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-dod-il2"></a>Office 365 e DoD IL2
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
 | **GCC** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
-| **CCG Alto** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC Alta** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
 ### <a name="resources"></a>Recursos
 

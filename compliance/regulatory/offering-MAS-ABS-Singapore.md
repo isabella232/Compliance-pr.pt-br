@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9b7accfce56b2035dcaab95f774f8035c05c7362
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2cd1209c0f80ee34fcc4fadb0fa341da7b3fc6e28502b8a73adb99580db0e164
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287190"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>Autoridade Monetária de Singapura (MAS) e Associação de Bancos em Singapura (ABS)
 

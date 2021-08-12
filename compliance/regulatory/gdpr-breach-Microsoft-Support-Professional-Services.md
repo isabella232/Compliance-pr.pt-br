@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 0d30809ffe06156ba1a76dd2622efc2130fc24f5
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 85d325e9b8292cbbba6ca1f453a64d75622fb40391de8837da0348fcf9260f95
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288310"
 ---
 # <a name="microsoft-support-and-professional-services-and-breach-notification-under-the-gdpr"></a>Notificação de violação e Serviços Profissionais e de Suporte da Microsoft no RGPD
 

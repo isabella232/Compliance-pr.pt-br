@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8ff06dab5367ee8cf734384efd1e2f57b2d6499c4151b75bd335693852dead47
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287210"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Transferência e rescisão de funcionários da Microsoft
 
@@ -41,4 +41,4 @@ As transferências de funcionários são iniciadas por meio de uma solicitação
 
 A Microsoft usa políticas e procedimentos claramente definidos para revogar imediatamente o acesso físico e lógico aos sistemas e recursos da Microsoft quando um funcionário é demitido. Quando um funcionário dá sua notificação, o gerente do funcionário ins fornece a data de término no HRIS. Após o último dia útil do funcionário, o HRIS marca o funcionário como encerrado e compartilha as informações com o IDM, que remove todas as contas de equipe de serviço e as eligibilidades automaticamente.
 
-Para terminações involuntárias, o RH trabalha com o gerente do funcionário para seguir as etapas apropriadas para encerrar e desalocar o funcionário. Semelhante a uma rescisão voluntária, as informações de término são inseridas no HRIS juntamente com todas as etapas necessárias, como coordenação de data efetiva, remoção de acesso. e quaisquer outras etapas relativas à transição para fora da função.
+Para terminações involuntárias, o RH trabalha com o gerente do funcionário para seguir as etapas apropriadas para encerrar e desalocar o funcionário. Semelhante a uma rescisão voluntária, as informações de encerramento são inseridas no HRIS juntamente com todas as etapas necessárias, como coordenação de data efetiva, remoção de acesso e quaisquer outras etapas relativas à transição para fora da função.

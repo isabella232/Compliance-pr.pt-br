@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7a530d78107af4f37607f90c6a93008ec695f765
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: b2d66bd7a085b52d92e4a92c741d14e8a9fd3569164ca88d7cfcbcccf116a7b9
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287890"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>Catálogo de Controles de Conformidade de Computação em Nuvem (C5)
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 20dccebdb31eff3e502efe8fe6eba6fbdd4881c4ac864927566fc786dff09a15
-ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
+ms.openlocfilehash: db61f90991f8881d6343aca25382f2cfe5e023b9bebf90a38e5e96c09d1090ad
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57833888"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287590"
 ---
 # <a name="european-union-model-clauses"></a>Cláusulas Modelo da União Europeia
 
@@ -33,9 +33,13 @@ Em um nível prático, a conformidade com as leis de proteção de dados da UE t
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Cláusulas Modelo da União Europeia e da Microsoft
 
-A [Lei de proteção de dados](/compliance/regulatory/gdpr) da União Europeia (UE) regulamenta a transferência de dados pessoais de clientes da UE para países fora a Área Econômica Europeia (EEE), que inclui todos os países da UE e Islândia, Liechtenstein e Noruega. A Microsoft oferece aos clientes as [Cláusulas Contratuais Padrão](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) da UE (também conhecidas como Cláusulas Modelo da UE) que fornecem garantias específicas sobre transferências de dados pessoais para serviços no escopo. As Cláusulas Modelo da UE são usadas em contratos entre provedores de serviços (como a Microsoft) e seus clientes para garantir que todos os dados pessoais que saem da EEA sejam transferidos em conformidade com o RGPD.
+A Microsoft investiu nos processos operacionais necessários para atender aos requisitos exatos das Cláusulas Modelo a respeito da transferência de dados pessoais para processadores. A Microsoft oferece aos clientes Cláusulas Modelo, chamadas de Cláusulas Contratuais Padrão da UE, que comportam garantias específicas com relação a transferências de dados pessoais para serviços da Microsoft dentro do escopo. Isso possibilita que os clientes da Microsoft movam livremente os dados presentes na nuvem Microsoft da EEE para o restante do mundo.
 
-Em julho de 2020, o Tribunal de Justiça da União Europeia (CJEU) invalidou a Estrutura de Proteção de Privacidade da UE-EUA para transferências de dados pessoais da UE para os Estados Unidos. No entanto, as Cláusulas Modelo da UE continuam a fornecer um mecanismo válido para a transferência de dados pessoais da UE e da EEE, bem como da Suíça e do Reino Unido. A Microsoft disponibiliza as Cláusulas Modelo da UE para os clientes, conforme descrito no [Adendo de Proteção de Dados](https://aka.ms/DPA) dos Termos dos Serviços Online da Microsoft.
+Entretanto, a principal obrigação dos clientes corporativos da Microsoft, que têm controle sobre os dados pessoais, é proteger esses dados. Isso significa que os clientes corporativos da EEE têm grande interesse em garantir que seu provedor de serviços cumpra as leis de proteção de dados da UE, pois do contrário podem enfrentar processos judiciais — e até sofrer obstrução da possibilidade de uso do serviço.
+
+A Microsoft apresentou suas Cláusulas Contratuais Padrão ao Grupo de Trabalho Artigo 29 da UE para avaliação e aprovação. O Grupo de Trabalho Artigo 29 inclui representantes da Supervisão Europeia de Proteção de Dados, da Comissão Europeia e de cada uma das 28 autoridades de proteção de dados (DPAs) da UE.
+
+O grupo determinou que a implementação das disposições nos contratos da Microsoft estava alinhada com seus requisitos estritos. (A Microsoft foi o primeiro provedor de serviços de nuvem a receber uma carta de endosso e aprovação do grupo.) A aprovação abordou os compromissos refletidos nas Cláusulas Modelo 2010/87/UE, mas não nos apêndices, que descrevem as transferências de dados e as medidas de segurança implementadas pelo importador de dados. Os apêndices podem ser analisados separadamente pelo DPA.
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
@@ -63,7 +67,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Conformidade e Segurança do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Conformidade e Segurança do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 

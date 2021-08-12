@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dc7fa7f7762d503097ef4bd6fd9ec948993ab10b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 4da808976b7c9afd040417a0fe4025888f07a34bc43c03cb151410244bb437df
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287570"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Conselho de Exame de Instituições Financeiras Federais (FFIEC)
 
@@ -39,12 +39,12 @@ Para ajudar os clientes de instituições financeiras a atender aos requisitos d
 
 Para ajudá-lo a cumprir os requisitos do FFIEC, os serviços de nuvem da Microsoft fornecem relatórios de atestado [SOC](offering-SOC.md) produzidos por uma empresa CPA independente. Por exemplo, o atestado SOC 1 Type 2 baseia-se no padrão AICPA SSAE 18 (consulte At-C Seção 105) que substituiu o SAS 70 e é apropriado para relatar determinados controles para relatórios financeiros. Os relatórios soc incluem a opinião do auditor sobre a eficácia dos controles da Microsoft na conquista dos objetivos de controle relacionados durante o período de monitoramento especificado. As instituições financeiras podem usar essa auditoria formal ao buscar obrigações de conformidade específicas do FFIEC para ativos implantados no Azure, Power BI e Office 365.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure
 - Intune
 - Office 365, Office 365 governo dos EUA
-- Power BI de nuvem (como um serviço autônomo ou como incluído em um Office 365 ou pacote)
+- Serviço de nuvem do Power BI (como um serviço autônomo ou incluído em um plano ou pacote com a marca Office 365)
 
 ## <a name="azure-dynamics-365-and-ffiec"></a>Azure, Dynamics 365 e FFIEC
 
@@ -52,20 +52,20 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-ffiec"></a>Office 365 e FFIEC
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento Conformidade Avançada do Office 365, Office 365 Cloud App Security, Office 365 Grupos, Office 365 Centro de Conformidade & segurança, vídeo Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
-| **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Formulários, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **Office 365** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **GCC** | Azure Active Directory, Gerente de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365, relatórios e certificados
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
 
 Consulte os Office 365 de atestado SOC.
 

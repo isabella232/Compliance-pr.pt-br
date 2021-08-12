@@ -42,8 +42,8 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/compliance-discover/
 productDirectory:
-  title: Conformidade do & do setor
-  summary: Diretrizes da Microsoft sobre a conformidade com áreas do setor e normas & internacionais.
+  title: Conformidade regulatória
+  summary: Diretrizes da Microsoft sobre a conformidade com padrões e regulamentos internacionais e domésticos.
   items:
     - title: Regulamento Geral sobre a Proteção de Dados (RGPD)
       imageSrc: /office/media/icons/compliance-blue.svg
@@ -53,10 +53,10 @@ productDirectory:
       imageSrc: /office/media/icons/globe-internet.svg
       summary: 'A Microsoft oferece um conjunto abrangente de ofertas de conformidade para ajudar sua organização a cumprir requisitos nacionais, regionais e específicos do setor que regem a coleta e o uso de dados.'
       url: /compliance/regulatory/offering-home
-    - title: Microsoft Cloud for industries
-      imageSrc: /office/media/icons/on-premises-blue.png
-      summary: 'Saiba como Microsoft Azure, Dynamics 365, Microsoft 365 e Microsoft Power Platform podem dar suporte às necessidades de conformidade para o setor.'
-      url: /industry/
+    - title: Conformidade regulamentar e Microsoft Azure
+      imageSrc: /media/logos/logo_azure.svg
+      summary: Saiba mais sobre conformidade regulamentar e Microsoft Azure.
+      url: /azure/compliance/
 conceptualContent:
   title: Garantia do serviço
   summary: Comece suas avaliações de segurança e risco com uma compreensão de como a Microsoft protege os dados do cliente.
@@ -188,15 +188,24 @@ conceptualContent:
           text: Visão geral do Gerenciamento de Ameaças e Vulnerabilidades
 additionalContent:
   sections:
-    - title: Começar a conformidade nos serviços online da Microsoft
-      summary: 'Se você é novo em conformidade e quer saber por onde começar com os serviços online da Microsoft, esta seção fornece links para as principais áreas de conformidade de cada serviço.'
+    - title: Começar a conformidade no Microsoft 365
+      summary: 'Se você é novo em Microsoft 365 conformidade e quer saber por onde começar, esta seção fornece links para soluções importantes e prioriza áreas de conformidade importantes.'
       items:
-        - title: Microsoft Azure
-          summary: 'A conformidade do Azure fornece ofertas de conformidade, projetos, guias de conformidade e recursos para ajudá-lo a cumprir suas obrigações de conformidade.'
-          url: /azure/compliance/
-        - title: Dynamics 365
-          summary: A Central de Negócios contém funcionalidade e é criada em uma plataforma que facilita a conformidade e a legislação regulatória para os clientes.
-          url: /dynamics365/business-central/compliance/compliance-overview
-        - title: Microsoft 365
-          summary: 'Se a sua organização precisa obedecer a padrões normativos ou regulatórios, comece aqui para saber mais sobre a conformidade no Microsoft 365.'
-          url: /microsoft-365/compliance/
+        - title: Saiba mais sobre o Gerenciador de Conformidade
+          summary: 'Saiba o que é o Gerenciador de Conformidade, como ele ajuda a simplificar a conformidade e reduzir o risco e seus principais componentes.'
+          url: /microsoft-365/compliance/compliance-manager
+        - title: Gerenciar riscos internos
+          summary: 'Minimize os riscos internos detectando, investigando e agindo em atividades mal-intencionadas e inadvertida em sua organização.'
+          url: /microsoft-365/compliance/insider-risk-solution-overview
+        - title: Gerenciar a proteção de informações
+          summary: 'Use Proteção de Informações da Microsoft (MIP) para ajudá-lo a descobrir, classificar e proteger informações confidenciais onde quer que ela viva ou viaje.'
+          url: /microsoft-365/compliance/protect-information
+        - title: Gerenciar a governança de informações
+          summary: Use os recursos de Governança de Informações da Microsoft (MIG) para reger seus dados para conformidade ou requisitos regulatórios.
+          url: /microsoft-365/compliance/manage-information-governance
+        - title: Gerenciar a Descoberta Eletrônica
+          summary: Use a Descoberta eDiscovery para identificar e analisar o conteúdo como evidência em casos legais.
+          url: /microsoft-365/compliance/ediscovery
+        - title: Implantar a proteção de informações para os normas de privacidade de dados
+          summary: 'Identifique, localize, proteja, governe e responda a incidentes de privacidade de dados para dados pessoais armazenados em serviços Microsoft 365 que estão sujeitos a regulamentos de privacidade de dados.'
+          url: /microsoft-365/solutions/information-protection-deploy

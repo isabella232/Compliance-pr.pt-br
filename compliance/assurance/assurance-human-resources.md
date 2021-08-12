@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 42f5677b923edc225833882bc3916e698fde369e
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: f732ccf412272ec7138ac24fcc1f89dcf9bacacf1e64865ebfb9ba4e9dc6daf8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290999"
 ---
 # <a name="human-resources-overview"></a>Visão geral dos recursos humanos
 
@@ -48,9 +48,9 @@ Além da triagem de pré-contratação, os funcionários da Microsoft que mantê
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skills-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Como a Microsoft garante que os funcionários mantenham habilidades e conhecimento suficientes para executar suas responsabilidades e seguir as políticas da Microsoft?
 
-Todos os funcionários da Microsoft são necessários para concluir o treinamento básico de reconhecimento de segurança. O treinamento inicial ocorre quando um novo funcionário começa a trabalhar na Microsoft e o treinamento anual de atualização ocorre todos os anos depois. O treinamento foi projetado para fornecer ao funcionário uma compreensão da abordagem fundamental da Microsoft para a segurança. O treinamento de segurança baseado em função aplicável também é necessário antes de conceder qualquer acesso específico necessário para as responsabilidades de trabalho de um indivíduo. O treinamento de segurança dos funcionários da Microsoft é atualizado anualmente e quando as alterações do sistema ou da política garantem um novo treinamento.
+Todos os funcionários da Microsoft são necessários para concluir o treinamento básico de reconhecimento de segurança. O treinamento inicial ocorre quando um novo funcionário começa a trabalhar na Microsoft e o treinamento de atualização anual ocorre todos os anos depois disso. O treinamento foi projetado para fornecer ao funcionário uma compreensão da abordagem fundamental da Microsoft para a segurança. O treinamento de segurança baseado em função aplicável também é necessário antes de conceder qualquer acesso específico necessário para as responsabilidades de trabalho de um indivíduo. O treinamento de segurança dos funcionários da Microsoft é atualizado anualmente e quando as alterações do sistema ou da política garantem um novo treinamento.
 
-Além do treinamento de reconhecimento de segurança, os funcionários da Microsoft devem concluir o treinamento standards of business conduct. Esse treinamento inclui a ética empresarial, a segurança dos funcionários, a privacidade, o anti-assédio e a tolerância zero para comportamentos não-éticos. No final do curso, os funcionários devem atestar que respeitarão o código de conduta comercial da Microsoft, que é rastreado no nível da organização. O treinamento Standards of Business Conduct é atualizado anualmente.
+Além do treinamento de reconhecimento de segurança, os funcionários da Microsoft devem concluir o treinamento standards of business conduct. Esse treinamento inclui a ética empresarial, a segurança dos funcionários, a privacidade, o anti-assédio e a tolerância zero para comportamentos não-éticos. No final do curso, os funcionários devem atestar que cumprirão o código de conduta empresarial da Microsoft, que é rastreado no nível da organização. O treinamento Standards of Business Conduct é atualizado anualmente.
 
 ## <a name="how-does-microsoft-revoke-access-for-employees-who-leave-microsoft"></a>Como a Microsoft revoga o acesso para funcionários que saem da Microsoft?
 

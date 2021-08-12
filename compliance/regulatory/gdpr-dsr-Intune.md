@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: ac172e68f025161fac9c68cc465c5eae9ada930f
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 834e3b6d35004e884857854a004f8c0ff81ed705df1e3692ae6a0444da6b1cc3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289369"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de Entidades de Dados para o RGPD e CCPA
 

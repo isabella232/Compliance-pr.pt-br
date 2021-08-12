@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1c4cf624eb6f658bcdddde1acbef7bc43323f257
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: f8b52444f5a983e5ca9d3c42285bbb09f9c0612f07e1e6465aa0d5863944a45b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288639"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Padrão de Gerenciamento de Continuidade dos Negócios ISO 22301:2012
 

@@ -1,18 +1,18 @@
 ---
-ms.openlocfilehash: 788258d786752d9430c25170ce67efe4b74c6e7a
-ms.sourcegitcommit: 4e61ccf2bbb069c1c8647686edb79df3016c6c1a
+ms.openlocfilehash: cd29b96580830a6ad502cdfaa77ae7d09c6fde68b020d505038428a7c2510b88
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49505644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288170"
 ---
-## <a name="legal-notices"></a>Avisos legais
-A Microsoft e qualquer colaborador concedem a você uma licença para a documentação da Microsoft e outro conteúdo neste repositório sob a [licença pública internacional de atribuição da Creative Commons 4,0](https://creativecommons.org/licenses/by/4.0/legalcode), confira o arquivo de [licença](LICENSE) e conceda a você uma licença para qualquer código no repositório sob a [licença do MIT](https://opensource.org/licenses/MIT), consulte o arquivo de [código de licença](LICENSE-CODE) .
+## <a name="legal-notices"></a>Avisos Legais
+A Microsoft e quaisquer colaboradores concedem uma licença à documentação da Microsoft e a outros conteúdos neste repositório sob a Licença Pública Internacional de Atribuição do [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), consulte o arquivo [LICENSE](LICENSE) e conceda a você uma licença para qualquer código no repositório sob a Licença [do MIT](https://opensource.org/licenses/MIT), consulte o arquivo [LICENSE-CODE.](LICENSE-CODE)
 
-Microsoft, Windows, Microsoft Azure e/ou outros produtos e serviços da Microsoft mencionados na documentação podem ser marcas comerciais ou marcas registradas da Microsoft nos Estados Unidos e/ou outros países.
-As licenças para este projeto não concedem direitos de uso de nomes, logotipos ou marcas da Microsoft.
-As diretrizes gerais de marca registrada da Microsoft podem ser encontradas em http://go.microsoft.com/fwlink/?LinkID=254653 .
+Microsoft, Windows, Microsoft Azure e/ou outros produtos e serviços da Microsoft referenciados na documentação podem ser marcas comerciais ou marcas registradas da Microsoft nos Estados Unidos e/ou em outros países.
+As licenças deste projeto não concedem direitos para usar nomes, logotipos ou marcas comerciais da Microsoft.
+As diretrizes gerais de marcas comerciais da Microsoft podem ser encontradas em http://go.microsoft.com/fwlink/?LinkID=254653 .
 
-As informações de privacidade podem ser encontradas em https://privacy.microsoft.com/en-us/
+Informações de privacidade podem ser encontradas em https://privacy.microsoft.com/en-us/
 
-A Microsoft e qualquer colaborador reservam todos os outros direitos, seja por meio de seus respectivos direitos autorais, patentes ou marcas comerciais, seja por implicação, embargo ou de outra forma.
+A Microsoft e quaisquer colaboradores reservam todos os outros direitos, seja sob seus respectivos direitos autorais, patentes ou marcas comerciais, seja por implicação, estoppel ou não.

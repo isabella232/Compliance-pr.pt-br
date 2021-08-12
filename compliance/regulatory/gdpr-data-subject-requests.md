@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: Aprenda a concluir o DSRs sob as Normas Gerais de Proteção de Dados (GPDR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA) usando produtos e serviços da Microsoft.
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 58bea55beae9d5d8d4b018812f68b07b2d356d3db9cdf49d04ef8523e4db0b5b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289949"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados e o RGPD e CCPA
 
@@ -50,7 +50,7 @@ Definições úteis para os termos do RGPD usados neste documento:
 
 ## <a name="what-is-a-dsr"></a>O que é um DSR?
 
-O RGPD (Regulamento Geral sobre a Proteção de Dados) da União Europeia concede o direito às pessoas (conhecidas na regulamentação como entidades de dados) de gerenciar os dados pessoais coletados por um empregador ou outro tipo de agência ou organização (conhecidos como controladores de dados ou apenas controladores). O RGPD fornece às entidades de dados direitos específicos a seus dados pessoais. Esses direitos incluem obter cópias, solicitar alterações, restringir o processamento, excluir ou receber os dados em um formato eletrônico para que eles possam ser passados para outro controlador.
+O Regulamento Geral sobre a Proteção de Dados (RGPD) concede direitos às pessoas (conhecidas na regulamentação como titulares dos dados) para gerenciar os dados pessoais coletados por um empregador ou outro tipo de agência ou organização (conhecido como controlador de dados ou apenas controlador). O GDPR fornece aos titulares de dados direitos específicos para seus dados pessoais; esses direitos incluem obter cópias dele, solicitar alterações nele, restringir o processamento, excluí-lo ou recebê-lo em um formato eletrônico para que possa ser movido para outro controlador.
 
 A Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do GDPR, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais.  
 
@@ -81,7 +81,7 @@ Os logs e os dados relacionados gerados pela Microsoft podem conter dados pessoa
 
 ### <a name="yammer-and-kaizala"></a>Yammer e Kaizala
 
-Excluir a conta de um usuário não removerá os logs gerados pelo sistema para o Yammer e o Kaizala. Para remover os dados desses aplicativos, confira um dos seguintes recursos:
+Excluir a conta de um usuário não removerá os logs gerados pelo sistema para o Yammer e o Kaizala. Para remover os dados desses aplicativos, consulte um dos seguintes recursos:
 
 - [Gerenciar solicitações de entidades de dados do RGPD do Yammer Enterprise](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
 - [Exportar ou excluir dados organizacionais do usuário no Kaizala](/office365/kaizala/export-or-delete-a-user-s-data)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 66681ad614a004242447e605ae2e1105dc6ed5bd
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: db789f8670b60eccb2914da9dea42b5114e4864ac922de41db254d074101be92
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290179"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>Autoridade de Supervisão Financeira (KNF) Polônia
 

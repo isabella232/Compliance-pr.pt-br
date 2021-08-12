@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Lidando com corrupção de dados
-description: Este artigo explica a corrupção de dados no Microsoft 365 e os esforços da Microsoft para impedir e recuperar dados.
+description: Este artigo explica a corrupção de dados Microsoft 365 e os esforços da Microsoft para impedir e recuperar dados.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,14 +20,14 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9e9f0951f7e349cc70bc96bb6a2d62275848cf04
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: cdfd17d9f9df5ecc8fc78c13069d5f4819d22dda7b7ff85a117fd77d0a46fda0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291269"
 ---
-# <a name="dealing-with-data-corruption-in-microsoft-365"></a>Lidar com corrupção de dados no Microsoft 365
+# <a name="dealing-with-data-corruption-in-microsoft-365"></a>Lidar com a corrupção de dados em Microsoft 365
 
 Um dos aspectos desafiadores da execução de um serviço de nuvem em grande escala é como lidar com a corrupção de dados, dado o grande volume de dados e sistemas independentes. A corrupção de dados pode ser causada por:
 
@@ -37,7 +37,7 @@ Um dos aspectos desafiadores da execução de um serviço de nuvem em grande esc
 - Hackers mal-intencionados e funcionários insatisfeitos
 - Incidentes em serviços externos que resultam em alguma perda de dados
 
-Como uma resiliência maior na integridade de dados significa menos incidentes de corrupção de dados, a Microsoft criou mecanismos de proteção do Microsoft 365 para impedir que a corrupção aconteça, bem como sistemas e processos que nos permitem recuperar dados se isso acontecer. Verificações e processos existem dentro dos vários estágios do processo de lançamento de engenharia para aumentar a resiliência contra a corrupção de dados, incluindo:
+Como uma resiliência maior na integridade de dados significa menos incidentes de corrupção de dados, a Microsoft criou mecanismos de proteção Microsoft 365 para impedir que a corrupção aconteça, bem como sistemas e processos que nos permitem recuperar dados se isso acontecer. Verificações e processos existem dentro dos vários estágios do processo de lançamento de engenharia para aumentar a resiliência contra a corrupção de dados, incluindo:
 
 - Design do sistema
 - Organização e estrutura de códigos
@@ -45,4 +45,4 @@ Como uma resiliência maior na integridade de dados significa menos incidentes d
 - Testes de unidade, testes de integração e testes de sistema
 - Testes/portas de fio de viagem
 
-Em ambientes de produção do Microsoft 365, a replicação de pares entre datacenters garante que sempre haja várias cópias ao vivo de todos os dados. As imagens e scripts padrão são usados para recuperar servidores perdidos e os dados replicados são usados para restaurar dados do cliente. Devido às verificações e processos internos de resiliência de dados, a Microsoft mantém backups somente da documentação do sistema de informações do Microsoft 365 (incluindo documentação relacionada à segurança), usando a replicação interna no SharePoint Online e nossa ferramenta de repositório de código interno, Source Depot. A documentação do sistema é armazenada no SharePoint Online, e o Source Depot contém imagens do sistema e do aplicativo. O SharePoint Online e o Source Depot usam o versioning e são replicados em tempo real.
+Em Microsoft 365 ambientes de produção, a replicação de pares entre datacenters garante que sempre haja várias cópias ao vivo de todos os dados. As imagens e scripts padrão são usados para recuperar servidores perdidos e os dados replicados são usados para restaurar dados do cliente. Devido às verificações e processos internos de resiliência de dados, a Microsoft mantém backups somente da documentação do sistema de informações do Microsoft 365 (incluindo documentação relacionada à segurança), usando a replicação interna no SharePoint Online e nossa ferramenta de repositório de código interno, Source Depot. A documentação do sistema é armazenada no SharePoint Online, e o Source Depot contém imagens do sistema e do aplicativo. Os SharePoint Online e o Source Depot usam o versioning e são replicados em tempo real.

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 93a45f3da668ef9f6115fe352b5bbbce49e15d7f
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 04fcc05bcde30bb3ecd6e33336789839cb5a6e404e650d16875692cea38bb7b5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287920"
 ---
 # <a name="title-23-nycrr-part-500"></a>Título 23 do NYCRR Parte 500
 
@@ -63,7 +63,7 @@ Os novos regulamentos de Nova York exigem que cada instituição financeira:
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade de seus serviços e da assinatura do Office 365:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|

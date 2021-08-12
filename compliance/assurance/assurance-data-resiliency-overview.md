@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6e990facde47b07d50f594afb55353a5ef81dd78
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: a0745cda440b2262f4b09764e71514aeab946a6e8e0adcd4cdbccaffd14c5fe3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291329"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Resiliência de dados no Microsoft 365
 
@@ -42,9 +42,9 @@ A criação de resiliência e recuperação começa com a suposição de que a i
 
 Hoje, os clientes esperam inovação contínua da Microsoft sem comprometer a qualidade, e esse é um dos motivos pelos quais os serviços e software da Microsoft são construídos com resiliência e capacidade de recuperação em mente.
 
-## <a name="microsoft-365-data-resiliency-principles"></a>Princípios de resiliência de dados do Microsoft 365
+## <a name="microsoft-365-data-resiliency-principles"></a>Microsoft 365 princípios de resiliência de dados
 
-A resiliência refere-se à capacidade de um serviço baseado em nuvem suportar determinados tipos de falhas e ainda permanecer totalmente funcional da perspectiva dos clientes. A resiliência de dados significa que, independentemente das falhas que ocorrem no Microsoft 365, os dados críticos do cliente permanecem intactos e não afetados. Para esse fim, os serviços do Microsoft 365 foram projetados em torno de cinco princípios específicos de resiliência:
+A resiliência refere-se à capacidade de um serviço baseado em nuvem suportar determinados tipos de falhas e ainda permanecer totalmente funcional da perspectiva dos clientes. A resiliência de dados significa que, independentemente das falhas que ocorrem no Microsoft 365, os dados críticos do cliente permanecem intactos e não afetados. Para esse fim, Microsoft 365 serviços foram projetados em torno de cinco princípios específicos de resiliência:
 
 - Há dados críticos e não críticos. Dados não críticos (por exemplo, se uma mensagem foi lida) podem ser descartados em cenários de falha rara. Dados críticos (por exemplo, dados do cliente, como mensagens de email) devem ser protegidos a custo extremo. Como uma meta de design, as mensagens de email entregues são sempre críticas, e coisas como se uma mensagem foi lida não é crítica.
 - Cópias de dados do cliente devem ser separadas em zonas de falha diferentes ou no maior número possível de domínios de falha (por exemplo, datacenters, acessíveis por credenciais simples (processo, servidor ou operador)) para fornecer isolamento de falhas. 
@@ -52,11 +52,11 @@ A resiliência refere-se à capacidade de um serviço baseado em nuvem suportar 
 - Os dados do cliente devem ser protegidos contra corrupção. Ele deve ser verificado ativamente ou monitorado, reparado e recuperável.
 - A maioria dos resultados de perda de dados de ações do cliente permite que os clientes se recuperem por conta própria usando uma GUI que permite restaurar itens excluídos acidentalmente.
 
-Por meio da criação de nossos serviços de nuvem para esses princípios, juntamente com testes e validação robustos, o Microsoft 365 é capaz de atender e exceder os requisitos dos clientes, ao mesmo tempo em que garante uma plataforma para inovação e aperfeiçoamento contínuos.
+Por meio da criação de nossos serviços de nuvem para esses princípios, juntamente com testes e validação robustos, o Microsoft 365 é capaz de atender e exceder os requisitos dos clientes, garantindo uma plataforma para inovação contínua e melhoria.
 
 ## <a name="related-articles"></a>Artigos relacionados
 
 - [Lidando com dados corrompidos](assurance-dealing-with-data-corruption.md)
 - [Proteção contra ransomware e malware](assurance-malware-and-ransomware-protection.md)
 - [Monitoramento e Autorrecuperação](assurance-monitoring-and-self-healing.md)
-- [Resiliência de Dados do Exchange](assurance-exchange-data-resiliency.md)
+- [Exchange Resiliência de Dados](assurance-exchange-data-resiliency.md)

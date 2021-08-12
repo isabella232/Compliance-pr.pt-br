@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 48c8df230e3497c6176898226bb5b76de5d3b1e0
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 5540a941a9d246eabf37abcf0dd9fa12fd5e0df1b2d2ad70c058e341c14bb2b8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141532"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289549"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados do Azure para o GDPR e o CCPA
 
@@ -38,7 +38,7 @@ O guia descreve como usar os produtos, serviços e ferramentas administrativas d
 - **Descubra:** use as ferramentas de pesquisa e descoberta para encontrar com mais facilidade os dados de clientes que possam estar sujeitos a uma DSR. Assim que os documentos potencialmente responsivos forem coletados, você pode executar uma ou mais ações de DSR descritas nas etapas a seguir a fim de responder à solicitação. Como alternativa, você pode determinar que a solicitação não atende às diretrizes de sua organização para responder a DSRs.
 - **Acesso:** recupere dados pessoais que residem na nuvem da Microsoft e, se solicitado, faça uma cópia para disponibilizar para o titular dos dados.
 - **Retificação:** faça alterações ou implemente outras ações solicitadas nos dados pessoais, onde for possível.
-- **Restrição:** restrinja o processamento de dados pessoais, removendo licenças de diversos serviços do Azure ou desativando os serviços desejados, quando possível. Você também pode remover dados da nuvem da Microsoft e mantê-los no local ou onde preferir.
+- **Restringir**: restrinja o processamento de dados pessoais, removendo licenças para vários serviços do Azure ou desligando os serviços desejados quando possível. Você também pode remover dados da nuvem da Microsoft e mantê-los no local ou em outro local.
 - **Exclusão:** remova permanentemente os dados pessoais que residem na nuvem da Microsoft.
 - **Exportar/Receber (Portabilidade):** forneça uma cópia eletrônica (em formato legível para computador) de dados pessoais ou informações pessoais para o titular dos dados. Os dados pessoais do CCPA são quaisquer informações relacionadas a uma pessoa, identificável ou não. Não há distinção entre as funções pública, privada ou de trabalho de uma pessoa. O termo definido "informações pessoais" se alinha aproximadamente aos "dados pessoais" do RGPD. No entanto, o CCPA também inclui dados da família e do domicílio. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](offering-ccpa.md) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](ccpa-faq.yml).
 
@@ -58,7 +58,7 @@ Veja a seguir as definições dos termos que são relevantes para este guia.
 
 Este guia consiste em duas partes:
 
-- **Parte 1: respondendo a Solicitações do Titular dos dados para Dados do Cliente:** a Parte 1 deste guia discute como acessar, retificar, restringir, excluir e exportar dados de aplicativos nos quais você criou dados. Esta seção detalha como executar Solicitações do Titular dos Dados em relação ao Conteúdo do Cliente e também às informações identificáveis dos usuários finais.
+- **Parte 1: respondendo às Solicitações do Titular dos Dados para Dados do Cliente:** a Parte 1 deste guia discute como acessar, retificar, restringir, excluir e exportar dados de aplicativos nos quais você criou dados. Esta seção detalha como executar as solicitações do titular dos dados em relação ao Conteúdo do Cliente e também às informações identificáveis dos usuários finais.
 - **Parte 2: responder às Solicitações de Titulares dos Dados por Logs Gerados pelo Sistema:** quando você usa os serviços corporativos da Microsoft, nós geramos informações, conhecidas como logs gerados pelo sistema, para fornecer o serviço. A parte 2 deste guia descreve como acessar, excluir e exportar tais informações para o Azure.
 
 ## <a name="understanding-dsrs-for-azure-active-directory-and-microsoft-service-accounts"></a>Entender noções básicas dos DSRs para contas de serviço do Azure Active Directory e Microsoft

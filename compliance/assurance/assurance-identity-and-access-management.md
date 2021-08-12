@@ -20,20 +20,20 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d634883baf9ce6abe99b33d6394be86885b49656
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5cca0c3cf70a0fe2c660c0b168a157056e1d4c56942fdeee2b71e7448c1dc50b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291009"
 ---
 # <a name="identity-and-access-management-overview"></a>Visão geral do gerenciamento de identidades e acesso
 
 ## <a name="how-does-microsoft-365-protect-production-systems-from-unauthorized-or-malicious-access"></a>Como proteger Microsoft 365 sistemas de produção contra acesso não autorizado ou mal-intencionado?
 
-Microsoft 365 foi projetado para permitir que os engenheiros da Microsoft operem o serviço sem acessar o conteúdo do cliente. Por padrão, Microsoft 365 os engenheiros têm Acesso Sem Acesso Permanente (ZSA) ao conteúdo do cliente e sem acesso privilegiado ao ambiente de produção. Microsoft 365 usa um modelo Just-In-Time (JIT), Just-Enough-Access (JEA) para fornecer aos engenheiros de equipe de serviço acesso privilegiado temporário a ambientes de produção quando esse acesso for necessário para dar suporte a Microsoft 365. O modelo de acesso JIT substitui o acesso administrativo tradicional persistente por um processo para os engenheiros solicitarem elevação temporária em funções privilegiadas quando necessário.
+Microsoft 365 foi projetado para permitir que os engenheiros da Microsoft operem o serviço sem acessar o conteúdo do cliente. Por padrão, Microsoft 365 os engenheiros têm Acesso Sem Acesso Permanente (ZSA) ao conteúdo do cliente e sem acesso privilegiado ao ambiente de produção. Microsoft 365 usa um modelo Just-In-Time (JIT), Just-Enough-Access (JEA) para fornecer aos engenheiros de equipe de serviço acesso privilegiado temporário a ambientes de produção quando esse acesso for necessário para dar suporte a Microsoft 365. O modelo de acesso JIT substitui o acesso administrativo tradicional e persistente por um processo para os engenheiros solicitarem elevação temporária em funções privilegiadas quando necessário.
 
-Engenheiros atribuídos a uma equipe de serviço para dar suporte à qualificação de solicitação de serviços de produção para uma conta de equipe de serviço por meio da Ferramenta de Gerenciamento de Identidade (IDM). A solicitação de qualificação dispara uma série de verificações de funcionários para garantir que o engenheiro tenha passado todos os requisitos de triagem na nuvem, concluído o treinamento necessário e recebido aprovação de gerenciamento apropriada antes da criação da conta. Somente depois de atender a todos os requisitos de qualificação pode ser criada uma conta de equipe de serviço para o ambiente solicitado. Para manter a qualificação de uma conta de equipe de serviço, a equipe deve passar pelo treinamento baseado em função anualmente e rescreening a cada dois anos. A falha ao concluir ou passar essas verificações resulta em eligibilidades automaticamente revogadas.
+Engenheiros atribuídos a uma equipe de serviço para dar suporte à qualificação de solicitação de serviços de produção para uma conta de equipe de serviço por meio da Ferramenta de Gerenciamento de Identidade (IDM). A solicitação de qualificação dispara uma série de verificações de funcionários para garantir que o engenheiro tenha passado todos os requisitos de triagem na nuvem, concluído o treinamento necessário e recebido aprovação de gerenciamento apropriada antes da criação da conta. Somente depois de atender a todos os requisitos de qualificação, uma conta de equipe de serviço pode ser criada para o ambiente solicitado. Para manter a qualificação de uma conta de equipe de serviço, a equipe deve passar pelo treinamento baseado em função anualmente e rescreening a cada dois anos. A falha ao concluir ou passar essas verificações resulta em eligibilidades automaticamente revogadas.
 
 As contas de equipe de serviço não concedem privilégios de administrador permanente ou acesso ao conteúdo do cliente. Quando um engenheiro exige acesso adicional para dar suporte ao serviço de Microsoft 365, eles solicitam acesso temporário elevado aos recursos necessários usando uma ferramenta de gerenciamento de acesso chamada Lockbox. O lockbox restringe o acesso elevado aos privilégios mínimos, recursos e tempo necessários para concluir a tarefa atribuída. Se um revistor autorizado aprovar a solicitação de acesso JIT, o engenheiro recebe uma conta temporária com apenas os privilégios necessários para concluir seu trabalho atribuído. Essa conta temporária requer autenticação multifa factor e é excluída automaticamente após o período aprovado expirar.
 
@@ -46,7 +46,7 @@ Os engenheiros que suportam um serviço têm a associação a grupos de seguran�
 
 ## <a name="how-does-microsoft-365-handle-remote-access-to-production-systems"></a>Como Microsoft 365 o acesso remoto a sistemas de produção?
 
-Microsoft 365 componentes do sistema são ativos em datacenters geograficamente separados das equipes de operações. O pessoal do datacenter não tem acesso lógico a sistemas Microsoft 365 dados. Como resultado, Microsoft 365 equipe de serviço gerenciam o ambiente por meio de acesso remoto. Os funcionários da equipe de serviço que exigem acesso remoto para dar suporte Microsoft 365 acesso remoto só são concedidos após a aprovação de um gerente autorizado. Todo o acesso remoto usa TLS compatível com FIPS 140-2 para conexões remotas seguras.
+Os componentes do sistema Microsoft 365 estão alojados em datacenters separados geograficamente das equipes de operações. O pessoal do datacenter não tem acesso lógico a sistemas Microsoft 365 dados. Como resultado, Microsoft 365 equipe de serviço gerenciam o ambiente por meio de acesso remoto. O pessoal da equipe de serviço que requer acesso remoto para oferecer suporte ao Microsoft 365 só recebe acesso remoto após a aprovação de um gerente autorizado. Todo o acesso remoto usa TLS compatível com FIPS 140-2 para conexões remotas seguras.
 
 Microsoft 365 usa Estações de Trabalho de Administrador Seguro para acesso remoto da equipe de serviço para ajudar Microsoft 365 ambientes contra comprometimento. Essas estações de trabalho foram projetadas para evitar perda intencional ou não intencional de dados de produção, incluindo o bloqueio de portas USB e a limitação do software disponível na Estação de Trabalho de Administração Segura para o que é necessário para dar suporte ao ambiente. As Estações de Trabalho de Administrador Seguro são rastreadas e monitoradas de perto para detectar e impedir o comprometimento mal-intencionado ou inadvertido dos dados do cliente pelos engenheiros da Microsoft.
 

@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 711cbafddaa6fbdff4050b138edacbd399666ef3
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: f1aa67817553c1ca7c8f9535965409ffb83a55117914254c4d58eec50eb38eba
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289969"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>Avaliação de impacto de proteção de dados do GDPR
 

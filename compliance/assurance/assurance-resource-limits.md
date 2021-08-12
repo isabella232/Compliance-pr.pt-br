@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9147afb15c5fcba8c71a056f7001b273635c8bd5
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 2f64b1201077e25d28d99f49b573912078e4e428ccb51011e17934b1440f75ac
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290539"
 ---
 # <a name="service-resource-limits"></a>Limites de recursos de serviço
 

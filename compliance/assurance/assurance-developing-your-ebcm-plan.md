@@ -17,16 +17,16 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e8c031727c77d1106f8bd255a643fd9794cc856a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 78c27f10d963dd3653e7ab444143baae7c989e3ff7f3ce62cb2f45db7a55922f
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287261"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Desenvolvendo seu plano de continuidade de negócios
 
-Este tópico fornece orientações sobre o desenvolvimento de um plano de continuidade de negócios que leva em conta as dependências do Microsoft 365. Aqui estão os métodos de análise das suas funções de negócios e da identificação das que dependem dos serviços do Microsoft 365. Você executará essa análise com a previsão de que haverá falhas de serviço e que você precisa se preparar para essas possibilidades.
+Este tópico fornece orientações sobre o desenvolvimento de um plano de continuidade de negócios que Microsoft 365 dependências em conta. Aqui estão os métodos de análise das suas funções de negócios e da identificação das que dependem dos serviços do Microsoft 365. Você executará essa análise com a previsão de que haverá falhas de serviço e que você precisa se preparar para essas possibilidades.
 
 Em geral, o planejamento de continuidade de negócios envolve quatro aspectos, avaliação, planejamento, validação de capacidade e comunicação e coordenação.
 
@@ -93,9 +93,9 @@ Na Microsoft, cada equipe de serviço estabeleceu canais de comunicação altern
 
 Durante a análise de dependência de negócios e a análise de dependências, você mapeará os processos essenciais e as tecnologias ou serviços dos quais eles dependem. Preste atenção especial à comunicação durante essa fase de planejamento e das opções. Aqui estão alguns exemplos.
 
-- Se o email for o seu principal método para manter os usuários e os participantes informados e o seu serviço de email estiver prejudicado ou indisponível, você poderá usar outro serviço, como o Microsoft Teams, o Yammer ou outro serviço de terceiros, como um backup. A chave é estabelecê-las antecipadamente e treinar seus usuários para onde ir. Um thread do Yammer não será útil se ninguém souber que ele existe ou se ninguém o tiver marcado.  
+- Se o email for o seu principal método para manter os usuários e os participantes informados e o seu serviço de email estiver prejudicado ou indisponível, você poderá usar outro serviço, como o Microsoft Teams, o Yammer ou outro serviço de terceiros, como um backup. A chave é estabelecê-las antecipadamente e treinar seus usuários para onde ir. Um Yammer thread não será útil se ninguém souber que ele existe ou se ninguém o tiver marcado.  
 - Se os processos de gerenciamento de incidentes internos dependem das comunicações de voz para coordenar suas respostas, estabeleça uma solução de telefonia alternativa para ser usada durante uma crise. Essa solução não precisa ter paridade total com seu serviço principal, mas deve fornecer o nível mínimo de colaboração para coordenar suas equipes de Continuidade de Negócios e Gerenciamento de Incidentes. Além disso, pedir aos usuários para publicar seus números de telefone celular na sua lista de endereços global pode fornecer uma camada adicional de comunicação de backup em casos extremos.
-- Talvez você queira criar um painel de integridade de serviço personalizado ou outro site, que pode fornecer atualizações de status durante um incidente. Os usuários de treinamento para informações antecipadamente ajudam a reduzir as chamadas desnecessárias para o suporte técnico e a incutir confiança na sua base de usuários que a situação está sendo tratada de forma rápida e eficiente. Use a API de Comunicações de Serviço do O365 para ligar essas informações ao Microsoft 365 para um nível de visibilidade ainda maior.  
+- Talvez você queira criar um painel de integridade de serviço personalizado ou outro site, que pode fornecer atualizações de status durante um incidente. Os usuários de treinamento para informações antecipadamente ajudam a reduzir as chamadas desnecessárias para o suporte técnico e a incutir confiança na sua base de usuários que a situação está sendo tratada de forma rápida e eficiente. Use a API de Comunicações de Serviço do O365 para amarrar essas informações Microsoft 365 um nível de visibilidade ainda maior.  
 - É fundamental que o local dos planos de continuidade de negócios e os procedimentos operacionais padrão sejam conhecidos. É recomendável manter cópias online e offline de documentação crítica, como o SharePoint Online ou o OneDrive for Business configurado para sincronização automática com dispositivos locais. Para Centros de Operações de Serviço/Rede e outras equipes semelhantes que serão essenciais para a recuperação, você também pode querer manter cópias impressas disponíveis para serem usadas em caso de emergência.
 
 ## <a name="know-your-external-points-of-integration"></a>Conheça seus pontos externos de integração

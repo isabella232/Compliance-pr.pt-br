@@ -1,6 +1,6 @@
 ---
 title: Criptografia para dados em trânsito
-description: Neste artigo, encontre uma breve explicação sobre como a Microsoft criptografa dados do cliente do Microsoft 365 em trânsito.
+description: Neste artigo, encontre uma breve explicação sobre como a Microsoft criptografa Microsoft 365 dados do cliente em trânsito.
 ms.author: krowley
 author: kccross
 manager: laurawi
@@ -21,12 +21,12 @@ ms.collection:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 227f74140ecd9b6283b92e8b0e87bd70912ec8e3
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 6a4707be17c0ef5d992e1f98db9638b9b8337dfd22f012af914ef65891c315ed
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291278"
 ---
 # <a name="encryption-for-data-in-transit"></a>Criptografia para dados em trânsito
 
@@ -34,9 +34,9 @@ Além de proteger os dados do cliente em repouso, a Microsoft usa tecnologias de
 
 - quando uma máquina cliente se comunica com um servidor Microsoft;
 - quando um servidor Microsoft se comunica com outro servidor Microsoft; e
-- quando um servidor Microsoft se comunica com um servidor que não seja da Microsoft (por exemplo, o Exchange Online entrega emails para um servidor de email de terceiros).
+- quando um servidor Microsoft se comunica com um servidor que não seja da Microsoft (por exemplo, Exchange Online entrega de email para um servidor de email de terceiros).
 
-As comunicações entre data center entre servidores Microsoft ocorrem em TLS ou IPsec e todos os servidores voltados para o cliente negociam uma sessão segura usando TLS com máquinas cliente (por exemplo, o Exchange Online usa TLS 1.2 com a força de criptografia de 256 bits é usada (FIPS 140-2 Nível 2 validado). (Consulte [Detalhes de referência técnica sobre](/microsoft-365/compliance/technical-reference-details-about-encryption) criptografia para uma lista de pacote de codificação TLS com suporte do Office 365.) Isso se aplica aos protocolos usados por clientes como Outlook, Skype for Business, Microsoft Teams e Outlook na Web (por exemplo, HTTP, POP3, etc.).
+As comunicações entre data center entre servidores Microsoft ocorrem em TLS ou IPsec e todos os servidores voltados para o cliente negociam uma sessão segura usando TLS com máquinas cliente (por exemplo, o Exchange Online usa TLS 1.2 com a força de codificação de 256 bits é usada (FIPS 140-2 Nível 2 validado). (Consulte [Detalhes de referência técnica sobre](/microsoft-365/compliance/technical-reference-details-about-encryption) criptografia para uma lista de pacote de codificação TLS com suporte Office 365.) Isso se aplica aos protocolos usados por clientes como Outlook, Skype for Business, Microsoft Teams e Outlook na Web (por exemplo, HTTP, POP3 etc.).
 
 Os certificados públicos são emitidos pelo Microsoft IT SSL usando SSLAdmin, uma ferramenta interna da Microsoft para proteger a confidencialidade das informações transmitidas. Todos os certificados emitidos pela MICROSOFT IT têm no mínimo 2.048 bits de comprimento, e a conformidade com a Webtrust requer SSLAdmin para garantir que os certificados sejam emitidos apenas para endereços IP públicos pertencentes à Microsoft. Todos os endereços IP que não atendem a esse critério são roteados por meio de um processo de exceção.
 
@@ -50,4 +50,4 @@ Todos os detalhes da implementação, como a versão do TLS em uso, se o Segredo
 - [Proteção do Exchange Online](https://ssl-tools.net/mailservers/microsoft-com.mail.protection.outlook.com)
 - [Microsoft Teams](https://www.ssllabs.com/ssltest/analyze.html?d=teams.microsoft.com&latest)
 
-Para a Proteção do Exchange Online, as URLs variam de acordo com os nomes de locatários; no entanto, todos os clientes podem testar o Microsoft 365 usando **microsoft-com.mail.protection.outlook.com**.
+Para Proteção do Exchange Online, as URLs variam de acordo com os nomes de locatários; no entanto, todos os clientes podem testar Microsoft 365 usando **microsoft-com.mail.protection.outlook.com**.

@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d30214f68911553b0e835e072e02233428bf296bc4927c7c0e49fb04718a9282
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289879"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>Avaliações do Impacto sobre a Proteção dos Dados: orientações para controladores de dados que usam o Serviços Professionais da Microsoft 
 
@@ -51,7 +51,7 @@ O Artigo 35 do RGPD exige que o controlador de dados crie uma Avaliação de Imp
 |||
 
 > [!Note]
-> <sup>1</sup> Com relação aos critérios que o processamento é em “grande escala”, o Recital 91 do RGPD esclarece que: “O processamento de dados pessoais não deve ser considerado em grande escala se o processamento se referir a dados pessoais de pacientes ou clientes de um médico, outro profissional da saúde ou advogado. Nesses casos, uma avaliação de impacto de proteção de dados não deve ser obrigatória.”
+> <sup>1</sup> Com relação aos critérios de que o processamento é em “grande escala”, o Recital 91 do RGPD esclarece que: “O processamento de dados pessoais não deve ser considerado em grande escala se o processamento se referir a dados pessoais de pacientes ou clientes por um médico individual, outro profissional de saúde ou advogado. Nesses casos, uma avaliação de impacto de proteção de dados não deve ser obrigatória ”.
   
 [Anotação de desenvolvimento personalizado] Os Serviços Profissionais oferecem uma ampla variedade de soluções de consultoria. Um controlador de dados poderia solicitar uma solução que, de acordo com os critérios acima, seria uma solução de alto risco. Por exemplo, um controlador de dados pode solicitar que os Serviços Profissionais criem uma solução para desenvolver um mecanismo de engenharia de negócios para decisões de emprego ou aplicativos de crédito ou uma solução que envolva rastreamento de usuários, uso especializado de Inteligência Artificial (AI) ou processamento de categorias especiais. de dados pessoais.
 

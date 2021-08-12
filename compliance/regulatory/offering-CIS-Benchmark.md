@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 7af6dd77d4b67e6912d3b57c823820751b7fb8f6ab3e18c063555d14d1c916cd
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287790"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Parâmetros da Center for Internet Security (CIS)
 

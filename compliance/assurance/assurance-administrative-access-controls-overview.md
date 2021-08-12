@@ -1,6 +1,6 @@
 ---
-title: Controles de acesso administrativo no Microsoft 365
-description: Este artigo fornece uma visão geral dos controles de acesso administrativo e categorização de dados no Microsoft 365.
+title: Controles de acesso administrativos Microsoft 365
+description: Este artigo fornece uma visão geral dos controles de acesso administrativo e categorização de dados Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,26 +20,26 @@ ms.collection:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e7dc9d73b6eb1961387d85910bb558e85498ffae
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 06bdd239e2845d3495a40fc83bd33cbb0e43dbdb3d025bd8fa77b5d5451a680c
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497697"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54289259"
 ---
-# <a name="administrative-access-controls-in-microsoft-365"></a>Controles de acesso administrativo no Microsoft 365 
+# <a name="administrative-access-controls-in-microsoft-365"></a>Controles de acesso administrativos Microsoft 365 
 
-A Microsoft investiu pesadamente em sistemas e controles que automatizam a maioria das operações do Microsoft 365, limitando intencionalmente o acesso ao conteúdo do cliente pela Microsoft. Os humanos governam o serviço e o software opera o serviço. Essa estrutura permite que a Microsoft gerencie o Microsoft 365 em escala e gerencie os riscos de ameaças internas ao conteúdo do cliente.
+A Microsoft investiu pesadamente em sistemas e controles que automatizam a maioria das operações Microsoft 365, limitando intencionalmente o acesso ao conteúdo do cliente pela Microsoft. Os humanos governam o serviço e o software opera o serviço. Essa estrutura permite que a Microsoft gerencie Microsoft 365 em escala e gerencie os riscos de ameaças internas ao conteúdo do cliente.
 
-Por padrão, os engenheiros da Microsoft têm zero privilégios administrativos permanentes e zero acesso permanente ao conteúdo do cliente no Microsoft 365. Um engenheiro da Microsoft pode ter acesso limitado, auditado e protegido ao conteúdo de um cliente por um período limitado de tempo. O acesso é somente quando necessário para operações de serviço e somente quando aprovado por um membro do gerenciamento sênior da Microsoft. Para clientes licenciados no Customer Lockbox, o cliente fornece aprovação de acesso ao conteúdo hospedado no Microsoft 365.
+Por padrão, os engenheiros da Microsoft têm zero privilégios administrativos permanentes e zero acesso permanente ao conteúdo do cliente Microsoft 365. Um engenheiro da Microsoft pode ter acesso limitado, auditado e protegido ao conteúdo de um cliente por um período limitado de tempo. O acesso é somente quando necessário para operações de serviço e somente quando aprovado por um membro do gerenciamento sênior da Microsoft. Para clientes licenciados no Customer Lockbox, o cliente fornece aprovação de acesso ao conteúdo hospedado no Microsoft 365.
 
 A Microsoft fornece serviços online usando várias formas de entrega na nuvem:
 
-- **Nuvens públicas:** Inclui versões multi-locatários do Microsoft 365, Azure e outros serviços hospedados na América do Norte, América do Sul, Europa, Ásia, Austrália, etc.
+- **Nuvens públicas:** Inclui versões multi-locatários de Microsoft 365, Azure e outros serviços hospedados na América do Norte, América do Sul, Europa, Ásia, Austrália, etc.
 - **Nuvens nacionais:** Inclui todas as nuvens soberanas e de terceiros operados fora dos Estados Unidos (exceto aquelas notadas anteriormente), como o Microsoft 365 na China (operado pela 21Vianet) e o Microsoft 365 na Alemanha (operado pela Microsoft, mas em um modelo no qual um administrador de dados alemão, Deutsche Telekom, controla e monitora o acesso da Microsoft aos dados do cliente e sistemas que contêm dados do cliente).
-- **Nuvens do governo:** Inclui serviços do Microsoft 365 e do Azure que estão disponíveis para clientes do governo dos Estados Unidos.
+- **Nuvens do governo:** Inclui Microsoft 365 e serviços do Azure que estão disponíveis para clientes governamentais dos Estados Unidos.
 
-Para fins deste artigo, os serviços do Microsoft 365 incluem:
+Para fins deste artigo, os serviços Microsoft 365 incluem:
 
 - [Exchange Online](/Exchange/exchange-online)
 - [Proteção do Exchange Online](/Office365/SecurityCompliance/eop/exchange-online-protection-overview)
@@ -49,16 +49,16 @@ Para fins deste artigo, os serviços do Microsoft 365 incluem:
 - [Microsoft Teams](/MicrosoftTeams/Teams-overview)
 - [Yammer](/yammer/yammer-landing-page)
 
-## <a name="microsoft-365-access-controls"></a>Controles de acesso do Microsoft 365
+## <a name="microsoft-365-access-controls"></a>Microsoft 365 de acesso
 
-Para fins de controle de acesso, a Microsoft categoriza os dados do Microsoft 365 como dados do cliente ou outros tipos de dados.
+Para fins de controle de acesso, a Microsoft categoriza Microsoft 365 dados como dados do cliente ou outros tipos de dados.
 
 ### <a name="customer-data"></a>Dados do cliente
 
-Os dados do cliente são todos os dados fornecidos por ou em nome de um cliente ao usar os serviços do Microsoft 365. Esses dados são conteúdo do cliente criado ou carregado diretamente pelos usuários do Microsoft 365, incluindo:
+Os dados do cliente são todos os dados fornecidos por ou em nome de um cliente ao usar Microsoft 365 serviços. Esses dados são conteúdo do cliente criado ou carregado diretamente por Microsoft 365 usuários, incluindo:
 
 - Emails
-- Conteúdo do SharePoint Online
+- SharePoint Conteúdo online
 - Mensagens instantâneas
 - Itens de calendário
 - Documentos
@@ -73,17 +73,17 @@ Outros tipos de dados incluem:
 - **Informações de identificação organizacional:** Inclui dados usados para identificar um locatário, dados de uso e não vinculáveis a um usuário individual ou incluídos no conteúdo do cliente.
 - **Metadados do sistema:** Inclui logs de serviço que contêm configurações, status do sistema, endereços IP da Microsoft e informações técnicas sobre assinaturas e locatários.
 
-A Microsoft estabeleceu mecanismos de controle de acesso para garantir que ninguém tenha acesso não aprovado aos Dados do Cliente ou aos dados de controle de acesso. Os dados de controle de acesso gerenciam o acesso a outros tipos de dados ou funções no ambiente, incluindo o acesso ao conteúdo do cliente ou à EUII, senhas da Microsoft, certificados de segurança e outros dados relacionados à autenticação. Os mecanismos de controle de acesso também se resguardam contra acesso físico, lógico ou remoto não aprovado ao ambiente de produção do Microsoft 365.
+A Microsoft estabeleceu mecanismos de controle de acesso para garantir que ninguém tenha acesso não aprovado aos Dados do Cliente ou aos dados de controle de acesso. Os dados de controle de acesso gerenciam o acesso a outros tipos de dados ou funções no ambiente, incluindo o acesso ao conteúdo do cliente ou à EUII, senhas da Microsoft, certificados de segurança e outros dados relacionados à autenticação. Os mecanismos de controle de acesso também se resguardam contra acesso físico, lógico ou remoto não aprovado ao ambiente de Microsoft 365 de produção.
 
-Há três categorias de controles de acesso usados pela Microsoft para operar o Microsoft 365:
+Há três categorias de controles de acesso usados pela Microsoft para Microsoft 365:
 
 - Controles de isolamento
-- Controles de equipe
+- Controles de pessoal
 - Controles de tecnologia
 
-Quando combinados, esses controles ajudam a evitar e detectar ações mal-intencionadas no Microsoft 365. Além dos controles de isolamento, pessoal e tecnologia usados pela Microsoft, há uma quarta categoria de controles: os controles implementados pelos clientes.
+Quando combinados, esses controles ajudam a evitar e detectar ações mal-intencionadas Microsoft 365. Além dos controles de isolamento, pessoal e tecnologia usados pela Microsoft, há uma quarta categoria de controles: os controles implementados pelos clientes.
 
-O Microsoft 365 permite gerenciar dados da mesma maneira que os dados são gerenciados em ambientes locais. A pessoa que insissou uma organização para o Microsoft 365 se torna automaticamente um administrador global. O administrador global tem acesso a todos os recursos em Portais de Gerenciamento e pode:
+Microsoft 365 permite gerenciar dados da mesma maneira que os dados são gerenciados em ambientes locais. A pessoa que insissou uma organização para Microsoft 365 se torna automaticamente um administrador global. O administrador global tem acesso a todos os recursos em Portais de Gerenciamento e pode:
 
 - Criar ou editar usuários
 - Atribuir funções de administrador a outras pessoas
@@ -100,6 +100,6 @@ Para obter informações sobre como atribuir funções e permissões de administ
 
 - [Isolamento no Microsoft 365](assurance-isolation-in-microsoft-365.md)
 - [Triagem de pré-emprego da Microsoft](assurance-pre-employment-screening.md)
-- [Verificação de antecedentes da nuvem da Microsoft](assurance-cloud-background-check.md)
+- [Verificação de plano de fundo da nuvem da Microsoft](assurance-cloud-background-check.md)
 - [Monitorando e auditando controles de acesso ](assurance-monitoring-and-auditing-access-controls.md)
 - [Controles de acesso do Yammer Enterprise](assurance-yammer-enterprise-access-controls.md)

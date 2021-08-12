@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 032e9046db5b7cd6bea2c2ad68bc63079bfbef78
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 186de3ed38db1714b84fc59d72b6be0826d66b04b6e6775fd7672666e4534ad6
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287200"
 ---
 # <a name="train-for-business-continuity-in-your-organization"></a>Treinar para continuidade de negócios em sua organização
 

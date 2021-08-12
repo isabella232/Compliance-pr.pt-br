@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: b4b6f8619c1d059d1a0684bc774c81d5ab1e9eb4
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 0453e148c38de9cc6e7171becd21576646dd4be50796ecb674a02fc8fef4ff43
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088720"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287910"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Plano de ação ISO 27001 do Microsoft 365 – principais prioridades para os primeiros 30 dias, 90 dias e depois
 

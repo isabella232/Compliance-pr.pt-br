@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 71b08509ae920ad88ecfa1566b9a11d640b0534f
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1811b118ffdbfce72ba7b387c499d7ce68be2911417611c3ae4fa39624511daf
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290969"
 ---
 # <a name="internal-logging-for-microsoft-365-engineering"></a>Log interno para engenharia do Microsoft 365
 

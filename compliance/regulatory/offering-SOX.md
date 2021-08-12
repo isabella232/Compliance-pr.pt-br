@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384341"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290049"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act de 2002 (SOX)
 
@@ -41,13 +41,13 @@ O relatório de auditoria, produzido por uma empresa de auditoria de terceiros, 
 
 Na Microsoft, compartilharemos a responsabilidade de conformidade com nossos clientes. Fornecemos os detalhes sobre nossos programas de conformidade, que você pode verificar solicitando resultados detalhados de auditoria dos terceiros certificados. Por fim, no entanto, você deve determinar se nossos serviços estão em conformidade com as leis e regulamentos específicos aplicáveis à sua empresa. Por exemplo, há controles de segurança relacionados a SOX, como o acesso do usuário a recursos de nuvem, que são sua responsabilidade: sua organização deve desenvolver a auditoria apropriada desses controles como parte da conformidade do SOX.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas de nuvem no escopo da Microsoft & serviços
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Power BI de nuvem (como um serviço autônomo ou como incluído em um Office 365 ou pacote)
+- Serviço de nuvem do Power BI (como um serviço autônomo ou incluído em um plano ou pacote com a marca Office 365)
 
 ## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 e SOX
 
@@ -55,13 +55,13 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-sox"></a>Office 365 e SOX
 
-### <a name="office-365-cloud-environments"></a>Office 365 ambientes de nuvem
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 aplicabilidade e serviços no escopo
+### <a name="office-365-applicability-and-in-scope-services"></a>Aplicabilidade do Office 365 e serviços no escopo
 
-Use a tabela a seguir para determinar a aplicabilidade para seus serviços Office 365 e assinatura:
+Use a seguinte tabela para determinar a aplicabilidade para seus serviços e assinatura do Office 365:
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
@@ -84,6 +84,6 @@ Ao migrar seus aplicativos e dados para serviços de nuvem da Microsoft cobertos
 ### <a name="resources"></a>Recursos
 
 - [Programa de Conformidade para Serviços Financeiros da Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
-- [ serviços corporativos de nuvem e serviços financeiros da Microsoft ](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
+- [Serviços de nuvem corporativos da Microsoft e serviços financeiros](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Responsabilidades compartilhadas para a computação em nuvem](https://aka.ms/sharedresponsibility)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

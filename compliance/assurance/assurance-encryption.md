@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: c746f54081da90154efa22238e38e4a27185b530
-ms.sourcegitcommit: 9f2132a2c723ddc25686c744caf1c9a8eadbb56c
+ms.openlocfilehash: d0eb38519ff0eb8d186d2f539e4a99d62410bfd5b5e25125100cd04e5cef82f0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53596509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291128"
 ---
 # <a name="encryption-and-key-management-overview"></a>Visão geral de gerenciamento de criptografia e chaves
 
