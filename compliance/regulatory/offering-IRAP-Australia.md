@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293858"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260306"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programa Avaliador de Segurança de Informações do Governo Australiano (IRAP)
 
@@ -71,7 +71,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-irap"></a>Office 365 e IRAP
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -81,7 +81,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Proteção do Exchange Online, Formulários, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço do Office, OneDrive for Business, Planner, SharePoint Online, Skype for Business, Quadro de Yammer |
+| **Comercial** | Exchange Online, Proteção do Exchange Online, Formulários, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço do Office, OneDrive for Business, Planner, SharePoint Online, Skype for Business, Quadro de Yammer |
 
 ### <a name="frequently-asked-questions"></a>Perguntas frequentes
 

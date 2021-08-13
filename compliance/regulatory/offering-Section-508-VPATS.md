@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9df3b3f2d39ba28eb3d6b8ca9cdc293594dcc10f13aa17e7c08c85d41ab6ba0c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 237fe4ed402679f156042902f7c25526eee354de
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288579"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259729"
 ---
 # <a name="us-section-508"></a>Seção 508 dos EUA
 
@@ -46,7 +46,7 @@ A consideração da Microsoft sobre a Seção 508 dos EUA no desenvolvimento de 
 
 ## <a name="office-365-and-us-section-508"></a>Office 365 e seção 508 dos EUA
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -56,7 +56,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Access, Azure Active Directory, Bookings, Gerenciador de Conformidade, Delve, Excel, Exchange Online, Formulários, Kaizala, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, portal de administração do Office 365 para Android, portal de administração do Office 365 para iOS, portal de administração do Office 365, complemento Conformidade Avançada do Office 365, Office 365 e entrada do Azure AD, Office 365 Business Center, Office 365 Business Center, Office 365 Centro de conformidade & segurança, Office 365 vídeo, Office 365 Web Suite, Office Configuration Tool, Office Lens, Office Online, Office Pro Plus, OneDrive for Business, OneDrive, OneNote, grupos Outlook, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype for Business, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
+| **Comercial** | Access, Azure Active Directory, Bookings, Gerenciador de Conformidade, Delve, Excel, Exchange Online, Formulários, Kaizala, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, portal de administração do Office 365 para Android, portal de administração do Office 365 para iOS, portal de administração do Office 365, complemento Conformidade Avançada do Office 365, Office 365 e entrada do Azure AD, Office 365 Business Center, Office 365 Business Center, Office 365 Centro de conformidade & segurança, Office 365 vídeo, Office 365 Web Suite, Office Configuration Tool, Office Lens, Office Online, Office Pro Plus, OneDrive for Business, OneDrive, OneNote, grupos Outlook, Outlook, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, SharePoint, Skype for Business, StaffHub, Stream, To-Do, Visio, Word, Yammer  |
 | **GCC** | Azure Active Directory, Gerente de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 | **GCC Alta** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
 | **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power Automate, Power BI, SharePoint Online, Skype for Business |

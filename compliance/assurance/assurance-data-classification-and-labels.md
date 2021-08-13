@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: dc2a1a27994c1f3fc69f35b4b764ae80d3df7defd3b4d0dec97520de7760f815
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 396063b9ab094c7e5834572fe778046464ade81d
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288709"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260326"
 ---
 # <a name="data-classification--sensitivity-label-taxonomy"></a>Classificação de dados & taxonomia do rótulo de sensibilidade
 
@@ -40,7 +40,9 @@ Além do volume, seu conteúdo pode variar de altamente sensível e impactante a
 ## <a name="what-is-a-data-classification-framework"></a>O que é uma estrutura de classificação de dados?
 
 Geralmente codificada em uma política formal em toda a empresa, uma estrutura de classificação de dados (às vezes chamada de "política de classificação de dados") geralmente é composta por níveis de classificação de 3 a 5. Geralmente, eles incluem três elementos: um nome, uma descrição e exemplos do mundo real. A Microsoft recomenda não mais do que cinco rótulos pai de nível superior, cada um com cinco sub-rótulos (25 no total) para manter a interface do usuário (UI) gerenciável. Normalmente, os níveis são organizados do mínimo para o mais confidencial, como *Público,* *Interno,* *Confidencial* e *Altamente* 
- *Confidencial.* Outras variações de nome de nível que você pode encontrar *incluem Restricted,* *Unrestricted* e *Consumer Protected*. A Microsoft recomenda nomes de rótulo auto-descritivos e que realçam claramente sua sensibilidade relativa. Por exemplo, *Confidencial* e *Restrito* pode deixar os usuários supondo qual rótulo é apropriado, enquanto *Confidencial* e Altamente *Confidencial* são mais claros sobre o qual é mais confidencial. A tabela a seguir mostra exemplos de níveis da estrutura de classificação de dados.
+ *Confidencial.* Outras variações de nome de nível que você pode encontrar *incluem Restricted,* *Unrestricted* e *Consumer Protected*. A Microsoft recomenda nomes de rótulo auto-descritivos e que realçam claramente sua sensibilidade relativa. Por exemplo, *Confidencial* e *Restrito* pode deixar os usuários supondo qual rótulo é apropriado, enquanto *Confidencial* e Altamente *Confidencial* são mais claros sobre o qual é mais confidencial. 
+
+A tabela a seguir mostra um exemplo de *um* nível de estrutura de classificação de dados altamente confidencial:
 
 |**Nível de classificação**|**Descrição**|**Exemplos**|
 |:-----------------------|:--------------|:-----------|

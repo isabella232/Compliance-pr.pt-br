@@ -17,8 +17,8 @@ metadata:
   ms.date: 11/30/2020
   localization_priority: Normal
 conceptualContent:
-  title: Ofertas de conformidade da Microsoft
-  summary: 'Informações para Microsoft 365, Azure, Dynamics 365, Power Platform e outros serviços para ajudar com regulamentos nacionais, regionais e específicos do setor para coleta e uso de dados.'
+  title: 'Azure, Dynamics 365 e Microsoft 365 de conformidade'
+  summary: 'Informações para o Azure, o Dynamics 365, o Microsoft 365 e a Plataforma Power e outros serviços para ajudar com regulamentos nacionais, regionais e específicos do setor para coleta e uso de dados.'
   items:
     - title: Global
       links:
@@ -163,7 +163,7 @@ conceptualContent:
           text: FINMA (Suíça)
         - url: offering-finra-4511.md
           itemType: reference
-          text: FINRA 4511
+          text: FINRA 4511 (EUA)
         - url: offering-fisc-japan.md
           itemType: reference
           text: FISC (Japão)
@@ -172,7 +172,7 @@ conceptualContent:
           text: FSA (Dinamarca)
         - url: offering-glba.md
           itemType: reference
-          text: GLBA
+          text: GLBA (EUA)
         - url: /azure/compliance/offerings/offering-gsma
           itemType: reference
           text: GSMA
@@ -185,11 +185,11 @@ conceptualContent:
         - url: offering-hipaa-hitech.md
           itemType: reference
           text: HIPAA / HITECH
+    - title: Setor
+      links:
         - url: offering-hitrust.md
           itemType: reference
           text: HITRUST
-    - title: Setor
-      links:
         - url: offering-knf-poland.md
           itemType: reference
           text: KNF (Polônia)
@@ -220,11 +220,11 @@ conceptualContent:
         - url: offering-PCI-DSS.md
           itemType: reference
           text: PCI-DSS
+    - title: Setor
+      links:
         - url: offering-rbi-irdai-india.md
           itemType: reference
           text: RBI + IRDAI (Índia)
-    - title: Setor
-      links:
         - url: offering-sec-17a-4.md
           itemType: reference
           text: SEC 17a-4
@@ -239,7 +239,7 @@ conceptualContent:
           text: SOX
         - url: /azure/compliance/offerings/offering-tisax
           itemType: reference
-          text: TISAX (Alemanha)
+          text: TISAX
         - url: offering-trusight.md
           itemType: reference
           text: TruSight

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c809ebd43b66d51939a31b283e212b55d20f833a
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293828"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260316"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Lei de Portabilidade e Responsabilidade do Seguro de Saúde (HIPAA) & Tecnologia de Informações de Saúde para a HiTECH (Economic and Clinical Health Health) Act
 
@@ -54,7 +54,7 @@ Para saber como o Microsoft Cloud ajuda os clientes a dar suporte a HIPAA e aos 
 - Dynamics 365 e Dynamics 365 U.S. Government
 - Intune
 - Microsoft Cloud App Security
-- [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- [Nuvem da Microsoft para Serviços de Saúde](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Serviços Profissionais da Microsoft: Premier e no Local para Azure, Dynamics 365, Intune e para clientes de médias empresas e corporativos do Microsoft 365 para empresas.
@@ -69,7 +69,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-hipaa"></a>Office 365 e HIPAA
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -79,7 +79,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Serviço de Comunicações do Azure, Gerenciador de Conformidade, Caixa de Bloqueio do Cliente, Delve, Exchange Online, Formulários, Grifo, Gerenciador de Identidade, Lockbox (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Portal do Cliente do Office 365, Microserviços do Office 365 (incluindo, mas não limitado a Kaizala, Repositório de Objetos, Sway, Power Automate, Serviço de Documento do PowerPoint Online, Query Serviço de Anotação, School Data Sync, Siphon, Speech, StaffHub, Programa de Aplicativos EXtensible Office 365), Centro de Conformidade & segurança, Office Online, Office Pro Plus, infraestrutura de serviços Office, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Criptografia de Serviço com Chave de Cliente, SharePoint Online, Skype for Business, Stream |
+| **Comercial** | Access Online, Azure Active Directory, Serviço de Comunicações do Azure, Gerenciador de Conformidade, Caixa de Bloqueio do Cliente, Delve, Exchange Online, Formulários, Grifo, Gerenciador de Identidade, Lockbox (Torus), Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Portal do Cliente do Office 365, Microserviços do Office 365 (incluindo, mas não limitado a Kaizala, Repositório de Objetos, Sway, Power Automate, Serviço de Documento do PowerPoint Online, Query Serviço de Anotação, School Data Sync, Siphon, Speech, StaffHub, Programa de Aplicativos EXtensible Office 365), Centro de Conformidade & segurança, Office Online, Office Pro Plus, infraestrutura de serviços Office, OneDrive for Business, Planner, PowerApps, Power BI, Project Online, Criptografia de Serviço com Chave de Cliente, SharePoint Online, Skype for Business, Stream |
 | **GCC** | Azure Active Directory, Exchange Online, Flow, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="frequently-asked-questions"></a>Perguntas frequentes

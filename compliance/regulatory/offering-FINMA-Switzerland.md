@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 405a752b9a6d8e1bdb5d7d5c0ad937aba634806033ea87a36c92629bf458bf3a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ff74580117a3ff1883b35331f2c9bed076d17bb8
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292498"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261002"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Autoridade Supervisora do Mercado Financeiro (FINMA) da Suíça
 
@@ -33,7 +33,7 @@ A FINMA publicou a [Circular 2018/3 Terceirização - bancos e seguradores](http
 
 ## <a name="microsoft-and-finma"></a>Microsoft e FINMA
 
-Para ajudar a orientar instituições financeiras na Suíça, considerando a terceirização de funções de negócios para a nuvem, a Microsoft publicou [Uma lista de verificação de conformidade para instituições financeiras na Suíça](https://aka.ms/FinServ-Guide-Switzerland). Ao revisar e concluir a lista de verificação, as organizações financeiras podem adotar os serviços de nuvem do Microsoft Business com a confiança de que estão cumprindo os requisitos regulatórios aplicáveis.
+Para ajudar a orientar instituições financeiras na Suíça, considerando a terceirização de funções de negócios para a nuvem, a Microsoft publicou [Uma lista de verificação de conformidade para instituições financeiras na Suíça](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides). Ao revisar e concluir a lista de verificação, as organizações financeiras podem adotar os serviços de nuvem do Microsoft Business com a confiança de que estão cumprindo os requisitos regulatórios aplicáveis.
 
 Quando as instituições financeiras da Suíça terceirizam atividades de negócios, elas devem atender aos requisitos da Autoridade Supervisora do Mercado Financeiro da Suíça (FINMA) e estar ciente de outros requisitos e diretrizes que incluem as Leis Bancárias da Suíça, a Regulamentação Bancária da Suíça e a ´Lei de Supervisão de Seguro da Suíça.
 
@@ -50,7 +50,7 @@ A lista de verificação da Microsoft ajuda as instituições financeiras da Su�
 
 ## <a name="how-to-implement"></a>Como implementar
 
-- [Lista de verificação de conformidade: Suíça](https://aka.ms/FinServ-Guide-Switzerland): As instituições financeiras podem obter ajuda na realização de avaliações de risco dos Serviços de nuvem de negócios da Microsoft.
+- [Lista de verificação de conformidade: Suíça](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): As instituições financeiras podem obter ajuda na realização de avaliações de risco dos Serviços de nuvem de negócios da Microsoft.
 - [Guia de Conformidade & Avaliação de Risco ](https://aka.ms/RiskGovernanceGuide): Cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador.
 - [Casos de uso financeiro](/azure/industry/financial/): Visões gerais de uso, tutoriais e outros recursos para criar soluções Azure para serviços financeiros.
 

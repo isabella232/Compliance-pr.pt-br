@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 912b9770f4b8afb54fb98455b313498d7ebf7af4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292618"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260623"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Autoridade de Regulação Prudencial Australiana (APRA)
 
@@ -80,7 +80,7 @@ Obter suporte prático para mover dados e cargas de trabalho para o Azure em con
 
 ## <a name="office-365-and-apra"></a>Office 365 e APRA
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -90,7 +90,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Proteção do Exchange Online, Exchange Online, Portal do Cliente do Office 365, Office Online, Infraestrutura de Serviços do Office, OneDrive for Business, SharePoint Online, Skype for Business |
+| **Comercial** | Proteção do Exchange Online, Exchange Online, Portal do Cliente do Office 365, Office Online, Infraestrutura de Serviços do Office, OneDrive for Business, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 

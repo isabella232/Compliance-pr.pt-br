@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 929b83821fcb68059f9a091bf1bf4b043613dad24f0de2830b58b6ca72b5e091
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 8b201231ba8e605e2afe7bf2e8aba5a4cb21d88f
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287630"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260517"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>Medidas de Segurança de Alto Nível do ENS (Esquema Nacional de Seguridad) da Espanha
 
@@ -43,7 +43,7 @@ O Microsoft Azure e o Microsoft Office 365 passaram por uma avaliação rigorosa
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
-- Azure e Azure Governamental
+- Azure
 - Office 365
 
 ## <a name="office-365-and-ens-high"></a>Office 365 e ENS de alto nível
@@ -58,7 +58,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, Proteção do Exchange Online, Microsoft Teams, MyAnalytics, Portal do Cliente do Office 365, Office Online, Serviço de Infraestrutura do Office, Serviço Móvel do Outlook, SharePoint Online, Skype for Business |
+| **Comercial** | Exchange Online, Proteção do Exchange Online, Microsoft Teams, MyAnalytics, Portal do Cliente do Office 365, Office Online, Serviço de Infraestrutura do Office, Serviço Móvel do Outlook, SharePoint Online, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
