@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 0453e148c38de9cc6e7171becd21576646dd4be50796ecb674a02fc8fef4ff43
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 525870883b67ef37b45af2aa690ce849acd9217d
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287910"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261118"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Plano de ação ISO 27001 do Microsoft 365 – principais prioridades para os primeiros 30 dias, 90 dias e depois
 
@@ -29,7 +29,7 @@ A Organização Internacional para Padronização (ISO) é um desenvolvedor inde
 
 ISO/IEC 27001 é o padrão internacional para implementação de um sistema de gerenciamento de segurança de informações (ISMS). Um ISMS descreve os métodos necessários usados e as evidências associados aos requisitos que são essenciais para a gestão confiável da segurança de ativos de informações em qualquer tipo da organização.  
 
-Este artigo inclui um plano de ação priorizado que você pode seguir ao trabalhar para atender aos requisitos do ISO/IEC 27001. Esse plano de ação foi desenvolvido em parceria com a Protiviti, um parceiro da Microsoft especializado em conformidade regulamentar. Saiba mais sobre como usar esse plano de ação no Microsoft Ignite participando desta sessão: [Traçar um gráfico de estratégia de proteção de informações e do caminho da conformidade com o Microsoft 365](https://myignite.techcommunity.microsoft.com/videos/65720), apresentada por Maithili Dandige (Microsoft) e Antônio Maio (Protiviti).
+Este artigo inclui um plano de ação priorizado que você pode seguir enquanto trabalha para atender aos requisitos da ISO/IEC 27001. Este plano de ação foi desenvolvido em parceria com a Protiviti, um parceiro da Microsoft especializando em conformidade regulatória.
 
 ## <a name="action-plan-outcomes"></a>Resultados do plano de ação
 
