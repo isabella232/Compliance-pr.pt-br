@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88a5e554fc2307dfa427ccb0023e7a00e006d536fc8cca276d550aa9510dbc29
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287290"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260483"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Centro de Sistemas de Informação da Indústria Financeira (FISC)
 
@@ -67,7 +67,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Delve, Exchange Online, Proteção do Exchange Online, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI para Office 365, Project Online, SharePoint Online, Skype for Business |
+| **Comercial** | Access Online, Azure Active Directory, Delve, Exchange Online, Proteção do Exchange Online, Microsoft Teams, Office 365 ProPlus, Office Online, OneDrive for Business, Power BI para Office 365, Project Online, SharePoint Online, Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -84,7 +84,7 @@ O FISC publicou dois relatórios de seu Conselho de Especialistas:
 
 **Onde posso obter detalhes das respostas da Microsoft à estrutura do FISC?**
 
-Você pode consultar referências de segurança ([em japonês](https://aka.ms/microsoftresponsetofiscguidancejapanese)) de terceiros que avaliaram a conformidade FISC dos serviços de nuvem da Microsoft.
+Quanto a referências de segurança de terceiros que tenham avaliado a conformidade FISC dos serviços em nuvem da Microsoft, contacte o representante da sua conta Microsoft.
 
 **Posso usar as respostas da Microsoft para essa estrutura no processo de qualificação da minha organização?**
 
