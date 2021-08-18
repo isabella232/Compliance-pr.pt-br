@@ -12,8 +12,6 @@
           href: /azure/compliance/offerings/offering-csa-star-certification?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: Autoavaliação CSA-STAR
           href: offering-csa-star-self-assessment.md
-        - name: ISO - Plano de ação recomendado
-          href: iso-action-plan.md
         - name: ISO 20000-1-2011
           href: /azure/compliance/offerings/offering-iso-20000-1?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: ISO 22301
@@ -78,7 +76,7 @@
       items:
         - name: Automotivo
           items:
-            - name: TISAX (Alemanha)
+            - name: TISAX
               href: /azure/compliance/offerings/offering-tisax?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: Educação
           items:
@@ -108,13 +106,13 @@
               href: offering-ffiec-us.md
             - name: FINMA (Suíça)
               href: offering-finma-switzerland.md
-            - name: FINRA 4511
+            - name: FINRA 4511 (EUA)
               href: offering-finra-4511.md
             - name: FISC (Japão)
               href: offering-fisc-japan.md
             - name: FSA (Dinamarca)
               href: offering-fsa-denmark.md
-            - name: GLBA
+            - name: GLBA (US)
               href: offering-glba.md
             - name: KNF (Polônia)
               href: offering-knf-poland.md
