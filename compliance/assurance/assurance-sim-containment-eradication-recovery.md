@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
+ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292049"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361247"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Gerenciamento de incidentes de segurança da Microsoft: contenção, erradicação e recuperação
 
@@ -52,6 +52,8 @@ Um aspecto importante para a recuperação é ter a segurança e os controles ap
 ## <a name="customer-notification-of-security-incident"></a>Notificação do cliente de incidente de segurança
 
 Se a Microsoft determinar que ocorreu um incidente de segurança, notificaremos você com atraso indevido, e dentro dos requisitos contratuais e de conformidade que fizemos acordo. Depois de identificar todos os locatários afetados, a equipe de comunicações correspondente trabalha para identificar quaisquer regulamentos relevantes que possam se aplicar aos locatários afetados. A equipe de comunicações usa o canal de comunicação apropriado definido nos regulamentos aplicáveis para notificar o contato de locatário apropriado.
+
+![Procedimentos de resposta a incidentes](../media/assurance-incident-response-process.png)
 
 A notificação incluirá informações detalhadas sobre o incidente, como uma descrição do incidente, o efeito sobre os dados do cliente, se for o caso, ações tomadas pela Microsoft e/ou ações sugeridas para os clientes tomarem para resolver o problema e evitar a recorrência. A notificação será entregue aos administradores designados do locatário de serviços online da Microsoft. Para garantir que as notificações sejam recebidas, você deve garantir que seus administradores forneçam e mantenham informações de contato precisas em seus perfis de locatário. Além disso, dependendo da natureza do incidente, os clientes Microsoft 365 também podem ser notificados por meio do Painel de Microsoft 365 [de Saúde do Serviço.](http://status.yammer.com/)
 
