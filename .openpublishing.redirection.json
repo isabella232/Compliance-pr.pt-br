@@ -150,6 +150,11 @@
       "source_path": "compliance/regulatory/offering-tisax-germany.md",
       "redirect_url": "https://docs.microsoft.com/azure/compliance/offerings/offering-tisax",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "compliance/assurance/assurance-administrative-access-controls-overview.md",
+      "redirect_url": "https://docs.microsoft.com/compliance/assurance/assurance-microsoft-365-account-management",
+      "redirect_document_id": true
     }
   ]
 }
