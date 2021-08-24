@@ -10,19 +10,19 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - M365-subscription-management
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 59316ed6c9a2935047cc9c3c137f886eecd3e77d427d3ac6e8c3808bf29f9b7d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 592cfcdf3da33e6c26e90d5a83fb6bcd3b4241e0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290909"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481913"
 ---
 # <a name="built-in-service-resiliency-in-microsoft-365"></a>Resiliência de serviço integrado no Microsoft 365
 

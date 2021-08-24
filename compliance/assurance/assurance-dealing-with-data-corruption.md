@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: cdfd17d9f9df5ecc8fc78c13069d5f4819d22dda7b7ff85a117fd77d0a46fda0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 860a150760e080df4a577d73478a75ac94b8700b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291269"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482074"
 ---
 # <a name="dealing-with-data-corruption-in-microsoft-365"></a>Lidar com a corrupção de dados em Microsoft 365
 

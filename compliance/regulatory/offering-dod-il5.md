@@ -2,7 +2,7 @@
 title: Nível de impacto do Departamento de Defesa (DoD) 5 (IL5)
 description: Saiba como a Microsoft atende aos padrões de Nível de Impacto do Departamento de Defesa (DoD) 5 (IL5).
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294228"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482836"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>Nível de impacto do Departamento de Defesa (DoD) 5 (IL5)
 

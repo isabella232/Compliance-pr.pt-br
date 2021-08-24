@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,12 +21,12 @@ ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d55621d10284c427afedeb3d60807411841d41dda2e07c52b293a676448dbe73
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: d4188448038a3b47c2cf7a0a8193f1772740eb7f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290619"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481843"
 ---
 # <a name="data-monitoring-and-self-healing-in-microsoft-365"></a>Monitoramento de dados e auto-recuperação em Microsoft 365
 

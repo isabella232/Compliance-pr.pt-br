@@ -10,19 +10,19 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - M365-subscription-management
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 186de3ed38db1714b84fc59d72b6be0826d66b04b6e6775fd7672666e4534ad6
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 48b438ba764c0210acf028dc3d7acc7c66c783f2
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287200"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482043"
 ---
 # <a name="train-for-business-continuity-in-your-organization"></a>Treinar para continuidade de negócios em sua organização
 

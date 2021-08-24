@@ -2,7 +2,7 @@
 title: Solicitações de Titulares de Dados da Família do Visual Studio para o GDPR e CCPA
 description: Aprenda a usar as ferramentas do Microsoft para gerenciar Solicitações de Titulares de Dados da Família no Visual Studio para RGPD e CCPA.
 keywords: Visual Studio, Visual Studio Code, Visual Studio para Mac, documentação do Visual Studio, privacidade, GDPR, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 audience: itpro
 ms.prod: visual-studio-family
 ms.topic: article
@@ -20,12 +20,12 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: be51b20692b003c3f59838a616ac95eb95eb95280f0ddae3a1aed4a6b95d8b41
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 4a3119ad93c0de5de96e748f7692ba6ddef42c80
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293118"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482876"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de Titulares de Dados da Família do Visual Studio para o GDPR e CCPA
 

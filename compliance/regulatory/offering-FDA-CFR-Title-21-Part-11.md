@@ -2,7 +2,7 @@
 title: Título do CFR da Administração de Alimentos e Drogas 21 Parte 11
 description: A Microsoft ajuda os clientes a cumprir esses regulamentos da Administração de Alimentos e Drogas dos EUA.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 5d6f590a9035b8628645bdfa46f794c1dfbcd4fb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287560"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482696"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>Título do CFR da Administração de Alimentos e Drogas 21 Parte 11
 

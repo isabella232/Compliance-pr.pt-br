@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH'
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: abf8616033ee8046447b0d10292ddd25278a29a31ad829c9e0a97df7d11e2271
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291729"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481653"
 ---
 # <a name="supplier-management-overview"></a>Visão geral do gerenciamento de fornecedores
 

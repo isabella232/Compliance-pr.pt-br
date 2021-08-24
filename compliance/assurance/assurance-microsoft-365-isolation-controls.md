@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0139d8182cf9e662e9985faf4a7fd6025fea363a
-ms.sourcegitcommit: 61357661caf64eeb9143046b4dd66c83e1439ee3
+ms.openlocfilehash: 312de9f1417ba6298898d47b2b7e05b5fa7034fe
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/23/2021
-ms.locfileid: "58470804"
+ms.locfileid: "58481893"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Controles de isolamento do Microsoft 365
 

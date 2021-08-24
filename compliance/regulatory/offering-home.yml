@@ -15,7 +15,7 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  localization_priority: Normal
+  ms.localizationpriority: medium
 conceptualContent:
   title: 'Azure, Dynamics 365 e Microsoft 365 de conformidade'
   summary: 'Informações para o Azure, o Dynamics 365, o Microsoft 365 e a Plataforma Power e outros serviços para ajudar com regulamentos nacionais, regionais e específicos do setor para coleta e uso de dados.'
@@ -172,7 +172,7 @@ conceptualContent:
           text: FSA (Dinamarca)
         - url: offering-glba.md
           itemType: reference
-          text: GLBA (EUA)
+          text: GLBA (US)
         - url: /azure/compliance/offerings/offering-gsma
           itemType: reference
           text: GSMA

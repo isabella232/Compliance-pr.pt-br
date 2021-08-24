@@ -2,7 +2,7 @@
 title: Padrão de Gerenciamento de Continuidade dos Negócios ISO 22301:2012
 description: A Microsoft está certificada para implementação desses padrões de gerenciamento de continuidade dos negócios.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f8b52444f5a983e5ca9d3c42285bbb09f9c0612f07e1e6465aa0d5863944a45b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 6a1d3069cd1876316705aebdb6136245c5f3a50f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288639"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482214"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>Padrão de Gerenciamento de Continuidade dos Negócios ISO 22301:2012
 

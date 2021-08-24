@@ -2,7 +2,7 @@
 title: Autoridade de Supervisão Financeira (KNF) Polônia
 description: A Microsoft publicou diretrizes para ajudar instituições financeiras na Polônia a adotar a nuvem.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: db789f8670b60eccb2914da9dea42b5114e4864ac922de41db254d074101be92
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b9152debd0b6fd01624aefc61c3492b4075bc6e1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290179"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482986"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>Autoridade de Supervisão Financeira (KNF) Polônia
 

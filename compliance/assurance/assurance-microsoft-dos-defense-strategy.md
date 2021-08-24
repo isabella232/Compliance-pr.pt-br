@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: None
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 720925408016af86d0bb16590f341970c0c5f0d0958c91b12e6b810c9b8a939a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 56888f704d3cc5da5e820e3cb80a3d10cbb1ef95
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290589"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481873"
 ---
 # <a name="microsoft-365-denial-of-service-defense-strategy"></a>Estratégia de defesa contra negação de serviço do Microsoft 365
 

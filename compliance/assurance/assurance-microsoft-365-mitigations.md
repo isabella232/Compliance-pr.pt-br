@@ -10,19 +10,19 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: o365-solutions
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - M365-subscription-management
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5f88f9b5b3dee2279e37bee5137819802f68502d163e4eaa1f75c3abf57a4c53
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f3a17e17f604904635c92e1c08f04e66fb25b850
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290626"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481883"
 ---
 # <a name="service-incident-mitigation-strategies"></a>Estratégias de mitigação de incidentes de serviço
 

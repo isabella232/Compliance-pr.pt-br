@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35af35fcd17e12cbee7643e99ccda7c0b0608463602dc1e44c38ac5d1d4f28d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291369"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482114"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Imutabilidade de dados no Microsoft 365
 

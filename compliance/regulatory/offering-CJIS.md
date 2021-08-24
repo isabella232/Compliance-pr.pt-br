@@ -2,7 +2,7 @@
 title: Política de Segurança dos Serviços de Informações da Justiça Criminal (CJIS)
 description: Os serviços de nuvem do governo da Microsoft aderem à Política de Segurança dos Serviços de Informações da Justiça Criminal dos EUA.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292528"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482726"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Política de Segurança dos Serviços de Informações da Justiça Criminal (CJIS)
 
@@ -68,7 +68,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 |:------------------|:----------------------|
 | **GCC** | Azure Active Directory, Gerente de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias Office 365, relatórios e certificados
 
 O FBI não oferece certificação de conformidade da Microsoft com os requisitos CJIS. Em vez disso, um atestado da Microsoft é incluído em acordos entre a Microsoft e a autoridade CJIS de um estado e entre a Microsoft e seus clientes.
 

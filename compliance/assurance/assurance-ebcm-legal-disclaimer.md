@@ -10,19 +10,19 @@ manager: laurawi
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - M365-subscription-management
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: d4bee24b66b565e1068d5aacd6c6c7833e230fd703186884bc53d5e378ecf44d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 1b513c80c24ae6c06488972196579aff30e703fa
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287170"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482053"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>Aviso de isenção de responsabilidade legal do gerenciamento de continuidade de negócios empresariais
 

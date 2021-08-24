@@ -10,7 +10,7 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: None
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,12 +21,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 77371208a5bd6d67fb9239ceebb18319b9a9253c265d7233ed789d75ba2e1815
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 480e7e03564075707c90e25ad5777631c1e68ed8
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287180"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482023"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>Criptografia para Skype for Business, OneDrive for Business, SharePoint Online, Microsoft Teams e Exchange Online
 

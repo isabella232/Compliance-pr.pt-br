@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 843c83f8482ccce0acfd7897985495286240fc7c066ff8477a7b44af5ea2753a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 9dd365e075226d8fdbfd1a9f9e371df2668f814d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291119"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481983"
 ---
 # <a name="exchange-online-data-deletion-in-microsoft-365"></a>Exchange Online exclusão de dados no Microsoft 365
 

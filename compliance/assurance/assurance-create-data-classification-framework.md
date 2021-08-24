@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 88a07e5c6d5e3e84260c5099d957ebf38745819e239f951df62a5d04886f3fa4
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 17aa73258f1ecc4db9cc13a5df08b1aa76a583a7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288719"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482154"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Criar uma estrutura de classificação de dados bem projetada
 
@@ -102,7 +102,7 @@ Depois de desenvolver sua estrutura de classificação de dados, a próxima etap
 
 Para organizações menores ou organizações com uma estrutura de classificação de dados relativamente simplificada, a criação de um único rótulo de sensibilidade para cada um dos seus níveis de classificação de dados pode ser suficiente. O exemplo a seguir mostra um nível de classificação de dados um para um para o mapeamento de rótulos de sensibilidade:
 
-|**Rótulo de classificação**|**Rótulo de confidencialidade**|**Configurações de rótulos**|**Publicado para**|
+|**Rótulo de classificação**|**Rótulo de sensibilidade**|**Configurações de rótulos**|**Publicado para**|
 |:-----------------------|:--------------------|:-----------------|:---------------|
 | Irrestrita | Irrestrita | Aplicar o rodapé 'Irrestrito' | Todos os usuários |
 | Geral | Geral | Aplicar rodapé 'Geral' | Todos os usuários |

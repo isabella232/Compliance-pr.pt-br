@@ -2,7 +2,7 @@
 title: Lei My Number (Japão)
 description: Os serviços de nuvem de negócios da Microsoft obedecem às normas da lei My Number para proteger a privacidade dos dados My Number.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b42632e272946b13e2b4055ae3411f44a37c0f24
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e38e5f2c370692a60d07ac25491ae457e0ed34c0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260965"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482204"
 ---
 # <a name="my-number-act-japan"></a>Lei My Number (Japão)
 

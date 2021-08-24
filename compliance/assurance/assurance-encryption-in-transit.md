@@ -10,7 +10,7 @@ f1.keywords:
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: None
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,12 +21,12 @@ ms.collection:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6a4707be17c0ef5d992e1f98db9638b9b8337dfd22f012af914ef65891c315ed
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ebeface33b0d5ba419773c13305c277d681e8400
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291278"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482013"
 ---
 # <a name="encryption-for-data-in-transit"></a>Criptografia para dados em trânsito
 

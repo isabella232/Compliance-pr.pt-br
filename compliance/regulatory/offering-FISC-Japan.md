@@ -2,7 +2,7 @@
 title: Center for Financial Industry Information Systems (FISC)
 description: A Microsoft atende aos requisitos do Financial Industry Information Systems v.8, padrão no Japão.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: f1eba3e819ae351f1bdff2f8fbdd47c7fca7a1a1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260483"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482224"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>Centro de Sistemas de Informação da Indústria Financeira (FISC)
 

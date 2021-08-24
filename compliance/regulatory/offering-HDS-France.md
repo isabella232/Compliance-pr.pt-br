@@ -2,7 +2,7 @@
 title: Health Data Hosting (HDS) França
 description: Os serviços de nuvem da Microsoft são certificados quanto a conformidade por meio do padrão Health Data Hosting (Hébergeurs de Données de Santé).
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4d69d75e99537e7087a4ddf880f1f26ee03af463d23738f548499f0c6b39daed
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: aea00230d5f34c2e682aa278ab5dc6ca062fa803
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293798"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482474"
 ---
 # <a name="health-data-hosting-hds-france"></a>Hospedagem de Dados de Integridade (HDS) França
 

@@ -2,7 +2,7 @@
 title: FedRAMP (Programa Federal de Gerenciamento de Autorização e Risco)
 description: A Microsoft recebeu P-ATOs e ATOs do Programa Federal de Gerenciamento de Riscos e Autorização dos EUA.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292768"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482936"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Programa Federal de Gerenciamento de Autorização e Risco)
 
@@ -79,7 +79,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 | **GCC Alta** | Serviço de Feed de Atividades, serviços Bing, Exchange Online, Proteção do Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 | **DoD** | Serviço de Feed de Atividades, serviços Bing, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente do Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias Office 365, relatórios e certificados
 
 A Microsoft tem a obrigação de certificar novamente seus serviços de nuvem todos os anos para manter os P-ATOs e ATOs. Para fazer isso, a Microsoft deve monitorar e avaliar seus controles de segurança continuamente e demonstrar que a segurança de seus serviços permanece em conformidade.
 

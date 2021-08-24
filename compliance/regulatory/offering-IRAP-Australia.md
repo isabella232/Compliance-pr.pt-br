@@ -2,7 +2,7 @@
 title: Programa Avaliador de Segurança de Informações do Governo Australiano (IRAP)
 description: A Microsoft está incluída na Lista de Serviços de Nuvem Certificados na Austrália para DLM (Marcadores limite de disseminação não classificados) e dados PROTEGIDOs com base em uma avaliação e certificação do IRAP pelo Centro de Segurança Cibernética (ACSC) australiano.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: cd7ad9a68f69f134689262ad7e379eec89284035
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260306"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58483006"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>Programa Avaliador de Segurança de Informações do Governo Australiano (IRAP)
 
@@ -71,7 +71,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-irap"></a>Office 365 e IRAP
 
-### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

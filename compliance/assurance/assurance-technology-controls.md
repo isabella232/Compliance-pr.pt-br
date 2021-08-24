@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,12 +21,12 @@ ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b82dfdbe3de63f8b5ded42c037d0d574da051047462c6900d368a70efd625fcf
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 06d8f500a96c84bf961dc47f6b8d259e0fffe02d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54291719"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481643"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Controles de tecnologia no Microsoft 365 
 

@@ -2,7 +2,7 @@
 title: Etapas adicionais para exportar dados de log gerados pelo sistema
 description: Etapas adicionais para exportar dados de log gerados pelo sistema
 keywords: Exportar dados de log, Office 365 e Microsoft 365 Education, documentação do Microsoft 365, RGPD
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: d2157080d99a770fecbbb08aa7e3d10f2fc101a7ed100bf4bfb39c0ce72174ae
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f634224f02726f0e0ee49c268bf4a77027481c2f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287931"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482304"
 ---
 # <a name="additional-steps-to-export-system-generated-log-data"></a>Etapas adicionais para exportar dados de log gerados pelo sistema
 

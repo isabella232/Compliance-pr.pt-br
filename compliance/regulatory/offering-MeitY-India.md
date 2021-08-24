@@ -2,7 +2,7 @@
 title: Ministry of Electronics and Information Technology (MeitY)
 description: A Microsoft recebeu o credenciamento completo pelo Ministério de Eletrônica e Tecnologia da Informação na Índia.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292448"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482946"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>Ministry of Electronics and Information Technology (MeitY)
 
@@ -64,4 +64,4 @@ Disponibilizar serviços governamentais para cidadãos online é uma parte impor
 - [Ministério da Eletrônica e Tecnologia da Informação](https://meity.gov.in/)
 - [Iniciativa de Nuvem MeghRaj](https://meity.gov.in/content/gi-cloud-meghraj)
 - [Provedores de serviços de nuvem credenciados](https://meity.gov.in/content/gi-cloud-meghraj)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

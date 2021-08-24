@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -21,12 +21,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5a507dcd68aeda46ccf744e31828559aa6102a4f0fc50987f97041c6da8ab56f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3545a6e5746553e59603fbf68432ee4705a21f3f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292039"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481703"
 ---
 # <a name="sharepoint-online-data-deletion-in-microsoft-365"></a>SharePoint Exclusão de dados online em Microsoft 365
 

@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 02a0e3832d8511bd2f1e65742fc322cfea51701a2e03f89de4493bbc4164fa4c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f23dba6e215e9b4b8f890b05066bb693ed0e62e8
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287280"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482094"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Retenção, exclusão e destruição de dados em Microsoft 365
 

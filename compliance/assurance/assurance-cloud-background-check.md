@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4871d95164ffa4050e03af071b851cd555e411f1a3bfdf97781fa5060a8ed2b3
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c9fd9000f9c0b421514d42ae3534c9ae94d842c8
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289999"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482164"
 ---
 # <a name="microsoft-cloud-background-check"></a>Verificação de antecedentes da nuvem da Microsoft
 

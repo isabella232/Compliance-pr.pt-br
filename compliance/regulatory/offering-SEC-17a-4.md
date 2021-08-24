@@ -2,7 +2,7 @@
 title: Securities and Exchange Commission (SEC) Rule 17a-4(f) United States
 description: Uma empresa de avaliação independente validou que o Azure e o Office 365 podem ajudar as empresas financeiras a atender aos requisitos de retenção e armazenamento imutáveis da Regra SEC 17a-4(f).
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 39ab743755b949502d4f63c36a64d5785d85f6ab
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e4fd87384f7be620ab755f29031b52e8877582ce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260678"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482454"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Securities and Exchange Commission (SEC) Rule 17a-4(f) United States
 
@@ -63,15 +63,15 @@ Para avaliar o Azure e Office 365 conformidade com a Regra DA SEC 17a-4(f), a Mi
 
 ### <a name="financial-services-regulation"></a>Regulamentação de serviços financeiros
 
-Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
 ### <a name="risk-assessment--compliance-guide"></a>Guia de Conformidade & Avaliação de Riscos
 
-Crie um modelo de governança para avaliação de risco dos serviços de nuvem da Microsoft e notificação de regulamentação. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+Crie um modelo de governança para avaliação de risco dos serviços de nuvem da Microsoft e notificação de regulamentação. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
 ### <a name="financial-use-cases"></a>Casos de uso financeiro
 
-Use visão geral de caso, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros. [Saiba mais](/azure/industry/financial/)
+Use visão geral de caso, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros. [Saiba Mais](/azure/industry/financial/)
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
@@ -86,4 +86,4 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - [Ferramenta de Avaliação de Risco na Nuvem de Serviços Financeiros do Azure](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
 - [Microsoft Office 365 Políticas de retenção](/office365/securitycompliance/retention-policies)
 - [Serviços Financeiros da Microsoft Community](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

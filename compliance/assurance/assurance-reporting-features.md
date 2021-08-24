@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a06abcca14c6a2d6c2197e92362282863f24db4ba3c401c125e54cdb9f508c82
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: be05c96c725f8d0e05bc27f410d7f19e4e5d9a23
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292279"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481803"
 ---
 # <a name="microsoft-365-reporting-features"></a>Recursos de relatório do Microsoft 365
 

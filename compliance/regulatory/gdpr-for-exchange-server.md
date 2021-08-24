@@ -9,19 +9,19 @@ manager: pamgreen
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 ms.collection: MS-Compliance
 ms.custom:
 - seo-marvel-mar2020
 - seo-marvel-apr2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 8c3354405ae0e3b04abd4ec0181eadf1aba7d01496797e869b7d51e4defba472
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c8799b0a9a99a509d7c700997b4c0ba6bd79109c
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292978"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482354"
 ---
 # <a name="gdpr-for-exchange-server"></a>RGPD para Exchange Server
 

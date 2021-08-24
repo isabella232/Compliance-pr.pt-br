@@ -2,7 +2,7 @@
 title: CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
 description: O Azure e Office 365 certificados para a Estrutura de Segurança Comum (CSF) HITRUST (Health Information Trust Alliance).
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260695"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482966"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
 
@@ -54,7 +54,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-hitrust"></a>Office 365 e HITRUST
 
-### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -66,7 +66,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 |:------------------|:----------------------|
 | **Comercial** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias Office 365, relatórios e certificados
 
 A certificação CSF HITRUST de Office 365 é válida por dois anos.
 
@@ -96,4 +96,4 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
 - [Noções básicas e aproveitando o CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [Saiba mais sobre o Programa de Responsabilidade Compartilhada HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2100268)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
