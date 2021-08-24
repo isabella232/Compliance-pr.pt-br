@@ -2,7 +2,7 @@
 title: Oferta de conformidade – autoavaliação da STAR da Cloud Security Alliance (CSA)
 description: A Autoavaliação da Star da Microsoft detalha como os serviços na nuvem atendem os requisitos da Cloud Security Alliance.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2e3864912d214e6649425c9434e346a01d20c87e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260507"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479733"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Autoavaliação Star da Cloud Security Alliance (CSA)
 

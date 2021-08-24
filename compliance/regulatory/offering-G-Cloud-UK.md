@@ -2,7 +2,7 @@
 title: Reino Unido Government-Cloud (G-Cloud)
 description: O Serviço Comercial da Coroa renovou a classificação dos serviços de nuvem da Microsoft para o Government Cloud v.6.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260935"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481043"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 
@@ -54,7 +54,7 @@ O compromisso de serviços Microsoft para o Marketplace Digital significa que as
 
 ## <a name="office-365-and-uk-g-cloud"></a>Office 365 e Uk G-Cloud
 
-### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -128,4 +128,4 @@ O [Portal de Confiança de Serviços](/microsoft-365/compliance/get-started-with
 - [Princípios de segurança do G-Cloud](https://aka.ms/UK-G-Cloud)
 - [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

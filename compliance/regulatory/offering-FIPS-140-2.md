@@ -2,7 +2,7 @@
 title: Publicação FIPS (Federal Information Processing Standard) 140-2
 description: A Microsoft certifica que seus módulos criptográficos estão em conformidade com o Us Federal Information Processing Standard.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292508"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481223"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Publicação FIPS (Federal Information Processing Standard) 140-2
 
@@ -102,4 +102,4 @@ Esses são dois padrões de segurança separados com finalidades diferentes, mas
 - [Requisitos de segurança do FIPS Pub 140-2 para módulos criptográficos](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [Programa de Validação de Módulo Criptográfico NIST](https://csrc.nist.gov/groups/STM/cmvp/index.html)
 - [Windows, Windows Server e FIPS 140-2](/windows/security/threat-protection/fips-140-validation)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -2,7 +2,7 @@
 title: Considerações sobre segurança e privacidade da Computação em Nuvem do Governo da Nova Zelândia
 description: O Microsoft NZ aborda as perguntas publicadas na estrutura de computação em nuvem da Nova Zelândia.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259810"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480483"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerações sobre Segurança e Privacidade do Governo da Nova Zelândia (ISPC)
 
@@ -47,7 +47,7 @@ Para ajudar as agências a realizar a análise e a avaliação dos serviços de 
 
 ## <a name="office-365-and-ispc"></a>Office 365 e ISPC
 
-### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -77,7 +77,7 @@ Se a sua agência for necessária para realizar a certificação e o credenciame
 - [Requisitos de segurança para serviços de Office de produtividade: guia de conformidade para Office 365](https://aka.ms/o365-gcio-conformance-guidance)
 - [NZ Government ICT Strategy 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
 - [Computação em Nuvem: Considerações sobre Segurança e Privacidade da Informação (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
-- [Termos do Microsoft Online Services](https://aka.ms/Online-Services-Terms)
+- [Termos de Serviços Online da Microsoft](https://aka.ms/Online-Services-Terms)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Respostas da Microsoft ao IPSC de Computação na Nuvem

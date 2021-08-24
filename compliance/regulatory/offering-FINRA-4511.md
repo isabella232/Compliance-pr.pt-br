@@ -2,7 +2,7 @@
 title: FinRA (Autoridade Regulatória do Setor Financeiro) Regra 4511(c) Estados Unidos
 description: Uma empresa de avaliação independente validou que o Azure e o Office 365 podem ajudar as empresas financeiras a atender aos requisitos de retenção e armazenamento imutáveis da Regra FINRA 4511.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 481b5e5890d404dc48d1354b83dc44b53cc6362e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260992"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479763"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>FinRA (Autoridade Regulatória do Setor Financeiro) Regra 4511(c) Estados Unidos
 
@@ -68,9 +68,9 @@ Para os requisitos da Regra [FINRA 4511(c),](/microsoft-365/compliance/retention
 
 ## <a name="how-to-implement"></a>Como implementar
 
-- **Regulamentação de serviços financeiros**: Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- **Guia de conformidade e avaliação de risco**: cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
-- **Casos de uso financeiro**: usa visões gerais, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros. [Saiba mais](/azure/industry/financial/)
+- **Regulamentação de serviços financeiros**: Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- **Guia de conformidade e avaliação de risco**: cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+- **Casos de uso financeiro**: usa visões gerais, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros. [Saiba Mais](/azure/industry/financial/)
 
 ## <a name="resources"></a>Recursos
 

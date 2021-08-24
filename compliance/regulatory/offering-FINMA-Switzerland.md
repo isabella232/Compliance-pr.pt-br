@@ -2,7 +2,7 @@
 title: Autoridade Supervisora do Mercado Financeiro (FINMA) da Suíça
 description: Diretrizes da Microsoft para ajudar instituições financeiras na Suíça com a adoção da nuvem.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ff74580117a3ff1883b35331f2c9bed076d17bb8
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 6fcbf0e70f739164179c2b799e442ccb816fe530
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261002"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481053"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>Autoridade Supervisora do Mercado Financeiro (FINMA) da Suíça
 

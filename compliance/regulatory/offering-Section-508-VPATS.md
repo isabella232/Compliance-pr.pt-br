@@ -2,7 +2,7 @@
 title: Seção 508 dos EUA
 description: A Microsoft oferece relatórios detalhados de conformidade de acessibilidade para muitos de seus serviços de nuvem que descrevem os recursos de acessibilidade desses serviços.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 237fe4ed402679f156042902f7c25526eee354de
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259729"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480523"
 ---
 # <a name="us-section-508"></a>Seção 508 dos EUA
 
@@ -46,7 +46,7 @@ A consideração da Microsoft sobre a Seção 508 dos EUA no desenvolvimento de 
 
 ## <a name="office-365-and-us-section-508"></a>Office 365 e seção 508 dos EUA
 
-### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -71,4 +71,4 @@ Encontre os [relatórios de conformidade](https://cloudblogs.microsoft.com/indus
 - [Centro de Acessibilidade do Office 365](https://go.microsoft.com/fwlink/p/?linkid=2051801): recursos do Office 365 para pessoas com deficiências.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): suporte dedicado para clientes corporativos com questões de acessibilidade sobre nossos produtos e serviços ou conformidade.
 - Programa testador confiável do [DHS](https://go.microsoft.com/fwlink/?linkid=2052171): obter informações sobre o Programa de Testador Confiável do Departamento de Segurança interna dos EUA (DHS), no qual a Microsoft participa.
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

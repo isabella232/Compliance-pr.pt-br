@@ -1,7 +1,7 @@
 ---
 title: Solicitações de assunto de dados para o RGPD e o CCPA
 keywords: Microsoft 365, Microsoft 365 Education, documentação do Microsoft 365, RGPD, CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: Aprenda a concluir o DSRs sob as Normas Gerais de Proteção de Dados (GPDR) e a Lei de Privacidade do Consumidor da Califórnia (CCPA) usando produtos e serviços da Microsoft.
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 58bea55beae9d5d8d4b018812f68b07b2d356d3db9cdf49d04ef8523e4db0b5b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b5ef9464a686a5f2c8823f196408fd71026fa52d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289949"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479833"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados e o RGPD e CCPA
 

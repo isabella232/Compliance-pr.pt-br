@@ -2,7 +2,7 @@
 title: Avaliações do Impacto sobre a Proteção dos Dados
 description: Estes documentos fornecem informações aos controladores de dados, para lhes ajudar a determinar se a AIPD é necessária e, se esse for o caso, a saber que detalhes devem ser incluídos.
 keywords: Avaliação do impacto sobre a proteção de dados, AIPD, Dynamics 365, Serviços Profissionais Microsoft, Microsoft 365, documentação da Microsoft 365, RGPD
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f1aa67817553c1ca7c8f9535965409ffb83a55117914254c4d58eec50eb38eba
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c634e1c63a123232f600cbe085964cf9d2e366a9
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289969"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479793"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>Avaliação de impacto de proteção de dados do GDPR
 

@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 2278a2475887e93733ce32b82a1d7d0b15cce91a1f1e70dbe72a6469bdd3e0b7
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0139d8182cf9e662e9985faf4a7fd6025fea363a
+ms.sourcegitcommit: 61357661caf64eeb9143046b4dd66c83e1439ee3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290591"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58470804"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Controles de isolamento do Microsoft 365
 
@@ -53,7 +53,7 @@ Várias formas de proteção foram implementadas em todo o Microsoft 365 para im
 
 - O isolamento lógico do conteúdo do cliente em cada locatário para serviços Microsoft 365 é obtido por meio Azure Active Directory autorização e controle de acesso baseado em função.
 - SharePoint Online fornece mecanismos de isolamento de dados no nível de armazenamento.
-- A Microsoft usa segurança física rigorosa, triagem em segundo plano e uma estratégia de criptografia em várias camadas para proteger a confidencialidade e a integridade do conteúdo do cliente. Todos Microsoft 365 datacenters têm controles de acesso biométrico, com a maioria exigindo impressões de palma para obter acesso físico. Além disso, todos os funcionários da Microsoft baseados nos EUA são necessários para concluir com êxito uma verificação padrão em segundo plano como parte do processo de contratação. Para obter mais informações sobre os controles usados para acesso administrativo Microsoft 365, [consulte Microsoft 365 Controles de Acesso Administrativo.](assurance-administrative-access-controls-overview.md)
+- A Microsoft usa segurança física rigorosa, triagem em segundo plano e uma estratégia de criptografia em várias camadas para proteger a confidencialidade e a integridade do conteúdo do cliente. Todos Microsoft 365 datacenters têm controles de acesso biométrico, com a maioria exigindo impressões de palma para obter acesso físico. Além disso, todos os funcionários da Microsoft baseados nos EUA são necessários para concluir com êxito uma verificação padrão em segundo plano como parte do processo de contratação. Para obter mais informações sobre os controles usados para acesso administrativo Microsoft 365, [consulte Microsoft 365 Gerenciamento de Conta](assurance-microsoft-365-account-management.md).
 - Microsoft 365 usa tecnologias do lado do serviço que criptografam o conteúdo do cliente em repouso e em trânsito, incluindo o BitLocker, a criptografia por arquivo, o TLS (Transport Layer Security) e o Internet Protocol Security (IPsec). Para obter detalhes específicos sobre criptografia Microsoft 365, consulte [Tecnologias de Criptografia](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview)de Dados em Microsoft 365 .
 
 Juntas, as proteções listadas acima fornecem controles de isolamento lógico robustos que fornecem proteção contra ameaças e mitigação equivalentes às fornecidas apenas pelo isolamento físico.

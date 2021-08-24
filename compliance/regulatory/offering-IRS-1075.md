@@ -2,7 +2,7 @@
 title: Publicação do Serviço de Receita Interna dos EUA 1075
 description: A Microsoft tem controles que atendem aos requisitos da Publicação do Serviço de Receita Interna dos EUA 1075.
 keywords: Microsoft 365, conformidade, ofertas
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260904"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481033"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Publicação do Serviço de Receita Interna dos EUA 1075
 
@@ -60,7 +60,7 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-irs-1075"></a>Office 365 e IRS 1075
 
-### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -73,7 +73,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 | **Comercial** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, relatórios de uso do Office, OneDrive for Business, Cartão de Pessoas, Infraestrutura de Serviço, SharePoint Online, Skype for Business, Windows Ink |
 | **GCC** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Auditorias, relatórios e certificados do Office 365
+### <a name="office-365-audits-reports-and-certificates"></a>Auditorias Office 365, relatórios e certificados
 
 A conformidade com os requisitos substantivos do IRS 1075 é coberta pela auditoria fedRAMP todos os anos.
 
