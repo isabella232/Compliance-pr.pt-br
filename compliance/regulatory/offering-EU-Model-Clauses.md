@@ -16,20 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ad57ba94dbb79e1e8d5536598ef4e2fd3f0fbf55
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482244"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505904"
 ---
 # <a name="european-union-model-clauses"></a>Cláusulas Modelo da União Europeia
 
 ## <a name="european-union-model-clauses-overview"></a>Visão geral das Cláusulas Modelo da União Europeia
 
-A lei de proteção de dados da União Europeia (UE) regulamenta a transferência de dados pessoais de clientes da UE para países fora a Área Econômica Europeia (EEE), que inclui todos os países da UE e Islândia, Liechtenstein e Noruega. As Cláusulas Modelo da UE são cláusulas contratuais padronizadas que são usadas em acordos entre provedores de serviços (como a Microsoft) e seus clientes para garantir que qualquer dado pessoal que sair da EEE seja transferido de acordo com a lei de proteção de dados da UE e atenda aos requisitos da Diretiva de Proteção de Dados da UE 95/46/EC.
-
-Em um nível prático, a conformidade com as leis de proteção de dados da UE também significa que os clientes precisam de menos aprovações de autoridades individuais para transferir dados pessoais fora da UE, uma vez que a maioria dos estados da UE não precisam de autorização adicional, se a transferência baseia-se em um contrato compatível com as Cláusulas Modelo.
+A lei de proteção de dados da União Europeia (UE) regulamenta a transferência de dados pessoais de clientes da UE para países fora a Área Econômica Europeia (EEE), que inclui todos os países da UE e Islândia, Liechtenstein e Noruega. Em um nível prático, a conformidade com as leis de proteção de dados da UE também significa que os clientes precisam de menos aprovações de autoridades individuais para transferir dados pessoais fora da UE, uma vez que a maioria dos estados da UE não precisam de autorização adicional, se a transferência baseia-se em um contrato compatível com as Cláusulas Modelo.
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Cláusulas Modelo da União Europeia e da Microsoft
 
@@ -71,10 +69,6 @@ A Microsoft avalia continuamente os padrões da UE e atualiza seus serviços de 
 
 ## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
-**O que é a Diretiva de Proteção de Dados da UE (95/46/EC)?**
-
-Essa diretiva estabelece um parâmetro para o processamento de dados pessoais na UE. Ela oferece uma estrutura regulatória de acordo com a qual a Microsoft transfere dados pessoais fora da UE. Com base nessa diretiva e em nossos acordos contratuais, a Microsoft atua como processador dos dados dos clientes. O cliente atua como controlador dos dados, com a posse e responsabilidade final pelos dados para assegurar que eles sejam fornecidos legalmente para a Microsoft para processamento fora da EEE.
-
 **Por que a conformidade com as Cláusulas Modelo é importante?**
 
 O serviço de nuvem que se compromete contratualmente com as Cláusulas Modelo oferece aos seus clientes a garantia de que os dados pessoais serão transferidos e processados de acordo com a lei de proteção de dados da UE. Usar as Cláusulas Modelo Significa também que os clientes precisam obter menos aprovações de autoridades individuais de proteção de dados para transferir dados pessoais para fora da UE.
@@ -93,6 +87,7 @@ Você pode inserir um contrato como o [Termos de Serviços Online](https://aka.m
 
 ## <a name="resources"></a>Recursos
 
+- [Documentação de conformidade do Azure](/azure/compliance/)
 - [Comité Europeu de Normalização](https://eur-lex.europa.eu/)
 - [Cláusulas-Modelo da UE](https://aka.ms/EU-model_clauses)
 - [Diretiva de Proteção de Dados da UE](https://aka.ms/EU-DPD)
