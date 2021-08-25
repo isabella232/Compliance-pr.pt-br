@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9b5b9b3a1e398c804aad7f7a42a0b2770de20525
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482846"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505884"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act de 2002 (SOX)
 
 ## <a name="sox-overview"></a>Visão geral do SOX
 
-A Sarbanes-Oxley de 2002 é uma lei federal dos EUA administrada pela Securities and Exchange Commission (SEC). Entre outras diretivas, o SOX exige que as empresas negociadas publicamente tenham estruturas de controle interna adequadas para validar que suas demonstrações financeiras reflitam com precisão seus resultados financeiros.
+A [Lei Sarbanes-Oxley de 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) (SOX) é uma lei federal dos EUA administrada pela [Securities and Exchange Commission](https://www.sec.gov/) (SEC). Entre outras coisas, o SOX exige que as empresas negociadas publicamente tenham estruturas de controle interna adequadas para validar que suas demonstrações financeiras reflitam seus resultados financeiros com precisão. O SOX é fortemente influenciado pelos processos internos do cliente, especialmente quando se trata de controles para relatórios financeiros. Por exemplo, os requisitos SOX envolvem controles internos do cliente para a preparação e revisão de demonstrações financeiras e, especialmente, controles que afetam a precisão, a conclusão, a eficácia e a divulgação pública de alterações materiais relacionadas ao relatório financeiro.
 
-A SEC não define nem impõe um processo de certificação SOX. Em vez disso, ele fornece diretrizes amplas para as empresas regulamentadas para determinar como atender aos requisitos de relatório SOX.
+A SEC não define nem impõe um processo de certificação SOX. Em vez disso, ele fornece diretrizes amplas para empresas negociadas publicamente para determinar como atender aos requisitos de relatório SOX.
 
 ## <a name="microsoft-and-sox"></a>Microsoft e SOX
 
@@ -51,7 +51,16 @@ Na Microsoft, compartilharemos a responsabilidade de conformidade com nossos cli
 
 ## <a name="azure-dynamics-365-and-sox"></a>Azure, Dynamics 365 e SOX
 
-Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outros serviços online, consulte a oferta [do Azure SOX](/azure/compliance/offerings/offering-sox-us).
+À medida que a adoção na nuvem ganha força, cada vez mais clientes exploram como migrar aplicativos e cargas de trabalho sujeitas às obrigações de conformidade SOX para a nuvem. Mesmo que não haja certificação SOX ou validação para provedores de serviços de nuvem, o Azure pode ajudá-lo a cumprir suas obrigações SOX.
+
+Se você estiver sujeito a obrigações de conformidade SOX, revise o atestado do Azure [SOC 1 Tipo 2](./offering-soc-1.md), que é executado de acordo com:
+
+- N. SSAE 18, Padrões de Atestado: Esclarecimento e Recodificação, que inclui a seção 320 da AT-C, relatório do *sobre um exame de controles em uma organização de serviço relevante para o controle interno das entidades de usuário sobre relatórios financeiros* (AICPA, padrões profissionais).
+- Relatório SOC 1 sobre um Exame de Controles em uma Organização de Serviço Relevante para o Controle Interno de Entidades de Usuário Sobre Relatórios Pinanceiros (Guia AICPA).
+
+O AICPA SSAE 18 padrão substituiu o SAS 70 e é apropriado para relatórios sobre controles em uma organização de serviço relevantes para as entidades de usuário controles internos sobre relatórios financeiros. Esta é a auditoria formal em que você pode contar para análises de terceiros de provedores de serviços de tecnologia ao buscar suas próprias obrigações de conformidade específicas do setor para ativos implantados no Azure. Ele inclui a opinião do auditor sobre a eficácia do controle para atingir os objetivos de controle relacionados durante o período de monitoramento especificado.
+
+Além disso, o Azure produziu documentação de orientação para ajudá-lo a usar os relatórios de conformidade existentes do Azure ao lidar com suas próprias obrigações de conformidade SOX. [](https://azure.microsoft.com/resources/microsoft-azure-guidance-for-sarbanes-oxley-sox/) Ele se baseia na experiência interna da Microsoft com a migração de aplicativos relevantes do SOX para o Azure. Além disso, essa orientação fornece práticas recomendadas de migração, incluindo implicações de conformidade SOX, análises de dois estudos de caso disponíveis publicamente e lições aprendidas com os projetos de migração internos da Microsoft.
 
 ## <a name="office-365-and-sox"></a>Office 365 e SOX
 
@@ -83,7 +92,14 @@ Ao migrar seus aplicativos e dados para serviços de nuvem da Microsoft cobertos
 
 ### <a name="resources"></a>Recursos
 
-- [Programa de Conformidade para Serviços Financeiros da Microsoft](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Serviços de nuvem corporativos da Microsoft e serviços financeiros](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Responsabilidades compartilhadas para a computação em nuvem](https://aka.ms/sharedresponsibility)
-- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Documentação de conformidade do Azure](/azure/compliance/)
+- [O Azure habilita um mundo de conformidade](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 365 de conformidade](/compliance/regulatory/offering-home)
+- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Lei Sarbanes-Oxley de 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) (SOX)
+- [Securities and Exchange Commission](https://www.sec.gov/) (SEC)
+- [Recursos de serviços financeiros da Microsoft Cloud](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Programa de conformidade de serviços financeiros da Microsoft Cloud](https://aka.ms/FSCP-Print)
+- [Mapa de conformidade de princípios regulatórios de computação em nuvem e serviços online da Microsoft](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Guia de avaliação e conformidade de riscos para instituições financeiras no Microsoft Cloud](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [Casos de uso do setor de Serviços Financeiros](/azure/industry/financial/)

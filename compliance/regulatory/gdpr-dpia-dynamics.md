@@ -3,7 +3,7 @@ title: Dynamics para a AIPD de acordo com o RGPD
 description: Fornece informações sobre o Dynamics 365 aos controladores de dados a fim de ajudar a determinar se a Avaliação de Impacto sobre a Proteção de Dados (AIPD) é necessária e quais detalhes devem ser incluídos.
 keywords: AIPD, Microsoft 365, Dynamics 365, documentação do Microsoft 365, RGPD
 robots: NOINDEX,NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 2fbe694f2dc16560a04ea2ffb96253024ebdce1835cd05d4586bec016522e96f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288260"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482434"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>Avaliações de Impacto sobre a Proteção de Dados: Orientações para Controladores de Dados que usam o Dynamics 365
 
@@ -45,7 +45,7 @@ O Artigo 35 do RGPD exige que o controlador de dados crie uma AIPD "Quando um ce
 | Monitoramento sistemático de uma área de acesso público em grande escala | O Dynamics 365 não foi projetado para conduzir ou facilitar tais monitoramentos. <br><br> No entanto, o controlador de dados poderia usá-lo para processar dados coletados por meio de tais monitoramentos. |
 
 >[!Note]
-><sup>1</sup> Com relação aos critérios que o processamento é em “grande escala”, o Recital 91 do RGPD esclarece que: “O processamento de dados pessoais não deve ser considerado em grande escala se o processamento se referir a dados pessoais de pacientes ou clientes de um médico, outro profissional da saúde ou advogado. Nesses casos, a avaliação de impacto sobre a proteção dos dados não deve ser obrigatória.”
+><sup>1</sup> 1 Com relação ao critério de que o processamento seja em 'larga escala', o Recital 91 do GDPR esclarece que: 'O processamento de dados pessoais não deve ser considerado em larga escala se o processamento se refere a dados pessoais de pacientes ou clientes por um médico individual, outro profissional de saúde ou advogado. Nestes casos, não deve ser obrigatória uma avaliação do impacto da proteção de dados.'
 
 ## <a name="part-2-contents-of-a-dpia"></a>Parte 2: Conteúdo de uma DPIA
 
