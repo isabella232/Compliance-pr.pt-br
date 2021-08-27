@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 501f5059b3c7700f39dddbc4273831e8a4bd2e2e
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 17f63068139d35f1fee74c2d6e299f9ea0acc4c3
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482956"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561339"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Padrões de gerenciamento de segurança de informações ISO/IEC 27001:2013
 
@@ -62,6 +62,7 @@ Saiba mais sobre os benefícios da ISO/IEC 27001 no Microsoft Cloud: [Baixe a IS
 - Microsoft Stream
 - Especialistas em ameaças da Microsoft
 - Microsoft Translator
+- Windows 365
 
 ## <a name="azure-dynamics-365-and-iso-27001"></a>Azure, Dynamics 365 e SOC 27001
 
