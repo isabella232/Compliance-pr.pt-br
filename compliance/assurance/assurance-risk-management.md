@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ae5177f524fd8f2025198aa5155821f4aa759050
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481763"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678590"
 ---
 # <a name="risk-management-overview"></a>Visão geral de gerenciamento de risco
 
@@ -35,7 +35,7 @@ O gerenciamento de riscos é o processo de identificação, avaliação e respos
 
 O gerenciamento de riscos da Microsoft se alinha à estrutura Enterprise Gerenciamento de Riscos (ERM). O ARM permite o processo geral de gerenciamento de riscos empresariais e trabalha com o gerenciamento em toda a empresa para identificar e garantir a responsabilidade pelos riscos mais significativos da Microsoft.
 
-![Estrutura de gerenciamento de riscos](../media/assurance-risk-management-structure.png)
+![Estrutura de gerenciamento de riscos.](../media/assurance-risk-management-structure.png)
 
 O MICROSOFT ERM habilita princípios comuns de gerenciamento de riscos em toda a empresa para que as unidades de negócios possam facilitar de forma independente avaliações de risco consistentes e comparativas. Essa coordenação oferece à Microsoft a capacidade de agregar e relatar informações de risco de forma consolidada para o gerenciamento. ONS fornece unidades de negócios na Microsoft com metodologias, ferramentas e metas comuns para o processo de gerenciamento de riscos. Microsoft 365 e outros grupos de engenharia e unidades de negócios usam essas ferramentas para conduzir avaliações de risco individuais como parte de seus próprios programas de gerenciamento de riscos sob as diretrizes do ERM.
 

@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4ebd8a02efc7bae74504cf22b1b927673e22e7de
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 5bc9f37cdf6d8f30ea71eddb612232b11844a4ba
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482144"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676817"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>Responsabilidades do parceiro de nuvem e do cliente sobre o gerenciamento da continuidade de negócios corporativos
 
@@ -60,7 +60,7 @@ A Microsoft mantém vários canais para comunicações de status de serviço que
 
 O fornecimento de acesso aos serviços online da Microsoft 365 é uma parceria entre a sua organização e a Microsoft. O gráfico a seguir resume o equilíbrio de responsabilidade da Microsoft e do cliente durante um incidente de serviço e durante as operações regulares.
 
-![equilíbrio de responsabilidades do cliente e da Microsoft](../media/responsibilities.png)
+![balance de responsabilidades do cliente e da Microsoft.](../media/responsibilities.png)
 
 ## <a name="your-environment---service-continuity"></a>Seu ambiente – continuidade do serviço
 
@@ -80,6 +80,6 @@ A Microsoft publica os [princípios de conectividade de rede](/microsoft-365/ent
 Muitas soluções de colaboração dependem de sistemas, como a WAN (rede de longa distância) da empresa. Como sua organização responderia, caso esses sistemas não estivessem disponíveis?
 Esse gráfico representa os problemas que podem afetar mais de uma área. A tabela a seguir fornece exemplos a considerar
 
-![Diagrama venn de sistemas](../media/venn-diagram.png)
+![Diagrama venn de sistemas.](../media/venn-diagram.png)
 
 Seus planos de continuidade devem considerar todas essas áreas. Por exemplo, se você quiser que os usuários estejam na rede corporativa e uma tempestade de neve ocorrer, como os usuários terão acesso aos principais recursos? Se a neve impedir o acesso ao escritório e houver a necessidade de que os engenheiros de serviço se conectem à rede corporativa, existe uma política que impõe que eles estejam em posse de seus laptops corporativos em suas residências?

@@ -20,18 +20,18 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 82378b72d8dc17441a1ab92fc7ac222d7b9d4036
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481923"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678620"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>Isolamento e controle de acesso no Microsoft 365
 
 Azure Active Directory (Azure AD) e Microsoft 365 usam um modelo de dados altamente complexo que inclui dezenas de serviços, centenas de entidades, milhares de relações e dezenas de milhares de atributos. Em alto nível, o Azure AD e os diretórios de serviço são os contêineres de locatários e destinatários mantidos em sincronia usando protocolos de replicação baseados em estado. Além das informações de diretório mantidas no Azure AD, cada uma das cargas de trabalho de serviço têm sua própria infraestrutura de serviços de diretório.
  
-![Microsoft 365 de dados do locatário](../media/office-365-isolation-tenant-data-sync.png)
+![Microsoft 365 sincronização de dados de locatários.](../media/office-365-isolation-tenant-data-sync.png)
 
 Nesse modelo, não há uma única fonte de dados de diretório. Sistemas específicos têm partes individuais de dados, mas nenhum único sistema contém todos os dados. Microsoft 365 os serviços cooperam com o Azure AD neste modelo de dados. O Azure AD é o "sistema de verdade" para dados compartilhados, que normalmente são dados pequenos e estáticos usados por cada serviço. O modelo federado usado no Microsoft 365 e o Azure AD fornece a exibição compartilhada dos dados.
 

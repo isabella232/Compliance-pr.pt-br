@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ed400fabf50cfcd7f02d9246bb4d552f62f26eef
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481773"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678600"
 ---
-# <a name="microsoft-365-risk-management-program"></a>Programa de gerenciamento de riscos do Microsoft 365
+# <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de Gerenciamento de Riscos
 
 O objetivo do programa Microsoft 365 gerenciamento de riscos é identificar, avaliar e gerenciar riscos para Microsoft 365. Microsoft 365 a prioridade da empresa é cumprir obrigações contratuais e acreditações, aumentar a confiança do cliente e manter nossa vantagem competitiva. Embora o Microsoft 365 de Gerenciamento de Riscos funcione independentemente, ele se alinha com as políticas, prioridades e metodologias do programa de Gerenciamento de Riscos (ERM) do Enterprise. Trabalhar com o programa ERM permite uma comparação consistente entre unidades de negócios e grupos de engenharia, contribuindo para uma abordagem mais coesiva para o gerenciamento de riscos em toda a empresa.
 
@@ -37,7 +37,7 @@ A equipe de Confiança também mantém a Estrutura de Controles Microsoft 365, u
 
 As atividades de gerenciamento de riscos se enquadram em quatro fases: identificação, avaliação, resposta e monitoramento e relatórios.
 
-![Atividades do processo de gerenciamento de riscos](../media/assurance-risk-management-review-process.png)
+![Atividades de processo de gerenciamento de riscos.](../media/assurance-risk-management-review-process.png)
 
 ## <a name="identification"></a>Identificação
 

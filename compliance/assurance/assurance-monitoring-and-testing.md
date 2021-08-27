@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 940e5a4aa0a1327da6d964d9babf0ae3fb897598
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481853"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678610"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Simulação de ataque no Microsoft 365
 
@@ -64,7 +64,7 @@ A Equipe Vermelha é um grupo de funcionários em tempo integral da Microsoft qu
 
 A função da Equipe Vermelha é atacar e penetrar ambientes usando as mesmas etapas de um adversário:
 
-![Estágios de violação](../media/office-365-isolation-breach-stages.png)
+![Estágios de violação.](../media/office-365-isolation-breach-stages.png)
 
 Entre outras funções, as equipes vermelhas tentam especificamente violar limites de isolamento de locatários para encontrar bugs ou lacunas em nosso design de isolamento.
 
@@ -86,6 +86,6 @@ Quando um adversário, como uma Equipe Vermelha, violou um ambiente, a Equipe Az
 
 Estas etapas formam a resposta a incidentes de segurança que é paralela à do adversário, conforme mostrado abaixo:
 
-![Estágios de resposta de violação](../media/office-365-isolation-breach-response-stages.png)
+![Estágios de resposta de violação.](../media/office-365-isolation-breach-response-stages.png)
 
 As violações da Equipe Vermelha permitem exercitar a capacidade da Equipe Azul de detectar e responder a ataques do mundo real de ponta a ponta. O mais importante é que ele permite a resposta a incidentes de segurança prática antes de uma violação genuína. Além disso, devido às violações da Equipe Vermelha, a Equipe Azul aprimora sua percepção de situação, o que pode ser valioso ao lidar com futuras violações (seja da Equipe Vermelha ou de outro adversário). Durante todo o processo de detecção e resposta, a Equipe Azul produz inteligência a actionable e ganha visibilidade sobre as condições reais dos ambientes que estão tentando defender. Frequentemente, isso é realizado por meio da análise de dados e da perícia, realizadas pela Equipe Azul, ao responder a ataques da Equipe Vermelha e estabelecendo indicadores de ameaça, como indicadores de comprometimento. Assim como a Equipe Vermelha identifica lacunas no artigo de segurança, as equipes azuis identificam lacunas na capacidade de detectar e responder. Além disso, como o modelo vermelho de equipes ataques do mundo real, a Equipe Azul pode ser avaliada com precisão sobre sua capacidade ou incapacidade de lidar com adversários determinados e persistentes. Por fim, as violações da Equipe Vermelha medem a preparação e o impacto de nossa resposta de violação.

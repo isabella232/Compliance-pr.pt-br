@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 51c917585c8138a476e9aacd349c6dd46c545d2c140696ebfc4d0aee6f0a67cc
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e340c0c21579bbae4294379bf2a2b3adae222cd5
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288160"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676770"
 ---
-# <a name="overview"></a>Visão Geral
+# <a name="overview"></a>Visão geral
 
 ## <a name="learn-how-to-contribute"></a>Saiba como contribuir
 
@@ -20,11 +20,11 @@ Os colaboradores que fazem apenas atualizações pouco frequentes ou pequenas po
 2. Vá para a página que você deseja editar docs.microsoft.com.
 3. No lado direito da página, clique em **Editar** (ícone de lápis).
 
-   ![Botão Editar no docs.microsoft.com](compliance/media/quick-update-edit.png)
+   ![Botão Editar no docs.microsoft.com.](compliance/media/quick-update-edit.png)
 
 4. O arquivo de tópico correspondente no GitHub abre, onde você precisa clicar no **ícone Editar este lápis** de arquivo.
 
-   ![Botão Editar no github.com](compliance/media/quick-update-github.png)
+   ![Botão Editar no github.com.](compliance/media/quick-update-github.png)
 
 5. O tópico é aberto em uma página de edição numerada em linha onde você pode fazer alterações no arquivo. Os arquivos GitHub são gravados e editados usando o idioma Markdown. Para saber mais sobre como usar Markdown, consulte [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). Selecione a **guia Visualizar alterações** para exibir suas alterações à medida que você vai.
 
@@ -35,15 +35,15 @@ Os colaboradores que fazem apenas atualizações pouco frequentes ou pequenas po
 
    Quando estiver pronto, clique no botão verde **Propor alteração de arquivo.**
 
-   ![Seção Propor alteração de arquivo](compliance/media/propose-file-change.png)
+   ![Seção Propor alteração de arquivo.](compliance/media/propose-file-change.png)
 
 7. Na página **Comparar alterações exibidas,** clique no botão verde **Criar solicitação pull.**
 
-   ![Comparando a página alterações](compliance/media/comparing-changes-page.png)
+   ![Comparando a página alterações.](compliance/media/comparing-changes-page.png)
 
 8. Na página **Abrir uma solicitação pull** exibida, clique no botão verde Criar **solicitação de pull.**
 
-   ![Abra uma página de solicitação pull](compliance/media/open-a-pull-request-page.png)
+   ![Abra uma página de solicitação pull.](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
 > Suas permissões no repo determinam o que você vê nas últimas etapas. As pessoas sem privilégios especiais verão a seção Propor alteração **de arquivo** e páginas de confirmação subsequentes, conforme descrito. As pessoas com permissões para criar e aprovar suas próprias solicitações de pull verão uma seção semelhante **Confirmar** alterações com opções extras para criar um novo branch e menos páginas de confirmação.<br/><br/>O ponto é: clique em todos os botões verdes que são apresentados a você até que não haja mais.
