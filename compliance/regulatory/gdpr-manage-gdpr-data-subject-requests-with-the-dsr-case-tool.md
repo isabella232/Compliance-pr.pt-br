@@ -20,12 +20,12 @@ ms.collection:
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 951dd6063477a29fc3d442d07886d5d62e4d0dae
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e29c6501ce4c8f1ee645a8c4b5bf22eee6e9cab8
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482606"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678640"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-microsoft-365-compliance-center"></a>Gerenciar solicitações do titular de dados do GDPR com a ferramenta de caso DSR no Centro de conformidade do Microsoft 365
 
@@ -106,7 +106,7 @@ A próxima etapa é criar um caso de DSR. Ao criar um caso, você pode optar por
 
     É exibida uma página que confirma que o novo caso de DSR foi criado.
 
-    ![Inicie a pesquisa ou feche a página Novo caso de DSR](../media/b5e62c2c-cafe-4a8d-a38c-789ed9f9ccbd.png)
+    ![Inicie a pesquisa ou feche a página Novo caso de DSR.](../media/b5e62c2c-cafe-4a8d-a38c-789ed9f9ccbd.png)
   
     Neste ponto, você pode fazer uma de duas coisas:
 
@@ -201,7 +201,7 @@ Além disso, o computador que você usar para exportar o conteúdo deve atender 
 
 4. Na página **Exportar resultados**, selecione as seguintes opções recomendadas para solicitações de exportação de DSR. 
 
-    ![Defina as configurações de exportação](../media/25416b79-57da-46a1-ae07-e640602a8fa4.png)
+    ![Defina as configurações de exportação.](../media/25416b79-57da-46a1-ae07-e640602a8fa4.png)
   
     a. Em **Opções de saída**, selecione a primeira opção (**Todos os itens, excluindo aqueles que têm um formato não reconhecido, que são criptografados ou não foram indexados por outros motivos**) para exportar somente os itens indexados. O motivo pelo qual você não quer exportar itens parcialmente indexados da pesquisa integrada é porque os itens parcialmente indexados de outros usuários também serão exportados. Para exportar somente os itens parcialmente indexados para o titular dos dados, recomendamos que você crie uma pesquisa separada. Para saber mais, confira[Exportar itens parcialmente indexados](#exporting-partially-indexed-items) na seção "Mais informações sobre como usar a ferramenta de caso DSR".
 
@@ -221,7 +221,7 @@ Além disso, o computador que você usar para exportar o conteúdo deve atender 
 
 8. Em **Chave de exportação**, clique em **Copiar para a área de transferência**. Você usará essa chave na etapa 11 para baixar os resultados da pesquisa.
 
-9. Clique no ![ícone Exportar resultados da pesquisa](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **Baixar resultados** na parte superior da página flutuante exportar. 
+9. Clique no ícone ![Exportar resultados da pesquisa](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **. Baixe os resultados** na parte superior da página de submenu de exportação. 
 
 10. Na janela pop-up na parte inferior da página, clique em **Abrir** para abrir a **Ferramenta de Exportação de Descoberta Eletrônica**. A **Ferramenta de Exportação de Descoberta Eletrônica** será instalada na primeira vez que você baixar os resultados da pesquisa. 
 
@@ -266,7 +266,7 @@ Para modificar os locais de conteúdo para pesquisar:
   
     A página flutuante **Modificar locais** será exibida. Aqui está uma descrição dos locais de conteúdo na pesquisa integrada e algumas informações sobre como modificar os locais que são pesquisados. 
 
-    ![Página flutuante Modificar locais](../media/56c033f6-6735-46ba-abb2-a263a2b79836.png)
+    ![Modifique a página flyout de locais.](../media/56c033f6-6735-46ba-abb2-a263a2b79836.png)
   
     a. O botão de alternância em **Selecionar tudo** na seção de caixa de correio na parte superior da página flutuante está secionado, o que indica que todas as caixas de correio serão pesquisadas. Para restringir o escopo da pesquisa, clique no botão de alternância para desmarcá-lo e clique em **Escolher usuários, grupos ou equipes** e escolha caixas de correio específicas para pesquisar.
 
@@ -305,13 +305,13 @@ Quando você exporta dados do Serviço de Roaming do Office, os dados são salvo
   
 1. No Centro de conformidade do Microsoft 365, clique em **Solicitações do titular dos dados** e clique em **Abrir caso** ao lado do caso de DSR para o titular dos dados para o qual você deseja exportar dados de uso. 
 
-2. Clique na guia **Pesquisar** na parte superior da página e clique em ![Adicionar Ícone](../media/ITPro-EAC-AddIcon.gif) **Pesquisa Guiada**.
+2. Clique na guia **Pesquisar** na parte superior da página e, em seguida, clique em ![Adicionar Ícone.](../media/ITPro-EAC-AddIcon.gif)**Pesquisa guiada**.
 
 3. Clique em **Cancelar** na página **Nomeie sua pesquisa**. 
 
 4. Em **Consulta de pesquisa**, na condição **Type**, marque a caixa de seleção ao lado de **Serviço de roaming do Office**. 
 
-    ![Marque a caixa de seleção do Serviço de Roaming do Office para exportar os dados de uso](../media/O365_DSRCase_SDSDataExport1.png)
+    ![Marque a caixa de seleção de Serviço de Roaming do Office para exportar os dados de uso.](../media/O365_DSRCase_SDSDataExport1.png)
   
     A condição **Type** (que são classes de mensagens de e-mail) deve ser o único item na consulta de pesquisa. Você pode excluir a caixa **Palavras-chave** ou deixá-la em branco. 
 
@@ -327,13 +327,13 @@ Quando você exporta dados do Serviço de Roaming do Office, os dados são salvo
 
  **Para exportar dados do Serviço de Roaming do Office**:
   
-1. Quando a pesquisa que você criou na etapa anterior estiver concluída, clique na guia **Pesquisar** na parte superior da página e clique na caixa de seleção ao lado da pesquisa. Talvez seja preciso clicar em ![Atualizar](../media/165fb3ad-38a8-4dd9-9e76-296aefd96334.png) **Atualizar** para exibir a pesquisa.
+1. Quando a pesquisa que você criou na etapa anterior estiver concluída, clique na guia **Pesquisar** na parte superior da página e clique na caixa de seleção ao lado da pesquisa. Você pode ter que clicar em ![Atualizar](../media/165fb3ad-38a8-4dd9-9e76-296aefd96334.png). **Atualize** para exibir a pesquisa.
 
 2. Na página de submenu de pesquisa, clique em **Exportar resultados**.
 
 3. Na página **Exportar resultados**, selecione as opções recomendadas para exportar os dados de uso. 
 
-    ![Opções de exportação ao exportar dados de uso do Serviço de Roaming do Office](../media/470a7d1e-eeae-4b42-95aa-15cb82ce2f68.png)
+    ![Opções de exportação ao exportar dados de uso do Serviço de Roaming do Office.](../media/470a7d1e-eeae-4b42-95aa-15cb82ce2f68.png)
   
     a. Em **Opções de saída**, selecione a primeira opção (**Todos os itens, excluindo aqueles que têm um formato não reconhecido, que são criptografados ou não foram indexados por outros motivos**) para exportar somente os itens indexados.
 
@@ -351,7 +351,7 @@ Quando você exporta dados do Serviço de Roaming do Office, os dados são salvo
 
 7. Em **Chave de exportação**, clique em **Copiar para a área de transferência**. Você usará essa chave na etapa 10 para baixar os resultados da pesquisa.
 
-8. Clique no ![ícone Exportar resultados da pesquisa](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **Baixar resultados** na parte superior da página flutuante exportar. 
+8. Clique no ícone ![Exportar resultados da pesquisa](../media/47205c65-babd-4b3a-bd7b-98dfd92883ba.png) **. Baixe os resultados** na parte superior da página de submenu de exportação. 
 
 9. Na janela pop-up na parte inferior da página, clique em **Abrir** para abrir a **Ferramenta de Exportação de Descoberta Eletrônica**. A **Ferramenta de Exportação de Descoberta Eletrônica** será instalada na primeira vez que você baixar os resultados da pesquisa. 
 
