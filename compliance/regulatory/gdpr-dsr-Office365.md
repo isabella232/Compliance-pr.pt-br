@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 0d48c7bc2c4b3b2dbfa8e4c102e22853c3ba5cc242cfebdf31ee4c6149f95756
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f5b0acae758e149f2bfde5683a0b9f2c45f0db29
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293542"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676830"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de assunto de dados do Office 365 para o GDPR e o CCPA
 
@@ -206,7 +206,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![caixa de diálogo de palavra-chave 1](../media/O365-DSR-Doc_image18.png)
+![caixa de diálogo de palavra-chave exemplo 1.](../media/O365-DSR-Doc_image18.png)
 
 ##### <a name="example-2&quot;></a>Exemplo 2
 
@@ -218,7 +218,7 @@ Este exemplo retorna arquivos do Excel ou Word nos sites do SharePoint Online e 
 
 ***GUI***
 
-![caixa de diálogo de palavra-chave exemplo 2](../media/O365-DSR-Doc_image19.png)
+![caixa de diálogo de palavra-chave exemplo 2.](../media/O365-DSR-Doc_image19.png)
 
 ##### <a name="example-3"></a>Exemplo 3
 
@@ -230,7 +230,7 @@ Este exemplo retorna mensagens de email que contêm o número de identificação
 
 ***GUI***
 
-![caixa de diálogo de palavra-chave exemplo 3](../media/O365-DSR-Doc_image20.png)
+![caixa de diálogo de palavra-chave exemplo 3.](../media/O365-DSR-Doc_image20.png)
 
 #### <a name="working-with-partially-indexed-items-in-content-search"></a>Trabalhar com itens parcialmente indexados na Pesquisa de Conteúdo
 
@@ -446,13 +446,13 @@ Quando você exporta os resultados de uma Pesquisa de Conteúdo, os itens de ema
 Para exportar e baixar itens:
 
 1. Abra a Pesquisa de Conteúdo no Centro de Conformidade e Segurança.
-2. Na página de submenu de pesquisa, selecione ![ícone de download](../media/o365-dsr_image21.png) **Mais** e selecione **Exportar resultados**. Você também pode exportar um relatório.
+2. Na página de submenu de pesquisa, selecione ![ícone de download](../media/o365-dsr_image21.png)**Mais**, e em seguida selecione **Exportar resultados**. Você também pode exportar um relatório.
 3. Conclua as seções na página do submenu **Exportar resultados**. Certifique-se de usar a barra de rolagem para exibir todas as opções de exportação.
 4. Volte para a página Pesquisa de Conteúdo no Centro de Conformidade e Segurança e selecione a guia **Exportar**.
 5. Clique em **Atualizar** para atualizar a página.
 6. Na coluna **Nome**, clique no trabalho de exportação que você acabou de criar. O nome do trabalho de exportação é o nome da pesquisa de conteúdo acrescido de **\_Exportar**.
 7. Na página do submenu de exportação, em **Chave de exportação**, **clique em Copiar para a área de transferência**. Você usará essa chave na Etapa 10 para baixar os resultados da pesquisa
-8. Na parte superior da página do submenu, selecione ![baixar ícone](../media/o365-dsr_image21.png) **Baixar resultados**.
+8. Na parte superior da página do submenu, selecione ![baixar ícone](../media/o365-dsr_image21.png)**Baixar resultados**.
 9. Caso você receba uma solicitação para instalar a **Ferramenta de Exportação de Descoberta Eletrônica do Office 365**, selecione **Instalar**.
 10. Na **Ferramenta de Exportação de Descoberta Eletrônica**, cole na caixa apropriada a chave de exportação que você copiou na etapa 7.
 11. Selecione **Procurar** para especificar o local onde deseja baixar os arquivos de resultado da pesquisa.
@@ -1470,7 +1470,7 @@ Para restringir o processamento no Delve em sua organização, você pode desati
 
 Os usuários podem excluir as seguintes informações no Delve:
 
-- **Informações de perfil:** para excluir informações de perfil, o usuário pode selecionar **Eu** \> **Atualizar perfil** e excluir um texto de formato livre. Dependendo das configurações da organização na Lista de Endereços Global, os usuários talvez não possam excluir todas as informações do perfil, como nome ou cargo.
+- **Informações do perfil:** Para excluir informações do perfil, um usuário pode clicar em **Eu** \> **Atualizar perfil** e excluir texto de forma livre. Dependendo das configurações da organização na Lista de Endereços Global, os usuários talvez não possam excluir todas as informações do perfil, como nome ou cargo.
 - **Documentos e anexos de email:** para excluir um documento ou anexo, os usuários devem ir para o serviço em que o documento ou anexo está armazenado (como o SharePoint Online, o OneDrive for Business ou o Exchange Online) e excluir o documento lá.
 
 ### <a name="myanalytics"></a>MyAnalytics
