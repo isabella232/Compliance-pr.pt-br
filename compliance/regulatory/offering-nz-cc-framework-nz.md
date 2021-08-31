@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6785c459f8350714b8e4636a0f1a5dc9f4ff667d
+ms.sourcegitcommit: 9bb0e86b2fd4121a3a79a23dde95aa2584ce3167
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480483"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744257"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>Considerações sobre Segurança e Privacidade do Governo da Nova Zelândia (ISPC)
 
@@ -83,6 +83,7 @@ Se a sua agência for necessária para realizar a certificação e o credenciame
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>Respostas da Microsoft ao IPSC de Computação na Nuvem
 
 - [Azure](https://aka.ms/Azure-NZ-response)
+- [Dynamics 365](https://www.microsoft.com/download/details.aspx?id=103390)
 - [Intune](https://aka.ms/Intune-NZ-response)
 - [Office 365](https://aka.ms/O365-NZ-Response)
 - [Power BI](https://download.microsoft.com/download/5/1/7/51726B9B-2E76-49C4-9D4F-A36BF025CB93/Response-to-GCIO-105-questions-Power-BI.pdf)

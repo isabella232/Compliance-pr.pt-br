@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e5c253fe5a2b4995dffc7059717d74fecdc73935
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: addcf3852fda46989e75b18bd323d86aa1981d4e
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479763"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707140"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>FinRA (Autoridade Regulatória do Setor Financeiro) Regra 4511(c) Estados Unidos
 
@@ -41,7 +41,7 @@ Microsoft Azure O blob imutável Armazenamento com Bloqueio de Política e Micro
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-Para avaliar a conformidade do Azure com a Regra FINRA 4511(c), a Microsoft reteve uma empresa de avaliação independente especializada em gerenciamento de registros e governança de informações, Cohasset Associates. O relatório resultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Avaliação](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)de Conformidade: Armazenamento do Microsoft Azure , abrange a conformidade do Azure com a Regra FINRA 4511(c), que adia os requisitos de formato e mídia da Regra SEC 17a-4(f).
+Para avaliar a conformidade do Azure com a Regra FINRA 4511(c), a Microsoft reteve uma empresa de avaliação independente especializada em gerenciamento de registros e governança de informações, Cohasset Associates. O relatório resultante, [SEC 17a-4(f) & CFTC 1.31 (c-d) Avaliação](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)de Conformidade: Armazenamento do Microsoft Azure , abrange a conformidade do Azure com a Regra FINRA 4511(c), que adia os requisitos de formato e mídia da Regra SEC 17a-4(f).
 
 Cohasset validou que o [Blob Immutable do Azure](/azure/storage/blobs/storage-blob-immutable-storage) Armazenamento com a opção Bloqueio de Política, quando usado para reter Blobs baseados em tempo em um formato não a apagamento e não regravável (WORM), atende aos requisitos de armazenamento FINRA relevantes. Cada Blob (registro) é protegido de ser modificado, substituído ou excluído até que o período de retenção necessário tenha expirado e quaisquer retenções legais associadas tenham sido liberadas.
 
@@ -68,9 +68,9 @@ Para os requisitos da Regra [FINRA 4511(c),](/microsoft-365/compliance/retention
 
 ## <a name="how-to-implement"></a>Como implementar
 
-- **Regulamentação de serviços financeiros**: Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- **Guia de conformidade e avaliação de risco**: cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador. [Saiba Mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
-- **Casos de uso financeiro**: usa visões gerais, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros. [Saiba Mais](/azure/industry/financial/)
+- **Regulamentação de serviços financeiros**: Mapa de conformidade dos principais princípios regulatórios dos EUA para computação em nuvem e serviços online da Microsoft. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- **Guia de conformidade e avaliação de risco**: cria um modelo de governança para a avaliação de risco dos serviços de nuvem da Microsoft e notificações do regulador. [Saiba mais](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+- **Casos de uso financeiro**: usa visões gerais, tutoriais e outros recursos para criar soluções do Azure para serviços financeiros. [Saiba mais](/azure/industry/financial/)
 
 ## <a name="resources"></a>Recursos
 

@@ -22,7 +22,7 @@ highlightedContent:
       url: /learn/paths/audit-safeguard-customer-data/
     - title: Saiba mais sobre a responsabilidade compartilhada na nuvem
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
+      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - title: Saiba mais sobre o Microsoft Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/

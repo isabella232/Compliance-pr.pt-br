@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505924"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707120"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>Securities and Exchange Commission (SEC) Rule 17a-4(f) United States
 
@@ -54,7 +54,7 @@ Para avaliar o Azure e Office 365 conformidade com a Regra DA SEC 17a-4(f), a Mi
 
 A Microsoft reteve uma empresa independente de avaliação de terceiros especializada em gerenciamento de registros e governança de informações para avaliar o armazenamento imutável para a conformidade do armazenamento do Blob do Azure com os requisitos da Regra SEC 17a-4(f). O relatório resultante *[Avaliação de Cohasset: Microsoft Azure Armazenamento WORM](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)* está disponível para os clientes.
 
-É a opinião do avaliador de que o Azure Armazenamento com o armazenamento imutável para o recurso blobs do *Azure* e a opção de política com base no tempo bloqueado mantém Blobs (registros) baseados em tempo em um não-apagamento e não-rew Formatoritável e atende aos requisitos de armazenamento relevantes da Regra SEC 17a-4(f), da [Regra FINRA 4511(c)](/azure/compliance/offering-finra-4511-us.md)e dos requisitos baseados em princípios da Regra [CFTC 1.31(c)-(d)](offering-cftc-1-31-us.md). 
+É a opinião do avaliador de que o Azure Armazenamento com o armazenamento imutável para o recurso blobs do *Azure* e a opção de política com base no tempo bloqueado mantém Blobs (registros) baseados em tempo em um não-apagamento e não-rew Formatoritável e atende aos requisitos de armazenamento relevantes da Regra SEC 17a-4(f), da [Regra FINRA 4511(c)](offering-FINRA-4511.md)e dos requisitos baseados em princípios da Regra [CFTC 1.31(c)-(d)](offering-cftc-1-31-us.md). 
 
 Após a solicitação, a Microsoft também fornecerá uma carta de *90* dias necessária para atender aos requisitos da SEC 17a-4(f)(2) para que os clientes notifiquem sua autoridade de exame designada pelo menos 90 dias antes de empregar mídia de armazenamento eletrônico. Conforme indicado nos regulamentos, "o membro, agente ou revendedor deve fornecer sua própria representação ou uma do fornecedor médio de armazenamento ou de outro terceiro com conhecimento apropriado de que a mídia de armazenamento selecionada atende às condições definidas neste parágrafo (f)(2)." Para obter o Atestado de Armazenamento Serviços de Mídia da Microsoft para a Regra 17a-4 da SEC, os clientes com um plano de suporte do [Azure](https://azure.microsoft.com/support/plans/) podem criar um tíquete de suporte no portal do Azure e solicitar *a* carta de atestado para [a](https://azure.microsoft.com/support/create-ticket/) Regra SEC 17a-4. Neste documento, a Microsoft fornece garantias relevantes para os requisitos da SEC 17a-4(f)(2).
 

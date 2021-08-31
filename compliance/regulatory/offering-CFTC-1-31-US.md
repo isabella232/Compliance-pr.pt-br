@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8bb9f380d57e932576c969f10512f508de7c6ada
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482736"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707130"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>CfTC (Comissão de Negociação de Futuros de Mercadorias) Regra 1.31(c-d) Estados Unidos
 
@@ -39,7 +39,7 @@ Os clientes de serviços financeiros, que representam um dos setores mais fortem
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
-Para avaliar a conformidade do Azure com a Regra CFTC 1.31(c-d), a Microsoft reteve uma empresa de avaliação independente especializada em gerenciamento de registros e governança de informações, Cohasset Associates. No relatório resultante, o [CFTC 1.31 (c)–(d) Avaliação](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)de Conformidade: Armazenamento do Microsoft Azure , Cohasset validou que o [Blob Immutável do Azure Armazenamento](/azure/storage/blobs/storage-blob-immutable-storage) com a opção Bloqueio de Política, quando usado para reter Blobs baseados em tempo em um formato não a apagabilidade e não reeritável (WORM), atende aos requisitos baseados em princípios da regra CFTC. Cada Blob (registro) é protegido de ser modificado, substituído ou excluído até que o período de retenção necessário tenha expirado e quaisquer retenções legais associadas tenham sido liberadas. Os provedores de software e parceiros com cargas de trabalho confidenciais agora podem contar com o Blob Imutável do Azure Armazenamento como uma solução de nuvem de loja única para retenção de registros. As instituições financeiras agora podem criar seus próprios aplicativos aproveitando esses recursos enquanto permanecem em conformidade.
+Para avaliar a conformidade do Azure com a Regra CFTC 1.31(c-d), a Microsoft reteve uma empresa de avaliação independente especializada em gerenciamento de registros e governança de informações, Cohasset Associates. No relatório resultante, [o CFTC 1.31 (c) (d)](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)Avaliação de Conformidade: Armazenamento do Microsoft Azure , Cohasset validou que o [Blob Imutável do Azure Armazenamento](/azure/storage/blobs/storage-blob-immutable-storage) com a opção Bloqueio de Política, quando usado para reter Blobs baseados em tempo em um formato não a apagar e não reeritável (WORM), atende aos requisitos baseados em princípios da regra CFTC. Cada Blob (registro) é protegido de ser modificado, substituído ou excluído até que o período de retenção necessário tenha expirado e quaisquer retenções legais associadas tenham sido liberadas. Os provedores de software e parceiros com cargas de trabalho confidenciais agora podem contar com o Blob Imutável do Azure Armazenamento como uma solução de nuvem de loja única para retenção de registros. As instituições financeiras agora podem criar seus próprios aplicativos aproveitando esses recursos enquanto permanecem em conformidade.
 
 ### <a name="microsoft-365"></a>Microsoft 365
 

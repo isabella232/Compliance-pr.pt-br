@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: fc6113dbf5c095cc4b22eb8ed0a4527d84f7e143
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b74c004e63838900f87c774a8acf84ab8aeb03d4
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481743"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707110"
 ---
 # <a name="security-development-and-operations-overview"></a>Visão geral de desenvolvimento e operações de segurança
 
@@ -56,7 +56,7 @@ A Microsoft adotou uma estratégia de alto nível para gerenciar a segurança de
 - Determinar se esses componentes têm vulnerabilidades.
 - Responder corretamente quando forem descobertas vulnerabilidades que afetam esses componentes.
 
-As equipes de engenharia da Microsoft mantêm a responsabilidade pela segurança de todos os softwares livres incluídos em um produto ou serviço. Para atingir essa segurança em escala, a Microsoft criou recursos essenciais em sistemas de engenharia por meio do CG, o que automatiza a detecção de código aberto, fluxos de trabalho de requisitos legais e alerta para componentes vulneráveis. As ferramentas CG automatizadas digitalizem builds na Microsoft para componentes de código aberto e vulnerabilidades de segurança associadas ou obrigações legais. Os componentes descobertos são registrados e enviados para as equipes apropriadas para revisões de negócios e segurança. Essas revisões foram projetadas para avaliar quaisquer obrigações legais ou vulnerabilidades de segurança associadas a componentes de software livre e resolvê-las antes de aprovar componentes para implantação.
+As equipes de engenharia da Microsoft mantêm a responsabilidade pela segurança de todos os softwares livres incluídos em um produto ou serviço. Para atingir essa segurança em escala, a Microsoft criou recursos essenciais em sistemas de engenharia por meio da CG (Governança de Componentes), que automatiza a detecção de código aberto, fluxos de trabalho de requisitos legais e alertas para componentes vulneráveis. As ferramentas CG automatizadas digitalizem builds na Microsoft para componentes de código aberto e vulnerabilidades de segurança associadas ou obrigações legais. Os componentes descobertos são registrados e enviados para as equipes apropriadas para revisões de negócios e segurança. Essas revisões foram projetadas para avaliar quaisquer obrigações legais ou vulnerabilidades de segurança associadas a componentes de software livre e resolvê-las antes de aprovar componentes para implantação.
 
 ## <a name="related-external-regulations--certifications"></a>Regulamentações externas relacionadas & certificações
 
