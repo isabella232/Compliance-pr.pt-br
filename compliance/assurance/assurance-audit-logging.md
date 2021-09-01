@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3212ca2a42677dc27afda8a7598b39d7f24bf27c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 11695a941e5d5e6740833ab19bf2d68ac487c1c5
+ms.sourcegitcommit: 5e6e25ed264b248522ad49ea25490962db08e471
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482184"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58832254"
 ---
 # <a name="audit-logging-overview"></a>Visão geral do registro de Auditoria
 
@@ -53,6 +53,8 @@ Muitos tipos diferentes de dados de log são carregados dos servidores Microsoft
 Os logs são processados no NRT usando métodos de aprendizado de máquina, estatísticas e baseados em regras para detectar indicadores de desempenho do sistema e possíveis eventos de segurança. Os modelos de aprendizado de máquina usam dados de log de entrada e dados de log históricos armazenados em Cosmos ou Kusto para melhorar continuamente os recursos de detecção. As detecções relacionadas à segurança geram alertas, notificando os engenheiros de chamada sobre um possível incidente e disparando ações de correção automatizadas quando aplicável. Além do monitoramento de segurança automatizado, as equipes de serviço usam ferramentas de análise e painéis para correlação de dados, consultas interativas e análise de dados. Esses relatórios são usados para monitorar e melhorar o desempenho geral do serviço.
 
 Para obter mais informações sobre monitoramento e alertas de segurança, consulte a visão geral [do monitoramento de segurança.](assurance-security-monitoring.md)
+
+![Auditar o fluxo de dados.](../media/assurance-audit-data-flow.png)
 
 ## <a name="how-do-microsoft-online-services-protect-audit-logs"></a>Como os serviços online da Microsoft protegem logs de auditoria?
 
