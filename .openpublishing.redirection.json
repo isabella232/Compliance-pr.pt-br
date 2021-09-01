@@ -155,6 +155,11 @@
       "source_path": "compliance/assurance/assurance-administrative-access-controls-overview.md",
       "redirect_url": "https://docs.microsoft.com/compliance/assurance/assurance-microsoft-365-account-management",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "compliance/assurance/assurance-data-destruction.md",
+      "redirect_url": "https://docs.microsoft.com/compliance/assurance/assurance-data-bearing-device-destruction",
+      "redirect_document_id": true
     }
   ]
 }
