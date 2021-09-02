@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f23dba6e215e9b4b8f890b05066bb693ed0e62e8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: c851b235a70104720457d08c51529ee7b25c65e4
+ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482094"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862351"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>Retenção, exclusão e destruição de dados em Microsoft 365
 
@@ -57,8 +57,7 @@ Para obter mais informações sobre o des provisionamento rápido, consulte [Can
 
 ## <a name="related-links"></a>Links relacionados
 
-- [Destruição de dados](assurance-data-destruction.md)
-
+- [Destruição de dispositivos de suporte de dados](assurance-data-bearing-device-destruction.md)
 - [Imutabilidade no Office 365](assurance-data-immutability.md)
 - [Exclusão de dados do Exchange Online](assurance-exchange-online-data-deletion.md)
 - [Exclusão de dados do SharePoint Online](assurance-sharepoint-online-data-deletion.md)
