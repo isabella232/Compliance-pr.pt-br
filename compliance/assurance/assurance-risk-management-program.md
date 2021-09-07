@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 56d28813cd5cf0d1f0e54ebe2f4c64b23e98d169
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.openlocfilehash: 8e895308358853f2c59009503d079361dca84c49
+ms.sourcegitcommit: 91038a980f08745a12ab6b223ed90a6cd561c5bf
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678600"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923111"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de Gerenciamento de Riscos
 
-O objetivo do programa Microsoft 365 gerenciamento de riscos é identificar, avaliar e gerenciar riscos para Microsoft 365. Microsoft 365 a prioridade da empresa é cumprir obrigações contratuais e acreditações, aumentar a confiança do cliente e manter nossa vantagem competitiva. Embora o Microsoft 365 de Gerenciamento de Riscos funcione independentemente, ele se alinha com as políticas, prioridades e metodologias do programa de Gerenciamento de Riscos (ERM) do Enterprise. Trabalhar com o programa ERM permite uma comparação consistente entre unidades de negócios e grupos de engenharia, contribuindo para uma abordagem mais coesiva para o gerenciamento de riscos em toda a empresa.
+O objetivo do programa Microsoft 365 gerenciamento de riscos é identificar, avaliar e gerenciar riscos para Microsoft 365. A principal prioridade da Microsoft é identificar e resolver proativamente os riscos que podem afetar nossa infraestrutura de serviço, bem como nossos clientes, seus dados e sua confiança. Além disso, um programa robusto de gerenciamento de riscos é necessário para atender às obrigações contratuais e manter as acreditações públicas nas quais nossos clientes dependem para atender aos seus próprios requisitos de conformidade. Embora o Microsoft 365 de Gerenciamento de Riscos funcione independentemente, ele se alinha com as políticas, prioridades e metodologias do programa de Gerenciamento de Riscos (ERM) do Enterprise. Trabalhar com o programa ERM permite uma comparação consistente entre unidades de negócios e grupos de engenharia, contribuindo para uma abordagem mais coesiva para o gerenciamento de riscos em toda a empresa.
 
-A Microsoft 365 de Confiança é responsável pelo gerenciamento do programa de Gerenciamento de Riscos Microsoft 365 e pela realização das atividades definidas pelo programa DEM. A equipe de Confiança se concentra na integração da estrutura de gerenciamento de riscos com o processo de engenharia, Microsoft 365 de serviço e conformidade existentes para tornar o programa de Gerenciamento de Riscos mais eficaz e eficiente.
+A Microsoft 365 de Confiança é responsável por gerenciar o programa Microsoft 365 Gerenciamento de Riscos e conduzir as atividades definidas pelo programa DEM. A equipe de Confiança se concentra na integração da estrutura de gerenciamento de riscos com o processo de engenharia, Microsoft 365 de serviço e conformidade existentes para tornar o programa de Gerenciamento de Riscos mais eficaz e eficiente.
 
 A equipe de Confiança também mantém a Estrutura de Controles Microsoft 365, um conjunto de controles racionalizados que, quando implementados corretamente com atividades de conformidade, permitem que as equipes de engenharia cumpram as principais regulamentações e certificações. Essa estrutura é atualizada continuamente com base em comentários e descobertas como parte do processo de gerenciamento de riscos.
 
