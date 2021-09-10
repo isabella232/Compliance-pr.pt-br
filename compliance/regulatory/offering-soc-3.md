@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: b3690ba79ba8adca1d01e4eda03831c431747d01
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481073"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947585"
 ---
 # <a name="system-and-organization-controls-soc-3"></a>Controles de Sistema e Organização (SOC) 3
 

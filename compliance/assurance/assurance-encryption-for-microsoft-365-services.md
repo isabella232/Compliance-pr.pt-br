@@ -22,11 +22,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 480e7e03564075707c90e25ad5777631c1e68ed8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482023"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946882"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>Criptografia para Skype for Business, OneDrive for Business, SharePoint Online, Microsoft Teams e Exchange Online
 

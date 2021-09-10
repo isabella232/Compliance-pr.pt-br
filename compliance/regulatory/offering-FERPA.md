@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505944"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947493"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Lei de Privacidade e Direitos Educacionais da Família (FERPA)
 

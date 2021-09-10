@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678590"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946926"
 ---
 # <a name="risk-management-overview"></a>Visão geral de gerenciamento de risco
 

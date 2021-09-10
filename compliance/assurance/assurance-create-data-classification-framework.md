@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 17aa73258f1ecc4db9cc13a5df08b1aa76a583a7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482154"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946859"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>Criar uma estrutura de classificação de dados bem projetada
 

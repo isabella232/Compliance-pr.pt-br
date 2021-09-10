@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 6140a205827409f2cb3d3386d2416853b24cd692
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58483016"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947519"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>Escritório do Superintendente de Instituições Financeiras (OSFI), Canadá
 

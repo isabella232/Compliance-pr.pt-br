@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.openlocfilehash: 7bce2fc5aaac14442eb466921d3acc130389446c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480393"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947449"
 ---
 # <a name="accountability-readiness-checklist-for-microsoft-365"></a>Lista de verificação de preparação de responsabilidade para Microsoft 365
 

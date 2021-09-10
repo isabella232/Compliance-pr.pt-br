@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 9dd365e075226d8fdbfd1a9f9e371df2668f814d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481983"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946876"
 ---
 # <a name="exchange-online-data-deletion-in-microsoft-365"></a>Exchange Online exclusão de dados no Microsoft 365
 

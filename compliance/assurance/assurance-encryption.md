@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: dc53f42c6aa7ce16e1291538bfad6d63c5a1689d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482003"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946883"
 ---
 # <a name="encryption-and-key-management-overview"></a>Visão geral de gerenciamento de criptografia e chaves
 

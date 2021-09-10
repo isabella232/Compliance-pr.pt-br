@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: be05c96c725f8d0e05bc27f410d7f19e4e5d9a23
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481803"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946863"
 ---
 # <a name="microsoft-365-reporting-features"></a>Recursos de relatório do Microsoft 365
 

@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: c2fa17a67d12c3286eabb5db03c31090cae018336d4c8184e07ad4a5deef98a8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 9b7a88bd84ccd39d0d4cd9572a250ba4a8a0a773
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289899"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947596"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-office-365"></a>Avaliações do Impacto sobre a Proteção dos Dados: orientações para controladores de dados que usam o Microsoft Office 365 
 
@@ -44,7 +44,7 @@ O Artigo 35 do GDPR exige que um controlador de dados crie uma Avaliação de Im
 |||
 
 >[!Note]
-><sup>1</sup> Em relação aos critérios de que o processamento seja em “grande escala”, o Recital 91 do RGPD esclarece que: “O processamento de dados pessoais não deve ser considerado em grande escala se o processamento se referir a dados pessoais de pacientes ou clientes por um médico individual, outro profissional da saúde ou advogado. Nesses casos, a avaliação de impacto sobre a proteção dos dados não deve ser obrigatória.”
+><sup>1</sup> Com relação aos critérios de que o processamento é em “grande escala”, o Recital 91 do GDPR esclarece que: “O processamento de dados pessoais não deve ser considerado em grande escala se o processamento se referir a dados pessoais de pacientes ou clientes por um médico individual, outro profissional de saúde ou advogado. Nesses casos, uma avaliação de impacto sobre a proteção de dados não deve ser obrigatória”.
 
 ## <a name="part-2-contents-of-a-dpia"></a>Parte 2: Conteúdo de uma DPIA
 

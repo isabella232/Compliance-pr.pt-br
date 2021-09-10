@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482916"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947483"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>ITAR (International Traffic in Arms Regulations)
 
@@ -76,4 +76,4 @@ Entre em contato com Microsoft Office 365 representante da conta de usuário.
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [Título ITAR 22 CFR 120-130](https://aka.ms/itar)
 - [Office 365 Governo dos EUA](https://products.office.com/government/office-365-web-services-for-government)
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

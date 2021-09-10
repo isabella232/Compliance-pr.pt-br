@@ -19,11 +19,11 @@ hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.openlocfilehash: facb5fbcdc847d70425f3d6aa925ee6bcf7cf3dd
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480383"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947450"
 ---
 # <a name="azure-dynamics-365-and-windows-accountability-readiness-checklist-for-the-gdpr"></a>Lista de verificação da preparação da responsabilidade do Azure, Dynamics 365 e Windows para o RGPD
 

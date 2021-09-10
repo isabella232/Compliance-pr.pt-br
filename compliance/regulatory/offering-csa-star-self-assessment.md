@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479733"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947475"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Autoavaliação Star da Cloud Security Alliance (CSA)
 

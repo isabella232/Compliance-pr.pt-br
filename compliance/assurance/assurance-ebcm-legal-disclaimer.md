@@ -18,11 +18,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 1b513c80c24ae6c06488972196579aff30e703fa
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482053"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946922"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>Aviso de isenção de responsabilidade legal do gerenciamento de continuidade de negócios empresariais
 

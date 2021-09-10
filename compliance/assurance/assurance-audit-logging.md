@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 11695a941e5d5e6740833ab19bf2d68ac487c1c5
-ms.sourcegitcommit: 5e6e25ed264b248522ad49ea25490962db08e471
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58832254"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946865"
 ---
 # <a name="audit-logging-overview"></a>Visão geral do registro de Auditoria
 

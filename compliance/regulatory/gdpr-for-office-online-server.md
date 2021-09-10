@@ -16,11 +16,11 @@ ms.custom:
 titleSuffix: Microsoft GDPR
 hideEdit: true
 ms.openlocfilehash: f27986532de16c4a674f69148a662df20f1ac77f
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678650"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947609"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>RGPD para Servidor do Office Web Apps e Servidor do Office Online
 

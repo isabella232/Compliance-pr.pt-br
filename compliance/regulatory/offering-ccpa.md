@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482656"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947464"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>CCPA (Lei de Privacidade do Consumidor da Califórnia)
 
@@ -105,4 +105,4 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - [Iniciando com o Guia CCPA](https://info.microsoft.com/ww-landing-Five-tips-to-help-you-prepare-for-the-California-Consumer-Privacy-Act.html)
 - [Solicitações de Assunto de Dados e o RGPD](gdpr-data-subject-requests.md)
 - [Perguntas frequentes sobre a lei de privacidade do consumidor da Califórnia (CCPA)](ccpa-faq.yml)
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 8e895308358853f2c59009503d079361dca84c49
-ms.sourcegitcommit: 91038a980f08745a12ab6b223ed90a6cd561c5bf
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923111"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946924"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de Gerenciamento de Riscos
 

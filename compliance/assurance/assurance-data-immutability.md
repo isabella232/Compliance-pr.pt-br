@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482114"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946871"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>Imutabilidade de dados no Microsoft 365
 

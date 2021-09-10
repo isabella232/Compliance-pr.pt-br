@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480523"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947586"
 ---
 # <a name="us-section-508"></a>Seção 508 dos EUA
 
@@ -71,4 +71,4 @@ Encontre os [relatórios de conformidade](https://cloudblogs.microsoft.com/indus
 - [Centro de Acessibilidade do Office 365](https://go.microsoft.com/fwlink/p/?linkid=2051801): recursos do Office 365 para pessoas com deficiências.
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): suporte dedicado para clientes corporativos com questões de acessibilidade sobre nossos produtos e serviços ou conformidade.
 - Programa testador confiável do [DHS](https://go.microsoft.com/fwlink/?linkid=2052171): obter informações sobre o Programa de Testador Confiável do Departamento de Segurança interna dos EUA (DHS), no qual a Microsoft participa.
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

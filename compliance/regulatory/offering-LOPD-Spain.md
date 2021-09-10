@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 3e3d8bdd755ae032b0f027150a2211a5fe14f7e5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58479753"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947509"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>Decreto Real Espanhol 1720/2007, Lei Orgânica Espanhola 15/1999 (LOPD)
 
@@ -88,4 +88,4 @@ Sim. Se a sua organização exigir ou se estiver procurando uma credencial alinh
 - Agência de Proteção de Dados espanhola ([espanhol](https://www.agpd.es/portalwebAGPD/index-ides-idphp.php))
 - Lei Orgânica 15/1999 de 13 de dezembro para a proteção de dados pessoais – [espanhol](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750)
 - [Termos do Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

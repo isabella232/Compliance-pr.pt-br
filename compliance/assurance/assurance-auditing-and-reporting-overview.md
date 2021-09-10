@@ -23,11 +23,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: c1a2cc9e770678683fb3823da73ed667de6d1f2b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482174"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946861"
 ---
 # <a name="auditing-and-reporting-in-microsoft-cloud-services"></a>Auditoria e relatórios nos serviços de nuvem da Microsoft
 

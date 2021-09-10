@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481223"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947484"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>Publicação FIPS (Federal Information Processing Standard) 140-2
 
@@ -102,4 +102,4 @@ Esses são dois padrões de segurança separados com finalidades diferentes, mas
 - [Requisitos de segurança do FIPS Pub 140-2 para módulos criptográficos](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [Programa de Validação de Módulo Criptográfico NIST](https://csrc.nist.gov/groups/STM/cmvp/index.html)
 - [Windows, Windows Server e FIPS 140-2](/windows/security/threat-protection/fips-140-validation)
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

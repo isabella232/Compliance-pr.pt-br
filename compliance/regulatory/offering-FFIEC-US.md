@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505894"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947496"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Conselho de Exame de Instituições Financeiras Federais (FFIEC)
 

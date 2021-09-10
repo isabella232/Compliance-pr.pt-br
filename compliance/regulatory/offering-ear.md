@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482976"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947482"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Us Export Administration Regulations (EAR)
 
@@ -93,4 +93,4 @@ Os Estados Unidos também têm regulamentos de controle de exportação separado
 - [Exportar restrições à criptografia](/windows/uwp/security/export-restrictions-on-cryptography)
 - [Microsoft e FIPS 140-2](offering-fips-140-2.md)
 - [Microsoft e ITAR](offering-itar.md)
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

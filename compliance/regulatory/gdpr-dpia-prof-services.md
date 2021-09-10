@@ -18,18 +18,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d30214f68911553b0e835e072e02233428bf296bc4927c7c0e49fb04718a9282
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289879"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947599"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>Avaliações do Impacto sobre a Proteção dos Dados: orientações para controladores de dados que usam o Serviços Professionais da Microsoft 
 
 ## <a name="introduction-to-microsoft-professional-services"></a>Introdução aos serviços profissionais da Microsoft
 
-Os serviços Profissionais da Microsoft incluem um grupo diversificado de arquitetos técnicos, engenheiros, consultores e profissionais de suporte dedicados a cumprir a missão da Microsoft de capacitar os clientes a fazer mais e obter mais. Saiba mais sobre os Serviços Professionais da Microsoft visitando a [página de Segurança dos Serviços Profissionais da Microsoft](https://aka.ms/pstrust).
+Serviços Profissionais da Microsoft inclui um grupo diversificado de arquitetos técnicos, engenheiros, consultores e profissionais de suporte dedicados a cumprir a missão da Microsoft de capacitar os clientes a fazer mais e alcançar mais. Saiba mais sobre os Serviços Profissionais da Microsoft visitando a página [Confiabilidade dos Serviços Profissionais da Microsoft](https://aka.ms/pstrust).
 
 Os Serviços Profissionais da Microsoft leva a sério suas obrigações sob o Regulamento Geral de Proteção de Dados (RGPD). As informações neste documento são projetadas para fornecer informações sobre ofertas de suporte e consultoria da Microsoft que os clientes podem usar ao preparar Avaliações de Impacto de Proteção de Dados (AIPDs) em RGPD.
 

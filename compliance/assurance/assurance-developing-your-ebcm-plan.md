@@ -18,11 +18,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676780"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946880"
 ---
 # <a name="developing-your-business-continuity-plan"></a>Desenvolvendo seu plano de continuidade de negócios
 

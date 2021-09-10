@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 0399a959bce2d15bc856bad25aca29f831193efc
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482274"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947463"
 ---
 # <a name="cloud-computing-compliance-controls-catalog-c5"></a>Catálogo de Controles de Conformidade de Computação em Nuvem (C5)
 
@@ -72,4 +72,4 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - Recomendações de Segurança para Provedores de Computação em Nuvem ([inglês](https://www.bsi.bund.de/EN/Topics/CloudComputing/Secure_use_of_cloud_services/Secure_use_cloud_services_node.html)) ([alemão](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Sichere_Nutzung_Cloud/Sichere_Nutzung_Cloud_node.html))
 - [Relatórios de Conformidade: C5- und SOC-Testate Azure Deutschland](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=df100ae1-baf9-4785-8a6d-864c0bc5c308&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_SOC%20%2F%20SSAE%2016%20Reports)
 - [Pasta de Trabalho de Conformidade de IT-Grundschutz](https://gallery.technet.microsoft.com/Azure-Germany-IT-fca4afd7) do Microsoft Azure Alemanha
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

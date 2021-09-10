@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 48fe50347e7e81c7e5f8552299c04a268b8b449c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482104"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946872"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Resiliência de dados no Microsoft 365
 

@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 20a21fe0d67f8986ec6e89b8ecbfd2915f9b8245
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481933"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946862"
 ---
 # <a name="internal-logging-for-microsoft-365-engineering"></a>Log interno para engenharia do Microsoft 365
 

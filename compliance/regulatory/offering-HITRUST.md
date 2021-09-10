@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482966"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947512"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
 
@@ -96,4 +96,4 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
 - [Noções básicas e aproveitando o CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [Saiba mais sobre o Programa de Responsabilidade Compartilhada HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2100268)
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

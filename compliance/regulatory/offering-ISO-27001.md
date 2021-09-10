@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 17f63068139d35f1fee74c2d6e299f9ea0acc4c3
-ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58561339"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947467"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>Padrões de gerenciamento de segurança de informações ISO/IEC 27001:2013
 

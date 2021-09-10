@@ -19,11 +19,11 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482626"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947470"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>Solicitações de titulares dos dados ao suporte e aos Serviços profissionais da Microsoft sobre o RGPD e CCPA
 
@@ -31,7 +31,7 @@ ms.locfileid: "58482626"
 
 Os Serviços Profissionais da Microsoft inclui um grupo diversificado de arquitetos técnicos, engenheiros, consultores e profissionais de suporte dedicados a cumprir a missão da Microsoft de permitir que os clientes façam mais e conquistem mais. Nossa equipe de serviços profissionais inclui mais de 21.000 consultores, assessores digitais, suporte de primeira linha, engenheiros e profissionais de vendas trabalhando em 191 países, oferecendo suporte a 46 idiomas diferentes, gerenciando vários milhões de compromissos por mês e participando de interações com clientes e parceiros por meio de instalações, telefone, web, comunidade e ferramentas automatizadas. A organização traz ampla experiência em todo o portfólio da Microsoft, usando uma extensa rede de parceiros, comunidades técnicas, ferramentas, diagnósticos e canais que nos conectam com nossos clientes empresariais.
 
-Para saber mais sobre os Serviços Profissionais da Microsoft, acesse a [webpage de Documentação de Segurança dos Serviços Profissionais da Microsoft](https://www.microsoft.com/professionalservices/overview). Os Serviços profissionais da Microsoft levam a sério as suas obrigações no Regulamento Geral sobre a Proteção de Dados (RGPD). As informações neste documento foram projetadas para responder a perguntas de clientes sobre como as ofertas de suporte e consultoria responderão e auxiliarão clientes a responder a obrigações da Solicitação de Entidades de Dados (DSR) no RGPD.
+Saiba mais sobre os Serviços Profissionais da Microsoft acessando a página da Web [Documentação de Segurança dos Serviços Profissionais da Microsoft](https://www.microsoft.com/professionalservices/overview). O Serviços Profissionais da Microsoft leva a sério suas obrigações sob o Regulamento Geral de Proteção de Dados (GDPR). As informações neste documento foram elaboradas para responder às perguntas dos clientes sobre como as ofertas de suporte e consultoria da Microsoft responderão e ajudarão os clientes a responder às obrigações de Solicitação do Titular dos Dados (DSR) sob a GDPR.
 
 ### <a name="introduction-to-dsrs"></a>Introdução às DSRs 
 

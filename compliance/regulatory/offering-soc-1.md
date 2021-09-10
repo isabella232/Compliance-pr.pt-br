@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 8c374ce340538e4030e0cd07a2bdbe0aa4f4615d
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482636"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947492"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>Controles de Sistema e Organização (SOC) 1 Tipo 2
 

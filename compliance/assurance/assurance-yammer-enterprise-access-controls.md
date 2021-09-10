@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 5bc064ccf982b9a67ec5cedc33e85f58e1d7dfc1
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481613"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946931"
 ---
 # <a name="yammer-enterprise-access-controls"></a>Yammer controles de acesso empresarial 
 

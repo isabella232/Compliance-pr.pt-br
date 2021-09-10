@@ -21,11 +21,11 @@ ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: e29c6501ce4c8f1ee645a8c4b5bf22eee6e9cab8
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58678640"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947612"
 ---
 # <a name="manage-gdpr-data-subject-requests-with-the-dsr-case-tool-in-the-microsoft-365-compliance-center"></a>Gerenciar solicitações do titular de dados do GDPR com a ferramenta de caso DSR no Centro de conformidade do Microsoft 365
 

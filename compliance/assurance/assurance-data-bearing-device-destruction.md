@@ -1,5 +1,5 @@
 ---
-title: Destruição de dispositivos de suporte de dados
+title: Destruição de dispositivo portador de dados
 description: Neste artigo, você encontrará uma visão geral do processo de destruição de dispositivos com suporte a dados para datacenters da Microsoft.
 ms.author: robmazz
 author: robmazz
@@ -21,13 +21,13 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6a26334b805be069298302d3ad1e8e5b9e728150
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862392"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58946858"
 ---
-# <a name="data-bearing-device-destruction"></a>Destruição de dispositivos de suporte de dados
+# <a name="data-bearing-device-destruction"></a>Destruição de dispositivo portador de dados
 
 ## <a name="data-destruction-overview"></a>Visão geral da destruição de dados
 

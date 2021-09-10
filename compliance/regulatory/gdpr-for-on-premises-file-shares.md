@@ -15,11 +15,11 @@ ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
 hideEdit: true
 ms.openlocfilehash: 9c281b6096512f65f20286948addc32127278b98
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482324"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947606"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>RGPD para compartilhamentos de arquivos no Windows Server local
 

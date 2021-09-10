@@ -20,11 +20,11 @@ ms.custom:
 titleSuffix: Microsoft GDPR
 hideEdit: true
 ms.openlocfilehash: d200cac6afe028179e6cc66c332fbbc02d9e9a8c
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676760"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947598"
 ---
 # <a name="gdpr-breach-notification"></a>Notificação de falha de RGPD
 
