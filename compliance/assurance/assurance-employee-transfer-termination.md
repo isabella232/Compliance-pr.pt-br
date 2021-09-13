@@ -24,8 +24,8 @@ ms.openlocfilehash: 2450a075d1ae3922cf047e92109a399d10d269ac
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946881"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158003"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Transferência e rescisão de funcionários da Microsoft
 

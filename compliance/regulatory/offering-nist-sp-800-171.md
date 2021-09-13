@@ -20,8 +20,8 @@ ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947518"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158071"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 

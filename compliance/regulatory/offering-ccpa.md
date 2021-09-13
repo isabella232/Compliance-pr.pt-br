@@ -20,8 +20,8 @@ ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947464"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158389"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>CCPA (Lei de Privacidade do Consumidor da Califórnia)
 

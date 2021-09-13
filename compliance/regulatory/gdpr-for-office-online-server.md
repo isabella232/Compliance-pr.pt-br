@@ -19,8 +19,8 @@ ms.openlocfilehash: f27986532de16c4a674f69148a662df20f1ac77f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947609"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157921"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>RGPD para Servidor do Office Web Apps e Servidor do Office Online
 

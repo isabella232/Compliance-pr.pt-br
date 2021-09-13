@@ -20,8 +20,8 @@ ms.openlocfilehash: bfee0aeacfae897ec7618c0fcef369992a7f22f2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947455"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158412"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>Autoridade Holandesa para Mercados Financeiros e Banco Central dos Países Baixos
 

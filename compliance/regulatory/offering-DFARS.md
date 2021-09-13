@@ -20,8 +20,8 @@ ms.openlocfilehash: e190a98a475d6170e793e92e8052012048cc3d7f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947481"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158065"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>Suplemento de Regulamentação de Aquisição Federal de Defesa (DFARS)
 

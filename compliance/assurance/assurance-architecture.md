@@ -24,8 +24,8 @@ ms.openlocfilehash: 97fe615296f03c8f72dbf23d886501988686b53a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946864"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158031"
 ---
 # <a name="architecture-overview"></a>Visão geral da arquitetura
 

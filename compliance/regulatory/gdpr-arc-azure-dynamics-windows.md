@@ -22,8 +22,8 @@ ms.openlocfilehash: facb5fbcdc847d70425f3d6aa925ee6bcf7cf3dd
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947450"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158164"
 ---
 # <a name="azure-dynamics-365-and-windows-accountability-readiness-checklist-for-the-gdpr"></a>Lista de verificação da preparação da responsabilidade do Azure, Dynamics 365 e Windows para o RGPD
 

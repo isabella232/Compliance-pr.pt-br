@@ -20,8 +20,8 @@ ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947483"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158088"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>ITAR (International Traffic in Arms Regulations)
 

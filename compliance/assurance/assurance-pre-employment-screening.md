@@ -24,8 +24,8 @@ ms.openlocfilehash: 633873434620266d0fc9f24bbe7a3470554c35f3
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946909"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158359"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Triagem de pré-emprego da Microsoft
 

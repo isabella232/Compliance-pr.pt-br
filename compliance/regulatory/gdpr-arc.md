@@ -23,8 +23,8 @@ ms.openlocfilehash: 5f9dc6f94ee9299668adf1ac8814f59ae16adba1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947452"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158386"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>Suporte ao seu programa RGPD com listas de verificação de preparação para responsabilidade
 

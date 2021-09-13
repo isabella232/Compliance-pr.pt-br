@@ -22,8 +22,8 @@ ms.openlocfilehash: cf5ef95e9504ba2d63a56dc3d4f7d22398d61255
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947454"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158167"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Proteção de informações para o RGPD com recursos do Microsoft 365
 

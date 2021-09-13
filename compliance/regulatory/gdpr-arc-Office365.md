@@ -20,8 +20,8 @@ ms.openlocfilehash: 7bce2fc5aaac14442eb466921d3acc130389446c
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947449"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157986"
 ---
 # <a name="accountability-readiness-checklist-for-microsoft-365"></a>Lista de verificação de preparação de responsabilidade para Microsoft 365
 

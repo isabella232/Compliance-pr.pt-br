@@ -20,8 +20,8 @@ ms.openlocfilehash: 94e032efec2fd10f1d352f4f1b610916abe23cf7
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947504"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158096"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>Publicação do Serviço de Receita Interna dos EUA 1075
 

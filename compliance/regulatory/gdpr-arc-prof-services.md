@@ -21,8 +21,8 @@ ms.openlocfilehash: 044631cd05dc25f126388f38e9d45675ce397d4f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947590"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158106"
 ---
 # <a name="microsoft-support-and-professional-services-accountability-readiness-checklist-for-the-gdpr"></a>Lista de verificação de preparação de responsabilidade de Serviços profissionais e de suporte da Microsoft para RGPD
 

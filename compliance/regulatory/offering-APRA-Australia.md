@@ -20,8 +20,8 @@ ms.openlocfilehash: e8e6ca43cbce4755ab29f3ef7cadc06a5dda7e32
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947459"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157919"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>Autoridade de Regulação Prudencial Australiana (APRA)
 

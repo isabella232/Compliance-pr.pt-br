@@ -24,8 +24,8 @@ ms.openlocfilehash: 203adce9b4c7167315abbbfbebce0efdd604fefe
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946910"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157939"
 ---
 # <a name="incident-management-overview"></a>Visão geral do gerenciamento de incidentes
 

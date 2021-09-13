@@ -20,8 +20,8 @@ ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947498"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158361"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>Reino Unido Government-Cloud (G-Cloud)
 

@@ -25,8 +25,8 @@ ms.openlocfilehash: 3b03feab5e1a73d7e8409e5dcfda78051b5a4a00
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947601"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157937"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>Descoberta de RGPD, proteção e relatórios no ambiente de desenvolvimento/teste
 

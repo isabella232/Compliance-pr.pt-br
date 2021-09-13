@@ -20,8 +20,8 @@ ms.openlocfilehash: 3e3d8bdd755ae032b0f027150a2211a5fe14f7e5
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947509"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158086"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>Decreto Real Espanhol 1720/2007, Lei Orgânica Espanhola 15/1999 (LOPD)
 

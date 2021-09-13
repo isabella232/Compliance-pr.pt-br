@@ -20,8 +20,8 @@ ms.openlocfilehash: d1420d65a5404a04e656e8f3ff03b2c4cf617cc5
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947501"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157923"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Boas Práticas Clínicas, Laboratoriais e de Manufatura (GxP)
 

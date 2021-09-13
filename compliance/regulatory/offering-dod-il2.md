@@ -20,8 +20,8 @@ ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947478"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158079"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>Nível de impacto do Departamento de Defesa (DoD) 2 (IL2)
 

@@ -24,8 +24,8 @@ ms.openlocfilehash: 933db3783c6672fa952f70f18c4815955bcedb21
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946890"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157940"
 ---
 # <a name="identity-and-access-management-overview"></a>Visão geral do gerenciamento de identidades e acesso
 

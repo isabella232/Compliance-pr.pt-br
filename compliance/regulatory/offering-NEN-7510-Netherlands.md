@@ -20,8 +20,8 @@ ms.openlocfilehash: 438780ab33c99bae410218bdb54265093105c16b
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947520"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158032"
 ---
 # <a name="nen-7510"></a>NEN 7510
 

@@ -24,8 +24,8 @@ ms.openlocfilehash: 8e895308358853f2c59009503d079361dca84c49
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946924"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158046"
 ---
 # <a name="microsoft-365-risk-management-program"></a>Microsoft 365 Programa de Gerenciamento de Riscos
 

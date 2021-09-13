@@ -24,8 +24,8 @@ ms.openlocfilehash: 5bc064ccf982b9a67ec5cedc33e85f58e1d7dfc1
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946931"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158108"
 ---
 # <a name="yammer-enterprise-access-controls"></a>Yammer controles de acesso empresarial 
 

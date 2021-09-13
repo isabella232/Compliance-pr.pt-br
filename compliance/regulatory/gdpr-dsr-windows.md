@@ -22,8 +22,8 @@ ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947610"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157922"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Dados de diagnóstico do Windows solicitações de titulares de dados de configuração do processador para o RGPD e CCPA
 

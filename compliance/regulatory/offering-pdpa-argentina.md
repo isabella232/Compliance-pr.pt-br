@@ -20,8 +20,8 @@ ms.openlocfilehash: 9802fd35cbb93386a42462c6ddd94ddce422ec7e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947521"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158068"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>Lei de Proteção de Dados Pessoais da Argentina (PDPA)
 

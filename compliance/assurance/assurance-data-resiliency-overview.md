@@ -24,8 +24,8 @@ ms.openlocfilehash: 48fe50347e7e81c7e5f8552299c04a268b8b449c
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946872"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158015"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>Resiliência de dados no Microsoft 365
 

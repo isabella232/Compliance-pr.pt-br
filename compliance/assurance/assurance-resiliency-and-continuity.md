@@ -24,8 +24,8 @@ ms.openlocfilehash: ff1719ce931a50904fb6b7e6069cd29a1883aa90
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58946927"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158045"
 ---
 # <a name="resiliency-and-continuity-overview"></a>Visão geral da resiliência e continuidade
 

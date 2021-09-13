@@ -18,8 +18,8 @@ ms.openlocfilehash: 2abc971278efc0f7d50427f5febdd76d55d2956d
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947607"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158407"
 ---
 # <a name="gdpr-for-sharepoint-server"></a>RGPD para SharePoint Server
 

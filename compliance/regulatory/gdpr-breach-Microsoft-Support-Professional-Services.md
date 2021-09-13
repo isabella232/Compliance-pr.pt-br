@@ -21,8 +21,8 @@ ms.openlocfilehash: bb21ec78b048562211f977d365dacdfb83aacb55
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947589"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158105"
 ---
 # <a name="microsoft-support-and-professional-services-and-breach-notification-under-the-gdpr"></a>Notificação de violação e Serviços Profissionais e de Suporte da Microsoft no RGPD
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: 09c18fce6544984a7e9d639e68d0f0201c584768
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947522"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158396"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Padrão de Segurança de Dados (DSS) da Indústria de Cartões de Pagamento (PCI)
 

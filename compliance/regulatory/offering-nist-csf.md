@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58480513"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158073"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>CSF (National Institute of Standards and Technology) Cybersecurity Framework (CSF)
 
@@ -110,4 +110,4 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 - [Ordem executiva do Presidente sobre o fortalecimento da segurança cibernética de redes federais e infraestrutura crítica](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal)
 - [Nuvem Governamental da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Termos dos Serviços Online](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
-- [Conformidade no Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)

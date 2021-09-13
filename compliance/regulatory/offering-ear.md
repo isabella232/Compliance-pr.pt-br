@@ -20,8 +20,8 @@ ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947482"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157963"
 ---
 # <a name="us-export-administration-regulations-ear"></a>Us Export Administration Regulations (EAR)
 

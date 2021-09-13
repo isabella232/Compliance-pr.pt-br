@@ -20,8 +20,8 @@ ms.openlocfilehash: c8799b0a9a99a509d7c700997b4c0ba6bd79109c
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947604"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157927"
 ---
 # <a name="gdpr-for-exchange-server"></a>RGPD para Exchange Server
 
