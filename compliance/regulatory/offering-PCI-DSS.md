@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 09c18fce6544984a7e9d639e68d0f0201c584768
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 63303389fc8fae69b9a6803a513efeb1281f781e
+ms.sourcegitcommit: 4afc3ca7f8c18ae7136b4c82c572531947e82daa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158396"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59349955"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Padrão de Segurança de Dados (DSS) da Indústria de Cartões de Pagamento (PCI)
 
@@ -68,11 +68,11 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | OneDrive for Business (Estados Unidos), SharePoint Online |
+| **Comercial** | OneDrive for Business (Estados Unidos), SharePoint Online (Estados Unidos) |
 
 ### <a name="office-365-audit-reports-and-certificates"></a>Auditoria, relatórios e certificados do Office 365
 
-- [Atestado de Conformidade ( AoC) PCI DSS do OneDrive for Business e SharePoint Online](https://aka.ms/spo-pci)
+- [Atestado de Conformidade ( AoC) PCI DSS do OneDrive for Business e SharePoint Online](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=f1962237-32ea-4123-939e-1c8f04d13c16&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_PCI_DSS)
 
 ### <a name="frequently-asked-questions"></a>Perguntas frequentes
 
