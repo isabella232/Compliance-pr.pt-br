@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 81de800d437427d77c5004f20e0cdf672db3a533
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 67830f9abd3fb81048fdcb327dd99c208d9fc713
+ms.sourcegitcommit: 0ba64300a1e172c84af37978bbf04514636b3acd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158360"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438392"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>Padrão MTCS (Multi-Tier Cloud Security) para Singapura
 
@@ -47,7 +47,7 @@ As certificações foram concedidas no Nível 3 para os serviços do Azure (IaaS
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Azure
-- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Serviços online do Dynamics 365 (Business Central, Comércio, Atendimento ao Cliente, Serviço de Campo, Finanças, Proteção contra Fraudes, Marketing, Vendas, Gerenciamento da Cadeia de Fornecimento)
 - Genomics
 - Intune
 - Microsoft Cloud App Security
