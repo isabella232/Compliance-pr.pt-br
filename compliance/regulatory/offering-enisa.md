@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 91735f08e93777a7ffa1a9c86d3a4776cc8cf1a0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: af9568a2ecb3e2b2be1fe3086b48e82f95f0869d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59157958"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486209"
 ---
 # <a name="enisa-information-assurance-framework"></a>Estrutura de garantia de informações da ENISA
 
@@ -64,7 +64,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para a Web, MyAnalytics, complemento da Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Conformidade e Segurança do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerente de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para a Web, MyAnalytics, complemento da Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 
 ### <a name="resources"></a>Recursos
 

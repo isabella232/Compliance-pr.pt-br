@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 3208fab9675c02ec1e7af0824a05f9a062b311b2
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158372"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486428"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Diretrizes de Acessibilidade para Conteúdo da Web
 
@@ -62,10 +62,11 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Excel, Centro de administração do Exchange, Centro de Administração do Office 365 (Portal), experiência de logon do Office 365 e do Azure AD, Portal do Cliente do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Lens, Office.com, Centro de Administração do OneDrive, OneDrive for Business, Cliente de Sincronização do OneDrive, OneNote, Orcas, Outlook Groups, Outlook, PowerPoint, Project, Word  |
+| **Cliente** | Access, Excel, portal de administração do Office 365 para Android, portal de administração do Office 365 para iOS, Ferramenta de Configuração do Office, Office Lens, OneNote, Outlook, PowerPoint, Project, SharePoint, To-Do, Visio, Word |
+| **Comercial** | Centro de administração do Exchange, Portal do Cliente do Office 365, Centro de Segurança e Conformidade do Office do Office 365, Office.com, Centro de Administração do OneDrive, OneDrive for Business, Cliente de Sincronização do OneDrive, Orcas, Outlook Groups |
 | **GCC** | Azure Active Directory, Gerente de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
-| **GCC Alta** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
-| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Forms, Power BI, SharePoint Online, Skype for Business |
+| **GCC Alta** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, Skype for Business |
+| **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Forms, Power BI, Skype for Business |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Relatórios de Conformidade de Acessibilidade da Microsoft
 
