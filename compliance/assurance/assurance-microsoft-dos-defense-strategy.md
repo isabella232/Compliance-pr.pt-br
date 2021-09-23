@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: e1613765d3ffb7b43b80d07823fe8aef45719b70
-ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
+ms.openlocfilehash: ba0d0bbea11000144d7091455c6ee204f2c17037
+ms.sourcegitcommit: 856111c112a30160950fdd0ce94369aff7e176dc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "59486188"
+ms.locfileid: "59489368"
 ---
 # <a name="microsoft-denial-of-service-defense-strategy"></a>Estratégia de defesa de negação de serviço da Microsoft
 
@@ -49,7 +49,7 @@ A Microsoft também tem uma abordagem ofensiva para a defesa DDoS. Botnets são 
 
 ## <a name="application-level-defenses"></a>Defesas no nível do aplicativo
 
-As equipes de engenharia da Microsoft seguem os rigorosos padrões definidos pelo [Microsoft Operational Security Assurance](https://www.microsoft.com/SDL/OperationalSecurityAssurance) para ajudar a proteger os dados do cliente. Os serviços de nuvem da Microsoft são intencionalmente construídos para dar suporte a cargas elevadas, o que ajuda a proteger contra ataques DDoS no nível do aplicativo. A arquitetura de dimensionamento da Microsoft distribui serviços em vários datacenters globais com isolamento regional e recursos de throttling específicos da carga de trabalho para cargas de trabalho relevantes.
+Os serviços de nuvem da Microsoft são intencionalmente construídos para dar suporte a cargas elevadas, o que ajuda a proteger contra ataques DDoS no nível do aplicativo. A arquitetura de dimensionamento da Microsoft distribui serviços em vários datacenters globais com isolamento regional e recursos de throttling específicos da carga de trabalho para cargas de trabalho relevantes.
 
 O país ou região de cada cliente, que o administrador do cliente identifica durante a configuração inicial dos serviços, determina o local de armazenamento principal para os dados desse cliente. Os dados do cliente são replicados entre datacenters redundantes de acordo com uma estratégia primária/de backup. Um datacenter primário hospeda o software do aplicativo juntamente com todos os principais dados do cliente em execução no software. Um datacenter de backup fornece failover automático. Se o datacenter principal deixar de funcionar por qualquer motivo, as solicitações serão redirecionadas para a cópia do software e dos dados do cliente no datacenter de backup. A qualquer momento, os dados do cliente podem ser processados no datacenter primário ou de backup. A distribuição de dados em vários datacenters reduz a área de superfície afetada caso um datacenter seja atacado. Além disso, os serviços no datacenter afetado podem ser redirecionados rapidamente para o datacenter secundário para manter a disponibilidade durante um ataque e redirecionados de volta para o datacenter principal depois que um ataque foi mitigado.
 
