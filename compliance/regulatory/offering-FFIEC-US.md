@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 79d0f7bfff27f28b65d8f29c71f472024fbcd07e
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158420"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486348"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>Conselho de Exame de Instituições Financeiras Federais (FFIEC)
 
@@ -44,7 +44,7 @@ Além disso, o Azure desenvolveu uma ferramenta de diagnóstico de segurança de
 
 Também está disponível para os clientes o azure FFIEC cloud security workbook companion, que oferece orientações sobre o uso dos serviços do Azure e considerações sobre a conformidade do cliente com os requisitos do FFIEC
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Azure
 - Intune
@@ -60,7 +60,7 @@ Para ajudar as instituições financeiras sujeitas à supervisão do FFIEC com a
 
 ## <a name="office-365-and-ffiec"></a>Office 365 e FFIEC
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -70,7 +70,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento Conformidade Avançada do Office 365, Office 365 Cloud App Security, Office 365 Grupos, Office 365 Centro de Conformidade & segurança, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
 | **GCC** | Azure Active Directory, Gerente de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorias Office 365, relatórios e certificados
@@ -83,7 +83,7 @@ Consulte os Office 365 de atestado SOC.
 
 Para ajudá-lo a cumprir essas obrigações, a Microsoft fornece os detalhes sobre nossa conformidade com os padrões SOC conforme descrito acima. No entanto, em última análise, você deve determinar se nossos serviços estão em conformidade com as leis e regulamentos específicos aplicáveis à sua instituição. O FFIEC também aconselha que "os usuários de relatórios de auditoria ou análises não devem depender exclusivamente das informações contidas no relatório para verificar o ambiente de controle interno do TSP. Eles devem usar outros procedimentos de verificação e [](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) monitoramento conforme discutido mais completamente no Manual de Tecnologia de Terceirização do Manual de Exame de IT do FFIEC.
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 2c8449fa9dc9d882c28d7d01a54b664090365891
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158421"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486328"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>Ato Gramm-Leach-Bliley (GLBA)
 
@@ -40,7 +40,7 @@ A Microsoft desenvolveu ferramentas de avaliação de risco para o [Azure](https
 - [Baixar a Ferramenta de Avaliação de Risco de Nuvem dos Serviços Financeiros do Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Baixe a ferramenta Office 365 de Avaliação de Riscos na Nuvem](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -54,7 +54,7 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-glba"></a>Office 365 e GLBA
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -64,8 +64,8 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
-| **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Formulários, Microsoft Defender para Office 365 Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
+| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento Conformidade Avançada do Office 365, Office 365 Cloud App Security, Office 365 Grupos, Office 365 Centro de Conformidade & segurança, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Formulários, Microsoft Defender para Office 365 Microsoft Teams, MyAnalytics, Office 365 complemento do Conformidade Avançada do Office 365, Centro de Conformidade & segurança, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, Stream |
 
 ### <a name="frequently-asked-questions"></a>Perguntas frequentes
 
@@ -73,7 +73,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 O FTC responde isso em detalhes em sua página da Lei GLB, Who [é abordada pela regra de privacidade](https://www.ftc.gov/tips-advice/business-center/guidance/how-comply-privacy-consumer-financial-information-rule-gramm#whois)?
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 

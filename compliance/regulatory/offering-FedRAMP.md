@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 36e3ddb58a61bc3a0a14a300e15f22262027fc92
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158377"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486338"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>FedRAMP (Programa Federal de Gerenciamento de Autorização e Risco)
 
@@ -47,13 +47,13 @@ Os serviços de nuvem governamentais da Microsoft, incluindo o Governo do Azure,
 
 Os serviços de nuvem do governo da Microsoft oferecem aos clientes do setor público uma rica matriz de serviços em conformidade com FedRAMP e ferramentas robustas de orientação e implementação, incluindo o plano [High fedRAMP](https://aka.ms/fedrampblueprint), que ajuda os clientes a implantar um conjunto principal de políticas para qualquer arquitetura implantada pelo Azure que deve implementar controles FedRAMP High.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Azure e Azure Governamental
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365 Governo dos EUA, Office 365 governo dos EUA - Alta, Office 365 defesa do governo dos EUA
-- Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote do Office 365
+- Serviço de nuvem do Power BI como um serviço autônomo ou incluído em um plano ou pacote com a marca Office 365
 
 ## <a name="azure-dynamics-365-and-fedramp"></a>Azure, Dynamics 365 e FedRAMP
 
@@ -65,7 +65,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 - Office 365 A Defesa do Governo dos EUA tem um P-ATO da DISA (Agência de Sistemas de Informações de Defesa dos EUA). Qualquer cliente que deseje implantar Office 365 defesa governamental dos EUA pode usar o DISA P-ATO para gerar uma ato de agência para documentar sua aceitação.
 - Office 365 (planos corporativos e corporativos) e Office 365 governo dos EUA têm uma Agência FEDRAMP ATO no Nível de Impacto Moderado do DHHS Office do Inspetor Geral. Office 365 O Governo dos EUA foi o primeiro serviço de colaboração e email baseado em nuvem a obter essa autorização.
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -75,9 +75,9 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **GCC** | Serviço de Feed de Atividades, Serviços Bing, Delve, Exchange Online, Proteção do Exchange Online, Infraestrutura, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
-| **GCC Alta** | Serviço de Feed de Atividades, serviços Bing, Exchange Online, Proteção do Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
-| **DoD** | Serviço de Feed de Atividades, serviços Bing, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente do Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC** | Serviço de Feed de Atividades, Serviços do Bing, Bookings, Delve, Exchange Online, Proteção do Exchange Online, Infraestrutura, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **GCC Alta** | Serviço de Feed de Atividades, serviços Bing, Reservas, Exchange Online, Proteção do Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, Office Infraestrutura de serviço, Office relatórios de uso, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **DoD** | Serviço de Feed de Atividades, serviços Bing, Reservas, Proteção do Exchange Online, Exchange Online, Serviços Inteligentes, Microsoft Teams, Portal do Cliente Office 365, Office Online, Office Infraestrutura de serviço, Office relatórios de uso, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorias Office 365, relatórios e certificados
 
@@ -103,7 +103,7 @@ Para obter uma visão geral das etapas que as agências federais devem seguir pa
 
 Sim. Você pode usar as certificações dos serviços de nuvem da Microsoft como base para qualquer programa ou iniciativa que exija um ATO de uma agência governamental federal. No entanto, você precisa obter suas próprias autorizações para componentes fora desses serviços.
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 

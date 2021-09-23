@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0ec79c5be17018f8b01eb3d938b65392b021ce77
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: df079bc4622d633918c1a44da9cd55ae20ebc5ea
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158381"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486358"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>Lei de Privacidade e Direitos Educacionais da Família (FERPA)
 
@@ -37,7 +37,7 @@ A segurança é central para a conformidade com a FERPA, que exige a proteção 
 
 A FERPA não exige ou reconhece auditorias ou outras certificações, portanto, qualquer instituição acadêmica sujeita à FERPA deve avaliar por si só se e como seu uso de um serviço de nuvem afeta sua capacidade de atender aos requisitos ferpa. No Adendo [](https://aka.ms/DPA) de Proteção de Dados de Termos de Serviços Online (DPA), a Microsoft concorda em ser designada como "funcionário da escola" com "interesses educacionais legítimos" nos dados do cliente, conforme definido em FERPA. Os dados do cliente incluiriam todos os registros de alunos fornecidos por meio do uso do Azure por uma escola. Ao manipular registros de educação de alunos, a Microsoft concorda em respeitar as limitações e os requisitos impostos por 34 CFR 99.33(a) da mesma forma que os funcionários da escola.  A Microsoft publicou a documentação de diretrizes para ajudar os clientes do Azure a satisfazer seus requisitos de conformidade ferpa.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 Os serviços para os quais a Microsoft concorda em ser designada como "funcionário da escola" com "interesses educacionais legítimos" nos dados do cliente incluem:
 
@@ -56,7 +56,7 @@ Você pode baixar os seguintes documentos para ajudar a atender aos requisitos d
 
 ## <a name="office-365-and-ferpa"></a>Office 365 e FERPA
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -66,8 +66,8 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Forms, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento de Conformidade Avançada do Office 365, Office 365 Cloud App Security, Grupos do Office 365, Centro de Segurança e Conformidade do Office 365, Vídeo do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
-| **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, harePoint Online, Skype for Business, Stream |
+| **Comercial** | Azure Active Directory, Proteção de Informações do Azure, Bookings, Gerenciador de Conformidade, Delve, Exchange Online, Proteção do Exchange Online, Formulários, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Defender para Office 365, Microsoft Graph, Microsoft Teams, Microsoft To-Do para Web, MyAnalytics, complemento Conformidade Avançada do Office 365, Office 365 Cloud App Security, Office 365 Grupos, Office 365 Centro de Conformidade & segurança, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business, StaffHub, Stream, Sway, Yammer Enterprise |
+| **GCC** | Azure Active Directory, Gerenciador de Conformidade, Delve, Exchange Online, Formulários, Microsoft Defender para Office 365, Microsoft Teams, MyAnalytics, complemento do Conformidade Avançada do Office 365, Centro de Conformidade Office 365 Segurança &, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, harePoint Online, Skype for Business, Stream |
 | **GCC Alta** | Azure Active Directory, Exchange Online, Forms, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, PowerApps, Power Automate, Power BI, SharePoint Online, Skype for Business |
 | **DoD** | Azure Active Directory, Exchange Online, Microsoft Defender para Office 365, Microsoft Teams, complemento de Conformidade Avançada do Office 365, Centro de Segurança e Conformidade do Office 365, Office Online, Office Pro Plus, OneDrive for Business, Planner, Power Automate, Power BI, SharePoint Online, Skype for Business |
 
@@ -85,7 +85,7 @@ Esta lei federal dos EUA determina a proteção da privacidade dos registros de 
 
 COPPA e CIPA são leis adicionais destinadas a proteger a privacidade de crianças; no entanto, eles não são diretamente aplicáveis ao Azure. A Lei de Proteção de Privacidade Online para Crianças (COPPA) é uma lei federal dos EUA sancionada para proteger a privacidade de crianças menores de 13 anos. Ele é gerenciado pela Comissão Federal de Comércio (FTC). A COPPA se aplica a sites e serviços online direcionados a crianças e estipula que esses sites e serviços devem exigir o consentimento dos pais para a coleta e o uso de qualquer informação pessoal pertencente a filhos. A Lei de Proteção da Internet Para Crianças (CIPA) foi decretada para resolver as preocupações sobre o acesso das crianças a conteúdos prejudiciais pela Internet. A Comissão Federal de Comunicações (FCC) emitiu regras que implementam CIPA e requisitos definidos para escolas e bibliotecas sujeitas à CIPA. Os clientes que estão perguntando sobre a COPPA e a CIPA no contexto da adoção do Azure devem revisar a seção intitulada Instituições Educacionais nos Termos de Serviços Online [DPA](https://aka.ms/DPA) em que explicamos que os clientes são responsáveis por obter qualquer consentimento dos pais para o uso de qualquer usuário final dos serviços online da Microsoft.
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 

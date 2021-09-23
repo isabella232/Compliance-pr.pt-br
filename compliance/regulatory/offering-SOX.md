@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: aa85357047d3f92b694023b102fa7141eb26344d
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158392"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486438"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>Sarbanes-Oxley Act de 2002 (SOX)
 
@@ -41,7 +41,7 @@ O relatório de auditoria, produzido por uma empresa de auditoria de terceiros, 
 
 Na Microsoft, compartilharemos a responsabilidade de conformidade com nossos clientes. Fornecemos os detalhes sobre nossos programas de conformidade, que você pode verificar solicitando resultados detalhados de auditoria dos terceiros certificados. Por fim, no entanto, você deve determinar se nossos serviços estão em conformidade com as leis e regulamentos específicos aplicáveis à sua empresa. Por exemplo, há controles de segurança relacionados a SOX, como o acesso do usuário a recursos de nuvem, que são sua responsabilidade: sua organização deve desenvolver a auditoria apropriada desses controles como parte da conformidade do SOX.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -64,7 +64,7 @@ Além disso, o Azure produziu documentação de orientação para ajudá-lo a us
 
 ## <a name="office-365-and-sox"></a>Office 365 e SOX
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -74,7 +74,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Loop de Aumento, Texto Alt Automático, Proteção de Informações do Azure, Serviços de Conversão Binária, Reservas, Delve, Item de Documento, Editor, Exchange Online, Formulários, Inserir Mídia Online, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, Office 365 Video, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, PowerPoint Designer, PowerPoint Online Document Service, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Web Rendering Service, Yammer Enterprise  |
+| **Comercial** | Loop de Aumento, Texto Alt Automático, Proteção de Informações do Azure, Serviços de Conversão Binária, Reservas, Delve, Item de Documento, Editor, Exchange Online, Formulários, Inserir Mídia Online, Insights, Kaizala, Microsoft Analytics, Microsoft Booking, Microsoft Graph, Microsoft Teams, MyAnalytics, Office 365 Cloud App Security, Office 365 Groups, OneDrive for Business, Planner, Power Apps, PowerApps, Power Automate, Power BI, designer PowerPoint, serviço de documentos do PowerPoint Online, SharePoint Online, Skype for Business, StaffHub, Stream,Sway, To-Do, Serviço de Renderização da Web, Yammer Enterprise  |
 
 ### <a name="audits-reports-and-certificates"></a>Auditorias, relatórios e certificados
 
