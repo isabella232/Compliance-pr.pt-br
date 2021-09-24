@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e91675de1f8f974b643b46a5367d9d3754d32e96
+ms.sourcegitcommit: 3fac638ed9a54411d113dd2db1c942b77657b96d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158088"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59501316"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>ITAR (International Traffic in Arms Regulations)
 
@@ -41,9 +41,11 @@ O ITAR tem obrigações específicas para relatar violações, o que pode oferec
   
 Os clientes que procuram hospedar dados regulamentados pelo ITAR devem trabalhar com suas equipes de licenciamento e conta da Microsoft para saber mais, obter contratos adequados e acessar informações relevantes da arquitetura do sistema.
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
+- Azure
 - Governo do Azure
+- Segredo do Azure Government
 - Office 365 Governo dos EUA - Defesa Office 365 alta
 
 ## <a name="azure-dynamics-365-and-itar"></a>Azure, Dynamics 365 e ITAR
@@ -52,7 +54,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-itar"></a>Office 365 e ITAR
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
