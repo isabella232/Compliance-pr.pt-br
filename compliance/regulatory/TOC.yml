@@ -88,7 +88,7 @@
               href: /azure/compliance/offerings/offering-nerc?toc=/compliance/regulatory/toc.json&bc=/compliance/regulatory/breadcrumb/toc.json
         - name: Serviços financeiros
           items:
-            - name: 23 NYCRR Parte 500
+            - name: 23 NYCRR Part 500 (EUA)
               href: offering-23-nycrr-part-500.md
             - name: AFM + DNB (Países Baixos)
               href: offering-afm-dnb-netherlands.md
