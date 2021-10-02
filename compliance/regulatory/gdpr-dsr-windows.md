@@ -18,21 +18,22 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 52db464f30ac518cb60fcb62ad908e0fb3de31eb
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59157922"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050565"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Dados de diagnóstico do Windows solicitações de titulares de dados de configuração do processador para o RGPD e CCPA
 
->[!NOTE]
->Este tópico se aplica às edições Windows 10 Enterprise, Pro e Education, versão 1809 com atualização de julho de 2021 e mais recente.
+**Aplica-se a:**
+-   Edição Windows 10 Enterprise, Pro e Education, versão 1809 com atualização de julho de 2021 e mais recente.
+-   Edição Windows 11 Enterprise, Pro e Education
 
-## <a name="introduction-to-data-subject-requests-dsrs"></a>Introdução às DSRs (Solicitações de Titulares de Dados)
+## <a name="introduction-to-data-subject-requests-dsrs"></a>Introdução às DSRs (Solicitações de Entidades de Dados)
 
-O RGPD (Regulamento Geral sobre a Proteção de Dados) da União Europeia concede o direito às pessoas (reconhecidas na regulamentação como _titulares de dados_) de gerenciar os dados pessoais coletados por um empregador ou outro tipo de agência ou organização (conhecidos como _controladores de dados_ ou apenas _controladores_). Os dados pessoais são definidos nas linhas gerais no RGPD como todos os dados relacionados a uma pessoa física identificada ou identificável. O GDPR fornece às entidades de dados direitos específicos a seus dados pessoais. Esses direitos incluem obter cópias, solicitar alterações, restringir o processamento, excluir ou receber os dados em um formato eletrônico para que eles possam ser passados para outro controlador. Uma solicitação formal feita por uma entidade de dados a um controlador para executar uma ação em seus dados pessoais é chamada neste documento de _Solicitação de Direitos da Entidade de Dados_ ou DSR.
+O Regulamento Geral sobre a Proteção de Dados (RGPD) da UE fornece direitos às pessoas (conhecidas no regulamento como _titulares de dados_) para gerenciar os dados pessoais que foram coletados por um funcionário, ou outro tipo de órgão ou organização (conhecido como _controlador de dados_ ou apenas _controlador_). Os dados pessoais são definidos amplamente no RGPD como os dados relacionados a uma pessoa identificada ou identificável. O RGPD fornece aos titulares de dados os direitos específicos dos seus dados pessoais; esses direitos incluem a obtenção das cópias dos dados pessoais, a solicitação de correções, a restrição do processamento, a exclusão ou o recebimento desses dados em formato eletrônico para que possam ser migrados para outro controlador. Uma solicitação formal de um titular de dados feita a um controlador para realizar uma ação nos seus dados pessoais é chamada de _Solicitação de Titular de Dados_ ou DSR.
 
 Da mesma forma, a Lei de Privacidade do Consumidor da Califórnia (CCPA), fornece direitos e obrigações de privacidade aos consumidores da Califórnia, incluindo direitos semelhantes aos Direitos do Titular dos Dados do RGDP, como o direito de excluir, acessar e receber (portabilidade) suas informações pessoais. O CCPA também fornece certas divulgações, proteções contra discriminação ao eleger direitos de exercício e requisitos de "aceitação/recusa" para determinadas transferências de dados classificadas como "vendas". As vendas são amplamente definidas para incluir o compartilhamento de dados para uma consideração valiosa. Para obter mais informações sobre o CCPA, confira a [Lei de Privacidade do Consumidor da Califórnia](/microsoft-365/compliance/offering-ccpa) e as [Perguntas Frequentes Sobre a Lei de Privacidade do Consumidor da Califórnia](/microsoft-365/compliance/ccpa-faq).
 
@@ -72,7 +73,7 @@ A Microsoft oferece a capacidade de acessar, excluir e exportar dados de diagnó
 > Alguns dados de diagnóstico do Windows estão associados apenas a um identificador de dispositivo e não estão associados a um usuário específico. Esse tipo de dados no nível do dispositivo não é exportado e é excluído de nossos sistemas dentro de 30 dias.<br><br>
 > Não há suporte para a capacidade de corrigir Dados de Diagnóstico do Windows. Os Dados de Diagnóstico do Windows constituem ações concretas conduzidas no Windows, e as modificações a esses dados comprometeriam o registro histórico das ações, aumentando os riscos de segurança e danificando a confiabilidade.
 
-A próxima seção fornece etapas sobre como executar uma solicitação de titular de dados para dados de diagnóstico do Windows associada a uma ID de usuário do Azure Active Directory (AAD). Para obter mais informações, consulte [Windows 10 e Conformidade de Privacidade: um guia para profissionais de TI e conformidade](/windows/privacy/windows-10-and-privacy-compliance).
+A próxima seção fornece etapas sobre como executar uma solicitação de titular de dados para dados de diagnóstico do Windows associada a uma ID de usuário do Azure Active Directory (AAD). Para obter mais informações, consulte [Windows 10 e Conformidade de Privacidade do Windows 11. Um Guia para Profissionais de TI e de Conformidade](/windows/privacy/windows-10-and-privacy-compliance).
 
 ## <a name="executing-dsrs-against-windows-diagnostic-data"></a>Executando DSRs em Dados de Diagnóstico do Windows
 
@@ -90,16 +91,16 @@ A Microsoft oferece uma maneira de executar solicitações de exclusão do DSR b
 
 Para solicitações de exclusão baseadas no usuário, a Microsoft oferece duas soluções.  A Microsoft oferece uma experiência de portal, fornecendo ao administrador de locatário do cliente empresarial a capacidade de gerenciar solicitações de acesso DSR. [DSR do Azure, Parte 1, Etapa 5: Excluir](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete), descreve como executar uma solicitação de exclusão de DSR para dados de diagnóstico do Windows por meio do portal do Azure excluindo um usuário e dados associados.
 
-A Microsoft oferece a capacidade de excluir usuários, o que, por sua vez, excluirá os dados do cliente, diretamente por meio de uma interface de programação de aplicativos (API) pré-existente. Os detalhes são descritos na [documentação de referência da API](/graph/api/directory-deleteditems-delete).
+A Microsoft também fornece a capacidade de excluir usuários, que, por sua vez, excluirão dados de diagnóstico do Windows, diretamente por uma interface de programação de aplicativo (API) pré-existente. Os detalhes são descritos na [Documentação de Referência da API](/graph/api/directory-deleteditems-delete).
 
 >[!IMPORTANT]
 >Excluir os dados coletados não interrompe outras coletas. Para desabilitar a coleta de dados, siga o procedimento descrito na [documentação de referência do respectivo serviço](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management).
 
 ### <a name="step-3-export"></a>Etapa 3: exportar
 
-O administrador de locatários é a única pessoa em sua organização que pode acessar dados de diagnóstico do Windows associado ao uso de um determinado usuário de um dispositivo habilitado com a configuração do dados de diagnóstico do Windows processador. Os dados recuperados de uma solicitação de exportação serão fornecidos em um formato legível por computador e serão fornecidos em arquivos que permitem ao usuário saber para quais dispositivos e serviços os dados serão associados. Conforme observado anteriormente, os dados recuperados não incluirão dados que possam comprometer a segurança ou estabilidade do dispositivo Windows. [DSR do Azure, Parte 2, Etapa 3: Exportar](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export), descreve como executar uma solicitação de exportação de DSR para dados de diagnóstico do Windows por meio do portal do Azure.
+O administrador do locatário é a única pessoa na sua organização que pode acessar os dados de diagnóstico do Windows associados ao uso de um determinado usuário de um dispositivo habilitado com a configuração do processador de dados de diagnóstico do Windows. TOs dados recuperados de uma solicitação de exportação serão fornecidos em um formato legível por computador e serão fornecidos em arquivos que permitirão que o usuário saiba a quais dispositivos e serviços os dados estão associados. Conforme observado anteriormente, os dados recuperados não incluirão dados que possam comprometer a segurança ou a estabilidade do dispositivo do Windows. O [Azure DSR, Parte 2, etapa 3: Exportar](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export), descreve como executar um pedido de exportação de DSR para os dados de diagnóstico do Windows pelo portal do Azure.
 
-A Microsoft oferece a capacidade de exportar Dados de Clientes diretamente por meio de uma interface de programação de aplicativos (API) pré-existente. Os detalhes são descritos na [documentação de referência da API](/graph/api/user-exportpersonaldata).
+A Microsoft também fornece a capacidade de exportar dados de diagnóstico do Windows diretamente de uma interface de programação dos aplicativos (API) pré-existentes. Os detalhes estão descritos na [Documentação de referência da API](/graph/api/user-exportpersonaldata).
 
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>Notificar problemas de exportação ou exclusão
 
