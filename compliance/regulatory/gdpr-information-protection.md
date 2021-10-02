@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: cf5ef95e9504ba2d63a56dc3d4f7d22398d61255
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4153c28a6e82829114abd51169dbdfa3220aa76c
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158167"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050585"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>Proteção de informações para o RGPD com recursos do Microsoft 365
 
@@ -59,7 +59,7 @@ A proteção contra ameaças está integrada a todos os serviços do Microsoft 3
 
 - [Roteiro de segurança do Office 365: principais prioridades nos primeiros 30 dias, 90 dias e depois](/microsoft-365/security/office-365-security/security-roadmap). Esse roteiro contém recomendações para implementar os recursos. 
 - [Proteja-se contra ameaças no Office 365](/microsoft-365/security/office-365-security/protect-against-threats). Saiba mais sobre as ações de proteção que você pode realizar no Centro de segurança do Microsoft 365.
-- [Proteção contra Ameaças do Windows](/windows/security/threat-protection/). Saiba mais sobre o Microsoft Defender para Ponto de Extremidade e outros recursos no Windows 10.
+- [Proteção contra ameaças do Windows](/windows/security/threat-protection/). Saiba mais sobre o Microsoft Defender para Ponto de Extremidade e outros recursos no Windows 10 e Windows 11.
 
 ## <a name="learn-more"></a>Saiba mais
 
