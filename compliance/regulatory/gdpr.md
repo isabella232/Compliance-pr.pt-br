@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 10f8253d9acbed535d4aec31734be1ee16dd2b3a
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59157969"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050575"
 ---
 # <a name="general-data-protection-regulation-summary"></a>Resumo do Regulamento Geral sobre a Proteção de Dados
 
@@ -53,8 +53,8 @@ O [Plano de ação recomendado para o RGPD](gdpr-action-plan.md) e as [Listas de
 
 As seguintes tarefas estão envolvidas para atender aos padrões RGPD. Siga os links da lista para obter detalhes sobre a sua implementação.  
 
-- **[Solicitações do Titular de Dados (DSR)](gdpr-data-subject-requests.md)**. Uma solicitação formal feita por um titular de dados a um controlador para executar uma ação (alteração, restrição, acesso) em relação aos seus dados pessoais. 
-- **[Notificação de violação](gdpr-breach-notification.md)**. Sob o RGPD, uma violação de dados pessoais é “uma violação de segurança que resulta em destruição acidental ou ilegal, perda, alteração, divulgação não autorizada ou acesso a dados pessoais transmitidos, armazenados ou processados”.
+- **[Solicitações do titular dos dados (DSR)](gdpr-data-subject-requests.md)**. Uma solicitação formal feita por um titular de dados a um controlador para executar uma ação (alteração, restrição, acesso) em relação aos seus dados pessoais. 
+- **[Notificação de violação](gdpr-breach-notification.md)**. Sob o RGPD, uma violação de dados pessoais é 'uma violação de segurança que resulta na destruição acidental ou ilegal, perda, alteração, divulgação não autorizada ou acesso aos dados pessoais transmitidos, armazenados ou processados'.
 - **[Avaliações do Impacto sobre a Proteção dos Dados (DPIA)](gdpr-data-protection-impact-assessments.md)**. O RGPD exige que os controladores preparem um DPIA para operações de dados que "provavelmente resultariam em alto risco para os direitos e a liberdade de pessoas físicas".
 
 Conforme mencionado acima, o plano de ação recomendado para o RGPD e as Listas de Verificação de Preparação de Responsabilidade fornece um guia para implementar ou avaliar a conformidade com o RGPD usando produtos e serviços da Microsoft.
@@ -65,7 +65,7 @@ O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance
 
 ## <a name="data-subject-request-dsr"></a>Solicitação do Titular de Dados (DSR)
 
-O GDPR concede a indivíduos (ou a entidades de dados) certos direitos relacionados ao processamento de seus dados pessoais, incluindo o direito de corrigir dados incorretos, apagar dados ou restringir seu processamento, receber seus dados e atender a uma solicitação para transmitir seus dados a outro controlador. O controlador é responsável por fornecer uma resposta adequada e consistente com o RGPD. Para obter detalhes técnicos, confira [Solicitações do titular de dados](gdpr-data-subject-requests.md).  
+O RGPD concede a indivíduos (ou a entidades de dados) certos direitos relacionados ao processamento de seus dados pessoais, incluindo o direito de corrigir dados incorretos, apagar dados ou restringir seu processamento, receber seus dados e atender a uma solicitação para transmitir seus dados a outro controlador. O controlador é responsável por fornecer uma resposta adequada e consistente com o RGPD. Para obter detalhes técnicos, confira [Solicitações do titular de dados](gdpr-data-subject-requests.md).  
 
 ### <a name="dsr-faqs"></a>FAQs do DSR
 
@@ -221,11 +221,11 @@ Por ser uma empresa global com clientes em quase todos os países do mundo, a Mi
 
 O RGPD impõe uma ampla variedade de requisitos às organizações que coletam ou processam dados pessoais, incluindo um requisito para atender a seis princípios principais:
 
-- *Transparência*,*imparcialidade* e *legalidade* no gerenciamento e no uso de dados pessoais. Você precisará ser claro com as pessoas sobre como você está usando dados pessoais e também precisará de uma "base legal" para processar esses dados.
-- Limitar o processamento de dados pessoais a finalidades *especificadas*, *explícitas* e *legítimas*. Você não poderá reutilizar ou divulgar dados pessoais para fins que não sejam "compatíveis" com a finalidade para a qual os dados foram originalmente coletados.
+- *Transparência*,*imparcialidade* e *legalidade* no tratamento e no uso de dados pessoais. Você precisará ser claro com as pessoas sobre como você está usando dados pessoais e também precisará de uma "base legal" para processar esses dados.
+- Limitar o processamento de dados pessoais a finalidades *específicas*, *explícitas* e *legítimas*. Você não poderá reutilizar ou divulgar dados pessoais para fins que não sejam "compatíveis" com a finalidade para a qual os dados foram originalmente coletados.
 - *Minimizar a coleta e o armazenamento de dados pessoais* que são adequados e relevantes para o propósito desejado.
 - Garantindo a *precisão de dados pessoais* e permitindo que eles sejam *apagados ou retificados*. Você precisará tomar medidas para garantir que os dados pessoais que você possui sejam precisos e possam ser corrigidos se ocorrerem erros.
-- *Limitando o armazenamento de dados pessoais*. Será necessário garantir que os dados pessoais sejam retidos apenas pelo tempo necessário para alcançar o propósito para o qual os dados foram coletados.
+- *Limitar o armazenamento de dados pessoais*. Você precisará garantir que os dados pessoais sejam retidos apenas pelo tempo necessário para alcançar o propósito para o qual os dados foram coletados.
 - Garantindo *segurança*, *integridade* e *confidencialidade de dados pessoais*. Sua organização deve tomar medidas para manter os dados pessoais protegidos por meio de medidas de segurança técnica e organizacional.
 
 Você precisará entender as obrigações específicas da sua organização com o RGPD, e como as atenderá, embora a Microsoft esteja disponível para te ajudar em sua jornada.
@@ -314,7 +314,7 @@ No caso em que existam motivos legítimos para o processamento contínuo e para 
 
 **O RGPD lida com criptografia?**
 
-A criptografia é identificada na RGPD como uma medida de proteção que processa dados pessoais ininteligíveis quando eles forem afetados por uma violação. Portanto, o uso ou não da criptografia pode afetar os requisitos para a notificação de uma violação de dados pessoais. O RGPD também aponta para a criptografia como uma medida técnica ou organizacional adequada em alguns casos, dependendo do risco. A criptografia também é um requisito do Padrão de Segurança de dados do setor de cartão de crédito e parte das diretrizes de conformidade estritas específicas para o setor de serviços financeiros. Os produtos e serviços da Microsoft, como o Azure, o Dynamics 365, o Enterprise Mobility + Security, o Office Microsoft 365, o banco de dados SQL Server/Azure SQL e o Windows 10 oferecem criptografia robusta para dados em trânsito e dados em repouso.
+A criptografia é identificada na RGPD como uma medida de proteção que processa dados pessoais ininteligíveis quando eles forem afetados por uma violação. Portanto, o uso ou não da criptografia pode afetar os requisitos para a notificação de uma violação de dados pessoais. O RGPD também aponta para a criptografia como uma medida técnica ou organizacional adequada em alguns casos, dependendo do risco. A criptografia também é um requisito do Padrão de Segurança de dados do setor de cartão de crédito e parte das diretrizes de conformidade estritas específicas para o setor de serviços financeiros. Os produtos e serviços da Microsoft, como o Azure, o Dynamics 365, o Enterprise Mobility + Security, o Office Microsoft 365, o Banco de dados SQL Server/Azure SQL, Windows 10 e o Windows 11, oferecem criptografia robusta aos dados em trânsito e dados em repouso.
 
 **Como o RGPD altera a resposta de uma organização a violações de dados pessoais?**
 
