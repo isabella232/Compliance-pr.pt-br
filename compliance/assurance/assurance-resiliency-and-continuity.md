@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ff1719ce931a50904fb6b7e6069cd29a1883aa90
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 188e041c36911b952ebe99b60e51eb8920d93b14
+ms.sourcegitcommit: 39c52058f94d49e6019d18953c05f06f08394e72
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158045"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60099806"
 ---
 # <a name="resiliency-and-continuity-overview"></a>Visão geral da resiliência e continuidade
 
@@ -80,7 +80,7 @@ Os serviços online da Microsoft são regularmente auditados para conformidade c
 ## <a name="resources"></a>Recursos
 
 - [Whitepaper Enterprise do Programa de Gerenciamento de Continuidade de Negócios da Microsoft](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=64f922a6-d624-40dd-a8ae-6f996b5186f3&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f)
-- [Relatório de validação do Plano de Recuperação de Desastres e EBCM do Microsoft Cloud: FY21 Q4](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=83dc940a-2078-4e14-8b7d-07128e5b453d&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Relatório de validação do Plano de Recuperação de Desastres e EBCM do Microsoft Cloud: FY22 Q1](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=f47df93a-f6a0-4013-96e6-35b91af90a78&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
 
 ## <a name="legal-disclaimer"></a>Aviso de isenção de responsabilidade legal
 
