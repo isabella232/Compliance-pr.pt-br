@@ -28,10 +28,18 @@
   items:
     - name: Visão geral da segurança do datacenter
       href: assurance-datacenter-security.md
-    - name: TVRA do datacenter
+    - name: Arquitetura e infraestrutura de datacenter
+      href: assurance-datacenter-architecture-infrastructure.md
+    - name: Gerenciamento de risco interno
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: Proteções ambientais
+      href: assurance-datacenter-environmental-safeguards.md
+    - name: Segurança de acesso físico
+      href: assurance-datacenter-physical-access-security.md
     - name: Destruição de dispositivo portador de dados
       href: assurance-data-bearing-device-destruction.md
+    - name: Continuidade dos negócios e recuperação de desastre
+      href: assurance-datacenter-business-continuity-disaster-recovery.md
     - name: Segurança da cadeia de fornecedores
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: Criptografia e gerenciamento de chaves
