@@ -36,6 +36,8 @@
       href: assurance-datacenter-environmental-safeguards.md
     - name: Segurança de acesso físico
       href: assurance-datacenter-physical-access-security.md
+    - name: Gerenciamento de ativos
+      href: assurance-datacenter-asset-management.md
     - name: Destruição de dispositivo portador de dados
       href: assurance-data-bearing-device-destruction.md
     - name: Continuidade dos negócios e recuperação de desastre
