@@ -328,3 +328,7 @@
   items:
     - name: CCPA – Perguntas frequentes
       href: ccpa-faq.yml
+- name: Lei de Proteção de Dados do Consumidor da Virgínia (VCDPA)
+  items:
+    - name: VCDPA – Perguntas frequentes
+      href: vcdpa-faq.yml
