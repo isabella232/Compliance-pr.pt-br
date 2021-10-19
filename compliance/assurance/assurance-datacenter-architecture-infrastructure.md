@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 44876abef95f269d454139fd721194ef3d48dcd4
-ms.sourcegitcommit: cf424cb1e7c12048120977f294f780b776119a96
+ms.openlocfilehash: 6d9304cd0099ba95da8c58432802a3b1c836b1d4
+ms.sourcegitcommit: 02b7aa81f950037d3c959a522336a7d7af579e86
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60265077"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477944"
 ---
 # <a name="datacenter-architecture-and-infrastructure"></a>Arquitetura e infraestrutura de datacenter
 
@@ -35,6 +35,10 @@ A Microsoft tem instalações de datacenter altamente protegidas em todo o mundo
 Regiões são conjuntos de datacenters que são interconectados por meio de uma rede massivo e resiliente. As regiões são organizadas em geografias, concedendo aos clientes uma residência de dados específica e a conformidade precisa da capacidade de manter seus dados e aplicativos próximos. A tolerância a falhas embutida permite que as geografias suportem a falha completa da região por meio de sua conexão com a infraestrutura de rede dedicada e de alta capacidade.
 
 Locais fisicamente separados em uma região são chamados de zonas de disponibilidade, cada um sendo feito de um ou mais datacenters equipados com energia independente, arrefego e rede. As zonas de disponibilidade permitem que aplicativos críticos de missão executem com alta disponibilidade e replicação de baixa latência.
+
+A figura a seguir mostra como a região de emparelhamento de infraestrutura global e zonas de disponibilidade no mesmo limite de residência de dados para alta disponibilidade, recuperação de desastres e backup.
+
+![Limites de residência de dados.](../media/assurance-data-residency-boundary.png)
 
 Datacenters geograficamente distribuídos permitem que a Microsoft traga serviços mais perto dos clientes, reduza a latência de rede e permita backup e failover geo-redundantes.
 
