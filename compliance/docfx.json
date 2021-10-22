@@ -51,7 +51,7 @@
       "searchScope": [
         "Compliance"
       ],
-      "recommendations": true,
+      "recommendations": false,
       "contributors_to_exclude": [
         "rjagiewich",
         "traya1",
