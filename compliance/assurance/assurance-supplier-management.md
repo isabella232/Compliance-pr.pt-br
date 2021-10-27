@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 8367f147e9d0e02ad76d97c665ad66559a743d06
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158114"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582495"
 ---
 # <a name="supplier-management-overview"></a>Visão geral do gerenciamento de fornecedores
 
@@ -58,7 +58,7 @@ Fornecedores de terceiros são obrigados a assinar um Contrato Mestre da Microso
 
 ## <a name="how-does-microsoft-notify-customers-of-changes-to-suppliers-who-process-their-data"></a>Como a Microsoft notifica os clientes sobre alterações nos fornecedores que processam seus dados?
 
-De acordo com o DPA (Microsoft Online Service Data Protection Addendum), a Microsoft faz compromissos adicionais em relação aos períodos de aviso para a adição de qualquer subprocessador. Os quadros de tempo de aviso dependem do tipo de dados que o subprocessador processará em nome da Microsoft. Conforme declarado na DPA, a Microsoft se compromete a fornecer aviso aos clientes com pelo menos seis meses de antecedência de qualquer novo subprocessador que processará Dados do Cliente. Para quaisquer outros Dados Pessoais, a Microsoft fornecerá pelo menos 30 dias de aviso. O aviso é fornecido pela atualização da lista [Microsoft Online Services Subprocessador](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=926b2cf5-6b6e-43ca-9bc3-f73e961aad5f&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List).
+De acordo com o DPA (Microsoft Online Service Data Protection Addendum), a Microsoft faz compromissos adicionais em relação aos períodos de aviso para a adição de qualquer subprocessador. Os quadros de tempo de aviso dependem do tipo de dados que o subprocessador processará em nome da Microsoft. Conforme declarado na DPA, a Microsoft se compromete a fornecer aviso aos clientes com pelo menos seis meses de antecedência de qualquer novo subprocessador que processará Dados do Cliente. Para quaisquer outros Dados Pessoais, a Microsoft fornecerá pelo menos 30 dias de aviso. O aviso é fornecido pela atualização da lista [Microsoft Online Services Subprocessador](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=ede6342e-d641-4a9b-9162-7d66025003b0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List).
 
 ## <a name="related-external-regulations--certifications"></a>Regulamentações externas relacionadas & certificações
 
@@ -78,8 +78,8 @@ Os serviços online da Microsoft são regularmente auditados para conformidade c
 | **Auditorias externas** | **Section** | **Data do relatório mais recente** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | CA-3: Interconexões do sistema <br> IA-4: Gerenciamento de identificador <br> PS-6: contratos de acesso <br> PS-7: Segurança de funcionários de terceiros <br> SA-4: Processo de aquisições <br> SA-9: Serviços do sistema de informações externos <br> SA-12: Proteção de cadeia de fornecimento | 24 de setembro de 2020 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Instrução of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: Segurança de informações nas relações de fornecedores | Abril de 20, 2021 |
-| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Instrução of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: Divulgação do processamento de PII subcontratado | 24 de dezembro de 2020 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Instrução of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificação](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: Segurança de informações nas relações de fornecedores | Abril de 20, 2021 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Instrução of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [Certificação](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.8.1: Divulgação do processamento de PII subcontratado | 24 de dezembro de 2020 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: Monitoramento de terceiros | 24 de dezembro de 2020 |
 
 ## <a name="resources"></a>Recursos

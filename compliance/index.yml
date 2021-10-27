@@ -20,9 +20,9 @@ highlightedContent:
     - title: Saiba mais sobre como a Microsoft protege os dados dos clientes
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
-    - title: Saiba mais sobre a responsabilidade compartilhada na nuvem
+    - title: Guia de Avaliação de Riscos do Microsoft Cloud
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+      url: /compliance/assurance/assurance-risk-assessment-guide
     - title: Saiba mais sobre o Microsoft Compliance Manager
       itemType: learn
       url: /learn/paths/compmgmt/
