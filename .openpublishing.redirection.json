@@ -160,6 +160,16 @@
       "source_path": "compliance/assurance/assurance-data-destruction.md",
       "redirect_url": "/compliance/assurance/assurance-data-bearing-device-destruction",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "compliance/assurance/assurance-technology-controls.md",
+      "redirect_url": "/compliance/assurance/assurance-microsoft-365-service-engineer-access-control",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "compliance/assurance/assurance-yammer-enterprise-access-controls.md",
+      "redirect_url": "/compliance/assurance/assurance-microsoft-365-service-engineer-access-control",
+      "redirect_document_id": false
     }
   ]
 }
