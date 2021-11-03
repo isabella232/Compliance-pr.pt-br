@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e95b5c2b73f6b48cbab40bbc5d8d3aff6375cc48
+ms.sourcegitcommit: 9843c6a0318dfea189b07f9cd80e33c3e8f6d676
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158059"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725665"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>CSF (Health Information Trust Alliance) (HITRUST) Common Security Framework (CSF)
 
@@ -41,7 +41,7 @@ Saiba como acelerar sua implantação HITRUST com nosso Plano de Conformidade e 
 
 [Baixe o Microsoft Azure de Responsabilidade do Cliente HITRUST (CRM) v9.0d](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=3ccde498-4761-4be0-be8b-cd8d379a3a4f&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_Healthcare_Blueprint)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Azure e Azure Governamental
 - Intune
@@ -54,7 +54,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-hitrust"></a>Office 365 e HITRUST
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -64,7 +64,7 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 | **Aplicabilidade** | **Serviços no escopo** |
 |:------------------|:----------------------|
-| **Comercial** | Serviço de Feed de Atividades, Serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Microsoft Teams, Portal do Cliente Office 365, Office Online, infraestrutura de serviço Office, relatórios de uso Office, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
+| **Comercial** | Serviço de Feed de Atividades, serviços Bing, Delve, Proteção do Exchange Online, Exchange Online, Microsoft Teams, portal do cliente Office 365, Office Online, Office Infraestrutura de serviço, Office relatórios de uso, OneDrive for Business, Cartão de Pessoas, SharePoint Online, Skype for Business, Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Auditorias Office 365, relatórios e certificados
 
@@ -86,14 +86,14 @@ Quando você armazena seus dados em um SaaS como Office 365, é uma responsabili
 
 Sim, você pode encontrar ações recomendadas do cliente em Pontuação de Conformidade, soluções de Nuvem entre Microsoft que ajudam sua organização a cumprir obrigações complexas de conformidade ao usar serviços de nuvem. Especificamente, para csf hitrust, recomendamos que você execute avaliações de risco usando as avaliações NIST 800-53 e NIST CSF na Pontuação de Conformidade. Nas avaliações, fornecemos orientações passo a passo e as soluções da Microsoft que você pode usar para implementar seus controles de proteção de dados. Você pode saber mais sobre a Pontuação de Conformidade no [Microsoft Compliance Manager](/microsoft-365/compliance/compliance-manager).
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como criar [e gerenciar avaliações no Gerenciador de Conformidade.](/microsoft-365/compliance/compliance-manager-assessments)
 
 ### <a name="resources"></a>Recursos
 
 - [HITRUST Alliance](https://hitrustalliance.net/)
-- [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
+- [HITRUST CSF 9.5](https://hitrustalliance.net/csf-license-agreement/)
 - [Noções básicas e aproveitando o CSF](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [Saiba mais sobre o Programa de Responsabilidade Compartilhada HITRUST](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 - [Conformidade na Central de Confiabilidade da Microsoft](https://www.microsoft.com/trust-center/compliance/compliance-overview)
