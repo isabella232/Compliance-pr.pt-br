@@ -1,5 +1,5 @@
 ---
-title: Guia de Avaliação de Riscos do Microsoft Cloud
+title: Guia de avaliação de risco para o Microsoft Cloud
 description: Saiba mais sobre o Guia de Avaliação de Riscos do Microsoft Cloud
 ms.author: robmazz
 author: robmazz
@@ -20,18 +20,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a7b6e345afa49d82f96d9eb9e5c804fc7cbf5ffe
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: df4b98f90c70bab3bd7f09e6312833d8a7ea768b
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584841"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678428"
 ---
-# <a name="risk-assessment-guide-for-microsoft-cloud"></a>Guia de Avaliação de Riscos do Microsoft Cloud
+# <a name="risk-assessment-guide-for-microsoft-cloud"></a>Guia de avaliação de risco para o Microsoft Cloud
 
 O objetivo de uma avaliação de risco na nuvem é garantir que o sistema e os dados considerados para migração para a nuvem não introduzam nenhum risco novo ou não identificado na organização. O foco é garantir confidencialidade, integridade, disponibilidade e privacidade do processamento de informações e manter os riscos identificados abaixo do limite de risco interno aceito.
 
-Em um modelo de responsabilidade compartilhada, o Provedor de Serviços de Nuvem (CSP) é responsável por gerenciar a segurança e a conformidade da *nuvem* como provedor. O cliente permanece responsável por gerenciar e configurar a segurança e a conformidade na nuvem de acordo com suas necessidades e tolerância a riscos.
+Em um modelo de responsabilidade compartilhada, o Provedor de Serviços de Nuvem (CSP) é responsável por gerenciar a segurança e a conformidade da *nuvem* como provedor. O cliente permanece responsável por gerenciar e configurar a segurança e a *conformidade* na nuvem de acordo com suas necessidades e tolerância a riscos.
 
 ![Modelo de responsabilidade compartilhada.](../media/assurance-shared-responsibility-model.png)
 
@@ -41,7 +41,7 @@ Neste guia, as práticas recomendadas são compartilhadas sobre como avaliar com
 
 As implantações em nuvem podem ser categorizadas como Infraestrutura como Serviço (IaaS), Plataforma como Serviço (PaaS) ou Software como Serviço (SaaS). Dependendo do modelo de serviço de nuvem aplicável, o nível de responsabilidade sobre os controles de segurança das soluções muda entre o CSP e o cliente. Em um modelo local tradicional, o cliente é responsável por toda a pilha. Ao mover para a nuvem, todas as responsabilidades de segurança física são transferidas para o CSP. Dependendo do modelo de serviço de nuvem da sua organização, as responsabilidades adicionais são deslocadas para o CSP. No entanto, na maioria dos modelos de serviço, sua organização permanece responsável pelos dispositivos usados para acessar a nuvem, conectividade de rede, suas contas e identidades e seus dados. A Microsoft investe pesadamente na criação de serviços que permitem que os clientes permaneçam no controle de seus dados em todo o ciclo de vida.
 
-O Microsoft Cloud opera em uma hiperescala, confiando em uma combinação de DevSecOps e automação para padronizar modelos operacionais. O modelo operacional da Microsoft altera a maneira como o risco é abordado em comparação com os modelos operacionais locais tradicionais, levando à implementação de controles diferentes e, às vezes, desconhecidos para gerenciar riscos. Ao conduzir sua avaliação de risco na nuvem, lembre-se de que o objetivo da Microsoft é garantir que todos os riscos sejam resolvidos, mas não necessariamente implementar os mesmos controles que sua organização. A Microsoft pode lidar com os mesmos riscos com um conjunto diferente de controles e isso deve ser refletido na avaliação de risco na nuvem. Projetar e implementar controles preventivos fortes pode reduzir grande parte do trabalho exigido pelo detetive e controles corretivos.
+O Microsoft Cloud opera em uma hiperescala, confiando em uma combinação de DevSecOps e automação para padronizar modelos operacionais. O modelo operacional da Microsoft altera a maneira como o risco é abordado em comparação com os modelos operacionais locais tradicionais, levando à implementação de controles diferentes e, às vezes, desconhecidos para gerenciar riscos. Ao conduzir sua avaliação de risco na nuvem, lembre-se de que o objetivo da Microsoft é garantir que todos os riscos sejam resolvidos, mas não necessariamente implementar os mesmos controles que sua organização. A Microsoft pode lidar com os mesmos riscos com um conjunto diferente de controles e isso deve ser refletido na avaliação de risco na nuvem. Projetar e implementar controles preventivos fortes pode reduzir grande parte do trabalho exigido pelo detetive e controles corretivos. Um exemplo disso é a implementação da Microsoft do [ZSA (Zero Standing Access).](assurance-microsoft-365-service-engineer-access-control.md)
 
 ## <a name="adopt-a-framework"></a>Adotar uma estrutura
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4b255918c3bb46757d5bd12ae33d907200dd37b0
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158364"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678448"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>Política de Segurança dos Serviços de Informações da Justiça Criminal (CJIS)
 
@@ -43,7 +43,7 @@ A Microsoft avaliou as políticas operacionais e os procedimentos do governo Mic
 
 Saiba mais sobre os benefícios da política de Segurança CJIS no Microsoft Cloud: [leia como a Genetec desarmou investigações criminais](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Governo do Azure
 - Dynamics 365 U.S. Government
@@ -56,7 +56,7 @@ Para obter mais informações sobre a conformidade do Azure, dynamics 365 e outr
 
 ## <a name="office-365-and-cjis"></a>Office 365 e CJIS
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -76,7 +76,7 @@ O FBI não oferece certificação de conformidade da Microsoft com os requisitos
 
 ### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>Status do CJIS nos Estados Unidos (atual a partir de 5/11/2020)
 
-45 estados e o Distrito de Colúmbia com contratos de gerenciamento, destacados no mapa em verde incluem:
+44 estados e o Distrito de Colúmbia com contratos de gerenciamento, destacados no mapa em verde incluem:
 
 Alabama, Alasca, Arizona, Arkansas, Califórnia, Texas, Connecticut, Geórgia, Geórgia, Havaiana, Maine, Indiana, Chicago, Kansas, Kentucky, Maine, Massachusetts, Massachusetts, Minnesota, Mississipi, Missouri, Texas, Nevada, Nevada, New Hampshire, New Jersey, New Jersey, New York, North Carolina, North Dakota, Oregon, Oregon, California, Island, South Carolina, Texas, Texas, Lanta, Lanta, Virgínia, Washington, West Virginia, Oregon e o Distrito de Colúmbia.
 
@@ -96,7 +96,7 @@ A Microsoft assina um Contrato de Informações com uma CJIS Systems Agency (CSA
 
 [A Política de Segurança CJIS](https://aka.ms/cjis-security-policy) abrange as precauções que sua agência deve tomar para proteger o CJI. Além disso, seu representante de conta da Microsoft pode colocá-lo em contato com aqueles familiarizados com os requisitos de sua jurisdição
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
