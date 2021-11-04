@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92fb47f98e60eb655ee68b38cb747a7d2eb9d2ff
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 99144f348b74ffa15752dbd9ec80ff8fbf17e538
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158419"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678438"
 ---
 # <a name="system-and-organization-controls-soc-2-type-2"></a>Controles de Sistema e Organização (SOC) 2 Tipo 2
 
@@ -44,7 +44,7 @@ Os atestados do Office 365 SOC 2 se baseiam em rigorosas auditorias independente
 Os serviços online da Microsoft no escopo são mostrados no relatório de atestado Azure SOC 2 Tipo 2:
 
 - Azure (para obter informações detalhadas, consulte [relatório de atestado SOC 2 do Microsoft Azure ](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/) ou o relatório de atestado SOC 2 Tipo 2 do Azure)
-- Azure DevOps (ver relatório de atestação SOC 2 Tipo 2 do Azure DevOps separado)
+- Azure DevOps (consulte o [Relatório de atestado SOC 2 Tipo 2 do Azure DevOps](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3))
 - Dynamics 365 (para obter informações detalhadas, consulte o relatório de atestado SOC 2 Tipo 2 do Azure)
 - Microsoft 365 Defender
 - MCAS (Microsoft Cloud App Security)
@@ -87,9 +87,9 @@ Use a seguinte tabela para determinar a aplicabilidade para seus serviços e ass
 
 ### <a name="office-365-audit-reports"></a>Relatórios de auditoria do Office 365
 
-- [Relatório do Office 365 Core-SSAE 18 SOC 2](https://aka.ms/o365SOC-2)
-- [Microserviços do Office 365 T1-Tipo SSAE 18 SOC2 I Relatório](https://aka.ms/o365-MS-SOC-2-type1)
-- [Ver as cartas de ponte e os relatórios de auditoria adicionais](https://aka.ms/auditreports)
+- [Relatório do Office 365 Core-SSAE 18 SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Microserviços do Office 365 T1-Tipo SSAE 18 SOC2 I Relatório](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e2dd6942-e70d-4222-8013-960514742f19&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
+- [Ver as cartas de ponte e os relatórios de auditoria adicionais](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports)
 
 Você deve ter uma assinatura ou uma conta de avaliação gratuita existente no Office 365 ou no [Office 365](https://azure.microsoft.com/global-infrastructure/government/request/) U.S. Government para baixar relatórios de atestado SOC 1 e SOC 2 e quaisquer cartas de ponte, conforme necessário.
 
