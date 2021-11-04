@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 373d9c36d67324a1d3792786c45731b3da21686a
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158145"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60780127"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>Lei de Portabilidade e Responsabilidade do Seguro de Saúde (HIPAA) & Tecnologia de Informações de Saúde para a HiTECH (Economic and Clinical Health Health) Act
 
@@ -47,14 +47,13 @@ Os serviços de nuvem empresarial da Microsoft também são abordados por avalia
 
 Para saber como o Microsoft Cloud ajuda os clientes a dar suporte a HIPAA e aos requisitos hitech, visite [Microsoft Customer Stories](https://customers.microsoft.com/).
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços em nuvem no escopo da Microsoft
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Plataformas e serviços de nuvem no escopo da Microsoft
 
 - Azure e Azure Governamental
 - Azure DevOps Services
 - Dynamics 365 e Dynamics 365 U.S. Government
 - Intune
 - Microsoft Cloud App Security
-- [Nuvem da Microsoft para Serviços de Saúde](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Área de Trabalho Gerenciada da Microsoft](/microsoft-365/managed-desktop/intro/compliance)
 - Serviços Profissionais da Microsoft: Premier e no Local para Azure, Dynamics 365, Intune e para clientes de médias empresas e corporativos do Microsoft 365 para empresas.
@@ -69,7 +68,7 @@ Para obter mais informações sobre a conformidade do Azure, do Dynamics 365 e d
 
 ## <a name="office-365-and-hipaa"></a>Office 365 e HIPAA
 
-### <a name="office-365-cloud-environments"></a>Ambientes da nuvem do Office 365
+### <a name="office-365-cloud-environments"></a>Ambientes de nuvem do Office 365
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -111,7 +110,7 @@ Para ajudar os clientes com essa tarefa, a Microsoft publicou estes guias:
 - As diretrizes de implementação da Lei HIPAA/HITECH para o [Azure](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) para agentes de privacidade, segurança e conformidade e outros responsáveis pela implementação da HIPAA e da Lei HITECH descrevem etapas concretas que sua organização pode tomar para manter a conformidade.
 - [Guia prático para projetar soluções](https://aka.ms/azureindustrysecurity) de saúde seguras usando Microsoft Azure ajuda você a entender melhor o que é necessário para adotar com êxito um serviço de nuvem de maneira segura.
 
-### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Usar o Gerenciador de Conformidade da Microsoft para avaliar o risco
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Use o Gerenciador de Conformidade da Microsoft para avaliar o risco
 
 O[Gerenciador de Conformidade da Microsoft](/microsoft-365/compliance/compliance-manager) é um recurso no [Centro de conformidade do Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center) para ajudá-lo a entender a postura de conformidade da sua organização e executar ações para ajudar a reduzir os riscos. O Gerenciador de Conformidade oferece um modelo premium para criar uma avaliação para essa regulamentação. Encontre o modelo na página **modelos de avaliação** no Gerenciador de Conformidade. Saiba como [criar avaliações no Compliance Manager](/microsoft-365/compliance/compliance-manager-assessments).
 
