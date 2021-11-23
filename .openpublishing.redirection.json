@@ -102,11 +102,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "compliance/regulatory/offering-iso-27701.md",
-      "redirect_url": "/azure/compliance/offerings/offering-iso-27701",
-      "redirect_document_id": false
-    },
-    {
       "source_path": "compliance/regulatory/offering-iso-9001.md",
       "redirect_url": "/azure/compliance/offerings/offering-iso-9001",
       "redirect_document_id": false
